@@ -715,6 +715,15 @@ Always on the lookout for danger, you gain the following benefits:
 - You can’t be surprised while you are conscious.
 - Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
 
+## Arcane Ammunitionist
+
+Prerequisites: Aptitude 13 or higher
+You have developed the magical ability of conjuring ammunition, gaining the following benefits:
+
+- You gain a +1 bonus to ranged attack rolls when using conjured, magical or imbued ammunition.
+- You can conjure a piece of mundane ammunition (such as arrows for bows, bolts for crossbows, or stones for slings) as part of an attack with a ranged weapon. The conjured ammunition disappears after 1 round. The conjured ammo is considered magical.
+- You ignore the loading quality of crossbows with which you are proficient.
+
 ## Athlete
 You have undergone extensive physical training to gain the following benefits:
 - Increase your Strength or Agility score by 1, to a maximum of 20.
@@ -722,12 +731,14 @@ You have undergone extensive physical training to gain the following benefits:
 - Climbing doesn’t halve your speed.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
+
+<div style='margin-top:180px'></div>
+
 ## Charger
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 
 If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
 
-<div style='margin-top:180px'></div>
 
 
 
@@ -751,17 +762,16 @@ Time spent mastering the culinary art has paid off, granting you the following b
 - As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
 - With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
 
-## Crusher
-You are practiced in the art of crushing your enemies, granting you the following benefits:
-- Increase your Strength or Constitution by 1, to a maximum of 20.
-- Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
-- When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
-
 
 \page
 
 <div class='pageNumber auto'></div>
 
+## Crusher
+You are practiced in the art of crushing your enemies, granting you the following benefits:
+- Increase your Strength or Constitution by 1, to a maximum of 20.
+- Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+- When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
 
 ## Dual Wielder	
 You master fighting with two weapons, gaining the following benefits:
@@ -782,6 +792,8 @@ Hardy and resilient, you gain the following benefits:
 - Increase your Constitution score by 1, to a maximum of 20.
 - When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
 
+<div style='margin-top:240px'></div>
+
 ## Grappler	
 _Prerequisite: Strength 13 or higher_
 
@@ -790,7 +802,6 @@ You’ve developed the skills necessary to hold your own in close-quarters grapp
 - You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
 - Creatures that are one size larger than you don’t automatically succeed on checks to escape your grapple.
 
-<div style='margin-top:240px'></div>
 
 
 ## Great Weapon Master
@@ -817,17 +828,17 @@ You can use your armour to deflect strikes that would kill others. You gain the 
 - Increase your Strength score by 1, to a maximum of 20.
 - While you are wearing heavy armour, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3.
 
-## Inspiring Leader	
-_Prerequisite: Charisma 13 or higher_
-
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.
-A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
 
 
 \page
 
 <div class='pageNumber auto'></div>
 
+## Inspiring Leader	
+_Prerequisite: Charisma 13 or higher_
+
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.
+A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
 
 ## Keen Mind	
 You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
@@ -854,13 +865,14 @@ You have practiced moving in medium armour to gain the following benefits:
 - Wearing medium armour doesn’t impose disadvantage on skill checks to hide or sneak.
 - When you wear medium armour, you can add 3, rather than 2, to your AC if you have an Agility of 16 or higher.
 
+<div style='margin-top:140px'></div>
+
 ## Mobile	
 You are exceptionally speedy and agile. You gain the following benefits:
 - Your speed increases by 10 feet.
 - When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
 - When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
 
-<div style='margin-top:140px'></div>
 
 ## Moderately Armoured	
 _Prerequisite: Proficiency with light armour_
@@ -1227,6 +1239,27 @@ You gain +2 to all attack rolls and +2 to all damage rolls
 When you hit a creature with an attack, you can push the creature up to 10 feet away from you in a straight line. If it is pushed, it takes an additional 2 + Runic Knight level bludgeoning damage.
 
 
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 6
+### Reliable Strikes
+When you roll a 1 or 2 on a damage die for an Attack you make with a weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
+
+## Level 7
+
+### Defensive Tactics
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Diamond Soul
+Whenever you are about the make a saving throw, you gain the ability to spend 1 Stamina and gain advantage on that saving throw.
+
+##### Parry
+As a reaction, you can spend 2 Stamina and gain 2 AC untill the start of your next turn.
+
+##### Power Through
+After you got hit by a weapon attack and have taken the damage, you can spend your reaction and 2 stamina to power through and gain as much temporary hit points as the attack did. These temporary hit points last until the end of your next turn.
 
 \page
 
@@ -1291,8 +1324,9 @@ Starting at 5th Level, you can push yourself beyond your normal limits for a mom
 
 Once you use this feature, you must finish a short or Long Rest before you can use it again. 
 
-
-
+## Level 6
+### Frenzy
+If you have dealt damage to an enemy during your turn, you cannot be charmed or frightened until the end of your next turn.
 
 \page
 
@@ -1311,13 +1345,13 @@ You gain a +2 bonus to attack rolls you made with Nimble weapons.
 You can reload your crossbows and blow darts as part of the attack.
 
 ### Imbue ammunition
-You can imbue your ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. You imbue one item of your ammunition at a time. The Stamina cost will depend on the imbuement:
+You can imbue your ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. You imbue one item of your ammunition at a time. Once used, the ammunition loses its imbuement. The Stamina cost will depend on the imbuement:
 
 | Imbue | Cost | Effect |
 |:----:|:---|:|
-| Pin  | 1 | **Requires ammunition to deal Piercing Damage.** On hit, the target must make a Physical Strength saving throw, or be considered grappled for 1 round|
-| Heavy  | 2 | On hit, the target must make a Physical Constitution saving throw, or be considered Dazed for 1 round|
-| Marked  | 2 | If the target is either dead or a free magic creature, this ammunition will deal an additional 2d4 damage as well as giving off a flash of light|
+| Pin  | 1 | **Requires ammunition to deal Piercing Damage.** On hit, the target must make a Physical Strength saving throw, or be considered grappled for 1 round.|
+| Heavy  | 2 | On hit, the target must make a Physical Constitution saving throw, or be considered Dazed for 1 round.|
+| Marked  | 2 | If the target is either dead or a free magic creature, this ammunition will deal an additional 2d4 damage as well as giving off a flash of light.|
 
 #### Piercing shot -1 Stamina
 Your arrow or bolt will pierce through the target. If another target is behind the target in a straight line up to 20ft long, also make an attack on that target, regardless if the initial target is hit.
@@ -1353,6 +1387,16 @@ Instead of moving, you can perform a tumble. A tumble moves you up to 10ft, but 
 ## Level 5
 ### Chain
 Whenever you hit a target with one of your projectiles, you can choose another target within 20 of the original target to attack. This new attack deals damage as much as a regular projectile would deal, without adding your ability modifier.
+
+## Level 6
+### Additional Imbue Ammunition 
+At 6th level you gain additional imbuement options for your ammunition
+
+| Imbue | Cost | Effect |
+|:----:|:---|:|
+| Shade  | 1 | On hit, the target must make a Charter Charisma saving throw, or it's vision is reduced to 5 ft  until the start of your next turn.|
+| Seeking  | 2 | You don't make an attack roll for any attack made with seeking ammunition. The attack will automatically hit, but cannot perform critical hits.|
+| Walloping  | 2 | This ammunition packs a wallop. A creature hit by the ammunition must succeed on a Physical Strength saving throw or be knocked prone.|
 
 \page
 
@@ -1448,6 +1492,22 @@ Choose up to 3 friendly, willing non-Dead creatures within range. You and the ch
 ## Level 5
 ### Protection
 You gain resistance against non-magical bludgeoning, piercing and slashing damage.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+## Level 6
+#### Dedication to the Charter -2 Stamina
+___
+- **Casting Time:** 1 reaction
+- **Range:** 30ft 
+- **Components:** V
+- **Duration:** Instantaneous
+
+At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +5 bonus to the roll. You make this choice after you see the roll, but before the GM says whether the attack hits or misses. 
 
 \page
 
@@ -1570,7 +1630,7 @@ ___
 - **Components:** -
 - **Duration:** 5 minutes
 
-Boost the effect of your Dyrim bell effect, creating an area in which no sound can be created within or pass through. Any creature or object entirely inside the Sphere is immune to thunder damage, and creatures are Deafened while entirely inside it. Using a bell or casting a Spell that includes a verbal component is impossible there. Casting this ability uses your Dyrim bell and puts it in recharge.
+Boost the effect of your Dyrim bell effect, creating an area in which no sound can be created within or pass through, in addition to the regular Dyrim effects. Any creature or object entirely inside the Sphere is immune to thunder damage, and creatures are Deafened while entirely inside it. Using a bell or casting a Spell that includes a verbal component is impossible there. Casting this ability uses your Dyrim bell and puts it in recharge.
 
 #### Earth shock -2 Stamina
 ___
@@ -1867,7 +1927,7 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 
-You draw additional power from the elements. Instantly regain 3 stamina, but also take 4 x Spellslinger psychic damage.
+You draw additional power from the elements. Instantly regain 1 x Spell Slinger stamina, with a minimum of 3, but also take 4 x Spellslinger psychic damage.
 
 #### Air whip -1 Stamina
 ___
@@ -2620,6 +2680,16 @@ ___
 - **Duration:** Concentration, Up to 1 hour
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+
+## Level 4
+#### Darkvision -1 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V S M (either a pinch of dried carrot or an agate)
+- **Duration:** 8 Hours
+
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet. The creature can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The creature can't discern color in darkness, only shades of gray.
 
 \page
 
@@ -3916,6 +3986,7 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
   - Additional content for higher levels
   - Additional choices within the classes & subclasses
   - More love for Fighter & Ranger
+  - Magic Items
   
  ## Unimplemented ideas
   - Ranger push/pull effects like Eldritch blast?

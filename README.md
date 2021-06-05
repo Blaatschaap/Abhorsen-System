@@ -4,7 +4,7 @@ A Abhorsen themed 5e total conversion mod. All existing 5e classes have been rep
 
 ## How to use
 
-Download the latest version PDF version for easy viewing. 
+Download the latest PDF version to read more about the system.  
 
 ### Character sheet
 
@@ -20,6 +20,7 @@ Feel free to contribute by posting issues (or  even better, pull requests). If y
 
 ## What I currently would love contributions on
 
+* Monster art (do keep in mind that you need to have all the rights/permissions to use these)
 * More Monsters
 * Class/subclass introductions, explaining their role in the world
 * Custom Abhorsen themed Backgrounds
