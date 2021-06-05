@@ -19,7 +19,7 @@
 Map credit: Garth Nix
   </div>
 <div class='wide'>
-Version V0.9
+Version V0.10
 </div>
   
 
@@ -81,58 +81,58 @@ Version V0.9
        - [8.2.2.3 Anoint](#p29)
        - [8.2.2.4 Last Rites](#p30)
        - [8.2.2.5 Echo Tactics](#p30)
-     - **[8.2.3 Elementalist](#p31)**
-       - [8.2.3.1 Elemental mastery](#p31)
-       - [8.2.3.2 Surge](#p31)
-       - [8.2.3.3 Elemental Tactics](#p32)
-  - **[8.3 Flesh Binder](#p33)**
-   - [Team Tactics](#p34)
-   - **[Subclasses](#p35)**
-     - **[8.3.1 Occultist](#p35)**
-       - [8.3.1.1 Master of the Dead](#p35)
-       - [8.3.1.2 Mosrael Master](#p35)
-       - [8.3.1.3 Profane Bloom](#p35)
-       - [8.3.1.4 Bodyswap](#p36)
-     - **[8.3.2 Hemathurge](#p37)**
-       - [8.3.2.1 Song of rest](#p37)
-       - [8.3.2.2 Reinvigorating touch](#p37)
-     - **[8.3.3 Animator](#p39)**
-       - [8.3.3.1 Mordicant](#p39)
-       - [8.3.3.2 Extra Mordicant](#p40)
-  - **[8.4 Mysticist](#p41)**
-   - **[Subclasses](#p43)**
-     - **[8.4.1 Watcher](#p43)**
-       - [8.4.1.1 Portent](#p43)
-       - [8.4.1.2 Sight](#p43)
-       - [8.4.1.3 Keen Mind](#p43)
-       - [8.4.1.4 Danger sense](#p44)
-       - [8.4.1.5 Foresight Tactics](#p44)
-       - [8.4.1.6 Fast learner](#p45)
-     - **[8.4.2 Herbalist](#p46)**
-       - [8.4.2.1 Nature's guise](#p46)
-       - [8.4.2.2 Mix potion](#p46)
-       - [8.4.2.3 Gather Herbs](#p46)
-       - [8.4.2.4 Herbal Tactics](#p47)
-       - [8.4.2.5 Master of the Sickle](#p48)
-     - **[8.4.3 Trickster  ](#p49)**
-       - [8.4.3.1 Mage hand](#p49)
-       - [8.4.3.2 Finesse weapon mastery](#p49)
-       - [8.4.3.3 Light weapon quick draw](#p49)
-       - [8.4.3.4 Shadow blink](#p49)
-       - [8.4.3.5 Cunning Action](#p49)
-       - [8.4.3.6 Steel will](#p49)
-       - [8.4.3.7 Observant fighter](#p49)
-       - [8.4.3.8 Rogue Tactics](#p50)
-       - [8.4.3.8 Flashing blades](#p50)
-  - **[9 Equipment](#p51)**
-    - [9.1 Weapons](#p51)
-    - [9.2 Ammunition Modifications](#p53)
-    - [9.3 Armour](#p54)
-    - [9.4 Potions](#p55)
-    - [9.5 Poisons](#p56)
-  - **[10 Bestiary](#p58)**
-  - **[11 Credits](#p66)**
-  - **[12 OGL License](#p67)**
+     - **[8.2.3 Elementalist](#p32)**
+       - [8.2.3.1 Elemental mastery](#p32)
+       - [8.2.3.2 Surge](#p32)
+       - [8.2.3.3 Elemental Tactics](#p33)
+  - **[8.3 Flesh Binder](#p34)**
+   - [Team Tactics](#p35)
+   - **[Subclasses](#p36)**
+     - **[8.3.1 Occultist](#p36)**
+       - [8.3.1.1 Master of the Dead](#p36)
+       - [8.3.1.2 Mosrael Master](#p36)
+       - [8.3.1.3 Profane Bloom](#p36)
+       - [8.3.1.4 Bodyswap](#p37)
+     - **[8.3.2 Hemathurge](#p38)**
+       - [8.3.2.1 Song of rest](#p38)
+       - [8.3.2.2 Reinvigorating touch](#p38)
+     - **[8.3.3 Animator](#p40)**
+       - [8.3.3.1 Mordicant](#p40)
+       - [8.3.3.2 Extra Mordicant](#p42)
+  - **[8.4 Mysticist](#p43)**
+   - **[Subclasses](#p45)**
+     - **[8.4.1 Watcher](#p45)**
+       - [8.4.1.1 Portent](#p45)
+       - [8.4.1.2 Sight](#p45)
+       - [8.4.1.3 Keen Mind](#p45)
+       - [8.4.1.4 Danger sense](#p46)
+       - [8.4.1.5 Foresight Tactics](#p46)
+       - [8.4.1.6 Fast learner](#p47)
+     - **[8.4.2 Herbalist](#p48)**
+       - [8.4.2.1 Nature's guise](#p48)
+       - [8.4.2.2 Mix potion](#p48)
+       - [8.4.2.3 Gather Herbs](#p48)
+       - [8.4.2.4 Herbal Tactics](#p49)
+       - [8.4.2.5 Master of the Sickle](#p50)
+     - **[8.4.3 Trickster  ](#p51)**
+       - [8.4.3.1 Mage hand](#p51)
+       - [8.4.3.2 Finesse weapon mastery](#p51)
+       - [8.4.3.3 Light weapon quick draw](#p51)
+       - [8.4.3.4 Shadow blink](#p51)
+       - [8.4.3.5 Cunning Action](#p51)
+       - [8.4.3.6 Steel will](#p51)
+       - [8.4.3.7 Observant fighter](#p51)
+       - [8.4.3.8 Rogue Tactics](#p52)
+       - [8.4.3.8 Flashing blades](#p52)
+  - **[9 Equipment](#p53)**
+    - [9.1 Weapons](#p53)
+    - [9.2 Ammunition Modifications](#p55)
+    - [9.3 Armour](#p56)
+    - [9.4 Potions](#p57)
+    - [9.5 Poisons](#p58)
+  - **[10 Bestiary](#p60)**
+  - **[11 Credits](#p68)**
+  - **[12 OGL License](#p69)**
 </div>
 
 
@@ -330,7 +330,7 @@ The Binder, a favourite of the Abhorsens, used to control the Dead directly; and
 The Weeper, also named Sorrowful, which sends both ringer and auditor far into Death.
 
 ### Bell bandoliers
-Most people within the old kingdom carrying bell bandolier are necromancers or worse. Unless you are associated with the Abhorsen, most regular people will flee or at the very least be highly suspicious of you if carrying a bell bandolier openly.
+People wearing bell bandoliers are generally considered suspicious by common folk. Unless directly associated to the Abhorsen, bandolier carriers could very well be necromancers looking for fresh Dead to collect.
 
 
 
@@ -397,12 +397,12 @@ The Seventh Precinct is an endless pool of deep, still and clear water. It is wa
 <div class='pageNumber auto'></div>
 # Game mechanics
 
-### Base stats
+### Ability Scores
 
-These stats determine your modifiers for all the skill checks and saving throws. Below is a list of the base skills, as well as which checks they directly affect and example skill checks.
+These stats determine your modifiers for all the skill checks and saving throws. Below is a list of the ability scores, as well as which checks they directly affect and example skill checks.
 
 <div class='classTable'>
-##### Base Stats
+##### Ability scores
 | Skill | Affects | Example skill checks | 
 |:---|::|:|
 | ***Strength*** | 					| |
@@ -436,7 +436,7 @@ These stats determine your modifiers for all the skill checks and saving throws.
 <div style='margin-top:-25px'></div>
 
 <div class='classTable'>
-##### Base Stats cont.
+##### Ability Scores cont.
 | Skill | Affects | Example skill checks | 
 |:---|::|:|
 | ***Charisma*** | |Deception|
@@ -445,25 +445,25 @@ These stats determine your modifiers for all the skill checks and saving throws.
   ||Charisma saving throws		| Animal handling |
   | ***Aptitude*** | 			| |
   ||Charter Attacks To Hit 		| Raise dead | 
-  ||Charter DC					| Resisting modify memory |
+  ||Charter DC					| Resisting Belgaer |
   ||Maximum Stamina				| Arcana |
-  ||Charter saving throws		| Cast spells |
+  ||Charter saving throws		| Casting spells |
 </div>
 
 <div style='margin-top:-15px'></div>
 
 ### Dual Skill Checks
 Skill checks, hit checks and saving throws will use a d20 as used in 5e.
-Skill checks will consist of using the modifiers of two base skills. This can be two of the same modifiers. For example, if the player has to carry a heavy object a fair distance, the GM could ask you to roll a d20 and add your Strength and Constitution modifiers. But if it was simply lifting a very heavy boulder, it might require a double Strength check.
+Skill checks will consist of using the modifiers of two ability scores. This can be two of the same modifiers. For example, if the player has to carry a heavy object a fair distance, the GM could ask you to roll a d20 and add your Strength and Constitution modifiers. But if it was simply lifting a very heavy boulder, it might require a Strength + Strength check, known as a double Strength check.
 
 #### Saving throws
 
-There are three categories of saving throws, Physical, Charter and Death saving throws. Death saving throws will be discussed in the Death chapter. Both Physical and Charter saving throws will consist of a list of 5 base skill saving throws, namely Strength, Agility, Constitution, Intelligence and charisma. Your Reflexes modifier will be added to each Physical saving throw and your Aptitude modifier will be added to the Charter saving throws.
+There are three categories of saving throws, Physical, Charter and Death saving throws. Death saving throws will be discussed in the Death chapter. Both Physical and Charter saving throws will consist of a list of 5 ability score saving throws, namely Strength, Agility, Constitution, Intelligence and Charisma. Your Reflexes modifier will be added to each Physical saving throw and your Aptitude modifier will be added to the Charter saving throws.
 
 For instance, if you have the following base modifiers: Strength +2, Agility +1, Reflexes +3, Constitution +0, Intelligence +0, Charisma +1 and Aptitude -1, your saving throw tables will look as following (ignoring proficiencies). Having a very high Reflexes score results in very good Physical saving throws, but the lacking Aptitude score means that Charter saving throws will be rough for this character.
 
 ##### Example Saving throws modifiers
-| Stat | Physical | Charter |
+| Ability score | Physical | Charter |
 |:--------:|:-----:|:------:|
 | Strength 		| +5 | +1 |
 | Agility 		| +4 | +0 |
@@ -499,9 +499,6 @@ Some creatures will have a Charter mark on their forehead. As an action you can 
 
 ### Dazed
 Dazed is a new condition which will reduce your speed by half, will let you either perform an action or bonus action and you can't perform more than one melee or ranged attack during your turn. This also breaks concentration.
-
-### Spending hit die.
-For spending hit dice during rests, the standard rules from 5e are used. The constitution modifier used for this is the Skill check modifier.
 
 
 ### Concentration
@@ -608,10 +605,10 @@ When performing a basic melee attack, you can spend 1 stamina to gain 5ft additi
 
 ### Miscellaneous
 #### Healing Surge -2 Stamina
-As an action, you can spend a hit die and 2 stamina to gain half the value of the hit die + your Constitution Skill check modifier.
+As an action, you can spend a hit die and 2 stamina to gain half the value of the hit die + your Constitution  modifier.
 
 #### Rally -2 Stamina
-On your turn, you can use your bonus action and spend 2 stamina to bolster the resolve of one of your companions. When you do so, choose a creature that can see or hear you. That creature gains temporary hit points equal to your level + your Charisma Skill check modifier.
+On your turn, you can use your bonus action and spend 2 stamina to bolster the resolve of one of your companions. When you do so, choose a creature that can see or hear you. That creature gains temporary hit points equal to your level + your Charisma modifier.
 
 \page
 
@@ -1007,9 +1004,10 @@ Character creation is fairly straightforward. Follow the following steps:
  1. Choose a Class
  2. Choose a Subclass within the class
  3. Choose a Background.
- 4. Determine your base stats either through point buy or using the standard array
- 5. Pick your proficiencies. This involves a skill check proficiency and a defensive proficiency
- 6. Calculate your Generic stats
+ 4. Determine your ability scores either through point buy or using the standard array.
+ 5. Upgrade your main ability score.
+ 6. Pick a defensive proficiency.
+ 7. Calculate your Generic stats.
  
 #### Backgrounds
 5e backgrounds will be used, however no proficiencies or languages will be granted. 
@@ -1069,21 +1067,19 @@ The standard array is as follows: 16, 14, 12, 12, 10, 10, 8.
 
 <div style='margin-top:340px'></div>
 
-### Proficiency
+### Upgrade your main ability score
+Add two to your highest ability score. If multiple ability scores are your highest, pick one to upgrade.
 
-#### Skill check proficiency
-Depending on your level, you will gain a bonus modifier to the skills you are proficient in. This involves choosing two base skills which you would like to improve. These proficient base skills are not counted for saving throws or initiative.
+### Defensive Proficiency
+You get to choose a defensive proficiency, which involves choosing from one of the following three options:
 
-#### Defensive Proficiency
-You also get to choose a defensive proficiency, which involves choose from one of the following three options
-
- 1. +1 AC and proficiency bonus is added to initiative
+ 1. +1 AC and your proficiency bonus is added to initiative
  2. Proficient in 3 Physical saving throws of your choice
  3. Proficient in 3 Charter saving throws of your choice
- 
-This choice is made at character creation and cannot be changed later, so choose wisely. The value in which your modifier is increased depends on your level. Consult the following table to find your proficiency modifier:
 
-### Proficiency modifiers
+This choice is made at character creation and cannot be changed later, so choose wisely. The value in which your proficiency modifier is increased depends on your level. Consult the following table to find your proficiency modifier:
+
+#### Proficiency modifiers
 
 | Level | Proficiency Modifier |
 |:----:|:---|
@@ -1093,14 +1089,14 @@ This choice is made at character creation and cannot be changed later, so choose
 | 8-10 | +4 |
 
 ### Generic stats
-Your movement speed is a base of 30. Your AC without any gear on is 10 + base Reflexes modifier (without proficiency). Passive perception is 10 + your Intelligence skill check modifier. Initiative is based on your Reflexes skill check modifier. 
+Your movement speed is a base of 30. Your AC without any gear on is 10 + Reflexes modifier. Passive perception is 10 + your Intelligence modifier. Initiative is based on your Reflexes modifier. 
 
 #### Hit points
 
 Every level will grant two hit dice of the appropriate class. For the first level, you will be granted the maximum amount of hit points. Constitution is added only once per level as normal.
 
 #### Maximum stamina
-Your maximum stamina is 5 + (your level * 3) + your base Constitution modifier and your base Aptitude modifier.
+Your maximum stamina is 5 + (your level * 3) + your Constitution modifier and your Aptitude modifier.
 
 
 \page
@@ -1109,32 +1105,32 @@ Your maximum stamina is 5 + (your level * 3) + your base Constitution modifier a
 
 
 ## Example character
-Sabriël is a level 1 Spellslinger with a Sage background. She choose the Charter mage subclass and to use the standard array of base stats. As her proficient base stats she picked Aptitude and Intelligence as her proficient base skills (as marked by an * in the example overview). She finished by electing to be proficient in the Strength, Constitution and Charisma Charter saving throws. 
+Sabriël is a level 1 Spellslinger with a Sage background. She choose the Charter mage subclass and to use the standard array of ability scores. She upgrades her Aptitude score. She finishes by electing to be proficient in the Strength, Constitution and Charisma Charter saving throws. 
 
 Her choices (and her equipment) mean that she gains the following stats:
 
 - +1 to initiative
-- A maximum stamina of 13 (7 + 1 + 2 + 3)
+- A maximum stamina of 14 (5 + 3 + 2 + 4)
 - 15 AC (14 + 1)
 - 30 movement speed
-- Passive perception of 12 (10 + 2)
-- Spell Attack Bonus of +7 (3 + 3 + 1)
-- Spell DC of 12 (8 + 1 + 3)
-- +1 to hit with her dagger, and a +0 damage modifier
+- Passive perception of 11 (10 + 1)
+- Spell Attack Bonus of +7 (3 + 4)
+- Spell DC of 12 (8 + 1 + 4)
+- +0 to hit with her dagger, and a +0 damage modifier.
 
 #### Skill modifiers
 
-Here are Sabriël's skill modifiers. She has chosen her Strength to be her lowest skill, putting the 8 from the standard array in Strength. She is not proficient in Strength either, making her Strength skill check modifier -1. Her Physical Strength saving throw consists of her base Reflexes modifier added up to her base Strength modifier, becoming +0. She is proficient in her Charter Strength saving throw and this is her base Aptitude and base Strength modifier combined resulting in a +3 (-1, +1, +3).
+Here are Sabriël's skill modifiers. She has chosen her Strength to be her lowest skill, putting the 8 from the standard array in Strength, making her Strength modifier -1. Her Physical Strength saving throw consists of her Reflexes modifier added up to her Strength modifier, becoming +0. She is proficient in her Charter Strength saving throw and this is her Aptitude and Strength modifier combined resulting in a +4 (+1, +4, -1).
 
-| Stat | Base skill | Skill Check Modifier | Physical Saving | Charter Saving |
+| Ability | Score | Skill Check Modifier | Physical Saving | Charter Saving |
 |:--------:|:-----:|:------:|:------:|:------:|
-| Strength 		|8(-1)	|-1 | +0 	| +3* |
-| Agility 		|10(+0)	|+0 | +1 	| +3 |
-| Reflexes	 	|12(+1)	|+1 | _ 	| _ |
-| Constitution 	|14(+2)	|+2 | +3	| +6* |
-| Intelligence*	|12(+1)	|+2 | +2 	| +4 |
-| Charisma 		|10(+0)	|+0 | +1 	| +4* |
-| Aptitude*		|16(+3)	|+4 | _ 	| _ |
+| Strength 		|8	|-1 | +0 	| +4* |
+| Agility 		|10	|+0 | +1 	| +4 |
+| Reflexes	 	|12	|+1 | _ 	| _ |
+| Constitution 	|14	|+2 | +3	| +6 |
+| Intelligence	|12	|+1 | +2 	| +4 |
+| Charisma 		|10	|+0 | +1 	| +5* |
+| Aptitude		|18	|+4 | _ 	| _ |
 
 #### Equipment
 
@@ -1176,6 +1172,9 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* five javelins or *(b)* any simple melee weapon
 - *(a)* Chain mail or *(b)* a Chain shirt
 - *(a)* Dungeoneer's pack or *(b)* a Burglar's pack
+
+#### Subclasses
+The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
 
 ### Diamond of protection
 You can cast a ritual of 5 minute to create a diamond shaped protection dome of up to 25ft at the widest. This means the diamond has widths of the following sizes from left to right: 5ft-15ft-25ft-15ft-5ft. The Dead, free magic creatures or effects caused by these creatures cannot cross the dome. Whether alive, dead or a free magic creature, a creature can opt to attack the dome. The dome has 15 AC and cannot be moved in any way. The dome has 10 * (Runic Knight level + Aptitude Modifier) in hit points. The dome lasts for as long as you are in it.
@@ -1233,7 +1232,8 @@ When you hit a creature with an attack, you can push the creature up to 10 feet 
 
 <div class='pageNumber auto'></div>
 
-## Subclasses
+# Subclasses
+The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
 
 ## Fighter
 *I will trample our enemies!*
@@ -1257,14 +1257,16 @@ If you move at least 20ft straight toward a target and then hit it with an attac
 You can use your action to make a melee attack against any number of creatures within melee range of you, with a separate attack roll for each target.
 
 #### Flurry -2 Stamina
-You gain two additional attacks, but all enemies have advantage on attack rolls targeting you until the start of your next turn.
+You gain two additional attacks this turn, but all enemies have advantage on attack rolls targeting you until the start of your next turn.
 
 _Exert: You gain three additional attacks._
+
+<div style='margin-top:140px'></div>
+
 
 #### Redirect -3 Stamina
 Use your reaction to redirect a melee attack aimed at you to another target within 5ft of either you or the target. If you are not already within 5ft of both targets, move to a place where you are for free.
 
-<div style='margin-top:140px'></div>
 
 
 ## Level 2
@@ -1420,7 +1422,7 @@ ___
 - **Components:** V
 - **Duration:** Instantaneous
 
-Choose an unoccupied location within range. You leap to the specified location, slamming your weapon on the ground. Any creature within 10ft radius of the slam takes your weapon damage. Any creatures hit by this shockwave also must make a Physical Strength saving throw or be knocked prone.
+Choose an unoccupied location within range. You leap to the specified location, slamming your weapon on the ground. Any creature within 10ft radius of the slam takes half your weapon damage. Any additional effects caused by your weapon or abilities do not trigger with this damage. Any creatures hit by this shockwave also must make a Physical Strength saving throw or be knocked prone.
 
 ## Level 4
 #### Reinvigorating touch -2 Stamina
@@ -1457,22 +1459,24 @@ You gain resistance against non-magical bludgeoning, piercing and slashing damag
 ___
 - **Hit Dice:** 2d6 per Spellslinger level
 - **Hit Points: ** 2d6 (or 8) + your Constitution modifier per Spellslinger level. Maximum values on level 1
-- **Spell Attack bonus:** Aptitude + Aptitude + Proficiency bonus
+- **Spell Attack bonus:** Aptitude + Aptitude
 - **DC:** 8 + Intelligence + Aptitude
 - **Magic Type:** Charter
-<div style='margin-bottom:80px'></div>
 
 #### Proficiencies
 ___
-- **Armour:** Medium armour
+- **Armour:** Light armour, Medium armour
 - **Weapons:** Simple weapons
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
 - Bell bandolier containing a Kibeth, Ranna and Dyrim bell
-- *(a)* any simple melee weapon or *(b)* a light crossbow and 20 bolts
+- *(a)* any simple melee weapon or *(b)* a light crossbow and 20 bolts or *(c)* a martial melee weapon and shield (if proficient)
 - Chain shirt
 - *(a)* Diplomat's pack or *(b)* a Explorer's pack
+
+#### Subclasses
+The Spellslinger knows 3 subclasses which you choose one of at level 1. The available options are Silencer, Charter Mage or Elementalist.
 
 <div class='wide'>
 ### Bells
@@ -1545,6 +1549,7 @@ You extend your hand toward a medium or smaller creature you can see within rang
 <div class='pageNumber auto'></div>
 
 # Subclasses
+The Spellslinger knows 3 subclasses which you choose one of at level 1. The available options are Silencer, Charter Mage or Elementalist.
 
 ## Silencer
 *Ring ring ring ring ring, Banana phone!*
@@ -1565,7 +1570,7 @@ ___
 - **Components:** -
 - **Duration:** 5 minutes
 
-Boost the effect of your Dyrim bell effect, creating an area in which no sound can be created within or pass through. Any creature or object entirely inside the Sphere is immune to thunder damage, and creatures are Deafened while entirely inside it. Using a bell or casting a Spell that includes a verbal component is impossible there. 
+Boost the effect of your Dyrim bell effect, creating an area in which no sound can be created within or pass through. Any creature or object entirely inside the Sphere is immune to thunder damage, and creatures are Deafened while entirely inside it. Using a bell or casting a Spell that includes a verbal component is impossible there. Casting this ability uses your Dyrim bell and puts it in recharge.
 
 #### Earth shock -2 Stamina
 ___
@@ -1595,12 +1600,12 @@ This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level
 
 #### Hold creature -3 Stamina
 ___
-- **Casting Time:** 1 bonus action
+- **Casting Time:** 1 action
 - **Range:** 30ft
 - **Components:** S
 - **Duration:** Concentration, Up to 1 minute
 
-Boost the effect of your Kibeth bell by narrowing and directing the effect on a specific creature as an action. This creature does not have the restriction of being Dead. Target creature must make a Charter Intelligence saving throw or be paralysed for the duration.
+Boost the effect of your Kibeth bell by narrowing and directing the effect on a specific creature as an action. This creature does not have the restriction of being Dead. Target creature must make a Charter Intelligence saving throw or be paralysed for the duration. Casting this ability uses your Kibeth bell and puts it in recharge.
 
 ## Level 2
 
@@ -1658,7 +1663,7 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 _Exert: 2d8 force damage and 40 ft of additional movement._
 
-<div style='margin-top:140px'></div>
+<div style='margin-top:240px'></div>
 
 ## Level 5
 #### Sonic Boom -3 Stamina
@@ -1862,7 +1867,7 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 
-You draw additional power from the elements. Instantly regain 3 stamina, but also take 4 x Spellslinger piercing damage.
+You draw additional power from the elements. Instantly regain 3 stamina, but also take 4 x Spellslinger psychic damage.
 
 #### Air whip -1 Stamina
 ___
@@ -1969,7 +1974,6 @@ ___
 - **Hit Points: ** 2d6 (or 8) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
 - **DC:** 8 + Charisma + Aptitude
 - **Magic Type:** Free Magic
-<div style='margin-bottom:60px'></div>
 
 #### Proficiencies
 ___
@@ -1983,6 +1987,9 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armour
 - *(a)* Priest's pack or *(b)* a Explorer's pack
 
+#### Subclasses
+The Flesh Binder knows 3 subclasses which you choose one of at level 1. The available options are Occultist, Hemathurge or Animator.
+
 <div class='wide'>
 ### Bells
 
@@ -1991,8 +1998,8 @@ Recharge die is d10. Each use of the bell is an action.
 | Bell | Recharge | Effect |
 |:----:|:---:|:|
 | **Saraneth**  | 8-10 | Choose target Dead you can see within 60ft range. The target as well as any Dead within 5ft radius must make a Charter Charisma saving throw or be bound to your will. Dead already bound by another user will have advantage on this saving throw. See Keeper of the dead for additional information.|
-| **Mosrael**  | 7-10 | Choose a target on the same layer of Death. The target and any others within 10ft must make a Charter Charisma saving throw or be lifted one layer of Death up. Any affected creature can choose to fail the saving throw. The ringer is thrown one layer of Death down regardless of success. If any effected creatures either have 0 hit points or is classified as a Dead, the creature will have disadvantage on this saving throw.|
-| **Belgaer**  | 9-10 | Choose a target within 20ft. You can make a target forget about an event of maximum 5 minutes if the target fails a Charter Intelligence saving throw. Or you can restore memory erased by a Belgaer bell. This will always restore all erased memories and cause the target to gain one level of exhaustion.|
+| **Mosrael**  | 7-10 | **This bell only works in Death.** Choose a target on the same layer of Death. The target and any others within 10ft must make a Charter Charisma saving throw or be lifted one layer of Death up. Any affected creature can choose to fail the saving throw. The ringer is thrown one layer of Death down regardless of success. If any effected creatures either have 0 hit points or is classified as a Dead, the creature will have disadvantage on this saving throw.|
+| **Belgaer**  | 9-10 | Choose a target within 20ft. You can make the target forget about an event of maximum 5 minutes if the target fails a Charter Intelligence saving throw. Or you can restore memory erased by a Belgaer bell. This will always restore all erased memories and cause the target to gain one level of exhaustion.|
 | **Astarael**  | 10 | **This bell only works in Life.** All creatures within 40ft radius must make a Charter Strength saving throw. Dead creatures have disadvantage on this saving throw. Any creature who fails the saving throw is thrust 3 layers into Death. The ringer automatically fails the saving throw. |
 </div>
 
@@ -2030,7 +2037,7 @@ ___
 - **Components:** V, S 
 - **Duration:** Instantaneous
 
-You point at one creature you can see within range, and the target is remained of the frailty of life. The target must succeed on a Charter Intelligence saving throw or take 1d6 + Aptitude modifier necrotic damage. If the target is missing any of its hit points or is a Dead, it instead takes 1d10 + Aptitude modifier necrotic damage.
+You point at one creature you can see within range, and the target is reminded of the frailty of life. The target must succeed on a Charter Intelligence saving throw or take 1d6 + Aptitude modifier necrotic damage. If the target is missing any of its hit points or is a Dead, it instead takes 1d10 + Aptitude modifier necrotic damage.
 
 The spell’s damage increases by one die when you reach 3th level (2d6 or 2d10), 6th level (3d6 or 3d10), and 9th level (4d6 or 4d10). 
 
@@ -2042,6 +2049,25 @@ As a Flesh Binder, you have a special connection with Death. As long as you have
 
 ### Convocation
 When you take damage, you can spend your reaction to teleport one of the Lesser or Medium Dead under your control to an unoccupied space next to you.
+
+#### Mold Corpse -1 Stamina
+___
+- **Casting Time:** 1 minute
+- **Range:** 60ft
+- **Components:** V 
+- **Duration:** Instantaneous
+
+You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
+
+_Exert: Casting time becomes a bonus action. Corpse transformation remains an action._
+
+### Ability Score Improvement 
+
+When you reach third level and again at 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
+
+<div style='margin-top:440px'></div>
 
 ## Level 3
 
@@ -2057,13 +2083,6 @@ Whenever you and one of the Dead under your control damage the same creature in 
 ##### Greater Convocation
 When you take damage, you can spend your reaction to swap places with one of the Dead under your control.
 
-<div style='margin-top:440px'></div>
-
-### Ability Score Improvement 
-
-When you reach third level and again at 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
 
 
 ## Level 4
@@ -2079,7 +2098,7 @@ ___
 
 Using free magic, you transform a piece of your flesh into a blood sword. Your maximum hp is lowered by 3 x Flesh Binder level for the duration of this spell. The blood sword counts as a +2 Long sword, with the notable exception that any creatures with an intelligence score higher than 4 have proficiency with this sword.
 
-_Exert: Double the maximum hit point loss, but it becomes a +3 long sword._
+_Exert: The maximum hit point loss is doubled, but the Blood Sword becomes a +3 long sword._
 
 
 
@@ -2093,18 +2112,19 @@ _Exert: Double the maximum hit point loss, but it becomes a +3 long sword._
 
 
 # Subclasses
+The Flesh Binder knows 3 subclasses which you choose one of at level 1. The available options are Occultist, Hemathurge or Animator.
 
 ## Occultist
 *The Damned stand ready*
 
-### Master of the Dead
-You have advantage on any Death saving throws.
+#### Quick Build
+You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking atleast Intelligence saving throw.
 
-### Mosrael Master
-You can use the Mosrael bell as a bonus action.
+### Master of the Dead
+You have advantage on any Death saving throws. You can also use the Mosrael bell as a bonus action.
 
 ### Profane Bloom
-Whenever you or your minions kill an enemy, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw.
+Whenever you or your minions bring an enemy down to 0 hp, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw. This effect can only trigger succesfully once per turn.
 This ability’s damage increases when you reach 3th level (1d6 + 1d6), 6th level (1d8 + 1d8), and 9th level (1d10 + 1d10).
 
 #### Bone Wall -1 Stamina
@@ -2144,7 +2164,7 @@ ___
 - **Components:** V, S, M (A few strands of human hair)
 - **Duration:** Instantaneous
 
-Choose a corpse within range that you can see, or a Dead within range under your control. The chosen target explodes in a fiery explosion. Any creature within 15 feet must make a Physical Agility saving throw. On a failed saving throw, a target takes 2d8 bludgeoning damage and 1d8 fire damage, or half as much damage on a successful one.
+Choose a corpse within range that you can see, or a Dead within range under your control. The chosen target explodes in a fiery explosion, destroying the target. Any creature within 15 feet must make a Physical Agility saving throw. On a failed saving throw, a target takes 2d8 bludgeoning damage and 1d8 fire damage, or half as much damage on a successful one.
 
 The spell’s bludgeoning damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8). 
 
@@ -2159,7 +2179,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a Lesser Dead bound by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 20ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
+Choose a Lesser Dead bound by you or a corpse molded by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
 
 
 
@@ -2238,6 +2258,9 @@ ___
 ## Hemathurge
 *And you get a heal! And you get a heal!*
 
+#### Quick Build
+You can make a Hemathurge quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the folk hero background.  Third, choose the +1 AC and initiative defensive proficiency.
+
 ### Song of rest
 You can use your control over blood flows to help revitalize your wounded allies during a Short Rest. If you or any friendly creatures who can hear your Performance regain Hit Points by spending Hit Dice at the end of the Short Rest, each of those creatures regains an extra 1d6 Hit Points.
 
@@ -2269,6 +2292,8 @@ You cleanse a creature of either one disease or one condition afflicting it. The
 
 _Exert: This spell's range is extended to 60 feet._
 
+<div style='margin-top:240px'></div>
+
 #### Enfeeble -3 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2278,7 +2303,7 @@ ___
 
 Each creature in a 10-foot radius Sphere centred on a point you can see must make a Charter Charisma saving throw. Whenever a target that fails this saving throw makes an attack roll, any damage roll or saving throw, it must roll a d4 and subtract the number rolled.
 
-<div style='margin-top:140px'></div>
+
 
 ## Level 2
 
@@ -2345,6 +2370,9 @@ The spell’s damage increases by 1d8 when you reach 8th level (3d8) and 10th le
 
  *Mold your own friend* 
 
+#### Quick Build
+You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Intelligence saving throws.
+
 ### Mordicant
   The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
   
@@ -2383,7 +2411,15 @@ ___
 > ***Stomp.*** *Melee Weapon Attack:* 2 + Str modifier to hit, reach 5ft., one target. *Hit* 1d6 + Str modifier bludgeoning damage.
 
   
-<div class='wide'> 
+
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<div class='classTable wide'> 
   ### Mordicant adaptations
     
 | Part | Cost | Effect |
@@ -2391,8 +2427,8 @@ ___
   | **Claws**  | 1 | The Mordicants fingers twist and mutate into long bone claws. The Mordicant gains the following action: ***Claw.*** *Melee Weapon Attack:* 4 + Str modifier to hit, reach 5ft., one target. *Hit* 1d8 + Str modifier slashing damage. This increases to 1d10 + Str modifier at level 4. |
   | **Long arms**  | 2 | The Mordicants arms grow to twice its normal length gaining an additional elbow. The Mordicant gains the reach ability, extending the range of melee hits to 10ft. |
   | **Porcupine**  | 2 | The Mordicant forms long needle like quills over his entire body. Any melee hits on the Mordicant will return 1d4 piercing damage. The Mordicant can also fire these quills at his enemies. He gains the following action: ***Quill.*** *ranged Weapon Attack:* 4 + Str modifier to hit, range 20/40ft., one target. *Hit* 6 (1d6 + Str modifier) piercing damage. |
-  | **Barbed Quills**  | 2 | ***Requires Porcupine.*** The Mordicants spines become ridged and barbed. Any creature that is on the ground and hit by spines is partially pinned to the ground. Reduce the speed of the target by 10ft whilst also disabling any flying speed the creature might have. DC 14 Physical Strength skill check action to remove the spines. Target gets 1d4 piercing damage on removal of spines. |
-  | **Tendrils**  | 3 | The Mordicant gains grasping tendrils around his wrists. These grant the Mordicant the ability to grapple a target on melee hits, DC 14 Physical Strength skill check action to escape. The Mordicant can grapple as much targets as it has arms. If the Mordicant has its maximum amount of creatures grappled, it can only attack grappled creatures. |
+  | **Barbed Quills**  | 2 | ***Requires Porcupine.*** The Mordicants spines become ridged and barbed. Any creature that is on the ground and hit by spines is partially pinned to the ground. Reduce the speed of the target by 10ft whilst also disabling any flying speed the creature might have. DC 14 Strength skill check action to remove the spines. Target takes 1d4 piercing damage on removal of spines. |
+  | **Tendrils**  | 3 | The Mordicant gains grasping tendrils around his wrists. These grant the Mordicant the ability to grapple a target on melee hits, DC 14 Strength skill check action to escape. The Mordicant can grapple as much targets as it has arms. If the Mordicant has its maximum amount of creatures grappled, it can only attack grappled creatures. |
   | **Hardened skin**  | 1 | The Mordicants hide thickens and increases its AC by 1 and its Apt score by 2 |
   | **Scales**  | 3 | ***Requires Hardened skin.*** The Mordicant grows scales over his entire body and gains resistance to bludgeoning, slashing and piercing damage. Its Apt score will also increase by 2. |
   | **Wings**  | 2 | The Mordicant grows wings and gains half of its movement speed as flying speed.|
@@ -2400,11 +2436,10 @@ ___
 
 </div>
 
-
-
 \page
 
 <div class='pageNumber auto'></div>
+
 
 #### Mark of the Predator -1 Stamina
 ___
@@ -2479,7 +2514,7 @@ At level 5 your maximum number of Mordicants under your control raises to two. E
 ___
 - **Hit Dice:** 2d8 per Mysticist level
 - **Hit Points: ** 2d8 (or 10) + your Constitution modifier per Mysticist level. Maximum values on level 1
-- **Spell Attack bonus:** Agility + Intelligence + Proficiency bonus
+- **Spell Attack bonus:** Agility + Intelligence
 - **DC:** 8 + (Agility or Intelligence) + Aptitude
 - **Magic Type:** Charter Magic
 
@@ -2490,10 +2525,14 @@ ___
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
-- any two simple melee weapon s
+- any two simple melee weapons
 - *(a)* a longbow and 20 arrows or *(b)* a hand crossbow and 20 bolts or *(c)* a finesse martial weapon (if proficient)
 - Leather armour
 - *(a)* burglar's pack or *(b)* a Explorer's pack
+- Potion you can brew
+
+#### Subclasses
+The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Trickster.
 
 ### Archery
 You gain a +2 bonus to attack rolls you make with ranged weapons. 
@@ -2587,9 +2626,13 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 <div class='pageNumber auto'></div>
 
 # Subclasses
+The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Trickster.
 
 ## Watcher
 *Who watches the Watchers?*
+
+#### Quick Build
+You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw defensive proficiency, picking atleast Agility and Constitution saving throws.
 
 ### Portent
 Glimpses of the future press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per Story Tick.
@@ -2610,6 +2653,19 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 - You always know which way is north.
 - You always know how the number of hours left before the next sunrise or sunset.
 
+<div style='margin-top:240px'></div>
+
+
+#### Prophecy of Life -1 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** touch
+- **Components:** -
+- **Duration:** Concentration, 10 story ticks
+
+You can attempt to influence the future of a creature encased in Death Ice, by connecting to the creature's history. By creating a bond to the Death ice of a creature and learning its past, you can alter its future. The bond is created upon touch, but will remain as long as you are concentrating on this spell, without requiring further direct contact. While this spell is active, you can add or subtract your Intelligence skill check modifier to the creatures Death stabilisation skill checks.
+
+
 #### Blast from the past -1 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2621,18 +2677,6 @@ Target creature with an intelligence of 6 or higher must make a Charter Intellig
 
 This spell’s damage at the end of the target's turn increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
 
-
-<div style='margin-top:240px'></div>
-
-#### Prophecy of Life -1 Stamina
-___
-- **Casting Time:** 1 action
-- **Range:** touch
-- **Components:** -
-- **Duration:** Concentration, 10 story ticks
-
-You can attempt to influence the future of a creature encased in Death Ice, by connecting to the creature's history. By creating a bond to the Death ice of a creature and learning its past, you can alter its future. The bond is created upon touch, but will remain as long as you are concentrating on this spell, without requiring further direct contact. While this spell is active, you can add or subtract your Intelligence skill check modifier to the creatures Death stabilisation skill checks.
-
 #### Remembrancing -2 Stamina 
 ___
 - **Casting Time:** 10 minutes
@@ -2641,6 +2685,12 @@ ___
 - **Duration:** Concentration, Up to 30 minutes
 
 You can look into the past of an object or creature. You can see up to a 30 minute time frame which can be a maximum of 2 days in the past. You choose the time frame before starting your remembrancing casting time. You will experience the time frame in real time. You will follow the creature or object, but will be able to look out in any direction of your choosing, which you can change at any time. During remembrancing, you are deaf and blind with regard to your Senses in your current time.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### The eye of Orannis -3 Stamina
 ___
@@ -2654,14 +2704,10 @@ Any creature that looks into your eyes from within 30ft will see all sorts of po
 _Exert: Any failed saving throws leave the creature stunned, regardless how much it failed by._
 
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Level 2
 
 ### Danger sense
-You can add your Intelligence skill check modifier to your initiative modifier.
+You can add your Intelligence modifier to your initiative modifier.
 
 ## Level 3
 
@@ -2678,7 +2724,7 @@ When you hit a creature with a ranged weapon attack, you can predict that someth
 
 The GM will determine the disaster, depending on the location of the scene. Examples of disasters are random lightning strikes, massive dead birds falling on people, trees falling over, rocks falling from the ceiling or a forge overheating and spouting flames at the target.
 
-
+<div style='margin-top:540px'></div>
 
 
 ### Ability Score Improvement 
@@ -2687,7 +2733,7 @@ When you reach third level and again at 6th, 8th and 10th level, you can increas
 
 Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
 
-<div style='margin-top:540px'></div>
+
 
 ## Level 4
 #### Study Behaviour -1 Stamina
@@ -2745,22 +2791,21 @@ You can learn two stamina costing abilities of your choice from any class but th
 
 <div class='pageNumber auto'></div>
 
-
-
 ## Herbalist
 *Double double trouble you bubble in a witches' brew*
+
+#### Quick Build
+You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Constitution saving throws.
 
 ### Nature's guise
 Provided you have access to foliage, you can spend a minute to craft yourself a suit of foliage. The suit will last for 1 hour. 
 
 Once you are camouflaged in this way, you can try to hide as a bonus action by pressing yourself up against a tree, plant or bush, that is at least as tall and wide as you are. 
-  
-### Mix potion
-Besides being able to brew the basic healing potions, you are able to craft more different kinds of potions. At level 1 you can choose 3 recipes, respecting level restrictions. At every level up, you can choose one additional recipe.
 
 <div style='margin-top:140px'></div>
 
-
+### Mix potion
+Besides being able to brew the basic healing potions, you are able to craft more different kinds of potions. At level 1 you can choose 3 recipes, respecting level restrictions. At every level up, you can choose one additional recipe.
 
 ### Gather Herbs
 When taking a short rest, instead of relaxing, you can go gather herbs from your surroundings. If you do so, you cannot gain any benefits from your short rest, other than the gathered herbs. You can also gather herbs during a long rest, but this will not impact the benefits of the long rest.
@@ -2797,7 +2842,6 @@ Ask your GM if what herbs are available nearby and choose one of the available t
 | Snapdragon root	|		12				| 6	| **Fire breath**|14|
 | Arnica 			|		10				| 3 | **Death Ice**|12|
 | Kratom			|		16				| 8	| **Fire veins**|17|
-| <br> | | | | |
   | **Poisons** | | | | |
 | Wolfsbane			|		10				| 6	| **Wolfsbane extract** |10|
 | Nightshade		|		12				| 4	| **Truth serum**|12|
@@ -2903,6 +2947,8 @@ You lace any poisons you apply to your enemies with some additional charter magi
 ### Master of the Sickle
 You have learned the ways of nature and are more able to quickly find the herbs you are looking for. You gain +2 for any gathering skills checks you make.
 
+This bonus increases to +4 when you hit level 8.
+
 #### Stinking Cloud -2 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2937,6 +2983,9 @@ _Exert: This spell's damage is increased by 2d12 poison damage. Affected creatur
 ## Trickster  
 *Now you see me, now I'm gone!*
 
+#### Quick Build
+You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Intelligence. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative defensive proficiency.
+
 ### Mage hand
 ___
 - **Casting Time:** 1 action
@@ -2950,7 +2999,7 @@ If you use the mage hand to place a weapon in your hand, you can use your bonus 
     The hand can’t attack, activate magic items, or carry more than 10 pounds.
     
 ### Finesse weapon mastery
-Gain proficiency with all weapons that have the finesse property. You also deal 1 additional damage with attacks performed with finesse weapons. All finesse weapons also gain the thrown (range 30/80) property. 
+Gain proficiency with all weapons that have the finesse property. You also deal 1 additional damage with attacks performed with finesse weapons. All finesse weapons also gain the thrown (range 30/80) property, unless it could already be thrown further. 
 
 The additional damage increases to 3 when you reach 3rd level, to 5 upon reaching 6th level and to 7 upon reaching 9th level.
 
@@ -2966,10 +3015,12 @@ ___
 
 You can teleport to an unoccupied space within 10ft you can see, provided the destination as well as the origin is within dim light. You cannot perform this action while grappled or restrained. This also does not allow you to pass through solid objects.
 
+<div style='margin-top:150px'></div>
+
+
 ### Cunning Action
 Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
 
-<div style='margin-top:150px'></div>
 
 #### Pocket sand -1 Stamina
 ___
@@ -2981,8 +3032,6 @@ ___
 The target must make a Physical Agility saving throw. On a failed saving throw, the target is blinded until they spend an action removing the sand from their eyes.
 
 _Exert: choose up to two targets._
-
-
 
 #### Blade ward -2 Stamina
 ___
@@ -3079,16 +3128,16 @@ _Exert: Attack a fourth target. This can be the same target as the first or the 
 ## Weapons
 
 ### Brawn
-A Brawn weapon is meant for slamming and bashing and can therefore only be used using your Strength. For the attack roll, you use 2 x base Strength modifier + Proficiency modifier. For damage roll you add the base Strength modifier.
+A Brawn weapon is meant for slamming and bashing and can therefore only be used using your Strength. For the attack roll, you use 2 x Strength modifier. For damage roll you add your Strength modifier.
 
 ### Nimble
-A nimble weapon is meant for finding the chink in the armour, the gap in the targets defence. It can only be used using Agility. For the attack roll, you use 2 x base Agility modifier + Proficiency modifier. For damage roll you add the base Agility modifier.
+A nimble weapon is meant for finding the chink in the armour, the gap in the targets defence. It can only be used using Agility. For the attack roll, you use 2 x Agility modifier. For damage roll you add your Agility modifier.
 
 ### Impact
-Impact weapons are a mix between Brawn and Nimble weapons. They require a fair amount of force with a precise aim, but will cause devastating damage on a successful hit. For the attack roll, you use base Strength modifier + base Agility modifier + Proficiency modifier. For damage roll you add the base Agility modifier and the base Strength modifier.
+Impact weapons are a mix between Brawn and Nimble weapons. They require a fair amount of force with a precise aim, but will cause devastating damage on a successful hit. For the attack roll, you use Strength modifier + Agility modifier. For damage roll you add the Agility modifier and the Strength modifier.
 
 ### Finesse
-When making an attack with a finesse weapon, you use your choice to use it as a Brawn weapon or as a Nimble weapon.
+When making an attack with a finesse weapon, you choose to use it as a Brawn weapon or as a Nimble weapon.
 
 \page
 
@@ -3099,42 +3148,42 @@ When making an attack with a finesse weapon, you use your choice to use it as a 
 | Name | Cost | Damage | Properties |
 |:-----:|:---:|:---|:---:|:---:|
 | ***Simple Melee Weapons*** | | | | 
-  | Club | 1 sp | 1d4 bludgeoning | Impact, Light |
+  | Club | 1 sp | 1d4 bludgeoning | Impact, light |
   | Dagger | 2 gp | 1d4 piercing | Finesse, light, thrown (range 20/60) |
-  | Great club | 2 sp | 1d8 bludgeoning | Brawn, Two-handed |
-  | Hand axe | 5 gp | 1d6 slashing | Impact, Light, thrown (range 20/60) |
-  | Javelin | 5 sp | 1d6 piercing | Brawn, Thrown (range 30/120) |
-  | Light Hammer | 2 gp | 1d4 bludgeoning | Impact, Light, thrown (range 20/60) |
+  | Great Club | 2 sp | 1d8 bludgeoning | Brawn, Two-handed |
+  | Hand Axe | 5 gp | 1d6 slashing | Impact, light, thrown (range 20/60) |
+  | Javelin | 5 sp | 1d6 piercing | Brawn, thrown (range 30/120) |
+  | Light Hammer | 2 gp | 1d4 bludgeoning | Impact, light, thrown (range 20/60) |
   | Mace | 5 gp | 1d6 bludgeoning | Brawn |
-  | Quarterstaff | 2 sp | 1d6 bludgeoning | Brawn, Versatile (1d8) |
-  | Sickle | 1 gp | 1d6 slashing | Nimble, Light |
-  | Spear | 1 gp | 1d6 piercing | Impact, Thrown (range 20/60), Versatile (1d8) |
+  | Quarterstaff | 2 sp | 1d6 bludgeoning | Brawn, versatile (1d8) |
+  | Sickle | 1 gp | 1d6 slashing | Nimble, light |
+  | Spear | 1 gp | 1d6 piercing | Impact, thrown (range 20/60), Versatile (1d8) |
 | ***Simple Ranged Weapons*** | | | | 
-  | Light crossbow | 25 gp | 1d8 piercing | Nimble, Ammunition (range 80/320), loading, two-handed |
+  | Light Crossbow | 25 gp | 1d8 piercing | Nimble, ammunition (range 80/320), loading, two-handed |
   | Dart | 5 cp | 1d4 piercing | Finesse, thrown (range 20/60) |
-  | Short bow | 2 sp | 1d6 piercing | Nimble, Ammunition (range 80/320), two-handed |
-  | Sling | 2 gp | 1d4 bludgeoning | Nimble, Ammunition (range 30/120) |
+  | Short Bow | 2 sp | 1d6 piercing | Nimble, ammunition (range 80/320), two-handed |
+  | Sling | 1 gp | 1d4 bludgeoning | Nimble, ammunition (range 30/120) |
 | ***Martial Melee Weapons*** | | | |
-  | Battleaxe | 10 gp | 1d8 slashing | Brawn, Versatile (1d10) |
-  | Glaive | 20 gp | 1d10 slashing | Glaive, Heavy, reach, two-handed |
-  | Great axe | 30 gp | 1d12 slashing | Brawn, Heavy, two-handed |
-  | Great sword | 50 gp | 2d6 slashing | Impact, Heavy, two-handed |
-  | Halberd | 20 gp | 1d10 slashing | Brawn, Heavy, reach, two-handed |
-  | Lance | 10 gp | 1d12 piercing | Impact, Reach, special |
-  | Long sword | 15 gp | 1d8 slashing | Impact, Versatile (1d10) |
-  | Maul | 10 gp | 2d6 bludgeoning | Brawn, Heavy, two-handed |
+  | Battleaxe | 10 gp | 1d8 slashing | Brawn, versatile (1d10) |
+  | Glaive | 20 gp | 1d10 slashing | Nimble, heavy, reach, two-handed |
+  | Great Axe | 30 gp | 1d12 slashing | Brawn, heavy, two-handed |
+  | Great Sword | 50 gp | 2d6 slashing | Impact, heavy, two-handed |
+  | Halberd | 20 gp | 1d10 slashing | Brawn, heavy, reach, two-handed |
+  | Lance | 10 gp | 1d12 piercing | Impact, reach, special |
+  | Long Sword | 15 gp | 1d8 slashing | Impact, versatile (1d10) |
+  | Maul | 10 gp | 2d6 bludgeoning | Brawn, heavy, two-handed |
   | Morningstar | 15 gp | 1d8 piercing | Brawn |
   | Rapier | 25 gp | 1d8 piercing | Finesse |
   | Scimitar | 25 gp | 1d6 slashing | Finesse, light |
-  | Short sword | 10 gp | 1d6 piercing | Impact, light |
-  | War hammer | 15 gp | 1d8 bludgeoning | Brawn, Versatile (1d10) |
+  | Short Sword | 10 gp | 1d6 piercing | Impact, light |
+  | War Hammer | 15 gp | 1d8 bludgeoning | Brawn, versatile (1d10) |
   | Whip | 2 gp | 1d6 slashing | Finesse, reach(15 ft) |
 | ***Martial Ranged Weapons*** | | | | 
-  | Blowgun | 10 gp | 1d4  piercing | Nimble, Ammunition (range 25/100), loading |
-  | Hand crossbow | 75 gp | 1d6 piercing | Nimble, Ammunition (range 30/120), light, loading |
-  | Heavy crossbow | 50 sp | 1d10 piercing | Nimble, Ammunition (range 100/400), heavy, loading, two-handed |
-  | Longbow | 50 gp | 1d8 piercing | Nimble, Ammunition (range 150/600), heavy, two-handed |
-  | Net | 4 gp | _ | Finesse, Special, thrown (range 5/15) |
+  | Blowgun | 10 gp | 1d4  piercing | Nimble, ammunition (range 25/100), loading |
+  | Hand Crossbow | 75 gp | 1d6 piercing | Nimble, ammunition (range 30/120), light, loading |
+  | Heavy Crossbow | 50 gp | 1d10 piercing | Nimble, ammunition (range 100/400), heavy, loading, two-handed |
+  | Longbow | 50 gp | 1d8 piercing | Nimble, ammunition (range 150/600), heavy, two-handed |
+  | Net | 4 gp | _ | Finesse, special, thrown (range 5/15) |
 </div>
 
 \page
