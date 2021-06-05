@@ -8,7 +8,7 @@ Download the latest PDF version to read more about the system.
 
 ### Character sheet
 
-A fillable character sheet is provided. Given the system is still very much in alpha, the character sheet is also work in progress and may contain elements used in older version, but no longer valid. When in doubt, the pdf is leading.
+A fillable character sheet is provided. Given the system is still very much in development, the character sheet is also work in progress and may contain elements used in older version, but no longer valid. When in doubt, the pdf is leading.
 
 ### PHB.txt
 

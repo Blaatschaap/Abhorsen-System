@@ -716,8 +716,8 @@ Always on the lookout for danger, you gain the following benefits:
 - Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
 
 ## Arcane Ammunitionist
+_Prerequisites: Aptitude 13 or higher_
 
-Prerequisites: Aptitude 13 or higher
 You have developed the magical ability of conjuring ammunition, gaining the following benefits:
 
 - You gain a +1 bonus to ranged attack rolls when using conjured, magical or imbued ammunition.
@@ -1345,7 +1345,7 @@ You gain a +2 bonus to attack rolls you made with Nimble weapons.
 You can reload your crossbows and blow darts as part of the attack.
 
 ### Imbue ammunition
-You can imbue your ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. You imbue one item of your ammunition at a time. Once used, the ammunition loses its imbuement. The Stamina cost will depend on the imbuement:
+You can imbue your ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. You imbue one item of your ammunition at a time. The Stamina cost will depend on the imbuement:
 
 | Imbue | Cost | Effect |
 |:----:|:---|:|
@@ -3209,6 +3209,9 @@ Impact weapons are a mix between Brawn and Nimble weapons. They require a fair a
 ### Finesse
 When making an attack with a finesse weapon, you choose to use it as a Brawn weapon or as a Nimble weapon.
 
+### Ammunition 
+You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack. At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -3264,7 +3267,6 @@ When making an attack with a finesse weapon, you choose to use it as a Brawn wea
 Any costs listed are on top of the cost of the ammunition. Modifications can only be made to ammunition with the approval of the GM, to prevent things such as barbed trebuchet shots.
 
 All damage listed is in addition to any regular damage the ammunition would deal on hit.
-
 
 #### Barbed
 Barbed ammunition will stick in the target on hit. If the target takes further damage, it must make a DC 10 Physical Agility saving throw or the barbed ammunition will be ripped out, dealing 1d6 piercing damage. The target or a creature within 5 ft of it can use its action to remove the ammunition.
