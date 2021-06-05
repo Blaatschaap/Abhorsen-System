@@ -2,6 +2,18 @@
 
 ---
 
+## Abhorsen Setting
+
+The world of the Old Kingdom made by Garth Nix is used for the Abhorsen System. The following is a quote from his website:
+
+> Q. How do you feel about fan fiction based on your books?
+
+> I have no problem with fan fiction based on my books and characters, though once again, if you actually wanted to publish it (other than putting it up on a non-commercial website) or sell it then you would need to seek permission. But if it’s solely for fun and you enjoy writing it, then go ahead. Please do not send it to me to read, as I won’t read it.
+
+I have contacted Garth Nix and confirmed with him that the Abhorsen System is fan fiction and that he considers GitHub a non-commercial website.
+
+## OGL
+
 ### Licensing
 
 Permission to copy, modify and distribute the files collectively known as the System Reference Document 5.1 ("SRD5") is granted solely through the use of the Open Gaming License, Version 1.0a.
