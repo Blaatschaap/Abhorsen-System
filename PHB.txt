@@ -2117,9 +2117,9 @@ ___
 - **Components:** V 
 - **Duration:** Instantaneous
 
-You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
+You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This molded corpse counts as a corpse that died today. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
 
-_Exert: Casting time becomes a bonus action. Corpse transformation remains an action._
+_Exert: Casting time becomes a bonus action. Corpse transformation into a Lesser Dead remains an action._
 
 ### Ability Score Improvement 
 
@@ -2160,6 +2160,25 @@ Using free magic, you transform a piece of your flesh into a blood sword. Your m
 
 _Exert: The maximum hit point loss is doubled, but the Blood Sword becomes a +3 long sword._
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+## Level 7
+
+### Spell Tactics 
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Free Magic Decay
+Whenever you deal damage to a creature with one of your stamina costing spells, they are cursed with a debilitating effect until the end of your next turn. Whenever the creature makes an attack roll whilst under the effect of this curse, the creature must roll a d4 and subtract the number rolled from the attack roll.
+
+##### Greater Blood Sword
+Whenever you create a blood sword, you gain two. Additionally, the Blood Sword spell no longer requires concentration. 
+
+##### Crippling Spells
+Enemies have disadvantage on saving throws against any of your stamina costing spells that cause the target to gain a condition, disease, curse or otherwise debilitating effects.
 
 
 
@@ -2310,6 +2329,18 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +7 modifier to hit, reach 5ft., one target. *Hit* 2d6 fire damage.
 
+## Level 6
+
+#### Bone Ram -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Self (100-foot line)
+- **Components:** V, S, M (A few shards of flint)
+- **Duration:** Instantaneous
+
+You form a spindly undead version of a ram that charges in a direction of your bidding. It charges in maximum of 100 feet straight line of 10 feet wide and the first creature it encounters must make a Charter Strength saving throw. If the target fails its saving throw, it will take 4d6 bludgeoning damage and be knocked prone. The ram then continues in a line towards further targets. If a target succeeds on it's saving throw, the target will take half the damage from the 4d6 bludgeoning damage and will not be knocked prone. 
+
+The ram will now be stopped and explode, forcing all creatures in a 15ft radius to make a Charter Agility saving throw. The exposion will deal a 4d6 bludgeoning damage on a failed saving throw, halved on a success. The initial target that set off the explosion will automatically succeed on the second saving throw.   
 
 \page
 
@@ -2397,7 +2428,7 @@ ___
 - **Components:** S
 - **Duration:** Up to 1 minute
 
-You channel your Free magic to release a terrible disease to the target. Target must make a Physical Constitution saving throw. On a failed saving throw failed, the target will emit a putrid smell. Whilst under the effect of this disease, the target will deal half damage with any of its damaging abilities. The target also has disadvantage on any Charisma skill checks. Any creature who spends a story tick within 5ft to the infected creature, must make a Physical constitution saving throw, or also be affected by the plague, with a renewed duration.
+You channel your Free magic to release a terrible disease to the target. Target must make a Physical Constitution saving throw. On a failed saving throw failed, the target will emit a putrid smell. Whilst under the effect of this disease, the target will deal half damage with any of its damaging abilities. The target also has disadvantage on any Charisma skill checks. Any creature who spends a story tick within 5ft to the infected creature, must make a Physical constitution saving throw, or also be affected by the plague, with a renewed duration. 
 
 The plague counts as a natural disease and can be cured using non-magical means. The plague is also cured by spending an action spilling at least 1 water skin’s worth of water over an infected creature.
 
@@ -2416,10 +2447,20 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, Up to 1 minute
 
-Target creature within range must make a Physical Constitution saving throw. Dead have advantage on this saving throw. On a failed save, the target has disadvantage on any attacks it makes. Regardless of success, the target takes 2d8 Necrotic damage. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again.
+Target creature within range must make a Physical Constitution saving throw. Dead have advantage on this saving throw. On a failed save, the target has disadvantage on any attacks it makes. Regardless of success, the target takes 2d8 Necrotic damage. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. At the end of each of its turns, the target can make another Physical Constitution saving throw. On a success, the spell ends on the target.
 
 The spell’s damage increases by 1d8 when you reach 8th level (3d8) and 10th level (4d8). 
 
+## Level 6
+
+#### Mass Life Transference -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 60ft
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+Choose up to three non-Dead creatures in range, which must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target for each primary target in range. If the secondary target is a non-Dead, it gains half the damage dealt in hit points. If the secondary target is Dead, it takes half the damage dealt as poison damage.
 
 \page
 
@@ -2434,7 +2475,7 @@ The spell’s damage increases by 1d8 when you reach 8th level (3d8) and 10th le
 You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Intelligence saving throws.
 
 ### Mordicant
-  The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
+  The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
   
   A Mordicant counts as a Greater Dead, but will never break free of your control for being over your maximum number of Dead controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
 
@@ -2486,14 +2527,20 @@ ___
 |:----:|:---:|:-------------|
   | **Claws**  | 1 | The Mordicants fingers twist and mutate into long bone claws. The Mordicant gains the following action: ***Claw.*** *Melee Weapon Attack:* 4 + Str modifier to hit, reach 5ft., one target. *Hit* 1d8 + Str modifier slashing damage. This increases to 1d10 + Str modifier at level 4. |
   | **Long arms**  | 2 | The Mordicants arms grow to twice its normal length gaining an additional elbow. The Mordicant gains the reach ability, extending the range of melee hits to 10ft. |
-  | **Porcupine**  | 2 | The Mordicant forms long needle like quills over his entire body. Any melee hits on the Mordicant will return 1d4 piercing damage. The Mordicant can also fire these quills at his enemies. He gains the following action: ***Quill.*** *ranged Weapon Attack:* 4 + Str modifier to hit, range 20/40ft., one target. *Hit* 6 (1d6 + Str modifier) piercing damage. |
-  | **Barbed Quills**  | 2 | ***Requires Porcupine.*** The Mordicants spines become ridged and barbed. Any creature that is on the ground and hit by spines is partially pinned to the ground. Reduce the speed of the target by 10ft whilst also disabling any flying speed the creature might have. DC 14 Strength skill check action to remove the spines. Target takes 1d4 piercing damage on removal of spines. |
+  | **Porcupine**  | 2 | The Mordicant forms long needle like quills over his entire body. Any melee hits on the Mordicant will return 1d4 + Flesh Binder level piercing damage. The Mordicant can also fire these quills at his enemies. He gains the following action: ***Quill.*** *ranged Weapon Attack:* 4 + Str modifier to hit, range 20/40ft., one target. *Hit* 6 (1d6 + Str modifier) piercing damage. |
+  | **Barbed quills**  | 2 | ***Requires Porcupine.*** The Mordicants spines become ridged and barbed. Any creature that is on the ground and hit by spines is partially pinned to the ground. Reduce the speed of the target by 10ft whilst also disabling any flying speed the creature might have. DC 14 Strength skill check action to remove the spines. Target takes 1d4 piercing damage on removal of spines. Mordicant's AC also increases by 1. |
   | **Tendrils**  | 3 | The Mordicant gains grasping tendrils around his wrists. These grant the Mordicant the ability to grapple a target on melee hits, DC 14 Strength skill check action to escape. The Mordicant can grapple as much targets as it has arms. If the Mordicant has its maximum amount of creatures grappled, it can only attack grappled creatures. |
-  | **Hardened skin**  | 1 | The Mordicants hide thickens and increases its AC by 1 and its Apt score by 2 |
+  | **Hardened skin**  | 1 | The Mordicants hide thickens and increases its AC by 1 and its Apt score by 2. |
   | **Scales**  | 3 | ***Requires Hardened skin.*** The Mordicant grows scales over his entire body and gains resistance to bludgeoning, slashing and piercing damage. Its Apt score will also increase by 2. |
   | **Wings**  | 2 | The Mordicant grows wings and gains half of its movement speed as flying speed.|
   | **Unhinging jaw**  | 4 | The Mordicant gains the ability to swallow targets. If the Attack hits, the target makes a Physical Strength of Physical Agility saving throw or become swallowed on failure. The swallowed target is Blinded and Restrained, it has total cover against attacks and other Effects outside the Mordicant, and it takes 5 (2d4) acid damage at the start of each of the Mordicants turns. The Mordicant can have only one target swallowed at a time. If the Mordicant dies, a swallowed creature is no longer Restrained by it and can escape from the corpse using 5 ft. of Movement, exiting prone. If the Mordicant takes more than 25% of his maximum hit points from a single hit, the creature is also expelled.|
-
+  |**Improved Senses**|1|The Mordicant gains advantage on skill checks that rely on hearing or smell.| 
+|**Requires Level 6**|||
+  |**Addional arms**|4|The Mordicant grows two additional arms and gains Multi-attack, allowing it to use two of it's attacks per turn.|
+  |**Crushing tendrils**|2|***Requires Tendrils.*** Any creature grappled by the Mordicant is now considered restrained.|
+  |**Long legs**|2| The Mordicant gains 10ft of movement.|
+  |**Soul buffer**|1| The Mordicant creates a buffer in the bond between you and it. The Psychic damage you take when the Mordicant dies is decreased to 25% of its hp.|
+  |**Challenging roar**|3|The Mordicant gains the ability to taunt enemies as an action. All enemies within 15ft of the Mordicant must make a Charter Charisma saving throw opposed by your spell casting DC. On failure, each creature must walk up to 15ft towards the Mordicant. The target also has disadvantage on all attack rolls not targeting the Mordicant until the end of your next turn.|
 </div>
 
 \page
@@ -2563,6 +2610,13 @@ _Exert: Any dead under your control gain resistance against bludgeoning, piercin
 ## Level 5
 ### Extra Mordicant
 At level 5 your maximum number of Mordicants under your control raises to two. Each Mordicant can have different adaptations. You gain another Mordicant when you reach 9th level(to a maximum of 3).
+
+## Level 6
+
+### Lucky Mordicants
+Your bond with the Mordicant intensifies. Any Mordicant under your control gains the following ability:
+
+*Lucky.* When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
 
 \page
 
@@ -2709,7 +2763,7 @@ Glimpses of the future press in on your awareness. When you finish a long rest, 
 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
-At 5th level, you gain a third d20 from this ability.
+At 6th level, you gain a third d20 from this ability.
 
 ### Sight
 
@@ -2855,6 +2909,58 @@ This spell’s grasping hand option damage increases by 1d6 when you reach 6th l
 ### Fast learner
 You can learn two stamina costing abilities of your choice from any class but the Runic Knight. An ability you choose must be of a level you can cast. They count as regular abilities for you.
 
+## Level 6
+
+#### Scrying -2 Stamina
+___
+- **Casting Time:** 1 minute
+- **Range:** self
+- **Components:** V, S, M (A highly reflective and flat surface, which the spell consumes)
+- **Duration:** Concentration, up to 10 minute
+
+You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
+<div style='column-count:1'>
+| Knowledge | Save Modifier |
+|:---:|:------------|
+|Secondhand (you have heard of the target) | 	+5|
+|Firsthand (you have met the target) |	0|
+|Familiar (you know the target well) |	-5|
+|**Connection**||
+|Likeness or picture |	-2|
+|Possession or garment |	-4|
+|Body part, lock of hair, bit of nail, or the like |	-10|
+</div>
+
+On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
+
+On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
+
+Instead of targeting a creature, you can choose a location you have seen before as the target of this spell. When you do, the sensor appears at that location and doesn't move.
+
+#### Prophesied missiles - 3 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** self
+- **Components:** V, S, M (A highly reflective and flat surface, which the spell consumes)
+- **Duration:** Concentration, up to 10 minute
+
+You create four glowing darts of magical force which you predict will hurt your enemies. Each dart hits a creature of your choice that you can see within range. A dart deals 2d6 + Aptitude modifier to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 7
+
+### Delaying Tactics 
+At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Not Right now
+You have forseen that your enemies are trying to hurt you. After failing a saving throw against a spell or harmful effect that targets only you, you can spend your reaction to delay it. Any damage or effects from the spell or harmful effect will be delayed to the end of your next turn. Additionally, you have disadvantage on your next saving throw, until the end of your next turn.
+
+##### Walk it off
+Whenever you are hit by an damaging effect, you can spend your reaction and 2 Stamina to take the damage at the end of your next turn instead. The damage cannot be reduced in any way and any other harmful effects will go into effect right away.
 
 
 \page
@@ -3046,6 +3152,28 @@ Any creature that takes damage from this ability, becomes poisoned for up to 1 m
 
 _Exert: This spell's damage is increased by 2d12 poison damage. Affected creatures also have disadvantage on their saving throws to recover from the poison._
 
+<div style='margin-top:140px'></div>
+
+## Level 6
+
+#### Transport Via Plants -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 10 ft
+- **Components:** V, S
+- **Duration:** 1 Story tick
+
+This spell creates a magical link between a Large or larger inanimate plant within range and another plant, at any distance, within Life. You must have seen or touched the destination plant at least once before. For the duration, any creature can step into the target plant and exit from the destination plant by using 5 feet of movement.
+
+#### Wall of Thorns -3 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 120 ft
+- **Components:** V, S, M (A handful of thorns)
+- **Duration:** Concentration, Up to 10 minutes
+
+You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight. When the wall appears, each creature within its area must make a Physical Strength saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Physical Strength saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -3153,14 +3281,14 @@ At 3rd level, you gain one of the following features of your choice. You can cha
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Sneak
-The teleport range of your shadow blink is doubled. 
+The teleport range of your shadow blink is trippled. 
 
 You also have advantage on any attempts to hide or avoid detection.
 
 ## Level 4
 
 ### Flashing blades
-Any melee weapon thrown by you will magically blink back into your hands at the end of your turn. It's like you have never even thrown it, apart from the carnage of course.
+Any melee weapon thrown by you will magically blink back into your hands at the end of your turn. It's like it never left your hand, apart from the blood of course.
 
 #### Magic Weapon -1 Stamina
 ___
@@ -3187,6 +3315,17 @@ If there are not enough targets within range, or if you choose not to teleport o
 
 _Exert: Attack a fourth target. This can be the same target as the first or the second target._
 
+## Level 6
+#### Invoke Duplicity -4 Stamina
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 30ft
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 Story ticks
+
+You create a perfect illusion of yourself that lasts for 10 Story ticks, or until you lose your concentration. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+
+For the duration, the illusion can perform all your actions and abilities, provided you can see the target. It only has an action and bonus action, but no movement. Moreover, any damage it deals is divided by 4, rounded up. Any damage it takes, you take instead but is divided by 2, rounded up. Any stamina it spends, you spend. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you and the illusion have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
 
 \page
