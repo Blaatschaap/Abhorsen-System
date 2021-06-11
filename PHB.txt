@@ -1604,6 +1604,47 @@ ___
 
 You extend your hand toward a medium or smaller creature you can see within range and a 5ft earthen spire jolts up from the ground under them. The creature must succeed on a Physical Agility saving throw or take 2d8 + Aptitude modifier bludgeoning damage. The creature is pushed towards an adjacent space the target chooses. The earthen spire is 10ft high, has 10hp and 10 AC.
 
+## Level 7
+### Meta Magic tactics
+At 7th level, you gain the ability to twist your spells to suit your needs. You gain three of the following Metamagic options of your choice. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted. You can change your choice at a later time following the rules for tactics.
+
+##### Careful Spell
+When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 2 stamina and choose a number of those creatures up to your Charisma skill check modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
+
+##### Empowered Spell
+When you roll damage for a spell, you can spend 2 stamina to reroll a number of the damage dice up to your Charisma skill check modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+##### Extended Spell
+When you cast a spell that has a duration of 1 minute or longer, you can spend 3 stamina to double its duration, to a maximum duration of 24 hours. If you extend the duration of a spell that requires concentration, you gain advantage on checks made to maintain concentration on the spell. 
+
+##### Heightened Spell
+When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 4 stamina to give one target of the spell disadvantage on its first saving throw made against the spell.
+
+##### Quickened Spell
+When you cast a spell that has a casting time of 1 action, you can spend 3 stamina to change the casting time to 1 bonus action for this casting.
+
+##### Seeking Spell
+If you make an attack roll for a spell and miss, you can spend 3 stamina to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.
+
+##### Subtle Spell
+When you cast a spell, you can spend 2 stamina to cast it without any somatic or verbal components.
+
+##### Transmuted Spell
+When you cast a spell that deals a type of damage from the following list, you can spend 2 stamina to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
+
+##### Twinned Spell
+When you cast a spell that targets only one creature and doesn't have a range of self, you can exert the spell to target a second creature in range with the same spell. To be eligible for Twinned Spell, a spell must be incapable of targeting more than one creature at the spell's current level. This can be done in combination with existing exertion options on the spell, resulting in a four times higher stamina cost.
+
+##### Sculpt Spell
+
+When you cast a spell with a range that affects an area, you can expend 2 stamina to change the area's shape in one of the following ways:
+
+- If the spell's range is a line, you can change it to a cone of half range.
+- If the spell's range is a cone, you can change it to a 5-foot-wide line with double range.
+- If the spell's range is a sphere, you can change its area to a cylinder of half radius and double height.
+- If the spell's range is a cylinder, you can change its area to a sphere of the same radius.
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -1721,7 +1762,7 @@ You move like the wind. Until the spell ends, your movement doesn't provoke oppo
 
 Once before the spell ends, you can give yourself advantage on one weapon attack roll on your turn. That attack deals an extra 1d8 force damage on a hit. Whether you hit or miss, your walking speed is increased by 30 feet until the end of that turn.
 
-_Exert: 2d8 force damage and 40 ft of additional movement._
+_Exert: The additional damage is increased to 2d8 force damage and you gain 40 ft of additional movement._
 
 <div style='margin-top:240px'></div>
 
@@ -1737,6 +1778,21 @@ A wave of thunderous force sweeps out from you. Each enemy creature in a 15-foot
 
 This spell’s damage increases by 2d8 when you reach 7th level (5d8) and 10th level (7d8).
 
+## Level 6
+
+### Thunderous Strikes
+At 8th level, you gain the ability to infuse your weapon strikes with Charter Magic. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. 
+
+#### Implosion  -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S
+- **Duration:** Up to 10 Story ticks
+
+Choose target location you can see. You create a vacuum bubble with a radius of 5 ft around the target, draining it from air. The bubble remains until you end it as a reaction, until a creature enters the bubble, a creature within the bubble spends movement or if a creature within produces sound. When the bubble ends, any creature within the sphere must make a Physical Constitution saving throw, taking 6d8 Thunder damage on a failed saving throw, or half on success.
+
+_Exert: The radius is doubled of the bubble is doubled and the damage is increased to 8d8 Thunder damage._
 
 \page
 
@@ -1898,6 +1954,39 @@ You point at a creature. If it is a Non-Dead creature, it is healed for 3d4 + Sp
 
 _Exert: You can choose up to 3 targets, but the effect for each target is halved._
 
+## Level 6
+
+#### Enhance Ability -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 15ft
+- **Components:** V, S, M (Fur or a feather from a beast)
+- **Duration:** Concentration, Up to 10 Story Ticks
+
+You can target up to three creatures and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. 
+- Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.
+- Cat’s Grace. The target has advantage on Agility checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated. 
+- Eagle’s Splendor. The target has advantage on Charisma checks. 
+- Fox’s Cunning. The target has advantage on Intelligence checks.
+
+_Exert: You can choose up to 6 targets._
+
+<div style='margin-top:140px'></div>
+
+
+
+#### Ice Nova -3 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S 
+- **Duration:** Instantaneous
+
+You emit a 5ft high wave of sleet and icicles in a cyclinder of 20ft radius to freeze your enemies and protect your allies. Any creature apart from you must make a Charter Constitution saving throw. Allies have advantage on this saving throw. On a failed save, creatures and objects take 4d6 cold damage and are covered in ice and considered restrained for up to 10 story ticks. The restrained target or a creature within 5 ft of it can use its action to break the ice.
+
+On a successful saving throw, targets take half damage and are not restrained. 
+
+_Exert: You can place the cyclinder up to 30ft away from you._
 
 \page
 
@@ -1971,7 +2060,7 @@ _Exert: Ignite damage is doubled and cannot be doused through non-magical means.
 
 ## Level 2
 
-#### Absorb elements
+#### Absorb elements -1 Stamina
 ___
 - **Casting Time:** 1 reaction, which you take when you take cold, fire, lightning, or thunder damage
 - **Range:** Self
@@ -2020,6 +2109,26 @@ ___
 Choose a creature in range you can see. From the primary targets location, pick the closest hostile creature within 60ft. If there are multiple closest creatures, you pick the secondary target. Perform the process again for a tertiary target. Each of the targets, as well as any creatures within 10ft of the targets, must make a Charter Agility saving throw. On a failed saving throw, any affected creatures take 3d8 + Spellslinger level fire damage and are ignited for an additional 1d6 fire damage at the end of each of its turns. The target or a creature within 5 ft of it can use its action to douse the flame. On a successful save, the creature takes half damage and is not ignited.
 
 _Exert: Choose a fourth target._
+
+<div style='margin-top:140px'></div>
+
+
+
+## Level 6
+
+### Elemental Equilibrium
+The elements are your allies and not to be feared, but instead mastered. You gain resistance to the last elemental damage you have taken. So if you take fire damage, you will have Fire resistance for any further hits until you are hit by either Cold, Lightning or Thunder damage.
+
+#### Mass Shatter -5 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (A chip of mica)
+- **Duration:** Instantaneous
+
+A sudden loud ringing noise, painfully intense, erupts from three points of your choice within range. Each creature in a 10-foot-radius sphere centered on those points must make a Charter Constitution saving throw. These spheres may not overlap. A creature takes 3d8 + Spell slinger level Thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw and take double the damage. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
+
+_Exert: Choose up to 5 points within range._
 
 \page
 
@@ -3174,6 +3283,18 @@ ___
 
 You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. You choose to make the wall up to 60 feet long, 10 feet high, and 5 feet thick or a circle that has a 20-foot diameter and is up to 20 feet high and 5 feet thick. The wall blocks line of sight. When the wall appears, each creature within its area must make a Physical Strength saving throw. On a failed save, a creature takes 7d8 piercing damage, or half as much damage on a successful save. A creature can move through the wall, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a Physical Strength saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
 
+## Level 7
+
+### Growth Tactics 
+At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Gardener
+Whenever you gather herbs, you double the amount of dice rolled to determine the gather amount.
+
+##### Efficient Farming
+The first class stamina ability you use per turn, costs 1 stamina less.
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -3326,6 +3447,22 @@ ___
 You create a perfect illusion of yourself that lasts for 10 Story ticks, or until you lose your concentration. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
 For the duration, the illusion can perform all your actions and abilities, provided you can see the target. It only has an action and bonus action, but no movement. Moreover, any damage it deals is divided by 4, rounded up. Any damage it takes, you take instead but is divided by 2, rounded up. Any stamina it spends, you spend. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you and the illusion have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 7
+
+### Dodging Tactics 
+At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Evasion
+You can nimbly dodge out of the way of certain area Effects. When you are subjected to an Effect that allows you to make a Physical saving throw to take only half damage, You can spend your reaction and 2 stamina to instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+##### Winddancer
+When an attacker that you can see hits you with an Attack, you can use your Reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
 
 
 \page
