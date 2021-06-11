@@ -19,7 +19,7 @@
 Map credit: Garth Nix
   </div>
 <div class='wide'>
-Version V0.10
+Version V0.11
 </div>
   
 
@@ -44,96 +44,104 @@ Version V0.10
 - **[8 Classes](#p21)**
   - **[8.1 Runic Knight](#p21)**
     - [Offensive Tactics](#p21)
-  - **[Subclasses](#p22)**
-  - **[8.1.1 Fighter](#p22)**
-    - [8.1.1.1 Two weapon fighting](#p22)
-    - [8.1.1.2 Heavy Hitter](#p22)
-    - [8.1.1.3 Duelling](#p22)
-    - [8.1.1.4 Charge](#p22)
-    - [8.1.1.5 Brutal Critical](#p22)
-    - [8.1.1.6 Aggressive](#p22)
-    - [8.1.1.7 Killing Stroke](#p22)
-    - [8.1.1.8 Action Surge](#p22)
-  - **[8.1.2 Ranger](#p23)**
-    - [8.1.2.1 Archery](#p23)
-    - [8.1.2.2 Quick reload](#p23)
-    - [8.1.2.3 Imbue ammunition](#p23)
-    - [8.1.2.4 Slayer's Prey](#p23)
-    - [8.1.2.5 Tumble](#p23)
-    - [8.1.2.6 Chain](#p23)
-  - **[8.1.3 Guardian](#p24)**
-    - [8.1.3.1 Sentinel](#p24)
-    - [8.1.3.2 Defender](#p24)
-    - [8.1.3.3 Protector of Faith](#p24)
-    - [8.1.3.4 Protection](#p24)
+	- [Defensive Tactics](#p22)
+  - **[Subclasses](#p23)**
+  - **[8.1.1 Fighter](#p23)**
+    - [8.1.1.1 Fighting Styles](#p23)
+    - [8.1.1.2 Charge](#p23)
+    - [8.1.1.3 Brutal Critical](#p23)
+    - [8.1.1.4 Aggressive](#p23)
+    - [8.1.1.5 Killing Stroke](#p23)
+    - [8.1.1.6 Action Surge](#p23)
+	- [8.1.1.7 Frenzy](#p23)
+  - **[8.1.2 Ranger](#p24)**
+    - [8.1.2.1 Nimble Fighter](#p24)
+    - [8.1.2.3 Imbue ammunition](#p24)
+    - [8.1.2.4 Slayer's Prey](#p24)
+    - [8.1.2.5 Tumble](#p24)
+    - [8.1.2.6 Chain](#p24)
+	- [8.1.2.7 Additional Imbue Ammunition ](#p24)
+  - **[8.1.3 Guardian](#p25)**
+    - [8.1.3.1 Sentinel](#p25)
+    - [8.1.3.2 Defender](#p25)
+    - [8.1.3.3 Protector of Faith](#p25)
+    - [8.1.3.4 Protection](#p25)
   
   
-  - **[8.2 Spellslinger](#p25)**
-   - **[Subclasses](#p27)**
-     - **[8.2.1 Silencer](#p27)**
-       - [8.2.1.1 Bell master](#p27)
-       - [8.2.1.2 Front line fighter](#p27)
-       - [8.2.1.3 Inspiration](#p27)
-       - [8.2.1.4 Versatile tactics](#p28)
-     - **[8.2.2 Charter mage](#p29)**
-       - [8.2.2.1 Infuse with Charter](#p29)
-       - [8.2.2.2 Baptism](#p29)
-       - [8.2.2.3 Anoint](#p29)
-       - [8.2.2.4 Last Rites](#p30)
-       - [8.2.2.5 Echo Tactics](#p30)
+  - **[8.2 Spellslinger](#p27)**
+	- [Meta Magic tactics](#p28)
+   - **[Subclasses](#p29)**
+     - **[8.2.1 Silencer](#p29)**
+       - [8.2.1.1 Bell master](#p29)
+       - [8.2.1.2 Front line fighter](#p29)
+       - [8.2.1.3 Inspiration](#p29)
+       - [8.2.1.4 Versatile tactics](#p30)
+	   - [8.2.1.5 Thunderous Strikes](#p30)
+     - **[8.2.2 Charter mage](#p31)**
+       - [8.2.2.1 Infuse with Charter](#p31)
+       - [8.2.2.2 Baptism](#p31)
+       - [8.2.2.3 Anoint](#p31)
+       - [8.2.2.4 Last Rites](#p32)
+       - [8.2.2.5 Echo Tactics](#p32)
      - **[8.2.3 Elementalist](#p32)**
-       - [8.2.3.1 Elemental mastery](#p32)
-       - [8.2.3.2 Surge](#p32)
-       - [8.2.3.3 Elemental Tactics](#p33)
-  - **[8.3 Flesh Binder](#p34)**
-   - [Team Tactics](#p35)
-   - **[Subclasses](#p36)**
-     - **[8.3.1 Occultist](#p36)**
-       - [8.3.1.1 Master of the Dead](#p36)
-       - [8.3.1.2 Mosrael Master](#p36)
-       - [8.3.1.3 Profane Bloom](#p36)
-       - [8.3.1.4 Bodyswap](#p37)
-     - **[8.3.2 Hemathurge](#p38)**
-       - [8.3.2.1 Song of rest](#p38)
-       - [8.3.2.2 Reinvigorating touch](#p38)
-     - **[8.3.3 Animator](#p40)**
-       - [8.3.3.1 Mordicant](#p40)
-       - [8.3.3.2 Extra Mordicant](#p42)
-  - **[8.4 Mysticist](#p43)**
-   - **[Subclasses](#p45)**
-     - **[8.4.1 Watcher](#p45)**
-       - [8.4.1.1 Portent](#p45)
-       - [8.4.1.2 Sight](#p45)
-       - [8.4.1.3 Keen Mind](#p45)
-       - [8.4.1.4 Danger sense](#p46)
-       - [8.4.1.5 Foresight Tactics](#p46)
-       - [8.4.1.6 Fast learner](#p47)
-     - **[8.4.2 Herbalist](#p48)**
-       - [8.4.2.1 Nature's guise](#p48)
-       - [8.4.2.2 Mix potion](#p48)
-       - [8.4.2.3 Gather Herbs](#p48)
-       - [8.4.2.4 Herbal Tactics](#p49)
-       - [8.4.2.5 Master of the Sickle](#p50)
-     - **[8.4.3 Trickster  ](#p51)**
-       - [8.4.3.1 Mage hand](#p51)
-       - [8.4.3.2 Finesse weapon mastery](#p51)
-       - [8.4.3.3 Light weapon quick draw](#p51)
-       - [8.4.3.4 Shadow blink](#p51)
-       - [8.4.3.5 Cunning Action](#p51)
-       - [8.4.3.6 Steel will](#p51)
-       - [8.4.3.7 Observant fighter](#p51)
-       - [8.4.3.8 Rogue Tactics](#p52)
-       - [8.4.3.8 Flashing blades](#p52)
-  - **[9 Equipment](#p53)**
-    - [9.1 Weapons](#p53)
-    - [9.2 Ammunition Modifications](#p55)
-    - [9.3 Armour](#p56)
-    - [9.4 Potions](#p57)
-    - [9.5 Poisons](#p58)
-  - **[10 Bestiary](#p60)**
-  - **[11 Credits](#p68)**
-  - **[12 OGL License](#p69)**
+       - [8.2.3.1 Elemental proficiency](#p34)
+       - [8.2.3.2 Surge](#p34)
+       - [8.2.3.3 Elemental Tactics](#p35)
+	   - [8.2.3.4 Elemental Equilibrium](#p35)
+  - **[8.3 Flesh Binder](#p36)**
+   - [Team Tactics](#p37)
+	- [Spell Tactics ](#p38)
+   - **[Subclasses](#p39)**
+     - **[8.3.1 Occultist](#p39)**
+       - [8.3.1.1 Master of the Dead](#p39)
+       - [8.3.1.3 Profane Bloom](#p39)
+       - [8.3.1.4 Bodyswap](#p40)
+     - **[8.3.2 Hemathurge](#p41)**
+       - [8.3.2.1 Song of rest](#p41)
+       - [8.3.2.2 Reinvigorating touch](#p41)
+     - **[8.3.3 Animator](#p43)**
+       - [8.3.3.1 Mordicant](#p43)
+       - [8.3.3.2 Extra Mordicant](#p45)
+	    - [8.3.3.3 Lucky Mordicants](#p45)
+  - **[8.4 Mysticist](#p46)**
+   - **[Subclasses](#p48)**
+     - **[8.4.1 Watcher](#p48)**
+       - [8.4.1.1 Portent](#p48)
+       - [8.4.1.2 Sight](#p48)
+       - [8.4.1.3 Keen Mind](#p48)
+       - [8.4.1.4 Danger sense](#p49)
+       - [8.4.1.5 Foresight Tactics](#p49)
+       - [8.4.1.6 Fast learner](#p50)
+	    - [8.4.1.7 Delay Tactics ](#p51)
+     - **[8.4.2 Herbalist](#p52)**
+       - [8.4.2.1 Nature's guise](#p52)
+       - [8.4.2.2 Mix potion](#p52)
+       - [8.4.2.3 Gather Herbs](#p52)
+       - [8.4.2.4 Herbal Tactics](#p53)
+       - [8.4.2.5 Master of the Sickle](#p54)
+		- [8.4.2.6 Growth Tactics ](#p54)
+     - **[8.4.3 Trickster  ](#p55)**
+       - [8.4.3.1 Mage hand](#p55)
+       - [8.4.3.2 Finesse weapon mastery](#p55)
+       - [8.4.3.3 Light weapon quick draw](#p55)
+       - [8.4.3.4 Shadow blink](#p55)
+       - [8.4.3.5 Cunning Action](#p55)
+       - [8.4.3.6 Steel will](#p55)
+       - [8.4.3.7 Observant fighter](#p55)
+       - [8.4.3.8 Rogue Tactics](#p56)
+       - [8.4.3.8 Flashing blades](#p56)
+	    - [8.4.3.9 Dodging Tactics ](#p57)
+  - **[9 Equipment](#p58)**
+    - [9.1 Weapons](#p58)
+    - [9.2 Ammunition Modifications](#p60)
+    - [9.3 Armour](#p61)
+    - [9.4 Potions](#p62)
+    - [9.5 Poisons](#p63)
+  - **[10 Bestiary](#p65)**
+  - **[11 Credits](#p73)**
+  - **[12 OGL License](#p74)**
 </div>
+
 
 
 
@@ -727,7 +735,7 @@ You have developed the magical ability of conjuring ammunition, gaining the foll
 ## Athlete
 You have undergone extensive physical training to gain the following benefits:
 - Increase your Strength or Agility score by 1, to a maximum of 20.
-- When you are prone, standing up uses only 5 feet of your movement and doesn't provoke attacks of opportunity.
+- When you are prone, standing up uses only 5 feet of your movement and won’t  provoke attacks of opportunity.
 - Climbing doesn’t halve your speed.
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
@@ -748,7 +756,7 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 - Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
 - When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.
 
-## Defensive Duelist
+## Defensive Duellist
 _Prerequisite: Agility 13 or higher_
 
 When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
@@ -973,15 +981,6 @@ Accustomed to rough-and-tumble fighting using whatever weapons happen to be at h
 - When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
 
 
-
-## Telekinetic
-_Prerequisite: Spell slinger or Mysticist class_
-
-You learn to move things with your mind, granting you the following benefits:
-- Increase your Intelligence, Charisma, or  Aptitude by 1, to a maximum of 20.
-- You learn the mage hand cantrip. You can cast it without verbal or somatic components, and you can make the spectral hand invisible. Its spell casting ability is the ability increased by this feat.
-- As a bonus action, you can try to telekinetically shove one creature you can see within 30 feet of you. When you do so, the target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + the ability modifier of the score increased by this feat) or be moved 5 feet toward you or away from you. A creature can willingly fail this save.
-
 ## Tough	
 Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
@@ -992,9 +991,6 @@ You have practiced casting spells in the midst of combat, learning techniques th
 - You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
 - You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
 - When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
-
-<div style='margin-top:140px'></div>
-
 
 ## Weapon Master	
 You have practiced extensively with a variety of weapons, gaining the following benefits:
@@ -1256,7 +1252,7 @@ At 7th level, you gain one of the following features of your choice. You can cha
 Whenever you are about the make a saving throw, you gain the ability to spend 1 Stamina and gain advantage on that saving throw.
 
 ##### Parry
-As a reaction, you can spend 2 Stamina and gain 2 AC untill the start of your next turn.
+As a reaction, you can spend 2 Stamina and gain 2 AC until the start of your next turn.
 
 ##### Power Through
 After you got hit by a weapon attack and have taken the damage, you can spend your reaction and 2 stamina to power through and gain as much temporary hit points as the attack did. These temporary hit points last until the end of your next turn.
@@ -1272,15 +1268,18 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 *I will trample our enemies!*
 
 #### Quick Build
-You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw defensive proficiency, picking atleast Agility and Constitution saving throws.
+You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
 
-### Two weapon fighting
+### Fighting Styles
+At level 1 you gain the following fighting styles.
+
+#### Two weapon fighting
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
-### Heavy Hitter
+#### Heavy Hitter
 When you engage in two handed weapon fighting, on a hit, you can push your target 5ft back, given your target is Large or smaller. You then have the option to follow your target using your movement without provoking attacks of opportunity.
 
-### Duelling
+#### Duelling
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 ### Charge
@@ -1336,7 +1335,7 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 *They never saw me coming.*
 
 #### Quick Build
-You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw defensive proficiency, picking atleast Intelligence and Constitution saving throws.
+You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw defensive proficiency, picking at least Intelligence and Constitution saving throws.
 
 ### Nimble Fighter
 You gain a +2 bonus to attack rolls you made with Nimble weapons.
@@ -1394,7 +1393,7 @@ At 6th level you gain additional imbuement options for your ammunition
 
 | Imbue | Cost | Effect |
 |:----:|:---|:|
-| Shade  | 1 | On hit, the target must make a Charter Charisma saving throw, or it's vision is reduced to 5 ft  until the start of your next turn.|
+| Shade  | 1 | On hit, the target must make a Charter Charisma saving throw, or its vision is reduced to 5 ft  until the start of your next turn.|
 | Seeking  | 2 | You don't make an attack roll for any attack made with seeking ammunition. The attack will automatically hit, but cannot perform critical hits.|
 | Walloping  | 2 | This ammunition packs a wallop. A creature hit by the ammunition must succeed on a Physical Strength saving throw or be knocked prone.|
 
@@ -1606,13 +1605,15 @@ You extend your hand toward a medium or smaller creature you can see within rang
 
 ## Level 7
 ### Meta Magic tactics
-At 7th level, you gain the ability to twist your spells to suit your needs. You gain three of the following Metamagic options of your choice. You can use only one Metamagic option on a spell when you cast it, unless otherwise noted. You can change your choice at a later time following the rules for tactics.
+At 7th level, you gain the ability to twist your spells to suit your needs. You gain three of the following Meta Magic options of your choice. You can use only one Meta Magic option on a spell when you cast it, unless otherwise noted. You can change your choice at a later time following the rules for tactics.
 
 ##### Careful Spell
 When you cast a spell that forces other creatures to make a saving throw, you can protect some of those creatures from the spell's full force. To do so, you spend 2 stamina and choose a number of those creatures up to your Charisma skill check modifier (minimum of one creature). A chosen creature automatically succeeds on its saving throw against the spell.
 
+<div style='margin-top:30px'></div>
+
 ##### Empowered Spell
-When you roll damage for a spell, you can spend 2 stamina to reroll a number of the damage dice up to your Charisma skill check modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Metamagic option during the casting of the spell.
+When you roll damage for a spell, you can spend 2 stamina to reroll a number of the damage dice up to your Charisma skill check modifier (minimum of one). You must use the new rolls. You can use Empowered Spell even if you have already used a different Meta Magic option during the casting of the spell.
 
 ##### Extended Spell
 When you cast a spell that has a duration of 1 minute or longer, you can spend 3 stamina to double its duration, to a maximum duration of 24 hours. If you extend the duration of a spell that requires concentration, you gain advantage on checks made to maintain concentration on the spell. 
@@ -1624,7 +1625,7 @@ When you cast a spell that forces a creature to make a saving throw to resist it
 When you cast a spell that has a casting time of 1 action, you can spend 3 stamina to change the casting time to 1 bonus action for this casting.
 
 ##### Seeking Spell
-If you make an attack roll for a spell and miss, you can spend 3 stamina to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Metamagic option during the casting of the spell.
+If you make an attack roll for a spell and miss, you can spend 3 stamina to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Meta Magic option during the casting of the spell.
 
 ##### Subtle Spell
 When you cast a spell, you can spend 2 stamina to cast it without any somatic or verbal components.
@@ -1656,7 +1657,7 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 *Ring ring ring ring ring, Banana phone!*
 
 #### Quick Build
-You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw defensive proficiency, picking atleast Agility and Constitution saving throws.
+You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
 
 ### Bell master
 You can use your bells as a bonus action. You also do not need to wield them to use.
@@ -1790,7 +1791,7 @@ ___
 - **Components:** V, S
 - **Duration:** Up to 10 Story ticks
 
-Choose target location you can see. You create a vacuum bubble with a radius of 5 ft around the target, draining it from air. The bubble remains until you end it as a reaction, until a creature enters the bubble, a creature within the bubble spends movement or if a creature within produces sound. When the bubble ends, any creature within the sphere must make a Physical Constitution saving throw, taking 6d8 Thunder damage on a failed saving throw, or half on success.
+Choose target location you can see. You create a vacuum bubble with a radius of 5 ft around the target, draining it from air. The bubble remains until you end it as a reaction, until a creature enters the bubble, a creature within the bubble spends movement or if creatures within produces sound. When the bubble ends, any creature within the sphere must make a Physical Constitution saving throw, taking 6d8 Thunder damage on a failed saving throw, or half on success.
 
 _Exert: The radius is doubled of the bubble is doubled and the damage is increased to 8d8 Thunder damage._
 
@@ -1802,7 +1803,7 @@ _Exert: The radius is doubled of the bubble is doubled and the damage is increas
 *A lil Charter, knocking at your door.*
 
 #### Quick Build
-You can make a Charter mage quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Intelligence. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Constitution saving throws.
+You can make a Charter mage quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Intelligence. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
 
 ### Infuse with Charter
 ___
@@ -1966,7 +1967,7 @@ ___
 You can target up to three creatures and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends. 
 - Bull’s Strength. The target has advantage on Strength checks, and his or her carrying capacity doubles.
 - Cat’s Grace. The target has advantage on Agility checks. It also doesn’t take damage from falling 20 feet or less if it isn’t incapacitated. 
-- Eagle’s Splendor. The target has advantage on Charisma checks. 
+- Eagle’s Splendour. The target has advantage on Charisma checks. 
 - Fox’s Cunning. The target has advantage on Intelligence checks.
 
 _Exert: You can choose up to 6 targets._
@@ -1982,11 +1983,11 @@ ___
 - **Components:** V, S 
 - **Duration:** Instantaneous
 
-You emit a 5ft high wave of sleet and icicles in a cyclinder of 20ft radius to freeze your enemies and protect your allies. Any creature apart from you must make a Charter Constitution saving throw. Allies have advantage on this saving throw. On a failed save, creatures and objects take 4d6 cold damage and are covered in ice and considered restrained for up to 10 story ticks. The restrained target or a creature within 5 ft of it can use its action to break the ice.
+You emit a 5ft high wave of sleet and icicles in a cylinder of 20ft radius to freeze your enemies and protect your allies. Any creature apart from you must make a Charter Constitution saving throw. Allies have advantage on this saving throw. On a failed save, creatures and objects take 4d6 cold damage and are covered in ice and considered restrained for up to 10 story ticks. The restrained target or a creature within 5 ft of it can use its action to break the ice.
 
 On a successful saving throw, targets take half damage and are not restrained. 
 
-_Exert: You can place the cyclinder up to 30ft away from you._
+_Exert: You can place the cylinder up to 30ft away from you._
 
 \page
 
@@ -1996,7 +1997,7 @@ _Exert: You can place the cyclinder up to 30ft away from you._
 *Wind, Thunder & Fire, Heed my call!*
 
 #### Quick Build
-You can make a Elementalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the sage background. Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Constitution saving throws.
+You can make a Elementalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the sage background. Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
 
 ### Elemental proficiency
 You can change the damaging element of your Thunderbolt and Fire claw to Fire, Cold, Lightning or Thunder at will. The effect on a critical hit will also change, depending on the element. 
@@ -2126,7 +2127,7 @@ ___
 - **Components:** V, S, M (A chip of mica)
 - **Duration:** Instantaneous
 
-A sudden loud ringing noise, painfully intense, erupts from three points of your choice within range. Each creature in a 10-foot-radius sphere centered on those points must make a Charter Constitution saving throw. These spheres may not overlap. A creature takes 3d8 + Spell slinger level Thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw and take double the damage. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
+A sudden loud ringing noise, painfully intense, erupts from three points of your choice within range. Each creature in a 10-foot-radius sphere centred on those points must make a Charter Constitution saving throw. These spheres may not overlap. A creature takes 3d8 + Spell slinger level Thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw and take double the damage. A non-magical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
 _Exert: Choose up to 5 points within range._
 
@@ -2219,14 +2220,14 @@ As a Flesh Binder, you have a special connection with Death. As long as you have
 ### Convocation
 When you take damage, you can spend your reaction to teleport one of the Lesser or Medium Dead under your control to an unoccupied space next to you.
 
-#### Mold Corpse -1 Stamina
+#### Sculpt Corpse -1 Stamina
 ___
 - **Casting Time:** 1 minute
 - **Range:** 60ft
 - **Components:** V 
 - **Duration:** Instantaneous
 
-You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This molded corpse counts as a corpse that died today. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
+You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This sculpted corpse counts as a corpse that died today. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
 
 _Exert: Casting time becomes a bonus action. Corpse transformation into a Lesser Dead remains an action._
 
@@ -2306,13 +2307,13 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 *The Damned stand ready*
 
 #### Quick Build
-You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking atleast Intelligence saving throw.
+You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking at least Intelligence saving throw.
 
 ### Master of the Dead
 You have advantage on any Death saving throws. You can also use the Mosrael bell as a bonus action.
 
 ### Profane Bloom
-Whenever you or your minions bring an enemy down to 0 hp, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw. This effect can only trigger succesfully once per turn.
+Whenever you or your minions bring an enemy down to 0 hp, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw. This effect can only trigger successfully once per turn.
 This ability’s damage increases when you reach 3th level (1d6 + 1d6), 6th level (1d8 + 1d8), and 9th level (1d10 + 1d10).
 
 #### Bone Wall -1 Stamina
@@ -2367,7 +2368,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-Choose a Lesser Dead bound by you or a corpse molded by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
+Choose a Lesser Dead bound by you or a corpse sculpted by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
 
 
 
@@ -2447,9 +2448,9 @@ ___
 - **Components:** V, S, M (A few shards of flint)
 - **Duration:** Instantaneous
 
-You form a spindly undead version of a ram that charges in a direction of your bidding. It charges in maximum of 100 feet straight line of 10 feet wide and the first creature it encounters must make a Charter Strength saving throw. If the target fails its saving throw, it will take 4d6 bludgeoning damage and be knocked prone. The ram then continues in a line towards further targets. If a target succeeds on it's saving throw, the target will take half the damage from the 4d6 bludgeoning damage and will not be knocked prone. 
+You form a spindly undead version of a ram that charges in a direction of your bidding. It charges in maximum of 100 feet straight line of 10 feet wide and the first creature it encounters must make a Charter Strength saving throw. If the target fails its saving throw, it will take 4d6 bludgeoning damage and be knocked prone. The ram then continues in a line towards further targets. If a target succeeds on its saving throw, the target will take half the damage from the 4d6 bludgeoning damage and will not be knocked prone. 
 
-The ram will now be stopped and explode, forcing all creatures in a 15ft radius to make a Charter Agility saving throw. The exposion will deal a 4d6 bludgeoning damage on a failed saving throw, halved on a success. The initial target that set off the explosion will automatically succeed on the second saving throw.   
+The ram will now be stopped and explode, forcing all creatures in a 15ft radius to make a Charter Agility saving throw. The explosion will deal a 4d6 bludgeoning damage on a failed saving throw, halved on a success. The initial target that set off the explosion will automatically succeed on the second saving throw.   
 
 \page
 
@@ -2581,7 +2582,7 @@ Choose up to three non-Dead creatures in range, which must make a Charter Consti
  *Mold your own friend* 
 
 #### Quick Build
-You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Intelligence saving throws.
+You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Intelligence saving throws.
 
 ### Mordicant
   The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
@@ -2645,11 +2646,11 @@ ___
   | **Unhinging jaw**  | 4 | The Mordicant gains the ability to swallow targets. If the Attack hits, the target makes a Physical Strength of Physical Agility saving throw or become swallowed on failure. The swallowed target is Blinded and Restrained, it has total cover against attacks and other Effects outside the Mordicant, and it takes 5 (2d4) acid damage at the start of each of the Mordicants turns. The Mordicant can have only one target swallowed at a time. If the Mordicant dies, a swallowed creature is no longer Restrained by it and can escape from the corpse using 5 ft. of Movement, exiting prone. If the Mordicant takes more than 25% of his maximum hit points from a single hit, the creature is also expelled.|
   |**Improved Senses**|1|The Mordicant gains advantage on skill checks that rely on hearing or smell.| 
 |**Requires Level 6**|||
-  |**Addional arms**|4|The Mordicant grows two additional arms and gains Multi-attack, allowing it to use two of it's attacks per turn.|
+  |**Additional arms**|4|The Mordicant grows two additional arms and gains Multi-attack, allowing it to use two of its attacks per turn.|
   |**Crushing tendrils**|2|***Requires Tendrils.*** Any creature grappled by the Mordicant is now considered restrained.|
   |**Long legs**|2| The Mordicant gains 10ft of movement.|
   |**Soul buffer**|1| The Mordicant creates a buffer in the bond between you and it. The Psychic damage you take when the Mordicant dies is decreased to 25% of its hp.|
-  |**Challenging roar**|3|The Mordicant gains the ability to taunt enemies as an action. All enemies within 15ft of the Mordicant must make a Charter Charisma saving throw opposed by your spell casting DC. On failure, each creature must walk up to 15ft towards the Mordicant. The target also has disadvantage on all attack rolls not targeting the Mordicant until the end of your next turn.|
+  |**Infused Vocal Cord**|3|The Mordicant gains the ability to taunt enemies as an action. All enemies within 15ft of the Mordicant must make a Charter Charisma saving throw opposed by your spell casting DC. On failure, each creature must walk up to 15ft towards the Mordicant. The target also has disadvantage on all attack rolls not targeting the Mordicant until the end of your next turn.|
 </div>
 
 \page
@@ -2852,7 +2853,7 @@ ___
 - **Components:** V S M (either a pinch of dried carrot or an agate)
 - **Duration:** 8 Hours
 
-You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has darkvision out to a range of 60 feet. The creature can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The creature can't discern color in darkness, only shades of gray.
+You touch a willing creature to grant it the ability to see in the dark. For the duration, that creature has Darkvision out to a range of 60 feet. The creature can see in dim light within the radius as if it were bright light, and in darkness as if it were dim light. The creature can't discern colour in darkness, only shades of gray.
 
 \page
 
@@ -2865,7 +2866,7 @@ The Mysticist knows 3 subclasses which you choose one of at level 1. The availab
 *Who watches the Watchers?*
 
 #### Quick Build
-You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw defensive proficiency, picking atleast Agility and Constitution saving throws.
+You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
 
 ### Portent
 Glimpses of the future press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per Story Tick.
@@ -2886,9 +2887,6 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 - You always know which way is north.
 - You always know how the number of hours left before the next sunrise or sunset.
 
-<div style='margin-top:240px'></div>
-
-
 #### Prophecy of Life -1 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2898,6 +2896,7 @@ ___
 
 You can attempt to influence the future of a creature encased in Death Ice, by connecting to the creature's history. By creating a bond to the Death ice of a creature and learning its past, you can alter its future. The bond is created upon touch, but will remain as long as you are concentrating on this spell, without requiring further direct contact. While this spell is active, you can add or subtract your Intelligence skill check modifier to the creatures Death stabilisation skill checks.
 
+<div style='margin-top:10px'></div>
 
 #### Blast from the past -1 Stamina
 ___
@@ -3031,7 +3030,7 @@ You can see and hear a particular creature you choose that is on the same plane 
 <div style='column-count:1'>
 | Knowledge | Save Modifier |
 |:---:|:------------|
-|Secondhand (you have heard of the target) | 	+5|
+|Second hand (you have heard of the target) | 	+5|
 |Firsthand (you have met the target) |	0|
 |Familiar (you know the target well) |	-5|
 |**Connection**||
@@ -3062,11 +3061,11 @@ You create four glowing darts of magical force which you predict will hurt your 
 
 ## Level 7
 
-### Delaying Tactics 
+### Delay Tactics 
 At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
 ##### Not Right now
-You have forseen that your enemies are trying to hurt you. After failing a saving throw against a spell or harmful effect that targets only you, you can spend your reaction to delay it. Any damage or effects from the spell or harmful effect will be delayed to the end of your next turn. Additionally, you have disadvantage on your next saving throw, until the end of your next turn.
+You have foreseen that your enemies are trying to hurt you. After failing a saving throw against a spell or harmful effect that targets only you, you can spend your reaction to delay it. Any damage or effects from the spell or harmful effect will be delayed to the end of your next turn. Additionally, you have disadvantage on your next saving throw, until the end of your next turn.
 
 ##### Walk it off
 Whenever you are hit by an damaging effect, you can spend your reaction and 2 Stamina to take the damage at the end of your next turn instead. The damage cannot be reduced in any way and any other harmful effects will go into effect right away.
@@ -3080,7 +3079,7 @@ Whenever you are hit by an damaging effect, you can spend your reaction and 2 St
 *Double double trouble you bubble in a witches' brew*
 
 #### Quick Build
-You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw defensive proficiency, picking atleast Charisma and Constitution saving throws.
+You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
 
 ### Nature's guise
 Provided you have access to foliage, you can spend a minute to craft yourself a suit of foliage. The suit will last for 1 hour. 
@@ -3261,7 +3260,7 @@ Any creature that takes damage from this ability, becomes poisoned for up to 1 m
 
 _Exert: This spell's damage is increased by 2d12 poison damage. Affected creatures also have disadvantage on their saving throws to recover from the poison._
 
-<div style='margin-top:140px'></div>
+<div style='margin-top:200px'></div>
 
 ## Level 6
 
@@ -3402,7 +3401,7 @@ At 3rd level, you gain one of the following features of your choice. You can cha
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Sneak
-The teleport range of your shadow blink is trippled. 
+The teleport range of your shadow blink is tripled. 
 
 You also have advantage on any attempts to hide or avoid detection.
 
@@ -3461,7 +3460,7 @@ At 7rd level, you gain one of the following features of your choice. You can cha
 ##### Evasion
 You can nimbly dodge out of the way of certain area Effects. When you are subjected to an Effect that allows you to make a Physical saving throw to take only half damage, You can spend your reaction and 2 stamina to instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
-##### Winddancer
+##### Wind Dancer
 When an attacker that you can see hits you with an Attack, you can use your Reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
 
 
@@ -4263,12 +4262,23 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
   - Additional bestiary content
   - Additional content for higher levels
   - Additional choices within the classes & subclasses
-  - More love for Fighter & Ranger
   - Magic Items
   
  ## Unimplemented ideas
-  - Ranger push/pull effects like Eldritch blast?
-  - Fighter Evasion?
+  - New Class containing the following subclasses (class focused on speed & cunning action)
+	- Trickster (existing)
+		
+	- Grappler (Unarmed, unarmoured with prone synergies)
+		
+	- Morphling (Attune to beastly/magic aspects for buffs)
+	
+  - Mysticist new subclass Enchanter/Tinkerer (Enchant all the mechanical things).
+	
+- Frenzy zombies
+- Turn all subclasses into separate classes and making them share some abilities.
+- List of things I take from 5e and things I replace/adapt for additional clarification
+	
+
 
 
 
