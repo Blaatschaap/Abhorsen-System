@@ -1,4 +1,4 @@
-<style>
+**<style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
 </style>
@@ -1517,7 +1517,7 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 ### Class Features
 ___
 - **Hit Dice:** 2d6 per Spellslinger level
-- **Hit Points: ** 2d6 (or 8) + your Constitution modifier per Spellslinger level. Maximum values on level 1
+- **Hit Points: ** 2d6 (or 7) + your Constitution modifier per Spellslinger level. Maximum values on level 1
 - **Spell Attack bonus:** Aptitude + Aptitude
 - **DC:** 8 + Intelligence + Aptitude
 - **Magic Type:** Charter
@@ -2141,7 +2141,7 @@ _Exert: Choose up to 5 points within range._
 ### Class Features
 ___
 - **Hit Dice:** 2d6 per Flesh Binder level
-- **Hit Points: ** 2d6 (or 8) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
+- **Hit Points: ** 2d6 (or 7) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
 - **DC:** 8 + Charisma + Aptitude
 - **Magic Type:** Free Magic
 
@@ -2220,7 +2220,7 @@ As a Flesh Binder, you have a special connection with Death. As long as you have
 ### Convocation
 When you take damage, you can spend your reaction to teleport one of the Lesser or Medium Dead under your control to an unoccupied space next to you.
 
-#### Sculpt Corpse -1 Stamina
+#### Conjure Flesh -1 Stamina
 ___
 - **Casting Time:** 1 minute
 - **Range:** 60ft
@@ -2737,7 +2737,7 @@ Your bond with the Mordicant intensifies. Any Mordicant under your control gains
 ### Class Features
 ___
 - **Hit Dice:** 2d8 per Mysticist level
-- **Hit Points: ** 2d8 (or 10) + your Constitution modifier per Mysticist level. Maximum values on level 1
+- **Hit Points: ** 2d8 (or 9) + your Constitution modifier per Mysticist level. Maximum values on level 1
 - **Spell Attack bonus:** Agility + Intelligence
 - **DC:** 8 + (Agility or Intelligence) + Aptitude
 - **Magic Type:** Charter Magic
@@ -3298,6 +3298,47 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 
 <div class='pageNumber auto'></div>
 
+## Tinkerer
+*C'mon in, I'll give ya the tour! NO TOUCHING!*
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+## Edge Dancer TODO
+
+### Class Features
+___
+- **Hit Dice:** 2d10 per Swifty level
+- **Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
+- **DC:** 8 + Agility + Constitution
+- **Magic Type:** Free Magic
+
+#### Proficiencies
+___
+- **Armour:** Light armour
+- **Weapons:** Simple weapons, Martial weapons
+
+#### Equipment TODO
+You start with the following equipment, in addition to the equipment granted by your background:
+ - any two simple melee weapons
+ - *(a)* a longbow and 20 arrows or *(b)* a hand crossbow and 20 bolts or *(c)* a finesse martial weapon (if proficient)
+ - Leather armour
+ - *(a)* Priest's pack or *(b)* a Explorer's pack
+
+#### Subclasses
+The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Infuser
+
+
+### Cunning Action
+Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 ## Trickster  
 *Now you see me, now I'm gone!*
 
@@ -3334,11 +3375,6 @@ ___
 You can teleport to an unoccupied space within 10ft you can see, provided the destination as well as the origin is within dim light. You cannot perform this action while grappled or restrained. This also does not allow you to pass through solid objects.
 
 <div style='margin-top:150px'></div>
-
-
-### Cunning Action
-Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
-
 
 #### Pocket sand -1 Stamina
 ___
@@ -3457,7 +3493,7 @@ For the duration, the illusion can perform all your actions and abilities, provi
 ### Dodging Tactics 
 At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
-##### Evasion
+##### Dodge
 You can nimbly dodge out of the way of certain area Effects. When you are subjected to an Effect that allows you to make a Physical saving throw to take only half damage, You can spend your reaction and 2 stamina to instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Wind Dancer
@@ -3467,6 +3503,44 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 \page
 
 <div class='pageNumber auto'></div>
+
+## Grappler
+
+### Hop up
+You do not provoke attacks of opportunity when you get up from prone.
+
+### Beat down
++1d4 + Edge dancer level damage when hitting prone creatures.
+
+### Unarmed strike
+Your unarmed strikes follow the rules for finesse weapons or impact weapons, which you choose before a strike. You can roll a d4 in place of the normal damage of your unarmed strike. This die changes at level 3 to a d6, at level 6 to a d8 and at level 9 to a d10.
+
+When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with an unarmed strike, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
+
+### Unarmoured Defense
+While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility modifier + your Reflexes modifier. 
+
+### Uncanny dodge
+Starting at 5th Level, when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.
+\page
+
+<div class='pageNumber auto'></div>
+
+## Infuser
+
+#### Battle roar
+___
+- **Casting Time:** 1 bonus action
+- **Range:** 30ft
+- **Components:** V
+- **Duration:** Up to 10 Story ticks
+
+You give off an impressive roar and inspire your allies. Any Non-Dead ally in range gains your Strength modifier in damage to any hits they do.
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 # Equipment
 
@@ -4247,6 +4321,57 @@ ___
 
 <div class='pageNumber auto'></div>
 
+# Changes from 5e
+In this chapter you can find on a broad level what rules from 5e I have changed or replaced and which I've kept.
+
+## Removed
+ - All classes
+ - All skill's
+ - Spell(slot) system
+ 
+## Heavily Changed
+ - Ability scores
+ - Saving throws
+ - Skill checks
+ - Planes of existance
+ - Dropping to 0 hp
+ 
+## Minor changes
+ - Getting up from prone
+ - Maximum level(10)
+ - Equipment
+ - Flanking
+ - Using potions
+ - Feats
+ 
+ 
+## Optional rules used
+ - Massive Damage
+
+## No changes
+ - Action economy
+ - Conditions
+
+## Additions
+ - 4 new classes with 12 subclasses in total
+ - New bestiary
+ - Dual Skill check system
+ - Stamina System/Actions
+ - Defensive proficiency
+ - Exert
+ - Death Plane
+ - Brawn/Nimble/Impact weapons
+ - Ammunition Modifications
+ - Dazed condition
+ - Tactics features
+ - Story time
+ - New Potions
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 <div class='wide' style='text-align:center'>
 # Credits
 
@@ -4281,6 +4406,8 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
 
 
 
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -4302,7 +4429,7 @@ identified as Product identity by the owner of the Product Identity, and which s
 “Used” or “Using” means to use, Distribute, copy, edit, format, modify, translate and otherwise create Derivative Material of Open Game Content. (h) “You” or “Your” means the licensee in terms of this agreement.
 
 2. The License: This License applies to any Open Game Content that contains a notice indicating that the Open Game Content may only be Used under and in terms of this License. You must affix such a notice to any Open Game Content that you Use. No terms may be added to or subtracted from this License except as described by the License itself. No other terms or conditions may be applied to any Open Game Content distributed using this License.
-
+****
 3. Offer and Acceptance: By Using the Open Game Content You indicate Your acceptance of the terms of this License.
 
 4. Grant and Consideration: In consideration for agreeing to use this License, the Contributors grant You a perpetual, worldwide, royalty-free, non-exclusive license with the exact terms of this License to Use, the Open Game Content.
