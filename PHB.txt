@@ -1,4 +1,4 @@
-**<style>
+<style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
 </style>
@@ -3310,7 +3310,7 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 
 ### Class Features
 ___
-- **Hit Dice:** 2d10 per Swifty level
+- **Hit Dice:** 2d10 per Edge Dancer level
 - **Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
 - **DC:** 8 + Agility + Constitution
 - **Magic Type:** Free Magic
@@ -3491,7 +3491,7 @@ For the duration, the illusion can perform all your actions and abilities, provi
 ## Level 7
 
 ### Dodging Tactics 
-At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
 ##### Dodge
 You can nimbly dodge out of the way of certain area Effects. When you are subjected to an Effect that allows you to make a Physical saving throw to take only half damage, You can spend your reaction and 2 stamina to instead take no damage if you succeed on the saving throw, and only half damage if you fail.
@@ -3510,7 +3510,7 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 You do not provoke attacks of opportunity when you get up from prone.
 
 ### Beat down
-+1d4 + Edge dancer level damage when hitting prone creatures.
+Whenever you hit a prone creature, you deal an additional 1d4 + Edge dancer level damage. This ability’s damage increases by 1d4 when you reach 3th level (2d4), 6th level (3d4), and 9th level (4d4).
 
 ### Unarmed strike
 Your unarmed strikes follow the rules for finesse weapons or impact weapons, which you choose before a strike. You can roll a d4 in place of the normal damage of your unarmed strike. This die changes at level 3 to a d6, at level 6 to a d8 and at level 9 to a d10.
@@ -3520,8 +3520,42 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 ### Unarmoured Defense
 While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility modifier + your Reflexes modifier. 
 
+### Flying Bearhug -1 Stamina
+If you move at least 20ft straight toward a melee target, you can jump at the target and try to wrestle it to the ground. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone. If the target goes prone, you also go prone, but you get to perform a headbut as a free action without paying the stamina cost.
+
+### Headbutt -1 Stamina
+Target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
+This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
+
+### Clothesline -2 Stamina
+You can use your action to make a melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
+
+_Exert: Strike up to two targets within melee range._
+
+## Level 2
+### Claw Hands
+Whenever you strike an enemy with an unarmed strike, you can choose to not deal damage, but instead grappling the target.
+
+### Gorilla Press Slam -2 Stamina
+Lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. 
+
+## Level 3
+### Wrestling Tactics 
+At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Extra Attack
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+##### Endurance training
+The first class stamina ability you use per turn, costs 1 stamina less.
+
+### Suplex -3 Stamina
+Lift a large or smaller grappled target over your head and slam the target headfirst into the ground behind you. Target is moved to an unoccupied location within 5 ft of you. The target must also make a Physical Strength saving throw. On a failed saving throw, the target takes 2d10 bludgeoning damage and is considered stunned and prone, but no longer grappled. On a succesful saving throw the target takes half damage, is knocked prone, but is not stunned or grappled.
+
+
 ### Uncanny dodge
 Starting at 5th Level, when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.
+
 \page
 
 <div class='pageNumber auto'></div>
