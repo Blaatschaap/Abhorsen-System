@@ -3330,9 +3330,32 @@ You start with the following equipment, in addition to the equipment granted by 
 #### Subclasses
 The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Infuser
 
+### Dance Poses
+At level 1 you get the ability to adopt fighting poses with which you can gain benefits for your next turn. Each of these pose require a bonus action to activate.
 
+##### Reactive pose
+Until the start of your next turn, you have two reactions.
+
+##### Opportunity pose
+Until the start of your next turn, the first attack of opportunity you hit, is an automatic critical hit.
+
+##### Deflective pose
+You can use your reaction to deflect a weapon until the start of your next turn. When you are hit by a melee weapon attack, the damage you take from the attack is reduced by your Agility skill check modifier.
+
+##### Sly Pose
+When you take damage from a creature that is within 5 feet of you, you can use your reaction to adjust your defenses. Once you do, the creature has disavantage on its attacks against you until you take damage from the creature again or the start of your next turn, whichever is sooner.
+
+## Level 2
 ### Cunning Action
 Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
+
+<div style='margin-top:140px'></div>
+
+
+## Level 4
+### Fast Movement
+Starting at 4th level, your speed increases by 10 feet.
+
 
 
 \page
@@ -3521,7 +3544,7 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility modifier + your Reflexes modifier. 
 
 ### Flying Bearhug -1 Stamina
-If you move at least 20ft straight toward a melee target, you can jump at the target and try to wrestle it to the ground. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone. If the target goes prone, you also go prone, but you get to perform a headbut as a free action without paying the stamina cost.
+If you move at least 20ft straight toward a melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbut as bonus action without paying the stamina cost.
 
 ### Headbutt -1 Stamina
 Target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
@@ -3531,6 +3554,9 @@ This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th lev
 You can use your action to make a melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
 
 _Exert: Strike up to two targets within melee range._
+
+<div style='margin-top:140px'></div>
+
 
 ## Level 2
 ### Claw Hands
@@ -3549,10 +3575,11 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 ##### Endurance training
 The first class stamina ability you use per turn, costs 1 stamina less.
 
+## Level 4
 ### Suplex -3 Stamina
 Lift a large or smaller grappled target over your head and slam the target headfirst into the ground behind you. Target is moved to an unoccupied location within 5 ft of you. The target must also make a Physical Strength saving throw. On a failed saving throw, the target takes 2d10 bludgeoning damage and is considered stunned and prone, but no longer grappled. On a succesful saving throw the target takes half damage, is knocked prone, but is not stunned or grappled.
 
-
+## Level 5
 ### Uncanny dodge
 Starting at 5th Level, when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.
 
