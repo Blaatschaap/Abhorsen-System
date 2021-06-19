@@ -3312,7 +3312,7 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 ___
 - **Hit Dice:** 2d10 per Edge Dancer level
 - **Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
-- **DC:** 8 + Agility + Constitution
+- **DC:** 8 + (Strength or Agility) + Constitution
 - **Magic Type:** Free Magic
 
 #### Proficiencies
@@ -3328,7 +3328,7 @@ You start with the following equipment, in addition to the equipment granted by 
  - *(a)* Priest's pack or *(b)* a Explorer's pack
 
 #### Subclasses
-The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Infuser
+The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Morphling
 
 ### Dance Poses
 At level 1 you get the ability to adopt fighting poses with which you can gain benefits for your next turn. Each of these pose require a bonus action to activate.
@@ -3350,6 +3350,13 @@ When you take damage from a creature that is within 5 feet of you, you can use y
 Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
 
 <div style='margin-top:140px'></div>
+
+## Level 3
+### Ability Score Improvement 
+
+When you reach third level and again at 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
 
 
 ## Level 4
@@ -3445,12 +3452,6 @@ When a creature hits you with an Attack, you gain a +4 bonus to AC against all s
 
 <div class='pageNumber auto'></div>
 
-### Ability Score Improvement 
-
-When you reach second level, and again at 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
-
-Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
-
 ## Level 3
 
 ### Rogue Tactics 
@@ -3478,7 +3479,6 @@ ___
 
 You touch a non-magical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to attack rolls and damage rolls.
 
-<div style='margin-top:340px'></div>
 
 ## Level 5
 #### Blitz strike -3 Stamina
@@ -3493,6 +3493,8 @@ You flourish the weapon used in the casting and then teleport to the back of a t
 If there are not enough targets within range, or if you choose not to teleport on, you end at your last target in an unoccupied space within 5ft of the target. 
 
 _Exert: Attack a fourth target. This can be the same target as the first or the second target._
+
+<div style='margin-top:340px'></div>
 
 ## Level 6
 #### Invoke Duplicity -4 Stamina
@@ -3544,7 +3546,9 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility modifier + your Reflexes modifier. 
 
 ### Flying Bearhug -1 Stamina
-If you move at least 20ft straight toward a melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbut as bonus action without paying the stamina cost.
+If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbut as bonus action without paying the stamina cost.
+
+_Exert: You can target up to Huge creatures._
 
 ### Headbutt -1 Stamina
 Target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
@@ -3587,16 +3591,84 @@ Starting at 5th Level, when an attacker that you can see hits you with an Attack
 
 <div class='pageNumber auto'></div>
 
-## Infuser
+## Morphling
 
-#### Battle roar
+### Morph Aspect -2 Stamina
+___
+- **Casting Time:** 1 free action
+- **Range:** Self
+- **Components:** S
+- **Duration:** Instantaneous
+
+Using Free Magic you can morph parts of your body to resemble a free magic creature. Doing so will grant you some aspects of the Free Magic Creature. The morph will last up to 5 Story ticks. You can have one aspect morphed at a time on level one, but can morph up to 2 aspects at level 4 and up to 3 aspects on level 7.
+
+##### Stilken
+Your feet grow short tiny hooks. You gain half your movement speed in climbing speed.
+##### Hish
+Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn.
+##### Aziminil
+Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft Darkvision.
+##### Baazalanan
+Your arms grow long and spindly. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+##### Hrule
+Your eyes go black and any damage you deal changes to Necrotic damage. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
+##### Greten
+Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
+
+### Great Weapon Fightning
+When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
+
+#### Battle roar -1 Stamina
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 30ft
 - **Components:** V
 - **Duration:** Up to 10 Story ticks
 
-You give off an impressive roar and inspire your allies. Any Non-Dead ally in range gains your Strength modifier in damage to any hits they do.
+You give off an impressive roar and inspire your allies. You and any Non-Dead ally in range gain half your Strength or Agility modifier rounded up in damage to any hits they do.
+
+#### Scale Blessing -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 30ft
+- **Components:** V, S
+- **Duration:** Up to 1 hour
+
+Target creature grows scales over his entire body, protecting it from damage. The target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
+
+#### Protection from Free Magic -3 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, Up to 1 hour
+
+Until the spell ends, one willing creature you touch is protected against Free Magic creatures. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+
+_Exert: Target up to two creatures._
+
+## level 2
+### Flash of Corruption -2 Stamina
+You bless your attacks with the decaying touch of Free Magic. Starting at 2nd Level, when you hit a creature with a melee weapon attack, you can expend 2 Stamina to deal 2d8 necrotic damage to the target, in addition to the weapon's damage. This ability’s damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8).
+
+## Level 3
+### Decay Tactics 
+At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Extra Attack
+You can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+##### Aura of Decay
+Any enemies within a 15ft radius around you deduct your Charisma modifier from any saving throw they do.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 4
+### Relentless Hunger
+By 4th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
 
 \page
 
@@ -4180,7 +4252,7 @@ ___
 > ___
 > - **Armour Class** 17
 > - **Hit Points** 103
-> - **Speed** 30ft.
+> - **Speed** 30ft., climb 30ft.
 >___
 >|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 >|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
