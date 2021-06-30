@@ -2756,10 +2756,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - Potion you can brew
 
 #### Subclasses
-The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Trickster.
-
-### Archery
-You gain a +2 bonus to attack rolls you make with ranged weapons. 
+The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Tinkerer.
 
 ### Brew healing potion 
 As a mysticist, you know how to brew healing potions. To do this, you must gather the required herbs and brew them to a potion. The cost represents the average cost for which a shop may sell the required herbs. Finding these herbs in the wild will be generally rare. 
@@ -2860,7 +2857,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 <div class='pageNumber auto'></div>
 
 # Subclasses
-The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Trickster.
+The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Tinkerer.
 
 ## Watcher
 *Who watches the Watchers?*
@@ -2887,6 +2884,13 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 - You always know which way is north.
 - You always know how the number of hours left before the next sunrise or sunset.
 
+
+### Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons. 
+
+<div style='margin-top:1000px'></div>
+
+
 #### Prophecy of Life -1 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2896,7 +2900,6 @@ ___
 
 You can attempt to influence the future of a creature encased in Death Ice, by connecting to the creature's history. By creating a bond to the Death ice of a creature and learning its past, you can alter its future. The bond is created upon touch, but will remain as long as you are concentrating on this spell, without requiring further direct contact. While this spell is active, you can add or subtract your Intelligence skill check modifier to the creatures Death stabilisation skill checks.
 
-<div style='margin-top:10px'></div>
 
 #### Blast from the past -1 Stamina
 ___
@@ -3086,7 +3089,10 @@ Provided you have access to foliage, you can spend a minute to craft yourself a 
 
 Once you are camouflaged in this way, you can try to hide as a bonus action by pressing yourself up against a tree, plant or bush, that is at least as tall and wide as you are. 
 
-<div style='margin-top:140px'></div>
+### Archery
+You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+<div style='margin-top:60px'></div>
 
 ### Mix potion
 Besides being able to brew the basic healing potions, you are able to craft more different kinds of potions. At level 1 you can choose 3 recipes, respecting level restrictions. At every level up, you can choose one additional recipe.
@@ -3301,6 +3307,335 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 ## Tinkerer
 *C'mon in, I'll give ya the tour! NO TOUCHING!*
 
+#### Quick Build
+
+
+### Infuse Item
+You've gain the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
+
+#### Infusing an Item
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your Tinkerer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
+
+Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.
+
+You can infuse more than one nonmagical object at the end of a long rest. the maximum number of objects appears in the Infusions Items table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion ends, and then the new infusion applies.
+
+#### Infusions Known
+When you gain this feature, pick four Tinkerer infusions to learn. 
+You learn additional infusions of your choice when you reach 3rd level (6 total), 6th level (8 total), and 9th level (12 total).
+
+Whenever you gain a level in this class, you can replace one of the Tinkerer infusions you learned with a new one.
+
+##### Infusions Items
+| Level | Infusions known | Max infused Items |
+|:----:	|:-------------		|:----|
+| 0-2  	| 3 							|2		|
+| 3-5  	| 5 							|3		|
+| 6-8 	| 8 							|4		|
+| 9+ 		| 12 							|5		|
+
+<div style='margin-top:240px'></div>
+
+
+
+#### Magic Mark
+___
+- **Casting Time:** 1 action
+- **Range:** touch
+- **Components:** V, S
+- **Duration:** Indefinitely (see description)
+
+You've learned how to invest a spark of magic into mundane objects. You touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+
+ - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+ - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+ - The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+ - A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+
+You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+
+### Rapid Prototyping
+As an action, you can build a variety of prototype constructs. Each of these has their own uses and special quirks, but also share a few characteristics. None of your prototypes are built to last or could be considered reliable, nor can you resist putting in a way to move them. 
+
+Each prototype costs some stamina to create and has its own statistics block. Each prototype takes its turn right after yours, in the order of their remaining duration, starting with the prototype with the most duration. 
+
+You also have the following actions with which you can interact with your prototypes:
+
+- As a bonus action, you can move an active prototype under your control up to 30 feet.
+
+- As an action, you can fix a prototype, resetting its duration and restoring 2d4 + 2 x Mysticist level hit points.
+
+- If the duration of a prototype expires, they are no longer considered magical and stop functioning. They do still occupy their location and cannot be easily moved through (given the prototype is of size small or larger). As an action, you can reactivate a prototype without spending the material components.
+
+
+
+
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+There is a limit to how many prototypes you can have under your control, which can be found in the table below.
+
+##### Prototypes
+| Level | Max Active Prototypes |
+|:----:	|:-------------		|
+| 0-2  	| 2 							|
+| 3-5  	| 3 							|
+| 6-8 	| 4 							|
+| 9+ 		| 5 							|
+
+
+#### Prototype Lightning Rod -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (a metal rod of atleast 3 ft)
+- **Duration:** 1 minute
+
+___
+> ## Prototype Lightning Rod
+>*Medium*  ***Construct***
+> ___
+> - **Armour Class** 12
+> - **Hit Points** 10 + 3x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|8 (-1)|8 (-1)|8 (-1)|12 (+1)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ***Pass Through.*** The Prototype Lightning Rod does not block creatures from passing through its location, but does use its Shock action on each creature passing through. Creatures can only be Shocked once per turn through the means of Pass Through.
+>
+> ### Actions
+> ***Shock.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 90 ft., one target you can see. Hit: 1d6 + Mysticist level Lightning damage.
+
+<div style='margin-top:340px'></div>
+
+
+
+#### Prototype Sheep -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (metal scraps)
+- **Duration:** 1 minute
+
+___
+> ## Prototype Sheep
+>*Small*  ***Construct***
+> ___
+> - **Armour Class** 8
+> - **Hit Points** 10 + 5x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|8 (-1)|8 (-1)|8 (-1)|12 (+1)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ***Planned Obsolescence.*** If the Prototype Sheep expires or reaches 0 hit points, it uses its detonate action.
+>
+> ### Actions
+>
+> ***Detonate.*** Each creature within 20 feet of the Prototype Sheep must make a Physical Agility saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one. After using this ability, the Prototype Sheep is considered 'no more' and cannot be fixed or reactivated, nor does it still occupy its location.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+### Arcane Infusions
+
+___
+> ## Arcane Propulsion Armour
+>*Prerequisite: 7th Mysticist*
+>
+>*Item: A suit of armor (requires attunement)*
+> ___
+> The wearer of this armor gains these benefits:
+>
+> - The wearer's walking speed increases by 5 feet.
+> - The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
+> - The armor can't be removed against the wearer's will.
+> - If the wearer is missing any limbs, the armor replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+
+___
+> ## Armour of Magical Strength
+>
+>*Item: A suit of armor (requires attunement)*
+> ___
+> This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
+> - When the wearer makes a Strength check or a Physical Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
+> - If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
+>
+> The armor regains 1d6 expended charges daily at dawn.
+
+___
+> ## Boots of the Winding Path
+>
+>*Prerequisite: 3rd-level Mysticist*
+>*Item: A pair of boots (requires attunement)*
+>___
+>While wearing these boots, a creature can teleport up to 15 feet as a bonus action to an unoccupied space the creature can see. The creature must have occupied that space at some point during the current turn.
+
+___
+> ## Enhanced Arcane Focus
+>
+> *Item: A rod, staff or wand (requires attunement)*
+> ___
+> While holding this item, a creature gains +1 bonus to spell attack rolls. In addition, the creature ignores half cover when making a spell attack.
+>
+> The bonus increases to +2 when you reach 6th level in this class.
+
+___
+> ## Enhanced Defense
+>
+>*Item: A suit of armor or a shield*
+>___
+>A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+>
+>The bonus increases to +2 when you reach 6th level in this class.
+
+
+___
+> ## Enhanced Weapon
+>
+>*Item: A simple or martial weapon*
+>___
+>This magic weapon grants a +1 bonus to attack and damage rolls made with it.
+>
+>The bonus increases to +2 when you reach 6th level in this class.
+
+___
+> ## Helm of Awareness
+>
+>*Prerequisite: 6th-level Mysticist*
+>*Item: A helmet (requires attunement)*
+>___
+>While wearing this helmet, a creature has advantage on initiative rolls. In addition, the wearer can’t be surprised, provided it isn’t incapacitated.
+
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+> ## Homunculus Servant
+>
+>*Item: A gem or crystal worth at least 100 gp*
+>___
+>You learn intricate methods for magically creating a special homunculus that serves you. The item you infuse serves as the creature's heart, around which the creature's body instantly forms.
+>
+>You determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.
+>
+>The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
+>
+>In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
+>
+>The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
+
+___
+> ## Homunculus Servant
+>*Tiny* ***Construct***
+> ___
+> - **Armour Class** 13 (natural armour)
+> - **Hit Points** 1 + your Intelligence modifier + 2 x your Mysticist level (the homunculus has a number of Hit Dice 2d4s equal to your Mysticist level)
+> - **Speed** 20ft., fly 30ft.
+>___
+>|STR		|AGI		|REF		|CON		|INT		|CHA		|APT|
+>|:--:	|:--:		|:--:		|:--:		|:--:		|:--:		|:--:|
+>|4 (-3)|15 (+2)|12 (+1)|12 (+1)|10 (+0)	|7 (-2)	|12 (+1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> - **Senses** darkvision 60 ft., passive Perception 10 + (PB x 2)
+> - **Languages** understands the languages you speak
+> - **Proficiency Bonus (PB):** equals your bonus
+> ___
+>***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
+>
+> ___
+> ### Actions
+> ***Force Strike.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
+> ___
+> ### Reactions
+> ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
+
+___
+> ## Mind Sharpener
+>
+>*Item: A suit of armor or robes*
+>___
+>The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Charter Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+> ## Radiant Weapon
+>
+>*Prerequisite: 3rd-level Mysticist*
+>*Item: A simple or martial weapon (requires attunement)*
+>___
+>This magic weapon grants a + 1 bonus to attack and damage rolls made with it. While holding it, the wielder can take a bonus action to cause it to shed bright light in a 30-foot radius and dim light for an additional 30 feet. The wielder can extinguish the light as a bonus action.
+>
+>The weapon has 4 charges. As a reaction immediately after being hit by an attack, the wielder can expend 1 charge and cause the attacker to be blinded until the end of the attacker's next turn, unless the attacker succeeds on a Physical Constitution saving throw against your spell save DC. The weapon regains 1d4 expended charges daily at dawn.
+
+___
+> ## Repeating Shot
+>
+>*Item: A simple or martial weapon with the ammunition property (requires attunement)*
+>___
+>This magic weapon grants a + 1 bonus to attack and damage rolls made with it when it's used to make a ranged attack, and it ignores the loading property if it has it.
+>
+>If you load no ammunition in the weapon, it produces its own, automatically creating one piece of magic ammunition when you make a ranged attack with it. The ammunition created by the weapon vanishes the instant after it hits or misses a target.
+
+___
+> ## Repulsion Shield
+>
+>*Prerequisite: 3rd-level Mysticist*
+>*Item: A shield (requires attunement)*
+>___
+>A creature gains a +1 bonus to Armor Class while wielding this shield.
+>
+>The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
+
+___
+> ## Resistant Armor
+>
+>*Prerequisite: 3rd-level Mysticist*
+>*Item: A suit of armor (requires attunement)*
+>___
+>While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+
+___
+> ## Returning Weapon
+>
+>*Item: A simple or martial weapon with the thrown property*
+>___
+>This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack.
+
+___
+> ## Stamina-Refueling Ring
+>
+>*Prerequisite: 3rd-level Mysticist*
+>*Item: A ring (requires attunement)*
+>___
+>While wearing this ring, the creature can recover 2 Stamina as an action. Once used, the ring can't be used again until the next dawn.
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -3373,7 +3708,7 @@ Starting at 4th level, your speed increases by 10 feet.
 *Now you see me, now I'm gone!*
 
 #### Quick Build
-You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Intelligence. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Constitution. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative defensive proficiency.
 
 ### Mage hand
 ___
@@ -3424,7 +3759,7 @@ ___
 - **Components:** V
 - **Duration:** Up to 1 minute
 
-You extend your hand and trace a sigil of warding in the air. Phantom like blade will form and ward you from any attacks. You gain 5 x Mysticist level in temporary hit points for the duration. While you have temporary hit points from blade ward, enemies have disadvantage to hit you with attack rolls.
+You extend your hand and trace a sigil of warding in the air. Phantom like blade will form and ward you from any attacks. You gain 5 x Edge Dancer level in temporary hit points for the duration. While you have temporary hit points from blade ward, enemies have disadvantage to hit you with attack rolls.
 
 #### Fan of knives -3 Stamina
 ___
@@ -3530,6 +3865,10 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 <div class='pageNumber auto'></div>
 
 ## Grappler
+*Boot tot the head!*
+
+#### Quick Build
+
 
 ### Hop up
 You do not provoke attacks of opportunity when you get up from prone.
@@ -3592,6 +3931,9 @@ Starting at 5th Level, when an attacker that you can see hits you with an Attack
 <div class='pageNumber auto'></div>
 
 ## Morphling
+*Looks are only temporary!*
+
+#### Quick Build
 
 ### Morph Aspect -2 Stamina
 ___
