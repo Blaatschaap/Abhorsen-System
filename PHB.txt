@@ -1344,7 +1344,7 @@ You gain a +2 bonus to attack rolls you made with Nimble weapons.
 You can reload your crossbows and blow darts as part of the attack.
 
 ### Imbue ammunition
-You can imbue your ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. You imbue one item of your ammunition at a time. The Stamina cost will depend on the imbuement:
+You can imbue one item of ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. Ammunition can be imbued only once. The Stamina cost will depend on the imbuement:
 
 | Imbue | Cost | Effect |
 |:----:|:---|:|
@@ -1394,7 +1394,7 @@ At 6th level you gain additional imbuement options for your ammunition
 | Imbue | Cost | Effect |
 |:----:|:---|:|
 | Shade  | 1 | On hit, the target must make a Charter Charisma saving throw, or its vision is reduced to 5 ft  until the start of your next turn.|
-| Seeking  | 2 | You don't make an attack roll for any attack made with seeking ammunition. The attack will automatically hit, but cannot perform critical hits.|
+| Seeking  | 2 | You don't make an attack roll for any attack made with seeking ammunition. The attack will automatically hit, but cannot perform critical hits. Normal rules for targeting still apply.|
 | Walloping  | 2 | This ammunition packs a wallop. A creature hit by the ammunition must succeed on a Physical Strength saving throw or be knocked prone.|
 
 \page
@@ -2687,7 +2687,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, Up to 1 minute
 
-You send your conscience through your bond to a Mordicant you control. On your turn, you can control the Mordicant directly and perform any actions or movement the Mordicant can. This does not prevent the Mordicant from performing its own turn. The fuse has a maximum of 200ft range before you are snapped back into your own body, stunning you until the end of your next turn. Whilst fused, your body is considered paralysed, deafened and blinded. 
+You send your conscience through your bond to a Mordicant you control. On your turn, you can control the Mordicant directly and perform any actions or movement the Mordicant can. This does not prevent the Mordicant from performing its own turn. The fuse has a maximum of 200ft range before you are snapped back into your own body, stunning you until the end of your next turn. Whilst fused, your body is considered paralysed, deafened, muted and blinded. 
 
 ## Level 2
 
@@ -3360,6 +3360,26 @@ The chosen property lasts indefinitely. As an action, you can touch the object a
 
 You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
 
+#### Spark -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 90 ft
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+You shoot a projectile towards a target you can see. The target must make a Physical Agility saving throw, taking 2d6 lightning damage on a failed saving throw, or half on a succesful saving throw. 
+
+Whether success or fail, each other creature within 10 feet of the target must also make a Physical Agility saving throw, taking 1d6 lightning damage on a failed saving throw or half on a succesful saving throw.
+
+This spell’s damage increases by 1d6 when you reach 4th level (3d6 and 2d6), 7th level (4d6 and 3d6), and 10th level (5d6 and 4d6).
+
+_Exert: The area of the lightning explosion is increased to 20feet from the target._
+
+\page
+
+<div class='pageNumber auto'></div>
+
+<div class='wide'>
 ### Rapid Prototyping
 As an action, you can build a variety of prototype constructs. Each of these has their own uses and special quirks, but also share a few characteristics. None of your prototypes are built to last or could be considered reliable, nor can you resist putting in a way to move them. 
 
@@ -3368,20 +3388,8 @@ Each prototype costs some stamina to create and has its own statistics block. Ea
 You also have the following actions with which you can interact with your prototypes:
 
 - As a bonus action, you can move an active prototype under your control up to 30 feet.
-
 - As an action, you can fix a prototype, resetting its duration and restoring 2d4 + 2 x Mysticist level hit points.
-
 - If the duration of a prototype expires, they are no longer considered magical and stop functioning. They do still occupy their location and cannot be easily moved through (given the prototype is of size small or larger). As an action, you can reactivate a prototype without spending the material components.
-
-
-
-
-
-
-
-\page
-
-<div class='pageNumber auto'></div>
 
 There is a limit to how many prototypes you can have under your control, which can be found in the table below.
 
@@ -3393,6 +3401,7 @@ There is a limit to how many prototypes you can have under your control, which c
 | 6-8 	| 4 							|
 | 9+ 		| 5 							|
 
+</div>
 
 #### Prototype Lightning Rod -2 Stamina
 ___
@@ -3420,9 +3429,8 @@ ___
 > ### Actions
 > ***Shock.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 90 ft., one target you can see. Hit: 1d6 + Mysticist level Lightning damage.
 
-<div style='margin-top:340px'></div>
 
-
+<div style='margin-top:140px'></div>
 
 #### Prototype Sheep -2 Stamina
 ___
@@ -3450,6 +3458,89 @@ ___
 > ### Actions
 >
 > ***Detonate.*** Each creature within 20 feet of the Prototype Sheep must make a Physical Agility saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one. After using this ability, the Prototype Sheep is considered 'no more' and cannot be fixed or reactivated, nor does it still occupy its location.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 2
+#### Prototype Wall -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (a metal sheet of atleast 3 ft wide)
+- **Duration:** 10 Story Ticks
+
+___
+> ## Prototype Wall
+>*Large*  ***Construct***
+> ___
+> - **Armour Class** 18
+> - **Hit Points** 30 + 3x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|8 (-1)|8 (-1)|8 (-1)|12 (+1)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ***Wall.*** The Prototype Wall provides three-quarters cover against any ranged attacks for any creature next to the wall, provided the attack is coming from the other side of the wall. The wall does not inhibit vision for creatures next to the wall.
+
+#### Mending
+___
+- **Casting Time:** 1 minute
+- **Range:** touch
+- **Components:** V S M (Two lodestones)
+- **Duration:** Instantaneous
+
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+
+## Level 3
+### Mechanical Tactics 
+At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Mass Prototyping
+All Prototype spells gain the the following exert:
+
+_Exert: Build two prototypes instead of one._
+
+##### Efficient Prototyping
+Your maximum amount of active Prototypes is increased by 50%, rounding up.
+
+<div style='margin-top:140px'></div>
+
+
+
+## Level 4
+#### Prototype Horse -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (a metal sheet of atleast 3 ft wide)
+- **Duration:** 10 Story Ticks
+
+___
+> ## Prototype Horse
+>*Large*  ***Construct***
+> ___
+> - **Armour Class** 12
+> - **Hit Points** 15 + 3x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|8 (-1)|8 (-1)|8 (-1)|12 (+1)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ***Born to run.*** Whenever the Prototype Horse is moved as a bonus action, it moves twice as far.
+>
+> ***Trample.*** The Prototype Horse can move through enemies, but must end in a unoccupied location. Any creatures the Prototype Horse walked over, must make a Physical Strength saving throw. They take 2d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone.
+
+
 
 \page
 
