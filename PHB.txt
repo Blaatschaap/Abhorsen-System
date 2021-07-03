@@ -2587,7 +2587,7 @@ You can make an Animator quickly by following these suggestions. First, Constitu
 ### Mordicant
   The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
   
-  A Mordicant counts as a Greater Dead, but will never break free of your control for being over your maximum number of Dead controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
+  A Mordicant counts as a Greater Dead towards your maximum amount of Dead, but will never break free of your control for being over your maximum number of Dead controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
 
 
 | Level | Adaptation Points | Mordicant AC | Mordicant Hit Points | Mordicant Str |
@@ -2600,7 +2600,7 @@ You can make an Animator quickly by following these suggestions. First, Constitu
 <div style='margin-top:40px'></div>
 
 #### Soul Bond
-To create the Mordicant, you have bonded your soul to your Mordicant and are able to control the Mordicant even if you are considered unconscious or if you are in Death. Due to this soul bond, if your Mordicant dies, you get 50% of his hp as Psychic damage rounded down. The Mordicant has its own initiative but follows your commands. 
+To create the Mordicant, you have bonded your soul to your Mordicant and are able to control the Mordicant even if you are considered unconscious or if you are in Death. Due to this soul bond, if your Mordicant dies, you get 40% of his hp as Psychic damage rounded down. The Mordicant has its own initiative but follows your commands. 
 
 ___
 > ## Mordicant
@@ -2643,13 +2643,13 @@ ___
   | **Hardened skin**  | 1 | The Mordicants hide thickens and increases its AC by 1 and its Apt score by 2. |
   | **Scales**  | 3 | ***Requires Hardened skin.*** The Mordicant grows scales over his entire body and gains resistance to bludgeoning, slashing and piercing damage. Its Apt score will also increase by 2. |
   | **Wings**  | 2 | The Mordicant grows wings and gains half of its movement speed as flying speed.|
-  | **Unhinging jaw**  | 4 | The Mordicant gains the ability to swallow targets. If the Attack hits, the target makes a Physical Strength of Physical Agility saving throw or become swallowed on failure. The swallowed target is Blinded and Restrained, it has total cover against attacks and other Effects outside the Mordicant, and it takes 5 (2d4) acid damage at the start of each of the Mordicants turns. The Mordicant can have only one target swallowed at a time. If the Mordicant dies, a swallowed creature is no longer Restrained by it and can escape from the corpse using 5 ft. of Movement, exiting prone. If the Mordicant takes more than 25% of his maximum hit points from a single hit, the creature is also expelled.|
+  | **Unhinging jaw**  | 4 | The Mordicant gains the ability to swallow targets. If the Attack hits, the target makes a DC 14 Physical Strength of Physical Agility saving throw or become swallowed on failure. The swallowed target is Blinded and Restrained, it has total cover against attacks and other Effects outside the Mordicant, and it takes 5 (2d4) acid damage at the start of each of the Mordicants turns. The Mordicant can have only one target swallowed at a time. If the Mordicant dies, a swallowed creature is no longer Restrained by it and can escape from the corpse using 5 ft. of Movement, exiting prone. If the Mordicant takes more than 25% of his maximum hit points from a single hit, the creature is also expelled.|
   |**Improved Senses**|1|The Mordicant gains advantage on skill checks that rely on hearing or smell.| 
 |**Requires Level 6**|||
   |**Additional arms**|4|The Mordicant grows two additional arms and gains Multi-attack, allowing it to use two of its attacks per turn.|
   |**Crushing tendrils**|2|***Requires Tendrils.*** Any creature grappled by the Mordicant is now considered restrained.|
   |**Long legs**|2| The Mordicant gains 10ft of movement.|
-  |**Soul buffer**|1| The Mordicant creates a buffer in the bond between you and it. The Psychic damage you take when the Mordicant dies is decreased to 25% of its hp.|
+  |**Soul buffer**|1| The Mordicant creates a buffer in the bond between you and it. The Psychic damage you take when the Mordicant dies is decreased to 20% of its hp.|
   |**Infused Vocal Cord**|3|The Mordicant gains the ability to taunt enemies as an action. All enemies within 15ft of the Mordicant must make a Charter Charisma saving throw opposed by your spell casting DC. On failure, each creature must walk up to 15ft towards the Mordicant. The target also has disadvantage on all attack rolls not targeting the Mordicant until the end of your next turn.|
 </div>
 
@@ -2696,7 +2696,7 @@ ___
 - **Casting Time:** 1 action
 - **Range:** self
 - **Components:** V, S
-- **Duration:** 1 hour
+- **Duration:** Instantaneous
 
 Cut into your own flesh to restore life to your Mordicant. Your maximum health will be lowered by 5, which will heal your Mordicant by 6 times the maximum health lost. The maximum health lost is regained after a long rest.
 
@@ -2715,7 +2715,7 @@ ___
 
 Any dead under your control gain resistance against non-magical bludgeoning, piercing and slashing damage for the duration.
 
-_Exert: Any dead under your control gain resistance against bludgeoning, piercing and slashing damage for the duration._
+_Exert: Any dead under your control also gains resistance against magical bludgeoning, piercing and slashing damage for the duration._
 
 ## Level 5
 ### Extra Mordicant
@@ -2727,6 +2727,10 @@ At level 5 your maximum number of Mordicants under your control raises to two. E
 Your bond with the Mordicant intensifies. Any Mordicant under your control gains the following ability:
 
 *Lucky.* When you roll a 1 on an attack roll, ability check, or saving throw, you can reroll the die. You must use the new result, even if it is a 1.
+
+### Flesh Crafter
+You no longer take damage from casting Conjure Flesh.
+
 
 \page
 
@@ -4790,6 +4794,66 @@ ___
 > ***Trample.***  The Wood-Weir can move it's movement speed + 10 in a straight line as an action. This movement does not provoke attacks of opportunity and can move through enemies, but must end in a unoccupied location. Any creatures the Wood-Weird walked over, must make a Physical Strength saving throw. They take 4d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone. 
 >
 > ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6). Hit: (1d6 + 4) bludgeoning damage.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+> ## Ferenk
+>*Large*  ***Free Magic Creature***
+> ___
+> - **Armour Class** 15
+> - **Hit Points** 130
+> - **Speed** 20ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|18 (+4)|9 (-1)|10 (+0)|16 (+3)|5 (-3)	|5 (-3)	|14 (+2)|
+>___
+> - **Damage Immunities** Lightning, Necrotic
+> - **Damage Resistance** Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
+> - **Condition Immunities** Blinded, Deafened, Exhaustion
+> - **Senses** Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 10
+> - **Challenge** 4
+> ___
+> ***Lightning Absorption.*** Whenever Ferenk is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
+>
+> ***False Appearance.*** While the Ferenk remains motionless, it is indistinguishable from an oily pool or wet rock.
+>
+> ### Actions
+>
+> ***Multiattack.*** The Ferenk makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the Ferenk uses its Engulf on it.
+>
+> ***Slam.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: (2d8 + 4) bludgeoning damage.
+>
+> ***Engulf.*** The Ferenk engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Physical Constitution saving throw at the start of each of the Ferenk's turns or take 13 (2d8 + 4) bludgeoning damage. If the Ferenk moves, the engulfed target moves with it. The Ferenk can have only one creature engulfed at a time.
+
+___
+> ## Dwerllin
+>*Large*  ***Free Magic Creature***
+> ___
+> - **Armour Class** 19
+> - **Hit Points** 100
+> - **Speed** Fly 50ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|18 (+4)|9 (-1)|10 (+0)|16 (+3)|5 (-3)	|5 (-3)	|14 (+2)|
+>___
+> - **Damage Resistance** Slashing, Bludgeoning and piercing damage.
+> - **Condition Immunities** Blinded, Deafened, Exhaustion
+> - **Senses** passive Perception 17
+> - **Challenge** 3
+> ___
+> ***Living Storm.*** Whenever the Dwerllin moves past objects within 10 feet of him weighing a maximum of 5 pounds that are not being worn of carried, they are thrown in a random direction.
+>
+> ***Magic Resistance.*** You have advantage on saving throws against spells and other magical effects.
+>
+> ### Actions
+>
+> ***Catapult.*** Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Physical Agility saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d6 bludgeoning damage. The target is also pushed back 10ft.
 
 
 \page
