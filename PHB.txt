@@ -562,6 +562,10 @@ The length of a 'story time unit' will very heavily between scenes. Therefore it
 >
 > A Story Tick is the unit of story time that passes in which all relevant PC's and NPC's get their actions in. The most obvious example is a round in combat, but it could also for instance be the time it takes to perform a short rest.
 
+### Using items without proficiency
+You have disadvantage on any attacks or skill checks using items you are not proficient in.
+
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -1171,8 +1175,8 @@ ___
 
 #### Proficiencies
 ___
-- **Armour:** Shields, Heavy armour, Medium armour
-- **Weapons:** Martial weapons
+- **Armour:** Shields, Medium armour, Heavy armour
+- **Weapons:** Simple weapons, Martial weapons
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -3312,7 +3316,7 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 *C'mon in, I'll give ya the tour! NO TOUCHING!*
 
 #### Quick Build
-
+You can make a Tinkerer quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution. Second, choose the Guild Artisan background.  Third, choose the +1 AC and initiative defensive proficiency.
 
 ### Infuse Item
 You've gain the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
@@ -3736,7 +3740,7 @@ ___
 <div class='pageNumber auto'></div>
 
 
-## Edge Dancer TODO
+## Edge Dancer
 
 ### Class Features
 ___
@@ -3747,15 +3751,15 @@ ___
 
 #### Proficiencies
 ___
-- **Armour:** Light armour
-- **Weapons:** Simple weapons, Martial weapons
+- **Armour:** Light armour, Medium armour
+- **Weapons:** Simple weapons
 
-#### Equipment TODO
+#### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
  - any two simple melee weapons
- - *(a)* a longbow and 20 arrows or *(b)* a hand crossbow and 20 bolts or *(c)* a finesse martial weapon (if proficient)
+ - *(a)* a shortbow and 20 arrows or *(b)* a finesse martial weapon (if proficient)
  - Leather armour
- - *(a)* Priest's pack or *(b)* a Explorer's pack
+ - *(a)* Dungeoneer's pack or *(b)* a Explorer's pack
 
 #### Subclasses
 The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Morphling
@@ -3770,7 +3774,7 @@ Until the start of your next turn, you have two reactions.
 Until the start of your next turn, the first attack of opportunity you hit, is an automatic critical hit.
 
 ##### Deflective pose
-You can use your reaction to deflect a weapon until the start of your next turn. When you are hit by a melee weapon attack, the damage you take from the attack is reduced by your Agility skill check modifier.
+You can use your reaction to deflect a weapon until the start of your next turn. When you are hit by a melee weapon attack, the damage you take from the attack is reduced by your Strength or Agility skill check modifier.
 
 ##### Sly Pose
 When you take damage from a creature that is within 5 feet of you, you can use your reaction to adjust your defenses. Once you do, the creature has disavantage on its attacks against you until you take damage from the creature again or the start of your next turn, whichever is sooner.
@@ -3963,7 +3967,7 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 *Boot tot the head!*
 
 #### Quick Build
-
+You can make a Grappler quickly by following these suggestions. First, Strength should be your highest ability score, followed by Constitution. Second, choose the Urchin background.  Third, choose the +1 AC and initiative defensive proficiency.
 
 ### Hop up
 You do not provoke attacks of opportunity when you get up from prone.
@@ -3977,7 +3981,7 @@ Your unarmed strikes follow the rules for finesse weapons or impact weapons, whi
 When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with an unarmed strike, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
 ### Unarmoured Defense
-While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility modifier + your Reflexes modifier. 
+While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
 
 ### Flying Bearhug -1 Stamina
 If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbut as bonus action without paying the stamina cost.
@@ -3988,12 +3992,14 @@ _Exert: You can target up to Huge creatures._
 Target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
 This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
 
+<div style='margin-top:140px'></div>
+
+
 ### Clothesline -2 Stamina
 You can use your action to make a melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
 
 _Exert: Strike up to two targets within melee range._
 
-<div style='margin-top:140px'></div>
 
 
 ## Level 2
@@ -4029,6 +4035,7 @@ Starting at 5th Level, when an attacker that you can see hits you with an Attack
 *Looks are only temporary!*
 
 #### Quick Build
+You can make a Morphling quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the Hermit background.  Third, choose the +1 AC and initiative defensive proficiency.
 
 ### Morph Aspect -2 Stamina
 ___
@@ -4042,15 +4049,18 @@ Using Free Magic you can morph parts of your body to resemble a free magic creat
 ##### Stilken
 Your feet grow short tiny hooks. You gain half your movement speed in climbing speed.
 ##### Hish
-Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn.
+Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn.
 ##### Aziminil
-Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft Darkvision.
-##### Baazalanan
-Your arms grow long and spindly. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision.
 ##### Hrule
-Your eyes go black and any damage you deal changes to Necrotic damage. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
+Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
 ##### Greten
-Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
+Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 + Charisma bonus additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
+This ability’s bleed damage damage increases by 1d4 when you reach 3rd level (2d4), 6th level (3d4), and 9th level (4d4).
+
+<div style='margin-top:140px'></div>
+
+
 
 ### Great Weapon Fightning
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
@@ -4080,7 +4090,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, Up to 1 hour
 
-Until the spell ends, one willing creature you touch is protected against Free Magic creatures. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
+Until the spell ends, one willing creature you touch is protected against a specific type of Free Magic creature. The type is chosen at the time of casting. The protection grants several benefits. Creatures of those types have disadvantage on attack rolls against the target. The target also can’t be charmed, frightened, or possessed by them. If the target is already charmed, frightened, or possessed by such a creature, the target has advantage on any new saving throw against the relevant effect.
 
 _Exert: Target up to two creatures._
 
@@ -4088,6 +4098,11 @@ _Exert: Target up to two creatures._
 ### Flash of Corruption -2 Stamina
 You bless your attacks with the decaying touch of Free Magic. Starting at 2nd Level, when you hit a creature with a melee weapon attack, you can expend 2 Stamina to deal 2d8 necrotic damage to the target, in addition to the weapon's damage. This ability’s damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8).
 
+
+
+\page
+
+<div class='pageNumber auto'></div>
 ## Level 3
 ### Decay Tactics 
 At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
@@ -4098,14 +4113,19 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 ##### Aura of Decay
 Any enemies within a 15ft radius around you deduct your Charisma modifier from any saving throw they do.
 
-
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Level 4
 ### Relentless Hunger
 By 4th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
+
+### Additional Morphs
+At level 4 you gain the ability to morph to more Free Magic Creatures.
+##### Baazalanan
+Your arms grow long and spindly. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+##### Dwerllin
+As a bonus action, you can fly up to 10ft, without provoking attacks of opportunity.
+##### Ferenk
+Any damage received from magical sources such as spell is reduced by your Charisma modifier.
+
 
 \page
 
@@ -4963,6 +4983,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  - Ability scores
  - Saving throws
  - Skill checks
+ - Proficiency Bonus
  - Planes of existance
  - Dropping to 0 hp
  
@@ -4983,7 +5004,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  - Conditions
 
 ## Additions
- - 4 new classes with 12 subclasses in total
+ - 5 new classes with 15 subclasses in total
  - New bestiary
  - Dual Skill check system
  - Stamina System/Actions
