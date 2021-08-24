@@ -4758,7 +4758,7 @@ ___
 >
 > ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
 >
-> ***Gorge (Recharge 5-6).*** *Melee Weapon Attack:* +8 to hit, 15ft cone from centre of this creature. Hit 7 (1d6 + 3).
+> ***Gorge (Recharge 5-6).*** *Melee Weapon Attack:* +8 to hit, 10ft cone from centre of this creature. Hit 7 (1d6 + 3).
 
 
 \page
