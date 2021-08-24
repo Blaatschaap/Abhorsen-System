@@ -4717,7 +4717,7 @@ ___
 >|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
 >|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
 >___
-> - **Water Save DC** 10
+> - **Water Save DC** 12
 > - **Senses** Darkvision 60ft. passive Perception 12
 > - **Challenge** 4
 > ___
@@ -4728,13 +4728,13 @@ ___
 >
 > ### Actions
 >
-> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 9 (1d10 + 3). 
 >
 > ***Howl (Recharge 5-6).*** *Ranged Spell Attack:* DC 13 Charter Charisma saving throw, 30ft line. *Failed save:* Target is frightened and takes 1d6 Psychic damage. Frightened created can make a saving throw every time the Howler takes damage. Half damage on successful save and no frighten effects. 
 
 ___
 > ## Ravager
->*Medium*  ***Free Magic Creature***
+>*Medium*  ***Medium Dead***
 > ___
 > - **Armour Class** 15
 > - **Hit Points** 45
@@ -4744,7 +4744,7 @@ ___
 >|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
 >|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
 >___
-> - **Water Save DC** 10
+> - **Water Save DC** 12
 > - **Senses** Darkvision 60ft. passive Perception 12
 > - **Challenge** 4
 > ___
@@ -4756,9 +4756,40 @@ ___
 >
 > ### Actions
 >
-> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 9 (1d10 + 3). 
 >
 > ***Gorge (Recharge 5-6).*** *Melee Weapon Attack:* +8 to hit, 10ft cone from centre of this creature. Hit 7 (1d6 + 3).
+
+___
+___
+> ## Pillager
+>*Medium*  ***Medium Dead***
+> ___
+> - **Armour Class** 8
+> - **Hit Points** 60
+> - **Speed** 25ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|16 (+3)|7 (-2)|10 (+0)|12 (+1)|3 (-4)	|7 (-2)	|10 (+0)|
+>___
+> - **Water Save DC** 16
+> - **Senses** Darkvision 60ft. passive Perception 8
+> - **Challenge** 3
+> ___
+>***Pack Tactics.*** The Pillager has advantage on attack rolls against a creature if at least one of the Pillager's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+>***Frenzy.*** If the Pillager is at half of its hit points or less, it gains the following features:
+> - 15ft additional movement (40 total)
+> - Armour Class 13
+> - Multiattack: The Pillager makes two Bite attacks
+> - Reaction: Aggresive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
+>
+> ### Actions
+>
+> ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3) piercing damage.
+>
+> ***Blood Spit (Recharge 5-6).*** *Ranged Spell Attack:* target up to 3 creatures within 30ft range, +8 to hit. 2d6 Necrotic damage on hit. Regardless of hits, Pillager takes 10 piercing damage.
 
 
 \page
