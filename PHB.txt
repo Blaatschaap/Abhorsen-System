@@ -234,11 +234,11 @@ Version V0.12
 				- [8.5.2.1 Claw Hands](#p67)
 				- [8.5.2.1 Wrestling Tactics ](#p67)
 				- [8.5.2.1 Uncanny dodge](#p67)
-			- **[8.5.3 Morphling](#p68)**
-				- [8.5.3.1 Great Weapon Fightning](#p68)
-				- [8.5.3.1 Decay Tactics ](#p69)
-				- [8.5.3.1 Relentless Hunger](#p69)
-				- [8.5.3.2 Morph Additional Aspects](#p69)
+			- **[8.5.3 Morphling](#p67)**
+				- [8.5.3.1 Great Weapon Fightning](#p67)
+				- [8.5.3.1 Decay Tactics ](#p68)
+				- [8.5.3.1 Relentless Hunger](#p68)
+				- [8.5.3.2 Morph Additional Aspects](#p68)
 	
 - **[9 Equipment](#p69)**
 	- [9.1 Weapons](#p69)
@@ -784,7 +784,7 @@ Whilst grappled, they will move with you, if you decide to either ascend or desc
 <div style='margin-top:240px'></div>
 
 ### Force creatures down
-If you are above 1 hit point, stabilized and you are on the same layer as another creature, you can attempt to shove the creature through the next gate. Distance to the target is irrelevant for this shove check whilst these conditions are true. You must make a Strength + Charter skill check opposed by either a Strength + Charter skill check or an Agility + Charter skill check. The target has disadvantage if the creature is not considered stabilized. On success, the target creature is pushed one layer down, but will stay stabilized if it was before.
+If you are above 1 hit point, stabilized and you are on the same layer as another creature, you can attempt to shove the creature through the next gate. Distance to the target is irrelevant for this shove check whilst these conditions are true. You must make a Strength + Aptitude skill check opposed by either a Strength + Aptitude skill check or an Agility + Aptitude skill check. The target has disadvantage if the creature is not considered stabilized. On success, the target creature is pushed one layer down, but will stay stabilized if it was before.
 
 
 
@@ -862,16 +862,15 @@ Thanks to extensive practice with the crossbow, you gain the following benefits:
 ## Defensive Duellist
 _Prerequisite: Agility 13 or higher_
 
-When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add double your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
 
 
 ## Chef
 Time spent mastering the culinary art has paid off, granting you the following benefits:
 
 - Increase your Constitution or Aptitude by 1, to a maximum of 20.
--  You gain proficiency with cook's utensils if you don't already have it.
-- As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
-- With one hour of work or when you finish a long rest, you can cook a number of treats equal to your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+- As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + twice your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+- With one hour of work or when you finish a long rest, you can cook a number of treats equal to double your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
 
 
 \page
@@ -1400,7 +1399,7 @@ _Exert: You gain three additional attacks._
 
 
 #### Redirect -3 Stamina
-Use your reaction to redirect a melee attack aimed at you to another target within 5ft of either you or the target. If you are not already within 5ft of both targets, move to a place where you are for free.
+Use your reaction to redirect a melee attack aimed at you to another target within 5ft of either you or the target. The damage cannot be redirected upon the attacker. If you are not already within 5ft of both targets, move to a place where you are for free.
 
 
 
@@ -3287,7 +3286,7 @@ ___
 
 As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
 
-The aura grants you advantage on any checks involving intimidation, but disadvantage on all other skill checks involving Charisma. Any other creature that starts its turn in the aura takes poison damage equal to your Charisma modifier (minimum of 1 damage). You are considered to have half cover for all ranged attacks targeting you.
+The aura grants you advantage on any checks involving intimidation, but disadvantage on all other skill checks involving Charisma. Any other creature that starts its turn in the aura takes poison damage equal to your Constitution modifier (minimum of 1 damage). You are considered to have half cover for all ranged attacks targeting you.
 
 _Exert: The aura area increases to 10 feet in every direction._
 
@@ -3856,7 +3855,7 @@ ___
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
  - any two simple melee weapons
- - *(a)* a shortbow and 20 arrows or *(b)* a finesse martial weapon (if proficient)
+ - *(a)* a shortbow and 20 arrows or *(b)* five javelins or *(c)* a finesse martial weapon (if proficient) 
  - Leather armour
  - *(a)* Dungeoneer's pack or *(b)* a Explorer's pack
 
@@ -3864,7 +3863,7 @@ You start with the following equipment, in addition to the equipment granted by 
 The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler and Morphling
 
 ### Dance Poses
-At level 1 you get the ability to adopt fighting poses with which you can gain benefits for your next turn. Each of these pose require a bonus action to activate.
+At level 1 you get the ability to adopt fighting poses with which you can gain benefits until your next turn. Each of these poses require a bonus action to activate.
 
 ##### Reactive pose
 Until the start of your next turn, you have two reactions.
@@ -4088,14 +4087,14 @@ If you move at least 20ft straight toward a Large or smaller melee target, as an
 _Exert: You can target up to Huge creatures._
 
 #### Headbutt -1 Stamina
-Target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
+You can replace an unarmed attack with a Headbutt. On hit, target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
 This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
 
 <div style='margin-top:140px'></div>
 
 
 #### Clothesline -2 Stamina
-You can use your action to make a melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
+You can use your action to make an unarmed melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
 
 _Exert: Strike up to two targets within melee range._
 
@@ -4106,7 +4105,7 @@ _Exert: Strike up to two targets within melee range._
 Whenever you strike an enemy with an unarmed strike, you can choose to not deal damage, but instead grappling the target.
 
 #### Gorilla Press Slam -2 Stamina
-Lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. 
+As an action you can lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. 
 
 ## Level 3
 ### Wrestling Tactics 
@@ -4120,7 +4119,7 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 
 ## Level 4
 #### Suplex -3 Stamina
-Lift a large or smaller grappled target over your head and slam the target headfirst into the ground behind you. Target is moved to an unoccupied location within 5 ft of you. The target must also make a Physical Strength saving throw. On a failed saving throw, the target takes 2d10 bludgeoning damage and is considered stunned and prone, but no longer grappled. On a succesful saving throw the target takes half damage, is knocked prone, but is not stunned or grappled.
+As an action you can lift a large or smaller grappled target over your head and slam the target headfirst into the ground behind you. Target is moved to an unoccupied location within 5 ft of you. The target must also make a Physical Strength saving throw. On a failed saving throw, the target takes 2d10 bludgeoning damage and is considered stunned and prone, but no longer grappled. On a succesful saving throw the target takes half damage, is knocked prone, but is not stunned or grappled.
 
 ## Level 5
 ### Uncanny dodge
@@ -4148,7 +4147,7 @@ Using Free Magic you can morph parts of your body to resemble a free magic creat
 ##### Stilken
 Your feet grow short tiny hooks. You gain half your movement speed in climbing speed.
 ##### Hish
-Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn.
+Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing.
 ##### Aziminil
 Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision.
 ##### Hrule
@@ -4167,11 +4166,13 @@ When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapo
 #### Battle roar -1 Stamina
 ___
 - **Casting Time:** 1 bonus action
-- **Range:** 30ft
+- **Range:** 20ft
 - **Components:** V
-- **Duration:** Up to 10 Story ticks
+- **Duration:** Up to 4 Story ticks
 
-You give off an impressive roar and inspire your allies. You and any Non-Dead ally in range gain half your Strength or Agility modifier rounded up in damage to any hits they do.
+You give off an impressive roar and inspire your allies. You and any Non-Dead ally in range gain half your Strength or Agility modifier rounded up in damage to any weapon attacks they do.
+
+_Exert: Any creature affected by your battle roar is no longer frightened._
 
 #### Scale Blessing -2 Stamina
 ___
@@ -4568,7 +4569,7 @@ ___
 > - **Languages** -
 > - **Challenge** 1/2
 > ___
->***Pounce.*** If the Dread Wolf moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the Dread Wolf can make one bite attack against it as a bonus action.
+>***Pounce.*** If the Dread Wolf moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Physical Strength saving throw or be knocked prone. If the target is prone, the Dread Wolf can make one bite attack against it as a bonus action.
 >
 >***Pack Tactics.*** The Dread Wolf has advantage on attack rolls against a creature if at least one of the Dread Wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
 > ___
