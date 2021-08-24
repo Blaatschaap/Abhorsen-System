@@ -4752,6 +4752,8 @@ ___
 >
 >***Pack Tactics.*** The Ravager has advantage on attack rolls against a creature if at least one of the Ravager's allies is within 5 feet of the creature and the ally isn't incapacitated.
 >
+>***Strider.*** The Ravager is not hindered by difficult terrain.
+>
 > ### Actions
 >
 > ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
