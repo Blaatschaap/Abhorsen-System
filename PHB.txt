@@ -4535,7 +4535,7 @@ ___
 > - **Challenge** 1
 > ___
 >
-> ***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on sight.
+> ***Keen Smell.*** The swarm has advantage on skill checks that rely on sight.
 >
 > ***Soul Bound Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny crow. The swarm can't regain hit points or gain temporary hit points. Gore Crows more than 200 ft away from the main body of the swarm will disintegrate.
 >
@@ -4700,6 +4700,64 @@ ___
 > ***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
 >
 > ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 3). 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+> ## Howler
+>*Medium*  ***Medium Dead***
+> ___
+> - **Armour Class** 115
+> - **Hit Points** 45
+> - **Speed** 40ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
+>___
+> - **Water Save DC** 10
+> - **Senses** Darkvision 60ft. passive Perception 12
+> - **Challenge** 4
+> ___
+>
+>***Keen Smell.*** The Howler has advantage on skill checks that rely on sight.
+>
+>***Pack Tactics.*** The Howler has advantage on attack rolls against a creature if at least one of the Howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ### Actions
+>
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
+>
+> ***Howl (Recharge 5-6).*** *Ranged Spell Attack:* DC 13 Charter Charisma saving throw, 30ft line. *Failed save:* Target is frightened and takes 1d6 Psychic damage. Frightened created can make a saving throw every time the Howler takes damage. Half damage on successful save and no frighten effects. 
+
+___
+> ## Ravager
+>*Medium*  ***Free Magic Creature***
+> ___
+> - **Armour Class** 15
+> - **Hit Points** 45
+> - **Speed** 40ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
+>___
+> - **Water Save DC** 10
+> - **Senses** Darkvision 60ft. passive Perception 12
+> - **Challenge** 4
+> ___
+>***Keen Smell.*** The Ravager has advantage on skill checks that rely on sight.
+>
+>***Pack Tactics.*** The Ravager has advantage on attack rolls against a creature if at least one of the Ravager's allies is within 5 feet of the creature and the ally isn't incapacitated.
+>
+> ### Actions
+>
+> ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). 
+>
+> ***Gorge (Recharge 5-6).*** *Melee Weapon Attack:* +8 to hit, 15ft cone from centre of this creature. Hit 7 (1d6 + 3).
+
 
 \page
 
