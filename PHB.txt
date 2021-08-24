@@ -4709,7 +4709,7 @@ ___
 > ## Howler
 >*Medium*  ***Medium Dead***
 > ___
-> - **Armour Class** 115
+> - **Armour Class** 15
 > - **Hit Points** 45
 > - **Speed** 40ft.
 >___
