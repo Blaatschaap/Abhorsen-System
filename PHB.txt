@@ -1224,9 +1224,9 @@ Her choices (and her equipment) mean that she gains the following stats:
 - 15 AC (14 + 1)
 - 30 movement speed
 - Passive perception of 11 (10 + 1)
-- Spell Attack Bonus of +7 (3 + 4)
-- Spell DC of 12 (8 + 1 + 4)
-- +0 to hit with her dagger, and a +0 damage modifier.
+- Spell Attack Bonus of +8 (4 + 4)
+- Spell DC of 13 (8 + 1 + 4)
+- +0(AGI 0 + 0) to hit with her dagger, and a +0(AGI) damage modifier.
 
 #### Skill modifiers
 
@@ -2948,7 +2948,6 @@ ___
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
 
-## Level 4
 #### Darkvision -1 Stamina
 ___
 - **Casting Time:** 1 action
@@ -3036,7 +3035,7 @@ You can look into the past of an object or creature. You can see up to a 30 minu
 #### The eye of Orannis -3 Stamina
 ___
 - **Casting Time:** 1 action
-- **Range:** self
+- **Range:** Self
 - **Components:** S
 - **Duration:** Concentration, Up to 1 minute
 
@@ -3642,7 +3641,15 @@ ___
 >
 > ***Trample.*** The Prototype Horse can move through enemies, but must end in a unoccupied location. Any creatures the Prototype Horse walked over, must make a Physical Strength saving throw. They take 2d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone.
 
+## Level 5
+#### Discharge -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** S
+- **Duration:** Instantaneous
 
+You make a small, yet totally intended mishap with your equipment. Every creature but you within 15 ft must make a Charter Constitution saving throw. On a failed saving throw the target takes 4d8 Lightning damage and the next attack roll made aginst it before the end of your next turn has advantage, thanks to the shock cramping their muscles. They take half damage on a succesful saving throw and suffer no other adverse effects of this spell.
 
 \page
 
@@ -3882,6 +3889,15 @@ When you take damage from a creature that is within 5 feet of you, you can use y
 Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
 
 <div style='margin-top:140px'></div>
+
+#### Dance with Death
+___
+- **Casting Time:** 1 bonus action
+- **Range:** touch
+- **Components:** V, S
+- **Duration:** two story ticks
+
+Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediatly stabalise and will be stunned until the next of their next turn.
 
 ## Level 3
 ### Ability Score Improvement 
@@ -4226,7 +4242,14 @@ As a bonus action, you can fly up to 10ft, without provoking attacks of opportun
 ##### Ferenk
 Any damage received from magical sources such as spell is reduced by your Charisma modifier.
 
+#### Statis -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Concentration, 5 Story Tick
 
+You touch a creature encased in Death Ice in Life, or their Soul in Death. The target creature must make a Charter Strength saving throw, although willing creatures can opt to fail this saving throw automatically. A creature under the effect of this spell cannot change layers of Death. At the end of its turn, the creature can repeat the saving throw.
 \page
 
 <div class='pageNumber auto'></div>
