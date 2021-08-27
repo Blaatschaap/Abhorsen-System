@@ -4242,6 +4242,7 @@ As a bonus action, you can fly up to 10ft, without provoking attacks of opportun
 ##### Ferenk
 Any damage received from magical sources such as spell is reduced by your Charisma modifier.
 
+## Level 5
 #### Statis -2 Stamina
 ___
 - **Casting Time:** 1 action
@@ -5059,10 +5060,10 @@ ___
 >
 > ***Acid Blood.*** Any Non-magical weapon made of metal or wood that hits the Greten corrodes. After dealing damage, the weapon gains a permanent and cumulative -1 penalty to damage rolls. If it drops to -5 the weapon is destroyed. The weapon can be repaired by a smith.
 >
-> ***Impregnation.*** If any attack from the Greten hits the target, the target is grappled and cannot escape as the Greten's tail wraps around the target's neck. The target creature can resist the grapple each round of combat by making a DC 13 Physical Strength saving throw. Upon failure the Greten latches onto the target's face and will attempt impregnation. At the start of the targets next turn while the Greten is still attached, it is rendered unconscious. The target must make a DC 13 Physical Constitution saving throw. If the target fails this saving throw by 5 or more, the target is considered diseased. On a successful saving throw, the target's constitution stat will drop by 2 for the next 24 hours. Whilst the target is diseased in this way, the target starts to feel sick, its speed is halved and has disadvantage on attack rolls and saving throws. After 4d6 hours, four Greten will burst from the target's chest, killing the target. This disease can be removed with a lesser restoration or greater magic to cure a disease. 
+> ***Impregnation.*** If any attack from the Greten hits the target, the target is grappled and cannot escape as the Greten's tail wraps around the target's neck. The target, or a creature within 5 ft of it can use its action to try to pull off the Greten, with a Strength + Reflexes skill check. If the Greten is still attached to the target after two turns of the target, it is rendered unconscious. The target must make a DC 13 Physical Constitution saving throw and every turn after this while the Greten is still attached. If the target fails this saving throw by 5 or more, the target is considered diseased. On a successful saving throw, the target's constitution stat will drop by 2 for the next 24 hours. Whilst the target is diseased in this way, the target starts to feel sick, its speed is halved and has disadvantage on attack rolls and saving throws. After 4d6 hours, four Greten will burst from the target's chest, killing the target. This disease can be removed with a lesser restoration or greater magic to cure a disease. 
 > ### Actions
 >
-> ***Bite.*** Ranged Weapon Attack: +4 to hit, reach 10/20 ft., one creature. Hit: 2 (1d4) bludgeoning damage. Move the Greten to the target on hit.
+> ***Leap.*** Ranged Weapon Attack: +5 to hit, reach 10/20 ft., one creature. Hit: 2 (1d4) bludgeoning damage. Move the Greten to the target on hit. Target creature is grappled. _See Impregnation._
 
 
 \page
@@ -5180,6 +5181,41 @@ ___
 >
 > ***Catapult.*** Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Physical Agility saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d6 bludgeoning damage. The target is also pushed back 10ft.
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+___
+> ## Ghast
+>*Medium*  ***Free Magic Creature***
+> ___
+> - **Armour Class** 11
+> - **Hit Points** 45
+> - **Speed** Fly 40ft. It can hover.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|7 (-2)|13 (+1)|14 (+2)|10 (+0)|0 (+0)	|17 (+3)	|14 (+2)|
+>___
+> - **Damage Resistance** Slashing, Bludgeoning and piercing damage.
+> - **Condition Immunities** Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
+> - **Senses** Darkvision 60ft. passive Perception 11
+> - **Languages** Common
+> - **Challenge** 3
+> ___
+> ***False Appearance.*** While the Ghast remains motionless, it is indistinguishable from clear air. Smoke or for example rain will reveal its location.
+>
+> ***Death Walker.*** The Ghast can freely move up and down layers of Death without rolling, unless incapacitated or captured. When reduced to 0 hit points, the Ghast is destroyed instantly.
+>
+> ***Incorporeal Movement.*** The Ghast can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+>
+> ### Actions
+> ***Multiattack.*** The Ghast makes one Withering Touch and 1 Abduct, if able. 
+>
+> ***Withering Touch.*** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) necrotic damage. Target creature is considered grappled (escape DC 14).
+>
+> ***Abduct.*** _Melee Weapon Attack:_ **Can only be done in Life.** Target grappled creature is considered restrained and it and the Ghast move to the first layer of Death.
 
 \page
 
