@@ -4087,7 +4087,7 @@ You can make a Grappler quickly by following these suggestions. First, Strength 
 You do not provoke attacks of opportunity when you get up from prone.
 
 ### Beat down
-Whenever you hit a prone creature, you deal an additional 1d4 + Edge dancer level damage. This ability’s damage increases by 1d4 when you reach 3th level (2d4), 6th level (3d4), and 9th level (4d4).
+Whenever you hit a prone creature, you deal an additional 1d4 damage. This ability’s damage increases by 1d4 when you reach 3th level (2d4), 6th level (3d4), and 9th level (4d4).
 
 ### Unarmed strike
 Your unarmed strikes follow the rules for finesse weapons or impact weapons, which you choose before a strike. You can roll a d4 in place of the normal damage of your unarmed strike. This die changes at level 3 to a d6, at level 6 to a d8 and at level 9 to a d10.
@@ -4121,7 +4121,7 @@ _Exert: Strike up to two targets within melee range._
 Whenever you strike an enemy with an unarmed strike, you can choose to not deal damage, but instead grappling the target.
 
 #### Gorilla Press Slam -2 Stamina
-As an action you can lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. 
+As an action you can lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. You cannot perform this move while you are grappled or restrained.
 
 ## Level 3
 ### Wrestling Tactics 
