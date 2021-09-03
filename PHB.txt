@@ -152,59 +152,60 @@ Version V0.13
 
 <div class='toc'>
 
-  - **[8.3 Flesh Binder](#p38)**
-    - [Bells](#p38)
-    - [Keeper of the dead](#p38)
-    - [Step into Death](#p39)
-    - [Convocation](#p39)
-    - [Ability Score Improvement ](#p39)
-    - [Team Tactics ](#p39)
-    - [Soul grip](#p39)
-    - [Spell Tactics ](#p40)
-		- **[Subclasses](#p41)**
-  	- **[8.3.1 Occultist](#p41)**
-			- [8.3.1.1 Master of the Dead](#p41)
-			- [8.3.1.2 Profane Bloom](#p41)
-			- [8.3.1.3 Bodyswap](#p42)
-  	- **[8.3.2 Hemathurge](#p43)**
-			- [8.3.2.1 Song of rest](#p43)
-			- [8.3.2.2 Reinvigorating touch](#p43)
-  	- **[8.3.3 Animator](#p45)**
-			- [8.3.3.1 Mordicant](#p45)
-			- [8.3.3.2 Extra Mordicant](#p47)
-			- [8.3.3.3 Lucky Mordicants](#p47)
-			- [8.3.3.4 Flesh Crafter](#p47)
-  - **[8.4 Mysticist](#p48)**
-    - [Brew healing potion ](#p48)
-    - [Speak with Small Beasts](#p48)
-    - [Noxious cloud](#p48)
-    - [Alarm Mouse Sending](#p48)
-    - [Invoke the Golden Star](#p48)
-		- **[Subclasses](#p50)**
-			- **[8.4.1 Watcher](#p50)**
-				- [8.4.1.1 Portent](#p50)
-				- [8.4.1.2 Sight](#p50)
-				- [8.4.1.3 Keen Mind](#p50)
-				- [8.4.1.4 Archery](#p50)
-				- [8.4.1.5 Danger sense](#p51)
-				- [8.4.1.6 Foresight Tactics ](#p51)
-				- [8.4.1.7 Ability Score Improvement ](#p51)
-				- [8.4.1.8 Fast learner](#p52)
-				- [8.4.1.9 Delay Tactics ](#p53)
-			- **[8.4.2 Herbalist](#p54)**
-				- [8.4.2.1 Nature's guise](#p54)
-				- [8.4.2.2 Archery](#p54)
-				- [8.4.2.3 Mix potion](#p54)
-				- [8.4.2.4 Gather Herbs](#p54)
-				- [8.4.2.5 Ability Score Improvement ](#p55)
-				- [8.4.2.6 Herbal Tactics ](#p55)
-				- [8.4.2.7 Master of the Sickle](#p56)
-				- [8.4.2.8 Growth Tactics ](#p56)
-			- **[8.4.3 Tinkerer](#p57)**
-				- [8.4.3.1 Infuse Item](#p57)
-				- [8.4.3.2 Rapid Prototyping](#p58)
-				- [8.4.3.3 Mechanical Tactics ](#p59)
-				- [8.4.3.4 Arcane Infusions](#p60)
+  - **[8.3 Flesh Binder](#p37)**
+    - [Bells](#p37)
+    - [Keeper of the dead](#p37)
+    - [Step into Death](#p38)
+    - [Convocation](#p38)
+    - [Ability Score Improvement ](#p38)
+    - [Team Tactics ](#p38)
+    - [Soul grip](#p38)
+    - [Spell Tactics ](#p39)
+		- **[Subclasses](#p40)**
+  	- **[8.3.1 Occultist](#p40)**
+			- [8.3.1.1 Master of the Dead](#p40)
+			- [8.3.1.2 Profane Bloom](#p40)
+			- [8.3.1.3 Bodyswap](#p41)
+  	- **[8.3.2 Hemathurge](#p42)**
+			- [8.3.2.1 Song of rest](#p42)
+			- [8.3.2.2 Reinvigorating touch](#p42)
+  	- **[8.3.3 Animator](#p44)**
+			- [8.3.3.1 Mordicant](#p44)
+			- [8.3.3.2 Extra Mordicant](#p46)
+			- [8.3.3.3 Lucky Mordicants](#p46)
+			- [8.3.3.4 Flesh Crafter](#p46)
+  - **[8.4 Mysticist](#p47)**
+    - [Brew healing potion ](#p47)
+    - [Speak with Small Beasts](#p47)
+    - [Noxious cloud](#p47)
+    - [Alarm Mouse Sending](#p47)
+    - [Invoke the Golden Star](#p47)
+		- **[Subclasses](#p49)**
+			- **[8.4.1 Watcher](#p49)**
+				- [8.4.1.1 Portent](#p49)
+				- [8.4.1.2 Sight](#p49)
+				- [8.4.1.3 Keen Mind](#p49)
+				- [8.4.1.4 Archery](#p49)
+				- [8.4.1.5 Danger sense](#p50)
+				- [8.4.1.6 Foresight Tactics ](#p50)
+				- [8.4.1.7 Ability Score Improvement ](#p50)
+				- [8.4.1.8 Fast learner](#p51)
+				- [8.4.1.9 Delay Tactics ](#p52)
+			- **[8.4.2 Herbalist](#p53)**
+				- [8.4.2.1 Nature's guise](#p53)
+				- [8.4.2.2 Archery](#p53)
+				- [8.4.2.3 Mix potion](#p53)
+				- [8.4.2.4 Gather Herbs](#p53)
+				- [8.4.2.5 Ability Score Improvement ](#p54)
+				- [8.4.2.6 Herbal Tactics ](#p54)
+				- [8.4.2.7 Master of the Sickle](#p55)
+				- [8.4.2.8 Growth Tactics ](#p55)
+			- **[8.4.3 Tinkerer](#p56)**
+				- [8.4.3.1 Infuse Item](#p56)
+				- [8.4.3.2 Rapid Prototyping](#p57)
+				- [8.4.3.3 Mechanical Tactics ](#p58)
+				- [8.4.3.4 Scientist Tactics ](#p59)
+				- [8.4.3.5 Arcane Infusions](#p60)
 	
 	
 	k... weird easter egg?
@@ -221,37 +222,39 @@ Version V0.13
 				- [8.5.1.2 Finesse weapon mastery](#p64)
 				- [8.5.1.3 Light weapon quick draw](#p64)
 				- [8.5.1.4 Shadow blink](#p64)
-				- [8.5.1.1 Steel will](#p64)
-				- [8.5.1.2 Observant fighter](#p64)
-				- [8.5.1.1 Rogue Tactics ](#p65)
-				- [8.5.1.1 Flashing blades](#p65)
-				- [8.5.1.1 Dodging Tactics ](#p66)
+				- [8.5.1.5 Steel will](#p64)
+				- [8.5.1.6 Observant fighter](#p64)
+				- [8.5.1.7 Rogue Tactics ](#p65)
+				- [8.5.1.8 Flashing blades](#p65)
+				- [8.5.1.9 Dodging Tactics ](#p66)
 			- **[8.5.2 Grappler](#p67)**
 				- [8.5.2.1 Hop up](#p67)
 				- [8.5.2.2 Beat down](#p67)
 				- [8.5.2.3 Unarmed strike](#p67)
 				- [8.5.2.4 Unarmoured Defense](#p67)
-				- [8.5.2.1 Claw Hands](#p67)
-				- [8.5.2.1 Wrestling Tactics ](#p67)
-				- [8.5.2.1 Uncanny dodge](#p67)
-			- **[8.5.3 Morphling](#p67)**
-				- [8.5.3.1 Great Weapon Fightning](#p67)
-				- [8.5.3.1 Decay Tactics ](#p68)
-				- [8.5.3.1 Relentless Hunger](#p68)
-				- [8.5.3.2 Morph Additional Aspects](#p68)
+				- [8.5.2.5 Claw Hands](#p67)
+				- [8.5.2.6 Wrestling Tactics ](#p67)
+				- [8.5.2.7 Uncanny dodge](#p67)
+				- [8.5.2.8 Brain Tactics ](#p68)
+			- **[8.5.3 Morphling](#p69)**
+				- [8.5.3.1 Great Weapon Fightning](#p69)
+				- [8.5.3.2 Decay Tactics ](#p70)
+				- [8.5.3.3 Relentless Hunger](#p70)
+				- [8.5.3.4 Morph Additional Aspects](#p70)
+				- [8.5.3.5 Durable Morph](#p70)
+				- [8.5.3.6 Protection Tactics ](#p70)
 	
-- **[9 Equipment](#p69)**
-	- [9.1 Weapons](#p69)
-    - [9.2 Ammunition Modifications](#p71)
-    - [9.3 Armour](#p72)
-    - [9.4 Potions](#p73)
-    - [9.5 Poisons](#p74)
-- **[10 Bestiary](#p76)**
-- **[11 Changes from 5e](#p85)**
-- **[12 Credits](#p86)**
-- **[13 OGL License](#p87)**
+- **[9 Equipment](#p71)**
+	- [9.1 Weapons](#p71)
+    - [9.2 Ammunition Modifications](#p73)
+    - [9.3 Armour](#p74)
+    - [9.4 Potions](#p75)
+    - [9.5 Poisons](#p76)
+- **[10 Bestiary](#p78)**
+- **[11 Changes from 5e](#p89)**
+- **[12 Credits](#p90)**
+- **[13 OGL License](#p91)**
 </div>
-
 
 
 \page
