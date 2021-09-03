@@ -4270,6 +4270,27 @@ ___
 - **Duration:** Concentration, 5 Story Tick
 
 You touch a creature encased in Death Ice in Life, or their Soul in Death. The target creature must make a Charter Strength saving throw, although willing creatures can opt to fail this saving throw automatically. A creature under the effect of this spell cannot change layers of Death. At the end of its turn, the creature can repeat the saving throw.
+
+## Level 6
+### Durable Morph
+You Morph Aspect ability gains the following exert:
+
+_Exert: You can have one aspect permanently morphed. You can only have 1 permanent morphed aspect._
+
+## Level 7
+### Protection Tactics 
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Amorpheous
+When you are hit by a non-magical melee weapon attack by a creature with a Strength score less than 18, you can opt to trap the weapon and get it stuck in the Morphling. The attacker can no longer use that weapon until removed from the Morphling. The morphling can use a bonus action to equip the stuck weapon. 
+
+If you are hit by a melee weapon attack using a body part, such as a fist or pincer by a creature with a strength score less than 16, you can opt to trap the body part and it will get stuck in the Morphling. You and the attacker are considered grappling each other.
+
+An enemy can use its action to try to wrench a weapon free or an allied body part, making a Strength + Strength skill check opposed by your DC. If you are knocked unconcious, any stuck weapons or body parts are considered no longer stuck.
+
+##### Reinvigorating Shout
+Your battle road also grants affected creatures 2 x Edge Dancer level in temporary hit points.
+
 \page
 
 <div class='pageNumber auto'></div>
