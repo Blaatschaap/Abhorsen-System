@@ -3176,7 +3176,7 @@ At 7rd level, you gain one of the following features of your choice. You can cha
 You have foreseen that your enemies are trying to hurt you. After failing a saving throw against a spell or harmful effect that targets only you, you can spend your reaction to delay it. Any damage or effects from the spell or harmful effect will be delayed to the end of your next turn. Additionally, you have disadvantage on your next saving throw, until the end of your next turn.
 
 ##### Walk it off
-Whenever you are hit by an damaging effect, you can spend your reaction and 2 Stamina to take the damage at the end of your next turn instead. The damage cannot be reduced in any way and any other harmful effects will go into effect right away.
+Whenever you take damage, you can spend your reaction and 2 Stamina to take the damage at the end of your next turn instead. The damage cannot be reduced in any way and any other harmful effects will go into effect right away.
 
 
 \page
