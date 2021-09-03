@@ -3490,7 +3490,8 @@ You also have the following actions with which you can interact with your protot
 
 - As a bonus action, you can move an active prototype under your control up to 30 feet.
 - As an action, you can fix a prototype, resetting its duration and restoring 2d4 + 2 x Mysticist level hit points.
-- If the duration of a prototype expires, they are no longer considered magical and stop functioning. They do still occupy their location and cannot be easily moved through (given the prototype is of size small or larger). As an action, you can reactivate a prototype without spending the material components.
+- If the duration of a prototype expires, they are no longer considered magical and stop functioning. They do still occupy their location and their location is considered difficult terrain (given the prototype is of size small or larger). 
+- As an action, you can reactivate a broken prototype without spending the material components, but respending the stamina. This can only be done if their location is unoccupied.
 
 There is a limit to how many prototypes you can have under your control, which can be found in the table below.
 
@@ -3558,7 +3559,7 @@ ___
 >
 > ### Actions
 >
-> ***Detonate.*** Each creature within 20 feet of the Prototype Sheep must make a Physical Agility saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one. After using this ability, the Prototype Sheep is considered 'no more' and cannot be fixed or reactivated, nor does it still occupy its location.
+> ***Detonate.*** Each creature within 20 feet of the Prototype Sheep must make a Physical Agility saving throw against your spell save DC, taking 2d8 + 50% of the Prototype Sheep's current hit points rounded up in force damage on a failed save or half as much damage on a successful one. After using this ability, the Prototype Sheep is considered 'no more' and cannot be fixed or reactivated, nor does it still occupy its location.
 
 
 \page
@@ -3655,12 +3656,87 @@ You make a small, yet totally intended mishap with your equipment. Every creatur
 
 <div class='pageNumber auto'></div>
 
+## Level 6
+#### Prototype Snake -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (a metal rod of atleast 3 ft long)
+- **Duration:** 10 Story Ticks
+
+___
+> ## Prototype Snake
+>*Small*  ***Construct***
+> ___
+> - **Armour Class** 17
+> - **Hit Points** 10 + 2x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|8 (-1)|16 (+3)|8 (-1)|6 (-2)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ### Actions
+> ***Constrict.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 20/40 ft., one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Move the Prototype Snake to the target on hit. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
+>
+> ***Squash*** *Melee Weapon Attack:* **Can only be done on Grappled targets** your spell attack modifier to hit. One target. _Hit_ 2d6 + Mysticist level bludgeoning damage.
+___
+
+<div style='margin-top:440px'></div>
+
+#### Prototype Elephant -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 5ft
+- **Components:** V, S, M (a metal cube of atleast 3 ft cubed)
+- **Duration:** 10 Story Ticks
+
+
+___
+> ## Prototype Elephant
+>*Large*  ***Construct***
+> ___
+> - **Armour Class** 12
+> - **Hit Points** 30 + 5x Mysticist level
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|18 (+4)|8 (-1)|8 (-1)|12 (+1)|1 (-5)	|1 (-5)	|8 (-1)|
+>___
+> - **Damage Immunities:** poison
+> - **Condition Immunities:** exhaustion, poisoned
+> ___
+> ***Born to run.*** Whenever the Prototype Elephant is moved as a bonus action, it moves twice as far.
+> ___
+> ### Actions
+> ***Multiattack.*** The Prototype Elephant makes two attacks.
+>
+> ***Tusk.*** *Melee Weapon Attack:* your spell attack modifier to hit. One target. _Hit_ 3d6 + Mysticist level bludgeoning damage. If target is Medium or smaller, it is shoved 10 away from the Prototype Elephant to an unoccupied location.
+>
+___
+## Level 7
+### Scientist Tactics 
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Explosive Prototyping
+If a Prototype is reduced to 0 hit points, it explodes, dealing 25% of its total hit points in fire damage in a 5ft radius.
+
+##### Battery Improvements
+Your maximum amount of Infusements is increased by 2.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 ### Arcane Infusions
 
 ___
 > ## Arcane Propulsion Armour
->*Prerequisite: 7th Mysticist*
+>*Prerequisite: 7th-level Mysticist*
 >
 >*Item: A suit of armor (requires attunement)*
 > ___
