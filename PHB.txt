@@ -19,7 +19,7 @@
 Map credit: Garth Nix
   </div>
 <div class='wide'>
-Version V0.12
+Version V0.13
 </div>
   
 
@@ -4103,7 +4103,7 @@ If you move at least 20ft straight toward a Large or smaller melee target, as an
 _Exert: You can target up to Huge creatures._
 
 #### Headbutt -1 Stamina
-You can replace an unarmed attack with a Headbutt. On hit, target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
+You can replace an unarmed attack of an attack action with a Headbutt. On hit, target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
 This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
 
 <div style='margin-top:140px'></div>
@@ -4140,6 +4140,25 @@ As an action you can lift a large or smaller grappled target over your head and 
 ## Level 5
 ### Uncanny dodge
 Starting at 5th Level, when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Level 6
+
+#### Twister
+As an action you can lift a large or smaller grappled target and swing it round in a circle. You make a melee attack against each creature within melee range of you, with a separate attack roll for each target. The grappled target is released in an unoccupied location next to you and is no longer grappled, but is knocked prone and takes 2d6 bludgeoning damage per target hit. You cannot perform this move while you are grappled or restrained.
+
+## Level 7
+### Brain Tactics 
+At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
+
+##### Unarmoured Shielding
+You can use a shield whilst using Unarmoured Defense.
+
+##### Using your Head
+When you are hit by a melee attack, you can use your reaction and 2 stamina to make a Headbutt attack upon the attacker.
 
 \page
 
