@@ -649,7 +649,7 @@ Some Stamina abilities allow you to exert them. You will get a stronger effect, 
 
 ### Changing Tactics
 some groups of features are marked as a tactic. These are mutually exclusive features where a choice will have to be made which of the features you want for your character.
-It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns ones psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, Fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to gain any benefit from it.
+It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns ones psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, Fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to change their tactic.
 
 At the end, a character can change one of his or her tactics, as well as all the usual benefits from a long rest.
 
@@ -2592,7 +2592,28 @@ Through sound and gestures, you may communicate simple ideas with Small or small
 
 <div style='margin-top:240px'></div>
 
-### Noxious cloud
+### Versatile Incantations
+As a mysticist, you are highly versatile in your spell casting. At 1st level, you know three spells from the following list.
+
+- Noxious cloud
+- Alarm Mouse Sending
+- Invoke the Golden Star
+- Echoing Strike
+- Detect poison and disease
+- Static Web
+- Debilitating dart
+- Ensnaring Strike
+
+At higher levels you can choose more of these spells, as found in the following table.
+
+| Level | Number of spells |  
+|:----:|:---:			|
+| 1-2  | 3 		  	| 
+| 3-4  | 4				| 
+| 5-7  | 5				| 
+| 8-10 | 6				|
+
+#### Noxious cloud
 ___
 - **Casting Time:** 1 action
 - **Range:** 15ft
@@ -2603,7 +2624,7 @@ You extend your hand toward a creature you can see within range and project a pu
 
 This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
 
-### Alarm Mouse Sending
+#### Alarm Mouse Sending
 ___
 - **Casting Time:** 1 minute
 - **Range:** 30ft
@@ -2619,7 +2640,13 @@ An audible alarm produces the sound of a hand bell for 10 seconds within 60 feet
 The mouse has 6 hp and an AC of 16. It cannot attack and will automatically fail saving throws. If it is killed off in one blow, it will not set off the alarm (however, the attack itself may).
 
 
-### Invoke the Golden Star
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+#### Invoke the Golden Star
 ___
 - **Casting Time:** 1 action
 - **Range:** Self (10-foot radius)
@@ -2631,16 +2658,66 @@ You invoke the power of Clayr. Tendrils of white energy erupt from you and batte
 This spell’s damage increases by 1d6 when you reach 3th level (3d6), 6th level (4d6), and 9th level (5d6).
 
 
+#### Echoing Strike
+___
+- **Casting Time:** 1 action
+- **Range:** 60ft
+- **Components:** V, S
+- **Duration:** Concentration, Up to 1 round
 
-\page
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, whenever you hit the target with an attack, you can make an additional attack on the target, but you gain a -5 bonus on all attack rolls this turn. This additional attack can repeat until you miss your target.
 
-<div class='pageNumber auto'></div>
+#### Detect poison and disease
+___
+- **Casting Time:** 1 minute
+- **Range:** Self (30-foot radius)
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+You can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+#### Static Web
+___
+- **Casting Time:** 1 action
+- **Range:** 60ft
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+
+A beam of crackling, blue energy lances out toward a creature within range, forming a sustained arc of lightning between you and the target. Make a ranged spell attack against that creature. On a hit, the target takes 1d10 + Aptitude modifier lightning damage, and on each of your turns for the duration, you can use your action to deal 1d10 + Aptitude modifier  lightning damage to the target automatically. The spell ends if you use your action to do anything else. The spell also ends if the target is ever outside the spell’s range or if it has total cover from you.
+
+This spell’s initial and sustained damage increases by 1d10 when you reach 3th level (2d10), 6th level (3d10), and 9th level (4d10).
+
+<div style='margin-top:140px'></div>
+
+#### Debilitating dart
+___
+- **Casting Time:** 1 action
+- **Range:** 90ft
+- **Components:** V, S
+- **Duration:** 1 minute
+
+Make a ranged spell attack against the target. On a hit, the target takes 1d4 + Aptitude modifier poison damage. Also, choose one ability when you cast the spell. The target has disadvantage on ability checks made with the chosen ability.
+
+This spell’s damage increases by 1d4 when you reach 3th level (2d4), 6th level (3d4), and 9th level (4d4).
+
+#### Ensnaring Strike
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V
+- **Duration:** Concentration, Up to 1 round
+
+The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Physical Strength saving throw or be grappled by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
+
+A creature restrained by the vines or one that can touch the creature can use its action to make a Strength skill check against your spell save DC. On a success, the target is freed.
 
 ## Level 2
 #### Detect magic -1 Stamina 
 ___
 - **Casting Time:** 1 action
-- **Range:** Self
+- **Range:** Self (30-foot radius)
 - **Components:** V, S
 - **Duration:** Concentration, Up to 10 minute
 
@@ -2658,6 +2735,12 @@ ___
 - **Duration:** Concentration, Up to 1 hour
 
 Until the spell ends, one willing creature you touch gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### Darkvision -1 Stamina
 ___
@@ -2702,7 +2785,7 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 
 
 ### Archery
-You gain a +2 bonus to attack rolls you make with ranged weapons. 
+You can add your intelligence modifier to attack rolls you make with ranged weapons. 
 
 <div style='margin-top:1000px'></div>
 
@@ -2906,7 +2989,7 @@ Provided you have access to foliage, you can spend a minute to craft yourself a 
 Once you are camouflaged in this way, you can try to hide as a bonus action by pressing yourself up against a tree, plant or bush, that is at least as tall and wide as you are. 
 
 ### Archery
-You gain a +2 bonus to attack rolls you make with ranged weapons.
+You can add your intelligence modifier to attack rolls you make with ranged weapons. 
 
 <div style='margin-top:60px'></div>
 
