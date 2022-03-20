@@ -810,299 +810,6 @@ On a failure you will stay on your current layer. If you fail the DC by 5 or mor
   | 7 | Automatic Failure 	| Automatic Failure |
 
 
-\page
-
-<div class='pageNumber auto'></div>
-
-# Feats
-
-## Actor
-
-Skilled at mimicry and dramatics, you gain the following benefits:
-
-- Increase your Charisma score by 1, to a maximum of 20.
-- You have advantage on skill checks when trying to pass yourself off as a different person.
-- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful skill check contested by your Deception check allows a listener to determine that the effect is faked.
-
-## Alert
-Always on the lookout for danger, you gain the following benefits:
-- You gain a +5 bonus to initiative.
-- You can’t be surprised while you are conscious.
-- Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
-
-## Arcane Ammunitionist
-_Prerequisites: Aptitude 13 or higher_
-
-You have developed the magical ability of conjuring ammunition, gaining the following benefits:
-
-- You gain a +1 bonus to ranged attack rolls when using conjured, magical or imbued ammunition.
-- You can conjure a piece of mundane ammunition (such as arrows for bows, bolts for crossbows, or stones for slings) as part of an attack with a ranged weapon. The conjured ammunition disappears after 1 round. The conjured ammo is considered magical.
-- You ignore the loading quality of crossbows with which you are proficient.
-
-## Athlete
-You have undergone extensive physical training to gain the following benefits:
-- Increase your Strength or Agility score by 1, to a maximum of 20.
-- When you are prone, standing up uses only 5 feet of your movement and won’t  provoke attacks of opportunity.
-- Climbing doesn’t halve your speed.
-- You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
-
-
-<div style='margin-top:180px'></div>
-
-## Charger
-When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
-
-If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
-
-
-
-
-## Crossbow Expert	
-Thanks to extensive practice with the crossbow, you gain the following benefits:
-- You ignore the loading quality of crossbows with which you are proficient.
-- Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
-- When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.
-
-## Defensive Duellist
-_Prerequisite: Agility 13 or higher_
-
-When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add double your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
-
-
-## Chef
-Time spent mastering the culinary art has paid off, granting you the following benefits:
-
-- Increase your Constitution or Aptitude by 1, to a maximum of 20.
-- As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + twice your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
-- With one hour of work or when you finish a long rest, you can cook a number of treats equal to double your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
-## Crusher
-You are practiced in the art of crushing your enemies, granting you the following benefits:
-- Increase your Strength or Constitution by 1, to a maximum of 20.
-- Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
-- When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
-
-## Dual Wielder	
-You master fighting with two weapons, gaining the following benefits:
-- You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
-- You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren’t light.
-- You can draw or stow two one-handed weapons when you would normally b e able to draw or stow only one.
-
-## Dungeon Delver	
-Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
-- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
-- You have advantage on skill checks made to detect the presence of secret doors.
-- You have advantage on saving throws made to avoid or resist traps.
-- You have resistance to the damage dealt by traps.
-- You can search for traps while travelling at a normal pace, instead of only at a slow pace.
-
-## Durable
-Hardy and resilient, you gain the following benefits:
-- Increase your Constitution score by 1, to a maximum of 20.
-- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
-
-<div style='margin-top:240px'></div>
-
-## Grappler	
-_Prerequisite: Strength 13 or higher_
-
-You’ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
-- You have advantage on attack rolls against a creature you are grappling.
-- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
-- Creatures that are one size larger than you don’t automatically succeed on checks to escape your grapple.
-
-
-
-## Great Weapon Master
-You’ve learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
-- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
-- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
-
-## Healer
-You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
-- When you use a healer’s kit to stabilize a dying creature, that creature also regains 1 hit point.
-- As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest.
-
-## Heavily Armoured	
-_Prerequisite: Proficiency with medium armour_
-
-You have trained to master the use of heavy armour, gaining the following benefits:
-- Increase your Strength score by 1, to a maximum of 20.
-- You gain proficiency with heavy armour.
-
-## Heavy Armour Master	
-_Prerequisite: Proficiency with heavy armour_
-
-You can use your armour to deflect strikes that would kill others. You gain the following benefits:
-- Increase your Strength score by 1, to a maximum of 20.
-- While you are wearing heavy armour, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3.
-
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
-## Inspiring Leader	
-_Prerequisite: Charisma 13 or higher_
-
-You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.
-A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
-
-## Keen Mind	
-You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
-- Increase your Intelligence score by 1, to a maximum of 20.
-- You always know which way is north.
-- You always know the number of hours left before the next sunrise or sunset.
-- You can accurately recall anything you have seen or heard within the past month.
-
-## Lightly Armoured	
-You have trained to master the use of light armour, gaining the following benefits:
-- Increase your Strength or Agility score by 1, to a maximum of 20.
-- You gain proficiency with light armour.
-
-## Mage Slayer	
-You have practiced techniques useful in melee combat against spell casters, gaining the following benefits:
-- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
-- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
-- You have advantage on saving throws against spells cast by creatures within 5 feet of you.
-
-## Medium Armour Master	
-_Prerequisite: Proficiency with medium armour_
-
-You have practiced moving in medium armour to gain the following benefits:
-- Wearing medium armour doesn’t impose disadvantage on skill checks to hide or sneak.
-- When you wear medium armour, you can add 3, rather than 2, to your AC if you have an Agility of 16 or higher.
-
-<div style='margin-top:140px'></div>
-
-## Mobile	
-You are exceptionally speedy and agile. You gain the following benefits:
-- Your speed increases by 10 feet.
-- When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
-- When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
-
-
-## Moderately Armoured	
-_Prerequisite: Proficiency with light armour_
-
-
-You have trained to master the use of medium armour and shields, gaining the following benefits:
-- Increase your Strength or Agility score by 1, to a maximum of 20.
-- You gain proficiency with medium armour and shields.
-
-## Mounted Combatant
-You are a dangerous foe to face while mounted. While you are mounted and aren’t incapacitated, you gain the following benefits:
-- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
-- You can force an attack targeted at your mount to target you instead.
-- If your mount is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
-
-## Observant
-Quick to notice details of your environment, you gain the following benefits:
-- Increase your Intelligence or Aptitude score by 1, to a maximum of 20.
-- If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
-- You have a +5 bonus to your passive Perception and passive Intelligence scores.
-
-## Piercer
-You have achieved a penetrating precision in combat, granting you the following benefits:
-- Increase your Strength or Agility by 1, to a maximum of 20.
-- Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
-- When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
-
-## Pole arm Master
-You can keep your enemies at bay with reach weapons. You gain the following benefits:
-- When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon’s damage die for this attack is a d4, and the attack deals bludgeoning damage.
-- While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.
-
-## Poisoner
-You can prepare and deliver deadly poisons, granting you the following benefits:
-- When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
-- You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
-- You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
-
-## Resilient	
-Choose one ability score. You gain the following benefits:
-- Increase the chosen ability score by 1, to a maximum of 20.
-- You gain proficiency in saving throws using the chosen ability.
-
-## Savage Attacker	
-Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
-
-## Sharpshooter	
-You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
-- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
-- Your ranged weapon attacks ignore half cover and three-quarters cover.
-- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
-
-<div style='margin-top:140px'></div>
-
-
-
-## Shield Master	
-You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
-- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
-- If you aren’t incapacitated, you can add your shield’s AC bonus to any Physical Agility saving throws you make against a spell or other harmful effect that targets only you.
-- If you are subjected to an effect that allows you to make a Physical Agility saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
-
-## Skulker	
-_Prerequisite: Agility 13 or higher_
-
-You are expert at slinking through shadows. You gain the following benefits:
-- You can try to hide when you are lightly obscured from the creature from which you are hiding.
-- When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
-- Dim light doesn’t impose disadvantage on skill checks relying on sight.
-
-## Slasher
-You've learned where to cut to have the greatest results, granting you the following benefits:
-- Increase your Strength or Agility by 1, to a maximum of 20.
-- Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
-- When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
-
-## Spell Sniper	
-You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
-- When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
-- Your ranged spell attacks ignore half cover and three-quarters cover.
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
-## Tavern Brawler
-Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
-- Increase your Strength or Constitution score by 1, to a maximum of 20.
-- You are proficient with improvised weapons and unarmed strikes.
-- Your unarmed strike uses a d4 for damage.
-- When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
-
-
-## Tough	
-Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
-
-## War Caster	
-_Prerequisite: Spell slinger or Mysticist class_
-
-You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
-- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
-- You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
-- When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
-
-## Weapon Master	
-You have practiced extensively with a variety of weapons, gaining the following benefits:
-- Increase your Strength or Agility score by 1, to a maximum of 20.
-- You gain proficiency with four weapons of your choice.
-
 
 \page
 
@@ -1120,7 +827,7 @@ Character creation is fairly straightforward. Follow the following steps:
  3. Choose a Background.
  4. Determine your ability scores either through point buy or using the standard array.
  5. Upgrade your main ability score.
- 6. Pick a defensive proficiency.
+ 6. Pick a Protection Bonus.
  7. Calculate your Generic stats.
  
 #### Backgrounds
@@ -1184,18 +891,18 @@ The standard array is as follows: 16, 14, 12, 12, 10, 10, 8.
 ### Upgrade your main ability score
 Add two to your highest ability score. If multiple ability scores are your highest, pick one to upgrade.
 
-### Defensive Proficiency
-You get to choose a defensive proficiency, which involves choosing from one of the following three options:
+### Protection Bonus
+You get to choose a protection bonus, which involves choosing from one of the following three options:
 
- 1. +1 AC and your proficiency bonus is added to initiative
- 2. Proficient in 3 Physical saving throws of your choice
- 3. Proficient in 3 Charter saving throws of your choice
+ 1. +1 AC and your protection bonus is added to initiative
+ 2. Protection bonus added to 3 Physical saving throws of your choice
+ 3. Protection bonus added to 3 Charter saving throws of your choice
 
-This choice is made at character creation and cannot be changed later, so choose wisely. The value in which your proficiency modifier is increased depends on your level. Consult the following table to find your proficiency modifier:
+This choice is made at character creation and cannot be changed later, so choose wisely. The value in which your protection bonus is increased depends on your level. Consult the following table to find your protection bonus:
 
-#### Proficiency modifiers
+#### Protection modifiers
 
-| Level | Proficiency Modifier |
+| Level | Protection bonus |
 |:----:|:---|
 | 1-3  | +1 |
 | 4-5  | +2 |
@@ -1374,7 +1081,7 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 *I will trample our enemies!*
 
 #### Quick Build
-You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
+You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
 ### Fighting Styles
 At level 1 you gain the following fighting styles.
@@ -1441,7 +1148,7 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 *They never saw me coming.*
 
 #### Quick Build
-You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw defensive proficiency, picking at least Intelligence and Constitution saving throws.
+You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence and Constitution saving throws.
 
 ### Nimble Fighter
 You gain a +2 bonus to attack rolls you made with Nimble weapons.
@@ -1511,7 +1218,7 @@ At 6th level you gain additional imbuement options for your ammunition
 *#Blessed*
 
 #### Quick Build
-You can make a Guardian quickly by following these suggestions. First, Strength should be your highest ability score, followed by Reflexes or Aptitude. Second, choose the noble background. Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Guardian quickly by following these suggestions. First, Strength should be your highest ability score, followed by Reflexes or Aptitude. Second, choose the noble background. Third, choose the +1 AC and initiative protection bonus.
 
 ### Sentinel
 Your opportunity attacks with a shield in your hand do not consume a reaction.
@@ -1763,7 +1470,7 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 *Ring ring ring ring ring, Banana phone!*
 
 #### Quick Build
-You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
+You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
 ### Bell master
 You can use your bells as a bonus action. You also do not need to wield them to use.
@@ -1909,7 +1616,7 @@ _Exert: The radius is doubled of the bubble is doubled and the damage is increas
 *A lil Charter, knocking at your door.*
 
 #### Quick Build
-You can make a Charter mage quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Intelligence. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
+You can make a Charter mage quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Intelligence. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
 
 ### Infuse with Charter
 ___
@@ -2103,7 +1810,7 @@ _Exert: You can place the cylinder up to 30ft away from you._
 *Wind, Thunder & Fire, Heed my call!*
 
 #### Quick Build
-You can make a Elementalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the sage background. Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
+You can make a Elementalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the sage background. Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
 
 ### Elemental proficiency
 You can change the damaging element of your Thunderbolt and Fire claw to Fire, Cold, Lightning or Thunder at will. The effect on a critical hit will also change, depending on the element. 
@@ -2413,7 +2120,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 *The Damned stand ready*
 
 #### Quick Build
-You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw defensive proficiency, picking at least Intelligence saving throw.
+You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence saving throw.
 
 ### Master of the Dead
 You have advantage on any Death saving throws. You can also use the Mosrael bell as a bonus action.
@@ -2566,7 +2273,7 @@ The ram will now be stopped and explode, forcing all creatures in a 15ft radius 
 *And you get a heal! And you get a heal!*
 
 #### Quick Build
-You can make a Hemathurge quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the folk hero background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Hemathurge quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the folk hero background.  Third, choose the +1 AC and initiative protection bonus.
 
 ### Song of rest
 You can use your control over blood flows to help revitalize your wounded allies during a Short Rest. If you or any friendly creatures who can hear your Performance regain Hit Points by spending Hit Dice at the end of the Short Rest, each of those creatures regains an extra 1d6 Hit Points.
@@ -2688,7 +2395,7 @@ Choose up to three non-Dead creatures in range, which must make a Charter Consti
  *Mold your own friend* 
 
 #### Quick Build
-You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Intelligence saving throws.
+You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw protection bonus, picking at least Charisma and Intelligence saving throws.
 
 ### Mordicant
   The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
@@ -2972,7 +2679,7 @@ The Mysticist knows 3 subclasses which you choose one of at level 1. The availab
 *Who watches the Watchers?*
 
 #### Quick Build
-You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw defensive proficiency, picking at least Agility and Constitution saving throws.
+You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
 ### Portent
 Glimpses of the future press in on your awareness. When you finish a long rest, roll two d20s and record the numbers rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with one of these foretelling rolls. You must choose to do so before the roll, and you can replace a roll in this way only once per Story Tick.
@@ -3191,7 +2898,7 @@ Whenever you take damage, you can spend your reaction and 2 Stamina to take the 
 *Double double trouble you bubble in a witches' brew*
 
 #### Quick Build
-You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw defensive proficiency, picking at least Charisma and Constitution saving throws.
+You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
 
 ### Nature's guise
 Provided you have access to foliage, you can spend a minute to craft yourself a suit of foliage. The suit will last for 1 hour. 
@@ -3417,7 +3124,7 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 *C'mon in, I'll give ya the tour! NO TOUCHING!*
 
 #### Quick Build
-You can make a Tinkerer quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution. Second, choose the Guild Artisan background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Tinkerer quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution. Second, choose the Guild Artisan background.  Third, choose the +1 AC and initiative protection bonus.
 
 ### Infuse Item
 You've gain the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
@@ -4006,7 +3713,7 @@ Starting at 4th level, your speed increases by 10 feet.
 *Now you see me, now I'm gone!*
 
 #### Quick Build
-You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Constitution. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Constitution. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative protection bonus.
 
 ### Mage hand
 ___
@@ -4166,7 +3873,7 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 *Boot tot the head!*
 
 #### Quick Build
-You can make a Grappler quickly by following these suggestions. First, Strength should be your highest ability score, followed by Constitution. Second, choose the Urchin background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Grappler quickly by following these suggestions. First, Strength should be your highest ability score, followed by Constitution. Second, choose the Urchin background.  Third, choose the +1 AC and initiative protection bonus.
 
 ### Hop up
 You do not provoke attacks of opportunity when you get up from prone.
@@ -4253,7 +3960,7 @@ When you are hit by a melee attack, you can use your reaction and 2 stamina to m
 *Looks are only temporary!*
 
 #### Quick Build
-You can make a Morphling quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the Hermit background.  Third, choose the +1 AC and initiative defensive proficiency.
+You can make a Morphling quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the Hermit background.  Third, choose the +1 AC and initiative protection bonus.
 
 #### Morph Aspect -2 Stamina
 ___
@@ -4375,6 +4082,301 @@ An enemy can use its action to try to wrench a weapon free or an allied body par
 
 ##### Reinvigorating Shout
 Your battle road also grants affected creatures 2 x Edge Dancer level in temporary hit points.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+# Feats
+
+## Actor
+
+Skilled at mimicry and dramatics, you gain the following benefits:
+
+- Increase your Charisma score by 1, to a maximum of 20.
+- You have advantage on skill checks when trying to pass yourself off as a different person.
+- You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful skill check contested by your Deception check allows a listener to determine that the effect is faked.
+
+## Alert
+Always on the lookout for danger, you gain the following benefits:
+- You gain a +5 bonus to initiative.
+- You can’t be surprised while you are conscious.
+- Other creatures don’t gain advantage on attack rolls against you as a result of being hidden from you.
+
+## Arcane Ammunitionist
+_Prerequisites: Aptitude 13 or higher_
+
+You have developed the magical ability of conjuring ammunition, gaining the following benefits:
+
+- You gain a +1 bonus to ranged attack rolls when using conjured, magical or imbued ammunition.
+- You can conjure a piece of mundane ammunition (such as arrows for bows, bolts for crossbows, or stones for slings) as part of an attack with a ranged weapon. The conjured ammunition disappears after 1 round. The conjured ammo is considered magical.
+- You ignore the loading quality of crossbows with which you are proficient.
+
+## Athlete
+You have undergone extensive physical training to gain the following benefits:
+- Increase your Strength or Agility score by 1, to a maximum of 20.
+- When you are prone, standing up uses only 5 feet of your movement and won’t  provoke attacks of opportunity.
+- Climbing doesn’t halve your speed.
+- You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
+
+
+<div style='margin-top:180px'></div>
+
+## Charger
+When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
+
+If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
+
+
+
+
+## Crossbow Expert	
+Thanks to extensive practice with the crossbow, you gain the following benefits:
+- You ignore the loading quality of crossbows with which you are proficient.
+- Being within 5 feet of a hostile creature doesn’t impose disadvantage on your ranged attack rolls.
+- When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a loaded hand crossbow you are holding.
+
+## Defensive Duellist
+_Prerequisite: Agility 13 or higher_
+
+When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add double your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+
+
+## Chef
+Time spent mastering the culinary art has paid off, granting you the following benefits:
+
+- Increase your Constitution or Aptitude by 1, to a maximum of 20.
+- As part of a short rest, you can cook special food, provided you have ingredients and cook's utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 + twice your proficiency bonus. At the end of the short rest, any creature who eats the food and spends one or more Hit Dice to regain hit points regains an extra 1d8 hit points.
+- With one hour of work or when you finish a long rest, you can cook a number of treats equal to double your proficiency bonus. These special treats last 8 hours after being made. A creature can use a bonus action to eat one of those treats to gain temporary hit points equal to your proficiency bonus.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Crusher
+You are practiced in the art of crushing your enemies, granting you the following benefits:
+- Increase your Strength or Constitution by 1, to a maximum of 20.
+- Once per turn, when you hit a creature with an attack that deals bludgeoning damage, you can move it 5 feet to an unoccupied space, provided the target is no more than one size larger than you.
+- When you score a critical hit that deals bludgeoning damage to a creature, attack rolls against that creature are made with advantage until the start of your next turn.
+
+## Dual Wielder	
+You master fighting with two weapons, gaining the following benefits:
+- You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.
+- You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren’t light.
+- You can draw or stow two one-handed weapons when you would normally b e able to draw or stow only one.
+
+## Dungeon Delver	
+Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:
+- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+- You have advantage on skill checks made to detect the presence of secret doors.
+- You have advantage on saving throws made to avoid or resist traps.
+- You have resistance to the damage dealt by traps.
+- You can search for traps while travelling at a normal pace, instead of only at a slow pace.
+
+## Durable
+Hardy and resilient, you gain the following benefits:
+- Increase your Constitution score by 1, to a maximum of 20.
+- When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).
+
+<div style='margin-top:240px'></div>
+
+## Grappler	
+_Prerequisite: Strength 13 or higher_
+
+You’ve developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:
+- You have advantage on attack rolls against a creature you are grappling.
+- You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.
+- Creatures that are one size larger than you don’t automatically succeed on checks to escape your grapple.
+
+
+
+## Great Weapon Master
+You’ve learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:
+- On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.
+- Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
+
+## Healer
+You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:
+- When you use a healer’s kit to stabilize a dying creature, that creature also regains 1 hit point.
+- As an action, you can spend one use of a healer’s kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature’s maximum number of Hit Dice. The creature can’t regain hit points from this feat again until it finishes a short or long rest.
+
+## Heavily Armoured	
+_Prerequisite: Proficiency with medium armour_
+
+You have trained to master the use of heavy armour, gaining the following benefits:
+- Increase your Strength score by 1, to a maximum of 20.
+- You gain proficiency with heavy armour.
+
+## Heavy Armour Master	
+_Prerequisite: Proficiency with heavy armour_
+
+You can use your armour to deflect strikes that would kill others. You gain the following benefits:
+- Increase your Strength score by 1, to a maximum of 20.
+- While you are wearing heavy armour, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Inspiring Leader	
+_Prerequisite: Charisma 13 or higher_
+
+You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier.
+A creature can’t gain temporary hit points from this feat again until it has finished a short or long rest.
+
+## Keen Mind	
+You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:
+- Increase your Intelligence score by 1, to a maximum of 20.
+- You always know which way is north.
+- You always know the number of hours left before the next sunrise or sunset.
+- You can accurately recall anything you have seen or heard within the past month.
+
+## Lightly Armoured	
+You have trained to master the use of light armour, gaining the following benefits:
+- Increase your Strength or Agility score by 1, to a maximum of 20.
+- You gain proficiency with light armour.
+
+## Mage Slayer	
+You have practiced techniques useful in melee combat against spell casters, gaining the following benefits:
+- When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.
+- When you damage a creature that is concentrating on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.
+- You have advantage on saving throws against spells cast by creatures within 5 feet of you.
+
+## Medium Armour Master	
+_Prerequisite: Proficiency with medium armour_
+
+You have practiced moving in medium armour to gain the following benefits:
+- Wearing medium armour doesn’t impose disadvantage on skill checks to hide or sneak.
+- When you wear medium armour, you can add 3, rather than 2, to your AC if you have an Agility of 16 or higher.
+
+<div style='margin-top:140px'></div>
+
+## Mobile	
+You are exceptionally speedy and agile. You gain the following benefits:
+- Your speed increases by 10 feet.
+- When you use the Dash action, difficult terrain doesn’t cost you extra movement on that turn.
+- When you make a melee attack against a creature, you don’t provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
+
+## Moderately Armoured	
+_Prerequisite: Proficiency with light armour_
+
+
+You have trained to master the use of medium armour and shields, gaining the following benefits:
+- Increase your Strength or Agility score by 1, to a maximum of 20.
+- You gain proficiency with medium armour and shields.
+
+## Mounted Combatant
+You are a dangerous foe to face while mounted. While you are mounted and aren’t incapacitated, you gain the following benefits:
+- You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
+- You can force an attack targeted at your mount to target you instead.
+- If your mount is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+
+## Observant
+Quick to notice details of your environment, you gain the following benefits:
+- Increase your Intelligence or Aptitude score by 1, to a maximum of 20.
+- If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
+- You have a +5 bonus to your passive Perception and passive Intelligence scores.
+
+## Piercer
+You have achieved a penetrating precision in combat, granting you the following benefits:
+- Increase your Strength or Agility by 1, to a maximum of 20.
+- Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
+- When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+## Pole arm Master
+You can keep your enemies at bay with reach weapons. You gain the following benefits:
+- When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon’s damage die for this attack is a d4, and the attack deals bludgeoning damage.
+- While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.
+
+## Poisoner
+You can prepare and deliver deadly poisons, granting you the following benefits:
+- When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
+- You can apply poison to a weapon or piece of ammunition as a bonus action, instead of an action.
+- You gain proficiency with the poisoner's kit if you don't already have it. With one hour of work using a poisoner's kit and expending 50 gp worth of materials, you can create a number of doses of potent poison equal to your proficiency bonus. Once applied to a weapon or piece of ammunition, the poison retains its potency for 1 minute or until you hit with the weapon or ammunition. When a creature takes damage from the coated weapon or ammunition, that creature must succeed on a DC 14 Constitution saving throw or take 2d8 poison damage and become poisoned until the end of your next turn.
+
+## Resilient	
+Choose one ability score. You gain the following benefits:
+- Increase the chosen ability score by 1, to a maximum of 20.
+- You gain proficiency in saving throws using the chosen ability.
+
+## Savage Attacker	
+Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon’s damage dice and use either total.
+
+## Sharpshooter	
+You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:
+- Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.
+- Your ranged weapon attacks ignore half cover and three-quarters cover.
+- Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
+
+<div style='margin-top:140px'></div>
+
+
+
+## Shield Master	
+You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
+- If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.
+- If you aren’t incapacitated, you can add your shield’s AC bonus to any Physical Agility saving throws you make against a spell or other harmful effect that targets only you.
+- If you are subjected to an effect that allows you to make a Physical Agility saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.
+
+## Skulker	
+_Prerequisite: Agility 13 or higher_
+
+You are expert at slinking through shadows. You gain the following benefits:
+- You can try to hide when you are lightly obscured from the creature from which you are hiding.
+- When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.
+- Dim light doesn’t impose disadvantage on skill checks relying on sight.
+
+## Slasher
+You've learned where to cut to have the greatest results, granting you the following benefits:
+- Increase your Strength or Agility by 1, to a maximum of 20.
+- Once per turn when you hit a creature with an attack that deals slashing damage, you can reduce the speed of the target by 10 feet until the start of your next turn.
+- When you score a critical hit that deals slashing damage to a creature, you grievously wound it. Until the start of your next turn, the target has disadvantage on all attack rolls.
+
+## Spell Sniper	
+You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
+- When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
+- Your ranged spell attacks ignore half cover and three-quarters cover.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## Tavern Brawler
+Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
+- Increase your Strength or Constitution score by 1, to a maximum of 20.
+- You are proficient with improvised weapons and unarmed strikes.
+- Your unarmed strike uses a d4 for damage.
+- When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.
+
+
+## Tough	
+Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
+
+## War Caster	
+_Prerequisite: Spell slinger or Mysticist class_
+
+You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:
+- You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.
+- You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.
+- When a hostile creature’s movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.
+
+## Weapon Master	
+You have practiced extensively with a variety of weapons, gaining the following benefits:
+- Increase your Strength or Agility score by 1, to a maximum of 20.
+- You gain proficiency with four weapons of your choice.
+
 
 \page
 
@@ -5383,7 +5385,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  - New bestiary
  - Dual Skill check system
  - Stamina System/Actions
- - Defensive proficiency
+ - Protection Bonus
  - Exert
  - Death Plane
  - Brawn/Nimble/Impact weapons
