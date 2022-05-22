@@ -1114,7 +1114,7 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 | 6th | +3 | Ability Score Improvement, Reliable Strikes, Frenzy |
 | 7th | +3 | Defensive Tactics |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 |  |
+| 9th | +4 | - |
 | 10th | +4 | Ability Score Improvement |
 </div>
 
@@ -1200,7 +1200,7 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 | 6th | +3 | Ability Score Improvement, Reliable Strikes, Additional Imbue Ammunition |
 | 7th | +3 | Defensive Tactics |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 |  |
+| 9th | +4 | - |
 | 10th | +4 | Ability Score Improvement |
 </div>
 
@@ -1287,7 +1287,7 @@ At 6th level you gain additional imbuement options for your ammunition
 | 6th | +3 | Ability Score Improvement, Reliable Strikes |
 | 7th | +3 | Defensive Tactics |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 |  |
+| 9th | +4 | - |
 | 10th | +4 | Ability Score Improvement |
 </div>
 
@@ -1541,6 +1541,22 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 ## Silencer
 *Ring ring ring ring ring, Banana phone!*
 
+<div class='classTable'>
+##### The Silencer
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Kibeth, Ranna, Dyrim, Bell Master, Front line fighter |
+| 2nd | +1 | Inspiration |
+| 3rd | +1 | Ability Score Improvement, Versatile tactics |
+| 4th | +2 | - |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement, Thunderous Strikes |
+| 7th | +3 | Meta Magic Tactics |
+| 8th | +4 | Ability Score Improvement, Indomitable |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 #### Quick Build
 You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
@@ -1549,6 +1565,8 @@ You can use your bells as a bonus action. You also do not need to wield them to 
 
 ### Front line fighter
 You gain proficiency in martial melee weapons as well as shields. Your hit point maximum is also increased by 2 at level 1. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. 
+
+<div style='margin-top:140px'></div>
 
 #### Silence -1 Stamina
 ___
@@ -1570,7 +1588,6 @@ You create an earth shattering ripple that will tear up the ground in a 50ft lon
 
 _Exert: 6d6 magical bludgeoning damage._
 
-<div style='margin-top:140px'></div>
 
 #### Thunderclap -2 Stamina
 ___
@@ -1594,6 +1611,12 @@ ___
 
 Boost the effect of your Kibeth bell by narrowing and directing the effect on a specific creature as an action. This creature does not have the restriction of being Dead. Target creature must make a Charter Intelligence saving throw or be paralysed for the duration. Casting this ability uses your Kibeth bell and puts it in recharge.
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 ## Level 2
 
 ### Inspiration
@@ -1604,12 +1627,6 @@ Once within the next 10 minutes, the creature can roll the die and add the numbe
 You can use this feature a number of times equal to your Aptitude modifier (a minimum of once). You regain any expended uses when you finish a Long Rest.
 
 Your Inspiration die changes when you reach certain levels in this class. The die becomes a d6 at 4th Level, a d8 at 7th level, and a d10 at 10th level.
-
-
-
-\page
-
-<div class='pageNumber auto'></div>
 
 #### Maddening Reverb -2 Stamina
 ___
@@ -1635,6 +1652,8 @@ You can use two bonus actions each turn.
 ##### Mobile
 You gain an additional action on your turn. This action can only used to take the Dash, Disengage, Hide or Use an Object action.
 
+<div style='margin-top:240px'></div>
+
 ## Level 4 
 
 #### Zephyr Strike -1 Stamina
@@ -1650,7 +1669,6 @@ Once before the spell ends, you can give yourself advantage on one weapon attack
 
 _Exert: The additional damage is increased to 2d8 force damage and you gain 40 ft of additional movement._
 
-<div style='margin-top:240px'></div>
 
 ## Level 5
 #### Sonic Boom -3 Stamina
@@ -1684,13 +1702,48 @@ _Exert: The radius is doubled of the bubble is doubled and the damage is increas
 
 <div class='pageNumber auto'></div>
 
+## Level 8
+
+### Indomitable
+Beginning at 8th level, you can Reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a Long Rest.
+
+#### Warding Shout -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 15 feet
+- **Components:** V
+- **Duration:** Up to 10 Story ticks
+
+You let off an imbued cry that envolopes nearby allies like a warding veil, protecting them from harm. Whilst under the effect of the warding shout, all allied creatures have +2 to their AC and they cannot be affected by Charm.
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 ## Charter mage
 *A lil Charter, knocking at your door.*
+
+<div class='classTable'>
+##### The Charter Mage
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Kibeth, Ranna, Dyrim, Baptism |
+| 2nd | +1 | - |
+| 3rd | +1 | Ability Score Improvement, Echo Tactics |
+| 4th | +2 | - |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Meta Magic Tactics |
+| 8th | +4 | Ability Score Improvement |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
 
 #### Quick Build
 You can make a Charter mage quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Intelligence. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
 
-### Infuse with Charter
+#### Infuse with Charter
 ___
 - **Casting Time:** 1 minute + ability casting time
 - **Range:** Touch
@@ -1705,7 +1758,11 @@ The infusement seeps into the target surface or object and cannot be naturally p
 ### Baptism
 As an action you can baptize an unmarked, willing and living creature. If a creature is unconscious, it is considered willing. A Charter mark will appear on their forehead.
 
-### Anoint
+<div style='margin-top:140px'></div>
+
+
+
+#### Anoint
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -1713,8 +1770,6 @@ ___
 - **Duration:** 1 minute
 
 As an action you can bless an area of water, either liquid or solid, that you can see within range and that fits within a 5-foot cube. Any Dead either within the body of water or drenched in it will take 1d10 radiant damage. Any non-dead creature within or covered by the blessed water will have advantage on any Death stabilisation checks.
-
-<div style='margin-top:450px'></div>
 
 
 #### Mudslide -1 Stamina
@@ -1771,7 +1826,7 @@ You conjure up a wall of water on the ground at a point you can see within range
 Any ranged weapon attack that enters the wall’s space has disadvantage on the attack roll, and fire damage
 is halved if the fire effect passes through the wall to reach its target. Spells or projectiles that deal cold damage that pass through the wall cause the area of the wall they pass through to freeze solid (at least a 5-foot square section is frozen). Each 5-foot-square frozen section has AC 5 and 15 hit points. Reducing a frozen section to 0 hit points destroys it. When a section is destroyed, the wall’s water doesn’t fill it. 
 
-### Last Rites
+#### Last Rites
 ___
 - **Casting Time:** 1 minute
 - **Range:** touch
@@ -1859,8 +1914,6 @@ _Exert: You can choose up to 6 targets._
 
 <div style='margin-top:140px'></div>
 
-
-
 #### Ice Nova -3 Stamina
 ___
 - **Casting Time:** 1 action
@@ -1874,12 +1927,41 @@ On a successful saving throw, targets take half damage and are not restrained.
 
 _Exert: You can place the cylinder up to 30ft away from you._
 
+## Level 8
+#### Geyser -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 30ft
+- **Components:** V, S 
+- **Duration:** Instantaneous
+
+Water erupts from the ground in a 10ft radius cylinder 30ft high. Each creature within the radius must make a Physical Strength saving throw, taking 4d6 cold damage on a failure. Creatures who failed the saving throw are also knocked back by up to 30ft from the center point of the geyser. Creature who succeed on the saving throw, only take half damage and are not knocked back.
+
+_Exert: The damage is increased to 6d6 cold damage and any creatures who fail the saving throw are also knocked prone._
+
 \page
 
 <div class='pageNumber auto'></div>
 
 ## Elementalist
 *Wind, Thunder & Fire, Heed my call!*
+
+<div class='classTable'>
+##### The Elementalist
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Kibeth, Ranna, Dyrim, Elemental Proficiency |
+| 2nd | +1 | - |
+| 3rd | +1 | Ability Score Improvement, Elemental Tactics |
+| 4th | +2 | - |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement, Elemental Equilibrium |
+| 7th | +3 | Meta Magic Tactics |
+| 8th | +4 | Ability Score Improvement |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 
 #### Quick Build
 You can make a Elementalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the sage background. Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
@@ -1895,7 +1977,7 @@ If set to Lightning, the target's muscles will spasm and the target will fall pr
 
 If set to Thunder, the target will be dazed until the end of your next turn.
 
-### Surge
+#### Surge
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** self
@@ -1912,8 +1994,6 @@ ___
 - **Duration:** Instantaneous
 
 Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Physical Agility saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d6 bludgeoning damage. The target is also pushed back 10ft.
-
-<div style='margin-top:260px'></div>
 
 #### Flame Dash -2 Stamina
 ___
@@ -1944,6 +2024,11 @@ This spell's ignite damage increases by 1d6 when you reach 3th level (2d6), 6th 
 
 _Exert: Ignite damage is doubled and cannot be doused through non-magical means._
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
 ## Level 2
 
 #### Absorb elements -1 Stamina
@@ -1956,9 +2041,6 @@ ___
 The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
 
 
-\page
-
-<div class='pageNumber auto'></div>
 
 ## Level 3
 
@@ -1984,6 +2066,8 @@ You create a sudden burst of cold on a target creature. The target must make a C
 
 This spell’s damage increases by 2d6 when you reach 6th level (4d6) and 9th level (6d6).
 
+<div style='margin-top:240px'></div>
+
 ## Level 5
 #### Epidemic of fire -4 Stamina
 ___
@@ -1996,14 +2080,10 @@ Choose a creature in range you can see. From the primary targets location, pick 
 
 _Exert: Choose a fourth target._
 
-<div style='margin-top:140px'></div>
-
-
-
 ## Level 6
 
 ### Elemental Equilibrium
-The elements are your allies and not to be feared, but instead mastered. You gain resistance to the last elemental damage you have taken. So if you take fire damage, you will have Fire resistance for any further hits until you are hit by either Cold, Lightning or Thunder damage.
+The elements are your allies and mastered, never feared. You gain resistance to the last elemental damage you have taken. So if you take fire damage, you will have Fire resistance for any further hits until you are hit by either Cold, Lightning or Thunder damage.
 
 #### Mass Shatter -5 Stamina
 ___
@@ -2015,6 +2095,24 @@ ___
 A sudden loud ringing noise, painfully intense, erupts from three points of your choice within range. Each creature in a 10-foot-radius sphere centred on those points must make a Charter Constitution saving throw. These spheres may not overlap. A creature takes 3d8 + Spell slinger level Thunder damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw and take double the damage. A non-magical object that isn’t being worn or carried also takes the damage if it’s in the spell’s area.
 
 _Exert: Choose up to 5 points within range._
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
+## Level 8
+#### Fissure -5 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S,
+- **Duration:** Concentration, Up to 10 Story Ticks
+
+Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centered on the point. Each creature in that area must make an Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
+
+_Exert: The fissures you create also will spout bursts of flame, dealing an additional 2d12 fire damage._
 
 \page
 
@@ -2175,7 +2273,10 @@ Whenever you create a blood sword, you gain two. Additionally, the Blood Sword s
 ##### Crippling Spells
 Enemies have disadvantage on saving throws against any of your stamina costing spells that cause the target to gain a condition, disease, curse or otherwise debilitating effects.
 
+## Level 8
 
+### Saraneth Mastery
+Your extensive experience with the bell of Saraneth allows you to focus on multiple Dead at a time. In addition to the target undead chosen for Saraneth, any CR 3 or lower Dead within 10ft of your target, are also affected by Saraneth.
 
 
 
@@ -2191,6 +2292,23 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 ## Occultist
 *The Damned stand ready*
 
+<div class='classTable'>
+##### The Occultist
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Master of the Dead, Profane Blood |
+| 2nd | +1 | Convocation |
+| 3rd | +1 | Ability Score Improvement, Team Tactics |
+| 4th | +2 | Soul Grip |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Spell Tactics |
+| 8th | +4 | Ability Score Improvement, Saraneth Mastery |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
+
 #### Quick Build
 You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence saving throw.
 
@@ -2200,6 +2318,9 @@ You have advantage on any Death saving throws. You can also use the Mosrael bell
 ### Profane Bloom
 Whenever you or your minions bring an enemy down to 0 hp, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw. This effect can only trigger successfully once per turn.
 This ability’s damage increases when you reach 3th level (1d6 + 1d6), 6th level (1d8 + 1d8), and 9th level (1d10 + 1d10).
+
+<div style='margin-top:240px'></div>
+
 
 #### Bone Wall -1 Stamina
 ___
@@ -2216,8 +2337,6 @@ The wall is an object made of bone that can be damaged and thus breached. Each p
 
 _Exert: 4 panels with 40 hit points per panel._
 
-<div style='margin-top:240px'></div>
-
 #### Growing pains -2 Stamina
 ___
 - **Casting Time:** 1 bonus action
@@ -2229,6 +2348,10 @@ Choose a target within range. The target's bones will grow slightly longer, caus
 
 The spell’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6). 
 
+
+\page
+
+<div class='pageNumber auto'></div>
 
 
 #### Corpse Explosion -3 Stamina
@@ -2255,15 +2378,6 @@ ___
 
 Choose a Lesser Dead bound by you or a corpse sculpted by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
 
-
-
-<div style='margin-top:140px'></div>
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
 #### Bone Spear -2 Stamina
 ___
 - **Casting Time:** 1 action
@@ -2275,10 +2389,11 @@ Also known as the Talon of Orannis, this spell summons a long shaft of bone issu
 
 The spell’s damage increases by 2d6 when you reach 4th level (5d6), 7th level (7d6), and 10th level (9d6). 
 
+<div style='margin-top:240px'></div>
 
 ## Level 4
 
-### Bodyswap
+#### Bodyswap
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** 90ft
@@ -2324,6 +2439,12 @@ ___
 > ### Actions
 > ***Bite.*** *Melee Weapon Attack:* +7 modifier to hit, reach 5ft., one target. *Hit* 2d6 fire damage.
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 ## Level 6
 
 #### Bone Ram -4 Stamina
@@ -2344,6 +2465,22 @@ The ram will now be stopped and explode, forcing all creatures in a 15ft radius 
 ## Hemathurge
 *And you get a heal! And you get a heal!*
 
+<div class='classTable'>
+##### The Hemathurge
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Song of rest, Reinvigorating touch |
+| 2nd | +1 | Convocation |
+| 3rd | +1 | Ability Score Improvement, Team Tactics |
+| 4th | +2 | Soul Grip |
+| 5th | +2 | Disease Mastery |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Spell Tactics |
+| 8th | +4 | Ability Score Improvement, Saraneth Mastery |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 #### Quick Build
 You can make a Hemathurge quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the folk hero background.  Third, choose the +1 AC and initiative protection bonus.
 
@@ -2354,6 +2491,8 @@ The extra Hit Points increase when you reach certain levels in this class: to 1d
 
 ### Reinvigorating touch
 Any willing allied creature you touch in Death other than yourself, will be considered to have 1 hit point for Death saving throws.
+
+<div style='margin-top:140px'></div>
 
 #### Life Transference -1 Stamina
 ___
@@ -2378,7 +2517,6 @@ You cleanse a creature of either one disease or one condition afflicting it. The
 
 _Exert: This spell's range is extended to 60 feet._
 
-<div style='margin-top:240px'></div>
 
 #### Enfeeble -3 Stamina
 ___
@@ -2388,8 +2526,6 @@ ___
 - **Duration:** Concentration, Up to 1 minute
 
 Each creature in a 10-foot radius Sphere centred on a point you can see must make a Charter Charisma saving throw. Whenever a target that fails this saving throw makes an attack roll, any damage roll or saving throw, it must roll a d4 and subtract the number rolled.
-
-
 
 ## Level 2
 
@@ -2414,6 +2550,12 @@ Choose target Dead under your control you can see. When the target deals damage 
 
 _Exert: choose two target Dead._
 
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 ## Level 4
 
 #### Plague -3 Stamina
@@ -2428,10 +2570,6 @@ You channel your Free magic to release a terrible disease to the target. Target 
 The plague counts as a natural disease and can be cured using non-magical means. The plague is also cured by spending an action spilling at least 1 water skin’s worth of water over an infected creature.
 
 
-\page
-
-<div class='pageNumber auto'></div>
-
 
 ## Level 5
 
@@ -2445,6 +2583,9 @@ ___
 Target creature within range must make a Physical Constitution saving throw. Dead have advantage on this saving throw. On a failed save, the target has disadvantage on any attacks it makes. Regardless of success, the target takes 2d8 Necrotic damage. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. At the end of each of its turns, the target can make another Physical Constitution saving throw. On a success, the spell ends on the target.
 
 The spell’s damage increases by 1d8 when you reach 8th level (3d8) and 10th level (4d8). 
+
+### Disease mastery
+Starting at 5th level, your power over disease and illness makes you immune to disease.
 
 ## Level 6
 
@@ -2465,6 +2606,22 @@ Choose up to three non-Dead creatures in range, which must make a Charter Consti
 ## Animator
 
  *Mold your own friend* 
+ 
+ <div class='classTable'>
+##### The Animator
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Mordicant |
+| 2nd | +1 | Convocation |
+| 3rd | +1 | Ability Score Improvement, Team Tactics |
+| 4th | +2 | Soul Grip |
+| 5th | +2 | Extra Mordicant |
+| 6th | +3 | Ability Score Improvement, Lucky Mordicants, Flesh Crafter |
+| 7th | +3 | Spell Tactics |
+| 8th | +4 | Ability Score Improvement, Saraneth Mastery |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
 
 #### Quick Build
 You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw protection bonus, picking at least Charisma and Intelligence saving throws.
@@ -2474,7 +2631,9 @@ You can make an Animator quickly by following these suggestions. First, Constitu
   
   A Mordicant counts as a Greater Dead towards your maximum amount of Dead, but will never break free of your control for being over your maximum number of Dead controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
 
+<div style='margin-top:140px'></div>
 
+##### Mordicant Strength
 | Level | Adaptation Points | Mordicant AC | Mordicant Hit Points | Mordicant Str |
 |:----:|:---:			|:---:		|:---:				|:---:|
 | 1-2  | 4 				| 14 		| 63 				| 15(+2) |
@@ -2482,7 +2641,6 @@ You can make an Animator quickly by following these suggestions. First, Constitu
 | 6-7  | 9 				| 16 		| 100 				| 19(+4) |
 | 8-10 | 12 			| 17 		| 130 				| 22(+6) |
 
-<div style='margin-top:40px'></div>
 
 #### Soul Bond
 To create the Mordicant, you have bonded your soul to your Mordicant and are able to control the Mordicant even if you are considered unconscious or if you are in Death. Due to this soul bond, if your Mordicant dies, you get 40% of his hp as Psychic damage rounded down. The Mordicant has its own initiative but follows your commands. 
@@ -2833,6 +2991,22 @@ The Mysticist knows 3 subclasses which you choose one of at level 1. The availab
 ## Watcher
 *Who watches the Watchers?*
 
+ <div class='classTable'>
+##### The Watcher
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Brew Healing Potion, Versatile Incantations, Portent, Sight, Keen Mind, Archery |
+| 2nd | +1 | Danger Sense |
+| 3rd | +1 | Foresight Tactics, Ability Score Improvement |
+| 4th | +2 | - |
+| 5th | +2 | Fast Learner |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Delay Tactics |
+| 8th | +4 | Ability Score Improvement, Find the Path |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 #### Quick Build
 You can make a Watcher quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Aptitude. Second, choose the noble background.  Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
@@ -2842,6 +3016,9 @@ Glimpses of the future press in on your awareness. When you finish a long rest, 
 Each foretelling roll can be used only once. When you finish a long rest, you lose any unused foretelling rolls.
 
 At 6th level, you gain a third d20 from this ability.
+
+<div style='margin-top:140px'></div>
+
 
 ### Sight
 
@@ -2858,8 +3035,6 @@ You have a mind that can track time, direction, and detail with uncanny precisio
 
 ### Archery
 You can add your intelligence modifier to attack rolls you make with ranged weapons. 
-
-<div style='margin-top:1000px'></div>
 
 
 #### Prophecy of Life -1 Stamina
@@ -2883,6 +3058,12 @@ Target creature with an intelligence of 6 or higher must make a Charter Intellig
 
 This spell’s damage at the end of the target's turn increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
 
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 #### Remembrancing -2 Stamina 
 ___
 - **Casting Time:** 10 minutes
@@ -2891,12 +3072,6 @@ ___
 - **Duration:** Concentration, Up to 30 minutes
 
 You can look into the past of an object or creature. You can see up to a 30 minute time frame which can be a maximum of 2 days in the past. You choose the time frame before starting your remembrancing casting time. You will experience the time frame in real time. You will follow the creature or object, but will be able to look out in any direction of your choosing, which you can change at any time. During remembrancing, you are deaf and blind with regard to your Senses in your current time.
-
-
-
-\page
-
-<div class='pageNumber auto'></div>
 
 #### The eye of Orannis -3 Stamina
 ___
@@ -2929,9 +3104,6 @@ The GM will determine the distraction, depending on the location of the scene. E
 When you hit a creature with a ranged weapon attack, you can predict that something bad will happen to the target if within 120ft. On the targets next turn, disaster will strike the target, dealing 2d6 damage. The damage type depends on the disaster. This feature can be used only once per turn.
 
 The GM will determine the disaster, depending on the location of the scene. Examples of disasters are random lightning strikes, massive dead birds falling on people, trees falling over, rocks falling from the ceiling or a forge overheating and spouting flames at the target.
-
-<div style='margin-top:540px'></div>
-
 
 ### Ability Score Improvement 
 
@@ -3044,6 +3216,27 @@ You have foreseen that your enemies are trying to hurt you. After failing a savi
 ##### Walk it off
 Whenever you take damage, you can spend your reaction and 2 Stamina to take the damage at the end of your next turn instead. The damage cannot be reduced in any way and any other harmful effects will go into effect right away.
 
+## Level 8
+### Find the Path
+You develop a greater sense of direction and can find your way anywhere. You can the following benefits:
+
+- You and your group can't become lost except by magical means. 
+- Even when you are engaged in another Activity While Traveling (such as Foraging, navigating, or tracking), you remain alert to danger.
+- If you are traveling alone, you can move stealthily at a normal pace.
+
+#### Sunbeam -4 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** Self (60-foot line)
+- **Components:** V, S, M (A magnifying glass)
+- **Duration:** Concentration, 10 story ticks
+
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Charter Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. The Dead have disadvantage on this saving throw.
+You can create a new line of radiance as your action on any turn until the spell ends.
+For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
+
+_Exert: You can create up to two lines of radiance, but a creature can only be affected by one of the lines._
+
 
 \page
 
@@ -3051,6 +3244,23 @@ Whenever you take damage, you can spend your reaction and 2 Stamina to take the 
 
 ## Herbalist
 *Double double trouble you bubble in a witches' brew*
+
+ <div class='classTable'>
+##### The Herbalist
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Brew Healing Potion, Versatile Incantations, Nature's Guise, Archery, Mix Potion, Gather Herbs |
+| 2nd | +1 | Ability Score Improvement |
+| 3rd | +1 | Herbal Tactics |
+| 4th | +2 | Ability Score Improvement, Master of the Sickle |
+| 5th | +2 |  |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Growth Tactics |
+| 8th | +4 | Ability Score Improvement |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 
 #### Quick Build
 You can make a Herbalist quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Agility. Second, choose the noble background.  Third, choose the Charter saving throw protection bonus, picking at least Charisma and Constitution saving throws.
@@ -3063,16 +3273,59 @@ Once you are camouflaged in this way, you can try to hide as a bonus action by p
 ### Archery
 You can add your intelligence modifier to attack rolls you make with ranged weapons. 
 
-<div style='margin-top:60px'></div>
-
 ### Mix potion
 Besides being able to brew the basic healing potions, you are able to craft more different kinds of potions. At level 1 you can choose 3 recipes, respecting level restrictions. At every level up, you can choose one additional recipe.
+
+<div style='margin-top:140px'></div>
+
+
+
+#### Entangle -1 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 90 ft
+- **Components:** V, S
+- **Duration:** Up to 1 minute
+
+Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
+    A creature in the area when you cast the spell must succeed on a Physical Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+    When the spell ends, the conjured plants wilt away.
+    
+_Exert: This spell now affects a 30-foot square._
+
+#### Nature's ferocity -2 Stamina
+___
+- **Casting Time:** 1 action
+- **Range:** 60 ft
+- **Components:** V, S, M (a stalk of grass)
+- **Duration:** Concentration, up to 1 minute
+
+You fill the air with a cloud of spinning thorns and leaves in a cube 10 feet on each side, centred on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there. 
+
+You can move the cloud on subsequent turns by using a bonus action. Moving the cloud onto a creature does not count as the creature entering the cloud. 
+
+#### Cloak of insects -3 Stamina
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Up to 1 minute
+
+As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
+
+The aura grants you advantage on any checks involving intimidation, but disadvantage on all other skill checks involving Charisma. Any other creature that starts its turn in the aura takes poison damage equal to your Constitution modifier (minimum of 1 damage). You are considered to have half cover for all ranged attacks targeting you.
+
+_Exert: The aura area increases to 10 feet in every direction._
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
 
 ### Gather Herbs
 When taking a short rest, instead of relaxing, you can go gather herbs from your surroundings. If you do so, you cannot gain any benefits from your short rest, other than the gathered herbs. You can also gather herbs during a long rest, but this will not impact the benefits of the long rest.
 Ask your GM if what herbs are available nearby and choose one of the available to gather. Make an Intelligence + Intelligence skill check, opposed by the DC found in the Herb Gathering & Brewing table. If you pass the DC, check the gather amount in the Gather amount relative to DC table. 
-
-
 
 ##### Gather amount relative to DC
 | DC beaten by | Gather amount |
@@ -3112,50 +3365,9 @@ Ask your GM if what herbs are available nearby and choose one of the available t
   </div>
 
 
-
-
 \page
 
 <div class='pageNumber auto'></div>
-
-#### Entangle -1 Stamina
-___
-- **Casting Time:** 1 action
-- **Range:** 90 ft
-- **Components:** V, S
-- **Duration:** Up to 1 minute
-
-Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
-    A creature in the area when you cast the spell must succeed on a Physical Strength saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
-    When the spell ends, the conjured plants wilt away.
-    
-_Exert: This spell now affects a 30-foot square._
-
-#### Nature's ferocity -2 Stamina
-___
-- **Casting Time:** 1 action
-- **Range:** 60 ft
-- **Components:** V, S, M (a stalk of grass)
-- **Duration:** Concentration, up to 1 minute
-
-You fill the air with a cloud of spinning thorns and leaves in a cube 10 feet on each side, centred on a point you choose within range. A creature takes 4d4 slashing damage when it enters the spell’s area for the first time on a turn or starts its turn there. 
-
-You can move the cloud on subsequent turns by using a bonus action. Moving the cloud onto a creature does not count as the creature entering the cloud. 
-
-#### Cloak of insects -3 Stamina
-___
-- **Casting Time:** 1 bonus action
-- **Range:** Self
-- **Components:** V, S
-- **Duration:** Up to 1 minute
-
-As a bonus action, you can surround yourself with a magical aura that looks like buzzing flies. The aura extends 5 feet from you in every direction, but not through total cover. It lasts until you're incapacitated or you dismiss it as a bonus action.
-
-The aura grants you advantage on any checks involving intimidation, but disadvantage on all other skill checks involving Charisma. Any other creature that starts its turn in the aura takes poison damage equal to your Constitution modifier (minimum of 1 damage). You are considered to have half cover for all ranged attacks targeting you.
-
-_Exert: The aura area increases to 10 feet in every direction._
-
-<div style='margin-top:440px'></div>
 
 ## Level 2
 
@@ -3198,10 +3410,7 @@ Whenever you use a potion on yourself or another creature, you can use one of yo
 You lace any poisons you apply to your enemies with some additional charter magic. Any prepared or applied poisons are more potent for 24 hours while using this tactic. The DC of any saving throws against these poisons is raised by 4, and any lingering effects last twice as long. 
 
 
-
-\page
-
-<div class='pageNumber auto'></div>
+<div style='margin-top:140px'></div>
 
 ## Level 4
 
@@ -3239,6 +3448,13 @@ _Exert: This spell's damage is increased by 2d12 poison damage. Affected creatur
 
 <div style='margin-top:200px'></div>
 
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+
 ## Level 6
 
 #### Transport Via Plants -4 Stamina
@@ -3270,6 +3486,59 @@ Whenever you gather herbs, you double the amount of dice rolled to determine the
 ##### Efficient Farming
 The first class stamina ability you use per turn, costs 1 stamina less.
 
+<div style='margin-top:140px'></div>
+
+
+## Level 8
+#### Mirage Nature -3 Stamina
+___
+- **Casting Time:** 10 minutes
+- **Range:** sight
+- **Components:** V, S
+- **Duration:** 10 days
+
+You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of natural terrain. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth valley.
+Similarly, you can alter the appearance of structures and make them seem natural. You can for instance make a house look like a cave or tree house. The spell doesn’t disguise, conceal, or add creatures.
+The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell’s area disappears immediately.
+Creatures with truesight can see through the illusion to the terrain’s true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion’s presence, the creature can still physically interact with the illusion.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+ 
+#### Awaken -5 Stamina
+___
+- **Casting Time:** 8 hours
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:** Instantaneous
+
+After spending the casting time tracing magical pathways within a precious gemstone, you touch a Huge or smaller beast or plant. The target must have either no Intelligence score or an Intelligence of 3 or less. The target gains an Intelligence of 10. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human’s. 
+The awakened beast of plant assumes the statistics of the Force of Nature, although your GM may add or change its statistics if deemed appropriately.
+The awakened beast or plant is charmed by you for 30 days or until you or your companions do anything harmful to it. When the charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
+
+___
+> ## Force of Nature
+>*Large* ***Free Magic creature***
+> ___
+> - **Armour Class** 15
+> - **Hit Points** 100
+> - **Speed** 30ft.
+>___
+>|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+>|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:|
+>|18(+4)		|8 (-1)	|14 (+2)|10 (+0)|8 (-1)	|7 (-2)	|6 (-2)|
+>___
+> - **Senses** passive Perception 12
+> - **Languages** One you know
+> ___
+> ### Actions
+> ***Multiattack.*** The Force of Nature makes two stomp attacks.
+>
+> ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5ft., one target. *Hit* 1d8 + 4 bludgeoning damage.
+ 
 
 \page
 
@@ -3277,6 +3546,23 @@ The first class stamina ability you use per turn, costs 1 stamina less.
 
 ## Tinkerer
 *C'mon in, I'll give ya the tour! NO TOUCHING!*
+
+ <div class='classTable'>
+##### The Tinkerer
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Brew Healing Potion, Versatile Incantations, Infuse Item, Rapid Prototyping |
+| 2nd | +1 | -  |
+| 3rd | +1 | Ability Score Improvement, Mechanical Tactics |
+| 4th | +2 | - |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Scientist Tactics |
+| 8th | +4 | Ability Score Improvement |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 
 #### Quick Build
 You can make a Tinkerer quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution. Second, choose the Guild Artisan background.  Third, choose the +1 AC and initiative protection bonus.
@@ -3305,10 +3591,6 @@ Whenever you gain a level in this class, you can replace one of the Tinkerer inf
 | 6-8 	| 8 							|4		|
 | 9+ 		| 12 							|5		|
 
-<div style='margin-top:240px'></div>
-
-
-
 #### Magic Mark
 ___
 - **Casting Time:** 1 action
@@ -3326,6 +3608,10 @@ You've learned how to invest a spark of magic into mundane objects. You touch a 
 The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
 
 You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### Spark -2 Stamina
 ___
@@ -3607,7 +3893,7 @@ Your maximum amount of Infusements is increased by 2.
 
 ___
 > ## Arcane Propulsion Armour
->*Prerequisite: 7th-level Mysticist*
+>*Prerequisite: 8th-level Mysticist*
 >
 >*Item: A suit of armor (requires attunement)*
 > ___
@@ -3867,10 +4153,26 @@ Starting at 4th level, your speed increases by 10 feet.
 ## Trickster  
 *Now you see me, now I'm gone!*
 
+ <div class='classTable'>
+##### The Trickster
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Dance Poses, Finesse Weapon Mastery, Quick Draw |
+| 2nd | +1 | Cunning Action, Steel will, Observant Fighter  |
+| 3rd | +1 | Ability Score Improvement, Rogue tactics, Flashing Blades |
+| 4th | +2 | Fast Movement |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Dodging Tactics |
+| 8th | +4 | Ability Score Improvement, Coup de Grâce |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 #### Quick Build
 You can make a Trickster quickly by following these suggestions. First, Agility should be your highest ability score, followed by Constitution. Second, choose the Charlatan background.  Third, choose the +1 AC and initiative protection bonus.
 
-### Mage hand
+#### Mage hand
 ___
 - **Casting Time:** 1 action
 - **Range:** 30 feet
@@ -3882,15 +4184,19 @@ You can use your action to control the hand. You can use the hand to manipulate 
 If you use the mage hand to place a weapon in your hand, you can use your bonus action to perform a melee attack with the weapon.
     The hand can’t attack, activate magic items, or carry more than 10 pounds.
     
+<div style='margin-top:140px'></div>
+
+		
+		
 ### Finesse weapon mastery
 Gain proficiency with all weapons that have the finesse property. You also deal 1 additional damage with attacks performed with finesse weapons. All finesse weapons also gain the thrown (range 30/80) property, unless it could already be thrown further. 
 
 The additional damage increases to 3 when you reach 3rd level, to 5 upon reaching 6th level and to 7 upon reaching 9th level.
 
-### Light weapon quick draw
+### Quick Draw
 You can throw light weapons without having them in hand.
 
-### Shadow blink
+#### Shadow blink
 ___
 - **Casting Time:** 1 bonus action
 - **Range:** Self
@@ -3898,8 +4204,6 @@ ___
 - **Duration:** Instantaneous
 
 You can teleport to an unoccupied space within 10ft you can see, provided the destination as well as the origin is within dim light. You cannot perform this action while grappled or restrained. This also does not allow you to pass through solid objects.
-
-<div style='margin-top:150px'></div>
 
 #### Pocket sand -1 Stamina
 ___
@@ -3921,6 +4225,13 @@ ___
 
 You extend your hand and trace a sigil of warding in the air. Phantom-like blades will form and ward you from any attacks. You gain 5 x Edge Dancer level in temporary hit points for the duration. While you have temporary hit points from blade ward, enemies have disadvantage to hit you with attack rolls.
 
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 #### Fan of knives -3 Stamina
 ___
 - **Casting Time:** 1 action
@@ -3941,12 +4252,6 @@ No cheap tricks will startle you. You have advantage on saving throws against be
 ### Observant fighter
 When a creature hits you with an Attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn. Fool me once, shame on you, fool me twice, shame on me.
 
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Level 3
 
 ### Rogue Tactics 
@@ -3964,6 +4269,10 @@ You also have advantage on any attempts to hide or avoid detection.
 
 ### Flashing blades
 Any melee weapon thrown by you will magically blink back into your hands at the end of your turn. It's like it never left your hand, apart from the blood of course.
+
+<div style='margin-top:140px'></div>
+
+
 
 #### Magic Weapon -1 Stamina
 ___
@@ -3988,8 +4297,6 @@ You flourish the weapon used in the casting and then teleport to the back of a t
 If there are not enough targets within range, or if you choose not to teleport on, you end at your last target in an unoccupied space within 5ft of the target. 
 
 _Exert: Attack a fourth target. This can be the same target as the first or the second target._
-
-<div style='margin-top:340px'></div>
 
 ## Level 6
 #### Invoke Duplicity -4 Stamina
@@ -4019,13 +4326,33 @@ You can nimbly dodge out of the way of certain area Effects. When you are subjec
 ##### Wind Dancer
 When an attacker that you can see hits you with an Attack, you can use your Reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
 
+## Level 8
+### Coup de Grâce
+Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse or a ranged weapon.
 
 \page
 
 <div class='pageNumber auto'></div>
 
 ## Grappler
-*Boot tot the head!*
+*Boot to the head!*
+
+ <div class='classTable'>
+##### The Grappler
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Dance Poses, Hop up, Beat Down, Unarmed Strike, Unarmoured Defence |
+| 2nd | +1 | Cunning Action, Claw hands  |
+| 3rd | +1 | Ability Score Improvement, Wrestling Tactics |
+| 4th | +2 | Fast Movement |
+| 5th | +2 | Uncanny Dodge |
+| 6th | +3 | Ability Score Improvement |
+| 7th | +3 | Brain Tactics |
+| 8th | +4 | Ability Score Improvement |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 
 #### Quick Build
 You can make a Grappler quickly by following these suggestions. First, Strength should be your highest ability score, followed by Constitution. Second, choose the Urchin background.  Third, choose the +1 AC and initiative protection bonus.
@@ -4041,6 +4368,8 @@ Your unarmed strikes follow the rules for finesse weapons or impact weapons, whi
 
 When you use the Attack action with an unarmed strike on your turn, you can make one unarmed strike as a bonus action. For example, if you take the Attack action and attack with an unarmed strike, you can also make an unarmed strike as a bonus action, assuming you haven’t already taken a bonus action this turn.
 
+<div style='margin-top:140px'></div>
+
 ### Unarmoured Defense
 While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
 
@@ -4052,9 +4381,6 @@ _Exert: You can target up to Huge creatures._
 #### Headbutt -1 Stamina
 You can replace an unarmed attack of an attack action with a Headbutt. On hit, target creature must make a Physical Constitution saving throw. On a failed saving throw the target becomes dazed for 2 story ticks and take 1d6 + Edge Dancer bludgeoning damage. On a successful saving throw the target takes half damage and is not dazed. Regardless of the result of the saving throw, you take 1 bludgeoning damage.
 This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
-
-<div style='margin-top:140px'></div>
-
 
 #### Clothesline -2 Stamina
 You can use your action to make an unarmed melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
@@ -4069,6 +4395,12 @@ Whenever you strike an enemy with an unarmed strike, you can choose to not deal 
 
 #### Gorilla Press Slam -2 Stamina
 As an action you can lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. You cannot perform this move while you are grappled or restrained.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 ## Level 3
 ### Wrestling Tactics 
@@ -4088,14 +4420,13 @@ As an action you can lift a large or smaller grappled target over your head and 
 ### Uncanny dodge
 Starting at 5th Level, when an attacker that you can see hits you with an Attack, you can use your Reaction to halve the attack's damage against you.
 
-\page
-
-<div class='pageNumber auto'></div>
-
 ## Level 6
 
-#### Twister
+#### Twister -1 Stamina
 As an action you can lift a large or smaller grappled target and swing it round in a circle. You make a melee attack against each creature within melee range of you, with a separate attack roll for each target. The grappled target is released in an unoccupied location next to you and is no longer grappled, but is knocked prone and takes 2d6 bludgeoning damage per target hit. You cannot perform this move while you are grappled or restrained.
+
+<div style='margin-top:240px'></div>
+
 
 ## Level 7
 ### Brain Tactics 
@@ -4107,12 +4438,33 @@ You can use a shield whilst using Unarmoured Defense.
 ##### Using your Head
 When you are hit by a melee attack, you can use your reaction and 2 stamina to make a Headbutt attack upon the attacker.
 
+## Level 8
+#### Earth Splitter -4 Stamina
+As an action, you stomp your foot with earth shattering power. Each creature in a 30-foot cone must make a Physical Agility saving throw. A creature takes 5d8 bludgeoning damage on a failed save, or half as much damage on a successful one.  Creatures who failed the saving throw are also knocked prone. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the ability’s area.
+
 \page
 
 <div class='pageNumber auto'></div>
 
 ## Morphling
 *Looks are only temporary!*
+
+ <div class='classTable'>
+##### The Morphling
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Dance Poses, Great Weapon Fighting |
+| 2nd | +1 | Cunning Action, Flash of Corruption  |
+| 3rd | +1 | Ability Score Improvement, Delay Tactics |
+| 4th | +2 | Fast Movement, Relentless Hunger, Morph Additional Aspects |
+| 5th | +2 | - |
+| 6th | +3 | Ability Score Improvement, Durable Morph |
+| 7th | +3 | Protection Tactics |
+| 8th | +4 | Ability Score Improvement, Inspire Flexibility |
+| 9th | +4 | - |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 
 #### Quick Build
 You can make a Morphling quickly by following these suggestions. First, Strength should be your highest ability score, followed by Charisma. Second, choose the Hermit background.  Third, choose the +1 AC and initiative protection bonus.
@@ -4129,21 +4481,19 @@ Using Free Magic you can morph parts of your body to resemble a free magic creat
 ##### Stilken
 Your feet grow short tiny hooks. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.  You gain half your movement speed in climbing speed.  However, these hooks don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
 
+<div style='margin-top:140px'></div>
+
 ##### Hish
-Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing.
+Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing. You also gain immunity to being restrained. Any effect that would restrain you, grapples you instead.
 ##### Aziminil
-Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision.
+Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision. You also gain immunity to being blinded.
 ##### Hrule
-Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
+Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage and immunity to Poisoned. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
 ##### Greten
 Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 + Charisma bonus additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
 This ability’s bleed damage damage increases by 1d4 when you reach 3rd level (2d4), 6th level (3d4), and 9th level (4d4).
 
-<div style='margin-top:140px'></div>
-
-
-
-### Great Weapon Fightning
+### Great Weapon Fighting
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
 
 #### Battle roar -1 Stamina
@@ -4156,6 +4506,12 @@ ___
 You give off an impressive roar and inspire your allies. You and any Non-Dead ally in range gain half your Strength or Agility modifier rounded up in damage to any weapon attacks they do.
 
 _Exert: Any creature affected by your battle roar is no longer frightened._
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
 
 #### Scale Blessing -2 Stamina
 ___
@@ -4182,10 +4538,6 @@ _Exert: Target up to two creatures._
 You bless your attacks with the decaying touch of Free Magic. Starting at 2nd Level, when you hit a creature with a melee weapon attack, you can expend 2 Stamina to deal 2d8 necrotic damage to the target, in addition to the weapon's damage. This ability’s damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8).
 
 
-
-\page
-
-<div class='pageNumber auto'></div>
 ## Level 3
 ### Decay Tactics 
 At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
@@ -4200,14 +4552,18 @@ Any enemies within a 15ft radius around you deduct your Charisma modifier from a
 ### Relentless Hunger
 By 4th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
 
+<div style='margin-top:140px'></div>
+
+
+
 ### Morph Additional Aspects
 At level 4 you gain the ability to morph aspects of more Free Magic Creatures.
 ##### Baazalanan
 Your arms grow long and spindly. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
 ##### Dwerllin
-As a bonus action, you can fly up to 10ft, without provoking attacks of opportunity.
+As a bonus action, you can fly up to 10ft, without provoking attacks of opportunity. You also gain immunity to being stunned.
 ##### Ferenk
-Any damage received from magical sources such as spell is reduced by your Charisma modifier.
+Any damage received from magical sources such as spell is reduced by your Charisma modifier. You also gain immunity to the charmed condition.
 
 ## Level 5
 #### Stasis -2 Stamina
@@ -4225,6 +4581,13 @@ You Morph Aspect ability gains the following exert:
 
 _Exert: This morph has unlimited duration until you use an action to unmorph. You can have only one unlimited duration morph active at a time._
 
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 ## Level 7
 ### Protection Tactics 
 At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
@@ -4239,6 +4602,9 @@ An enemy can use its action to try to wrench a weapon free or an allied body par
 ##### Reinvigorating Shout
 Your battle roar also grants affected creatures 2 x Edge Dancer level in temporary hit points.
 
+## Level 8
+### Inspire Flexibility
+Starting at 8th level, as a free action you can resolve one condition affecting an ally within 15ft of you, given you have immunity to that condition.
 
 \page
 
