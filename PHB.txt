@@ -1033,7 +1033,7 @@ ___
 - **Components:** S
 - **Duration:** 24 hours
 
-You can imbue your weapon to gain additional benefits. Only you can only gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. Hits with an imbued weapon will critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
+You can imbue your weapon to gain additional benefits. Only you can only gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. At 8th level, you can imbue for free twice a day. Hits with an imbued weapon will critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
 
  - Change your weapon damage type to either Fire, Thunder
  - Grant +5 movement speed
@@ -1085,6 +1085,13 @@ As a reaction, you can spend 2 Stamina and gain 2 AC until the start of your nex
 ##### Power Through
 After you got hit by a weapon attack and have taken the damage, you can spend your reaction and 2 stamina to power through and gain as much temporary hit points as the attack did. These temporary hit points last until the end of your next turn.
 
+## Level 8
+### Survivor
+
+At 8th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half of your Hit Points left.
+
+You don’t gain this benefit if you have 0 Hit Points.
+
 \page
 
 <div class='pageNumber auto'></div>
@@ -1094,6 +1101,22 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 
 ## Fighter
 *I will trample our enemies!*
+
+<div class='classTable'>
+##### The Fighter
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Diamond of Protection, Imbue, Fighting styles, Charge |
+| 2nd | +1 | Ability Score Improvement, Brutal Critical, Aggresive |
+| 3rd | +1 | Offensive Tactics |
+| 4th | +2 | Ability Score Improvement, Killing Stroke, Relentless Endurance  |
+| 5th | +2 | Action Surge |
+| 6th | +3 | Ability Score Improvement, Reliable Strikes, Frenzy |
+| 7th | +3 | Defensive Tactics |
+| 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
+| 9th | +4 |  |
+| 10th | +4 | Ability Score Improvement |
+</div>
 
 #### Quick Build
 You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
@@ -1121,13 +1144,9 @@ You gain two additional attacks this turn, but all enemies have advantage on att
 
 _Exert: You gain three additional attacks._
 
-<div style='margin-top:140px'></div>
-
 
 #### Redirect -3 Stamina
 Use your reaction to redirect a melee attack aimed at you to another target within 5ft of either you or the target. The damage cannot be redirected upon the attacker. If you are not already within 5ft of both targets, move to a place where you are for free.
-
-
 
 ## Level 2
 ### Brutal Critical
@@ -1136,7 +1155,6 @@ When you score a critical hit with a melee weapon attack, you can roll one of th
 ### Aggressive
 As a bonus action, you can move up to half your speed toward an enemy of your choice that you can see or hear. You must end this move closer to the enemy than you started.
 
-
 ## Level 4
 ### Killing Stroke
 When you bring a creature to 0 hp with one of your attacks, you can use your bonus action to make another attack.
@@ -1144,6 +1162,13 @@ When you bring a creature to 0 hp with one of your attacks, you can use your bon
 ### Relentless Endurance
 
 When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 ## Level 5
 ### Action Surge
@@ -1159,8 +1184,25 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 
 <div class='pageNumber auto'></div>
 
+
 ## Ranger
 *They never saw me coming.*
+
+<div class='classTable'>
+##### The Ranger
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Diamond of Protection, Imbue, Nimble Fighter, Quick Reload, Imbue Ammunition |
+| 2nd | +1 | Ability Score Improvement, Slayer's Prey |
+| 3rd | +1 | Offensive Tactics |
+| 4th | +2 | Ability Score Improvement, Tumble |
+| 5th | +2 | Chain |
+| 6th | +3 | Ability Score Improvement, Reliable Strikes, Additional Imbue Ammunition |
+| 7th | +3 | Defensive Tactics |
+| 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
+| 9th | +4 |  |
+| 10th | +4 | Ability Score Improvement |
+</div>
 
 #### Quick Build
 You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence and Constitution saving throws.
@@ -1170,15 +1212,6 @@ You gain a +2 bonus to attack rolls you made with Nimble weapons.
 
 ### Quick reload
 You can reload your crossbows and blow darts as part of the attack.
-
-### Imbue ammunition
-You can imbue one item of ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. Ammunition can be imbued only once. The Stamina cost will depend on the imbuement:
-
-| Imbue | Cost | Effect |
-|:----:|:---|:|
-| Pin  | 1 | **Requires ammunition to deal Piercing Damage.** On hit, the target must make a Physical Strength saving throw, or be considered grappled for 1 round.|
-| Heavy  | 2 | On hit, the target must make a Physical Constitution saving throw, or be considered Dazed for 1 round.|
-| Marked  | 2 | If the target is either dead or a free magic creature, this ammunition will deal an additional 2d4 damage as well as giving off a flash of light.|
 
 #### Piercing shot -1 Stamina
 Your arrow or bolt will pierce through the target. If another target is behind the target in a straight line up to 20ft long, also make an attack on that target, regardless if the initial target is hit.
@@ -1191,7 +1224,14 @@ Your arrows or bolts hit all enemies within a 15ft by 15ft square, but have a -2
 
 _Exert: You have a +2 bonus to attack rolls instead._
 
-<div style='margin-top:340px'></div>
+### Imbue ammunition
+You can imbue one item of ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. Ammunition can be imbued only once. The Stamina cost will depend on the imbuement:
+
+| Imbue | Cost | Effect |
+|:----:|:---|:|
+| Pin  | 1 | **Requires ammunition to deal Piercing Damage.** On hit, the target must make a Physical Strength saving throw, or be considered grappled for 1 round.|
+| Heavy  | 2 | On hit, the target must make a Physical Constitution saving throw, or be considered Dazed for 1 round.|
+| Marked  | 2 | If the target is either dead or a free magic creature, this ammunition will deal an additional 2d4 damage as well as giving off a flash of light.|
 
 ## Level 2
 ### Slayer's Prey
@@ -1199,13 +1239,16 @@ You can focus your ire on one foe, increasing the harm you inflict on it. As a b
 
 This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature. 
 
-
-
-
 #### Frost Blades -1 Stamina
 Your next arrow will unleash icy blades from the first enemy which fly at other enemies. Regardless if the main arrow hit, a 20ft cone will emerge directly behind the target. Any creatures within the cone will be pelted with icy spikes. They must make a Physical Agility saving throw, taking 2d6 + Ranger level Cold damage on a failure, and half damage on a success. Frost blades will shatter the original ammunition upon impact and will negate any effects of imbued ammunition used in this shot.
 
 _Exert: 3d6 + Ranger level Cold damage in a cone behind the target._
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 ## Level 4
 ### Tumble
@@ -1232,6 +1275,22 @@ At 6th level you gain additional imbuement options for your ammunition
 ## Guardian
 *#Blessed*
 
+<div class='classTable'>
+##### The Guardian
+| Level | Protection Bonus | Features |
+|:---:|:---:|:---|
+| 1st | +1 | Diamond of Protection, Imbue, Sentinel, Defender, Protector of Faith |
+| 2nd | +1 | Ability Score Improvement |
+| 3rd | +1 | Offensive Tactics |
+| 4th | +2 | Ability Score Improvement |
+| 5th | +2 | Protection |
+| 6th | +3 | Ability Score Improvement, Reliable Strikes |
+| 7th | +3 | Defensive Tactics |
+| 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
+| 9th | +4 |  |
+| 10th | +4 | Ability Score Improvement |
+</div>
+
 #### Quick Build
 You can make a Guardian quickly by following these suggestions. First, Strength should be your highest ability score, followed by Reflexes or Aptitude. Second, choose the noble background. Third, choose the +1 AC and initiative protection bonus.
 
@@ -1250,6 +1309,8 @@ Your Diamond of protection is one size larger, becoming 35ft at the widest. You 
 _Requires a shield_
 
 Make a melee attack on the target. On hit, your target will be knocked prone as well as taking the damage from the hit.
+
+<div style='margin-top:140px'></div>
 
 #### Enduring Cry -2 Stamina
 ___
@@ -1271,10 +1332,6 @@ Choose up to  four creatures within 30ft. Whenever the target makes a saving thr
 
 _Exert: Choose up to 6 creatures._
 
-<div style='margin-top:240px'></div>
-
-
-
 ## Level 2
 
 #### Intimidating shout -3 Stamina
@@ -1294,6 +1351,12 @@ ___
 - **Duration:** Instantaneous
 
 Choose an unoccupied location within range. You leap to the specified location, slamming your weapon on the ground. Any creature within 10ft radius of the slam takes half your weapon damage. Any additional effects caused by your weapon or abilities do not trigger with this damage. Any creatures hit by this shockwave also must make a Physical Strength saving throw or be knocked prone.
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
 
 ## Level 4
 #### Reinvigorating touch -2 Stamina
@@ -1319,12 +1382,6 @@ Choose up to 3 friendly, willing non-Dead creatures within range. You and the ch
 ## Level 5
 ### Protection
 You gain resistance against non-magical bludgeoning, piercing and slashing damage.
-
-
-\page
-
-<div class='pageNumber auto'></div>
-
 
 ## Level 6
 #### Dedication to the Charter -2 Stamina
@@ -1610,7 +1667,7 @@ This spell’s damage increases by 2d8 when you reach 7th level (5d8) and 10th l
 ## Level 6
 
 ### Thunderous Strikes
-At 8th level, you gain the ability to infuse your weapon strikes with Charter Magic. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. 
+At 6th level, you gain the ability to infuse your weapon strikes with Charter Magic. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 thunder damage to the target. 
 
 #### Implosion  -4 Stamina
 ___
@@ -1923,7 +1980,7 @@ ___
 - **Components:** V, S
 - **Duration:** Instantaneous
 
-You create a sudden burst of cold on a target creature. The target must make a Charter Constitution saving throw. On a failed saving throw the target freezes over, becomes incapacitated for 1 turn and takes 2d6 cold damage.
+You create a sudden burst of cold on a target creature. The target must make a Charter Constitution saving throw. On a failed saving throw the target freezes over, becomes incapacitated for 1 story tick and takes 2d6 cold damage.
 
 This spell’s damage increases by 2d6 when you reach 6th level (4d6) and 9th level (6d6).
 
@@ -1995,7 +2052,7 @@ Recharge die is d10. Each use of the bell is an action.
 
 | Bell | Recharge | Effect |
 |:----:|:---:|:|
-| **Saraneth**  | 8-10 | Choose target Dead you can see within 60ft range. The target as well as any Dead within 5ft radius must make a Charter Charisma saving throw or be bound to your will. Dead already bound by another user will have advantage on this saving throw. See Keeper of the dead for additional information.|
+| **Saraneth**  | 8-10 | Choose target Dead you can see within 60ft range. The target as well as any Dead within 5ft radius must make a Charter Charisma saving throw or be bound to your will. The Dead gains a bonus equal to their CR, rounded down, for this saving throw. Dead already bound by another user will have advantage on this saving throw. See Keeper of the dead for additional information.|
 | **Mosrael**  | 7-10 | **This bell only works in Death.** Choose a target on the same layer of Death. The target and any others within 10ft must make a Charter Charisma saving throw or be lifted one layer of Death up. Any affected creature can choose to fail the saving throw. The ringer is thrown one layer of Death down regardless of success. If any effected creatures either have 0 hit points or is classified as a Dead, the creature will have disadvantage on this saving throw.|
 | **Belgaer**  | 9-10 | Choose a target within 20ft. You can make the target forget about an event of maximum 5 minutes if the target fails a Charter Intelligence saving throw. Or you can restore memory erased by a Belgaer bell. This will always restore all erased memories and cause the target to gain one level of exhaustion.|
 | **Astarael**  | 10 | **This bell only works in Life.** All creatures within 40ft radius must make a Charter Strength saving throw. Dead creatures have disadvantage on this saving throw. Any creature who fails the saving throw is thrust 3 layers into Death. The ringer automatically fails the saving throw. |
@@ -2932,7 +2989,7 @@ This spell’s grasping hand option damage increases by 1d6 when you reach 6th l
 
 ## Level 5
 ### Fast learner
-You can learn two stamina costing abilities of your choice from any class but the Runic Knight and Morphling. An ability you choose must be of a level you can cast. They count as regular abilities for you.
+You can learn two stamina costing abilities of your choice from any class but the Runic Knight and Morphling. An ability you choose must be of a level you can cast. They count as regular stamina abilities for you.
 
 ## Level 6
 
@@ -3495,7 +3552,7 @@ ___
 > ### Actions
 > ***Constrict.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 20/40 ft., one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Move the Prototype Snake to the target on hit. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
 >
-> ***Squash*** *Melee Weapon Attack:* **Can only be done on Grappled targets** your spell attack modifier to hit. One target. _Hit_ 2d6 + Mysticist level bludgeoning damage.
+> ***Crush*** *Melee Weapon Attack:* **Can only be done on Grappled targets** your spell attack modifier to hit. One target. _Hit_ 2d6 + Mysticist level bludgeoning damage.
 ___
 
 <div style='margin-top:440px'></div>
@@ -3862,7 +3919,7 @@ ___
 - **Components:** V
 - **Duration:** Up to 1 minute
 
-You extend your hand and trace a sigil of warding in the air. Phantom like blade will form and ward you from any attacks. You gain 5 x Edge Dancer level in temporary hit points for the duration. While you have temporary hit points from blade ward, enemies have disadvantage to hit you with attack rolls.
+You extend your hand and trace a sigil of warding in the air. Phantom-like blades will form and ward you from any attacks. You gain 5 x Edge Dancer level in temporary hit points for the duration. While you have temporary hit points from blade ward, enemies have disadvantage to hit you with attack rolls.
 
 #### Fan of knives -3 Stamina
 ___
@@ -3988,7 +4045,7 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
 
 #### Flying Bearhug -1 Stamina
-If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbut as bonus action without paying the stamina cost.
+If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbutt as bonus action without paying the stamina cost.
 
 _Exert: You can target up to Huge creatures._
 
@@ -4008,7 +4065,7 @@ _Exert: Strike up to two targets within melee range._
 
 ## Level 2
 ### Claw Hands
-Whenever you strike an enemy with an unarmed strike, you can choose to not deal damage, but instead grappling the target.
+Whenever you strike an enemy with an unarmed strike, you can choose to not deal damage, but instead to grapple the target.
 
 #### Gorilla Press Slam -2 Stamina
 As an action you can lift a large or smaller grappled target above your head and slam the target into the ground in a location within 10ft of you. You no longer have the target grappled, but it takes 2d10 bludgeoning damage and is knocked prone. If there happens to be another creature at the target location, it can make a Physical Agility saving throw, or also be knocked prone and take the same damage. On a successful saving throw, the secondary creature takes no damage and can move up to 5 ft to dodge. You cannot perform this move while you are grappled or restrained.
@@ -4070,7 +4127,8 @@ ___
 Using Free Magic you can morph parts of your body to resemble a free magic creature. Doing so will grant you some aspects of the Free Magic Creature. The morph will last up to 5 Story ticks. You can have one aspect morphed at a time on level one, but can morph up to 2 aspects at level 4 and up to 3 aspects on level 7.
 
 ##### Stilken
-Your feet grow short tiny hooks. You gain half your movement speed in climbing speed.
+Your feet grow short tiny hooks. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.  You gain half your movement speed in climbing speed.  However, these hooks don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+
 ##### Hish
 Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing.
 ##### Aziminil
@@ -4152,7 +4210,7 @@ As a bonus action, you can fly up to 10ft, without provoking attacks of opportun
 Any damage received from magical sources such as spell is reduced by your Charisma modifier.
 
 ## Level 5
-#### Statis -2 Stamina
+#### Stasis -2 Stamina
 ___
 - **Casting Time:** 1 action
 - **Range:** Touch
@@ -4165,7 +4223,7 @@ You touch a creature encased in Death Ice in Life, or their Soul in Death. The t
 ### Durable Morph
 You Morph Aspect ability gains the following exert:
 
-_Exert: You can have one aspect permanently morphed. You can only have 1 permanent morphed aspect._
+_Exert: This morph has unlimited duration until you use an action to unmorph. You can have only one unlimited duration morph active at a time._
 
 ## Level 7
 ### Protection Tactics 
@@ -4179,7 +4237,7 @@ If you are hit by a melee weapon attack using a body part, such as a fist or pin
 An enemy can use its action to try to wrench a weapon free or an allied body part, making a Strength + Strength skill check opposed by your DC. If you are knocked unconcious, any stuck weapons or body parts are considered no longer stuck.
 
 ##### Reinvigorating Shout
-Your battle road also grants affected creatures 2 x Edge Dancer level in temporary hit points.
+Your battle roar also grants affected creatures 2 x Edge Dancer level in temporary hit points.
 
 
 \page
