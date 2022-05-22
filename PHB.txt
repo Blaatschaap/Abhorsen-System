@@ -263,7 +263,7 @@ Version V0.13
 <div class='pageNumber auto'></div>
 
 # World setting
-The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape is roughly like modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border witht he Old Kingdom.
+The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape is roughly like modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border with the Old Kingdom.
 
 ## The Old Kingdom
 The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Dead. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Dead cannot easily cross running water. Travelling is done in groups, generally accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26 hour days. 
@@ -302,17 +302,17 @@ Most advanced technology does not play nicely with the Charter within the Old Ki
 ## The Old Kingdom History
 In a time long past, chaotic magic creatures roamed free in the Old Kingdom. Of these creatures, nine were far more powerful than the other, as well as immortal. These nine creature became known as the Nine Bright Shiners. They feuded with each other and kept their own agenda. 
 
-One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to a Dead creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Dead. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in ethernal sleep until his two halves are reforged. 
+One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to a Dead creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Dead. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in eternal sleep until his two halves are reformed. 
 
-Orannis' influence lingered however, with his Dead reduced to mindless zombies, perputually hungry for Life. His followers also remaing, necromancers controlling the Dead for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Dead out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Dead lower and lower into the realm of Death, until they are banished from existence. 
+Orannis' influence lingered however, with his Dead reduced to mindless zombies, perpetually hungry for Life. His followers also remained, necromancers controlling the Dead for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Dead out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Dead lower and lower into the realm of Death, until they are banished from existence. 
 
-These acts severly weaked the Bright Shiners of the Charter, but the land was not yet safe, with necormancers still managing to reanimate the Dead. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners disolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
+These acts severely weakened the Bright Shiners of the Charter, but the land was not yet safe, with necromancers still managing to reanimate the Dead. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners dissolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
 
 Two of them worked together on their boon, transforming into the Wall, a massive structure between what is now the Old Kingdom and Ancelstierre, containing the magic and preventing it from going spreading to the south.
 One gave their blessing to a bloodline, intending them to rule the land and protect its people from the followers of Orannis. This bloodline became the kings and queens of the Old Kingdom.
 One of them blessed the bloodline of what is now known as the Abhorsens, granting them power to hunt down the followers of Orannis and their Dead.
 One of them imbued the denizens of the Glacier, granting them the ability to predict the future, so they could warn the land.
-It is not known what happened to the remaining two, but given they did not form a Great Charter stone, it is believed they still roam the land in their dimished forms.
+It is not known what happened to the remaining two, but given they did not form a Great Charter stone; it is believed they still roam the land in their diminished forms.
 
 
 #### Knowledge of the history
@@ -374,7 +374,7 @@ The dead can generally survive in the Perimeter, but may combust if out during a
 
 
 #### The Wall Garrison
-The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has a very high death rate under new recruits due to constant attacks from the Dead, but any reports about the Dead are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore most soldiers who survive their initial confrontations with the Dead, will arm themselves with swords and bows. This is generally done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
+The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has a very high death rate under new recruits due to constant attacks from the Dead, but any reports about the Dead are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore most soldiers, who survive their initial confrontations with the Dead, will arm themselves with swords and bows. This is generally done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
 
 Northern Ancelstierriens who have a knack for Charter or Free Magic will generally be put in small patrol groups spread throughout the Perimeter. If Dead are found attacking the wall, they will be called to save the regular soldiers.
 
@@ -472,7 +472,7 @@ The Dead are ghosts with both the inclination and the ability to resist the rive
 
 There are three classes of Dead: Lesser, Medium and Greater. The Greater Dead are usually represented by Dead from beyond the Fifth Gate (spirits from the deeper realms of Death and correspondingly more powerful). Greater Dead, such as Fifth-Gate Resters or Thralks, may exist in Life without a physical body (making them much more difficult to destroy).
 
-The name of Lesser Dead refers to Dead Hands, Ghlims and Gore Crows: a range of re-embodied spirits, often used by necromancers as weapons. Lesser Dead may be incapacitated by immersing them in running water or by destroying their physical bodies with Charter Magic or explosives. Most Dead prey on the living to remain in Life.
+The name of Lesser Dead refers to Dead Hands, Ghlims and Gore Crows: a range of re-embodied spirits often used by necromancers as weapons. Lesser Dead may be incapacitated by immersing them in running water or by destroying their physical bodies with Charter Magic or explosives. Most Dead prey on the living to remain in Life.
 
 ### Constructs
 Free Magic constructs are forms assumed by Free Magic elementals or powerful Dead spirits. Though such constructs may be destroyed, destroying the Elemental itself is much more difficult and typically the province of Free Magic.
@@ -486,7 +486,7 @@ These are free-willed beings wholly composed of Free Magic. The most common elem
 <div style='margin-top:140px'></div>
 
 ### Charter Sendings
-Charter Sendings are servants or sentries constructed entirely of Charter Marks. Many may only act within a given function, which can be of indefinite complexity. Certain fixtures excepted (such as a surcoat or insignia), Charter Sendings do not possess a concrete physical shape, and derive identity primarily from their function. They are capable of emotive response, but show little desire except to fulfil their mandates. 
+Charter Sendings are servants or sentries constructed entirely of Charter Marks. Many may only act within a given function, which can be of indefinite complexity. Apart from certain fixtures (such as a surcoat or insignia), Charter Sendings do not possess a concrete physical shape, and derive identity primarily from their function. They are capable of emotive response, but show little desire except to fulfil their mandates. 
 
 \page
 
@@ -501,7 +501,7 @@ Death consists of Seven Precincts divided by Seven Gates, through which a grey r
 The First Precinct is mostly knee-deep water, but has eddies and pools dangerous to the interloper. Its Gate is a huge waterfall.
 
 #### Second Precinct
-The Second Precinct has pitfalls throughout its domain and low visibility;  The Gate is a vertical river rising from the floor.
+The Second Precinct has pitfalls throughout its domain and low visibility; The Gate is a vertical river rising from the floor.
 
 #### Third Precinct
 The Third Precinct has slightly warmer ankle-deep water and visibility is slightly improved. Periodic, irresistible waves carry dead creatures through the Gate (a wall of mist), often beyond the final Seventh Gate.
@@ -609,7 +609,7 @@ You can attempt to grapple a creature in melee range using a Strength + Agility 
 The shove attack will become a Strength + Strength contest opposed by a Strength + Agility or Strength + Reflexes skill check.
 
 ### Massive Damage
-When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Physical Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30 must make that Constitution save if it takes 15 damage or more from a single source.
+When a creature takes damage from a single source equal to or greater than half its hit point maximum, it must succeed on a DC 15 Physical Constitution saving throw or suffer a random effect determined by a roll on the System Shock table. For example, a creature that has a hit point maximum of 30, must make that Constitution save if it takes 15 damage or more from a single source.
 
 ##### System Shock
 | d10 | Effect |
@@ -663,8 +663,8 @@ Some Stamina abilities allow you to exert them. You will get a stronger effect, 
 <div class='pageNumber auto'></div>
 
 ### Changing Tactics
-some groups of features are marked as a tactic. These are mutually exclusive features where a choice will have to be made which of the features you want for your character.
-It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns ones psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, Fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to change their tactic.
+Some groups of features are marked as a tactic. These are mutually exclusive features where a choice will have to be made which of the features you want for your character.
+It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns ones psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to change their tactic.
 
 At the end, a character can change one of his or her tactics, as well as all the usual benefits from a long rest.
 
@@ -1107,7 +1107,7 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Diamond of Protection, Imbue, Fighting styles, Charge |
-| 2nd | +1 | Ability Score Improvement, Brutal Critical, Aggresive |
+| 2nd | +1 | Ability Score Improvement, Brutal Critical, Aggressive |
 | 3rd | +1 | Offensive Tactics |
 | 4th | +2 | Ability Score Improvement, Killing Stroke, Relentless Endurance  |
 | 5th | +2 | Action Surge |
@@ -1205,7 +1205,7 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 </div>
 
 #### Quick Build
-You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score,  followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence and Constitution saving throws.
+You can make a Ranger quickly by following these suggestions. First, make Agility your highest ability score, followed by Reflexes. Second, choose the outlander background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence and Constitution saving throws.
 
 ### Nimble Fighter
 You gain a +2 bonus to attack rolls you made with Nimble weapons.
@@ -1328,7 +1328,7 @@ ___
 - **Components:** V, M, S (A sprinkling of water)
 - **Duration:** 1 minute
 
-Choose up to  four creatures within 30ft. Whenever the target makes a saving throw within the next minute, the target can add a d6 to the value of the saving throw.
+Choose up to four creatures within 30ft. Whenever the target makes a saving throw within the next minute, the target can add a d6 to the value of the saving throw.
 
 _Exert: Choose up to 6 creatures._
 
@@ -1468,7 +1468,7 @@ ___
 - **Components:** V
 - **Duration:** Instantaneous
 
-Make a melee spell attack against the target. On a hit, the target takes 1d10 + Aptitude modifier Fire damage. If you perform a critical hit with this spell, the target is ignited, dealing 1d6 fire damage at the end of each of its turns. The target, or a creature within 5 ft of it can use its action to douse the flame. This spell’s damage increases by 1d10 when you reach 3th level (2d10), 6th level (3d10), and 9th level (4d10). The ignite damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
+Make a melee spell attack against the target. On a hit, the target takes 1d10 + Aptitude modifier Fire damage. If you perform a critical hit with this spell, the target is ignited, dealing 1d6 fire damage at the end of each of its turns. The target or a creature within 5 ft of it can use its action to douse the flame. This spell’s damage increases by 1d10 when you reach 3th level (2d10), 6th level (3d10), and 9th level (4d10). The ignite damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
 
 ## Level 3
 ### Ability Score Improvement 
@@ -1635,7 +1635,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, Up to 1 minute
 
-One non-free magic creature  of your choice that you can see within range must succeed on a Charter Charisma saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
+One non-free magic creature of your choice that you can see within range must succeed on a Charter Charisma saving throw or become charmed by you for the duration. While the target is charmed in this way, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes.
 
 The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
 
@@ -1714,7 +1714,7 @@ ___
 - **Components:** V
 - **Duration:** Up to 10 Story ticks
 
-You let off an imbued cry that envolopes nearby allies like a warding veil, protecting them from harm. Whilst under the effect of the warding shout, all allied creatures have +2 to their AC and they cannot be affected by Charm.
+You let off an imbued cry that envelopes nearby allies like a warding veil, protecting them from harm. Whilst under the effect of the warding shout, all allied creatures have +2 to their AC and they cannot be affected by Charm.
 
 \page
 
@@ -1935,7 +1935,7 @@ ___
 - **Components:** V, S 
 - **Duration:** Instantaneous
 
-Water erupts from the ground in a 10ft radius cylinder 30ft high. Each creature within the radius must make a Physical Strength saving throw, taking 4d6 cold damage on a failure. Creatures who failed the saving throw are also knocked back by up to 30ft from the center point of the geyser. Creature who succeed on the saving throw, only take half damage and are not knocked back.
+Water erupts from the ground in a 10ft radius cylinder 30ft high. Each creature within the radius must make a Physical Strength saving throw, taking 4d6 cold damage on a failure. Creatures who failed the saving throw are also knocked back by up to 30ft from the centre point of the geyser. Creature who succeed on the saving throw, only take half damage and are not knocked back.
 
 _Exert: The damage is increased to 6d6 cold damage and any creatures who fail the saving throw are also knocked prone._
 
@@ -2110,7 +2110,7 @@ ___
 - **Components:** V, S,
 - **Duration:** Concentration, Up to 10 Story Ticks
 
-Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centered on the point. Each creature in that area must make an Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute to clear by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
+Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centred on the point. Each creature in that area must make an Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute clearing by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
 
 _Exert: The fissures you create also will spout bursts of flame, dealing an additional 2d12 fire damage._
 
@@ -2276,7 +2276,7 @@ Enemies have disadvantage on saving throws against any of your stamina costing s
 ## Level 8
 
 ### Saraneth Mastery
-Your extensive experience with the bell of Saraneth allows you to focus on multiple Dead at a time. In addition to the target undead chosen for Saraneth, any CR 3 or lower Dead within 10ft of your target, are also affected by Saraneth.
+Your extensive experience with the bell of Saraneth allows you to focus on multiple Dead at a time. In addition to the target Dead chosen for Saraneth, any CR 3 or lower Dead within 10ft of your target, are also affected by Saraneth.
 
 
 
@@ -2895,7 +2895,7 @@ ___
 - **Components:** V, S
 - **Duration:** Concentration, Up to 1 round
 
-You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defenses. On your next turn, whenever you hit the target with an attack, you can make an additional attack on the target, but you gain a -5 bonus on all attack rolls this turn. This additional attack can repeat until you miss your target.
+You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target’s defences. On your next turn, whenever you hit the target with an attack, you can make an additional attack on the target, but you gain a -5 bonus on all attack rolls this turn. This additional attack can repeat until you miss your target.
 
 #### Detect poison and disease
 ___
@@ -3221,8 +3221,8 @@ Whenever you take damage, you can spend your reaction and 2 Stamina to take the 
 You develop a greater sense of direction and can find your way anywhere. You can the following benefits:
 
 - You and your group can't become lost except by magical means. 
-- Even when you are engaged in another Activity While Traveling (such as Foraging, navigating, or tracking), you remain alert to danger.
-- If you are traveling alone, you can move stealthily at a normal pace.
+- Even when you are engaged in another Activity While Travelling (such as Foraging, navigating, or tracking), you remain alert to danger.
+- If you are travelling alone, you can move stealthily at a normal pace.
 
 #### Sunbeam -4 Stamina
 ___
@@ -3500,7 +3500,7 @@ ___
 You make terrain in an area up to 1 mile square look, sound, smell, and even feel like some other sort of natural terrain. The terrain’s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth valley.
 Similarly, you can alter the appearance of structures and make them seem natural. You can for instance make a house look like a cave or tree house. The spell doesn’t disguise, conceal, or add creatures.
 The illusion includes audible, visual, tactile, and olfactory elements, so it can turn clear ground into difficult terrain (or vice versa) or otherwise impede movement through the area. Any piece of the illusory terrain (such as a rock or stick) that is removed from the spell’s area disappears immediately.
-Creatures with truesight can see through the illusion to the terrain’s true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion’s presence, the creature can still physically interact with the illusion.
+Creatures with true sight can see through the illusion to the terrain’s true form; however, all other elements of the illusion remain, so while the creature is aware of the illusion’s presence, the creature can still physically interact with the illusion.
 
 
 
@@ -3602,7 +3602,7 @@ You've learned how to invest a spark of magic into mundane objects. You touch a 
 
  - The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
  - Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
- - The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+ - The object continuously emits your choice of an odour or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
  - A static visual effect appears on one of the object's surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
 
 The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
@@ -3661,7 +3661,7 @@ There is a limit to how many prototypes you can have under your control, which c
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft
-- **Components:** V, S, M (a metal rod of atleast 3 ft)
+- **Components:** V, S, M (a metal rod of at least 3 ft)
 - **Duration:** 1 minute
 
 ___
@@ -3723,7 +3723,7 @@ ___
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft
-- **Components:** V, S, M (a metal sheet of atleast 3 ft wide)
+- **Components:** V, S, M (a metal sheet of at least 3 ft wide)
 - **Duration:** 10 Story Ticks
 
 ___
@@ -3757,7 +3757,7 @@ This spell can physically repair a magic item or construct, but the spell can’
 At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
 ##### Mass Prototyping
-All Prototype spells gain the the following exert:
+All Prototype spells gain the following exert:
 
 _Exert: Build two prototypes instead of one._
 
@@ -3778,7 +3778,7 @@ Instead of increasing your ability scores, you can instead take a feat, chosen f
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft
-- **Components:** V, S, M (a metal sheet of atleast 3 ft wide)
+- **Components:** V, S, M (a metal sheet of at least 3 ft wide)
 - **Duration:** 10 Story Ticks
 
 ___
@@ -3807,7 +3807,7 @@ ___
 - **Components:** S
 - **Duration:** Instantaneous
 
-You make a small, yet totally intended mishap with your equipment. Every creature but you within 15 ft must make a Charter Constitution saving throw. On a failed saving throw the target takes 4d8 Lightning damage and the next attack roll made aginst it before the end of your next turn has advantage, thanks to the shock cramping their muscles. They take half damage on a successful saving throw and suffer no other adverse effects of this spell.
+You make a small, yet totally intended mishap with your equipment. Every creature but you within 15 ft must make a Charter Constitution saving throw. On a failed saving throw the target takes 4d8 Lightning damage and the next attack roll made against it before the end of your next turn has advantage, thanks to the shock cramping their muscles. They take half damage on a successful saving throw and suffer no other adverse effects of this spell.
 
 \page
 
@@ -3818,7 +3818,7 @@ You make a small, yet totally intended mishap with your equipment. Every creatur
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft
-- **Components:** V, S, M (a metal rod of atleast 3 ft long)
+- **Components:** V, S, M (a metal rod of at least 3 ft long)
 - **Duration:** 10 Story Ticks
 
 ___
@@ -3847,7 +3847,7 @@ ___
 ___
 - **Casting Time:** 1 action
 - **Range:** 5ft
-- **Components:** V, S, M (a metal cube of atleast 3 ft cubed)
+- **Components:** V, S, M (a metal cube of at least 3 ft cubed)
 - **Duration:** 10 Story Ticks
 
 
@@ -3895,25 +3895,25 @@ ___
 > ## Arcane Propulsion Armour
 >*Prerequisite: 8th-level Mysticist*
 >
->*Item: A suit of armor (requires attunement)*
+>*Item: A suit of armour (requires attunement)*
 > ___
-> The wearer of this armor gains these benefits:
+> The wearer of this armour gains these benefits:
 >
 > - The wearer's walking speed increases by 5 feet.
-> - The armor includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
-> - The armor can't be removed against the wearer's will.
-> - If the wearer is missing any limbs, the armor replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
+> - The armour includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
+> - The armour can't be removed against the wearer's will.
+> - If the wearer is missing any limbs, the armour replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
 
 ___
 > ## Armour of Magical Strength
 >
->*Item: A suit of armor (requires attunement)*
+>*Item: A suit of armour (requires attunement)*
 > ___
-> This armor has 6 charges. The wearer can expend the armor's charges in the following ways:
+> This armour has 6 charges. The wearer can expend the armour’s charges in the following ways:
 > - When the wearer makes a Strength check or a Physical Strength saving throw, it can expend 1 charge to add a bonus to the roll equal to its Intelligence modifier.
 > - If the creature would be knocked prone, it can use its reaction to expend 1 charge to avoid being knocked prone.
 >
-> The armor regains 1d6 expended charges daily at dawn.
+> The armour regains 1d6 expended charges daily at dawn.
 
 ___
 > ## Boots of the Winding Path
@@ -3935,9 +3935,9 @@ ___
 ___
 > ## Enhanced Defense
 >
->*Item: A suit of armor or a shield*
+>*Item: A suit of armour or a shield*
 >___
->A creature gains a +1 bonus to Armor Class while wearing (armor) or wielding (shield) the infused item.
+>A creature gains a +1 bonus to Armour Class while wearing (armour) or wielding (shield) the infused item.
 >
 >The bonus increases to +2 when you reach 6th level in this class.
 
@@ -3995,7 +3995,7 @@ ___
 >___
 > - **Damage Immunities:** poison
 > - **Condition Immunities:** exhaustion, poisoned
-> - **Senses** darkvision 60 ft., passive Perception 10 + (PB x 2)
+> - **Senses** Darkvision 60 ft., passive Perception 10 + (PB x 2)
 > - **Languages** understands the languages you speak
 > - **Proficiency Bonus (PB):** equals your bonus
 > ___
@@ -4011,7 +4011,7 @@ ___
 ___
 > ## Mind Sharpener
 >
->*Item: A suit of armor or robes*
+>*Item: A suit of armour or robes*
 >___
 >The infused item can send a jolt to the wearer to refocus their mind. The item has 4 charges. When the wearer fails a Charter Constitution saving throw to maintain concentration on a spell, the wearer can use its reaction to expend 1 of the item's charges to succeed instead. The item regains 1d4 expended charges daily at dawn.
 
@@ -4045,17 +4045,17 @@ ___
 >*Prerequisite: 3rd-level Mysticist*
 >*Item: A shield (requires attunement)*
 >___
->A creature gains a +1 bonus to Armor Class while wielding this shield.
+>A creature gains a +1 bonus to Armour Class while wielding this shield.
 >
 >The shield has 4 charges. While holding it, the wielder can use a reaction immediately after being hit by a melee attack to expend 1 of the shield's charges and push the attacker up to 15 feet away. The shield regains 1d4 expended charges daily at dawn.
 
 ___
-> ## Resistant Armor
+> ## Resistant Armour
 >
 >*Prerequisite: 3rd-level Mysticist*
->*Item: A suit of armor (requires attunement)*
+>*Item: A suit of armour (requires attunement)*
 >___
->While wearing this armor, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
+>While wearing this armour, a creature has resistance to one of the following damage types, which you choose when you infuse the item: acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, or thunder.
 
 ___
 > ## Returning Weapon
@@ -4065,7 +4065,7 @@ ___
 >This magic weapon grants a +1 bonus to attack and damage rolls made with it, and it returns to the wielder’s hand immediately after it is used to make a ranged attack.
 
 ___
-> ## Stamina-Refueling Ring
+> ## Stamina-Refuelling Ring
 >
 >*Prerequisite: 3rd-level Mysticist*
 >*Item: A ring (requires attunement)*
@@ -4115,7 +4115,7 @@ Until the start of your next turn, the first attack of opportunity you hit, is a
 You can use your reaction to deflect a weapon until the start of your next turn. When you are hit by a melee weapon attack, the damage you take from the attack is reduced by your Strength or Agility skill check modifier.
 
 ##### Sly Pose
-When you take damage from a creature that is within 5 feet of you, you can use your reaction to adjust your defenses. Once you do, the creature has disavantage on its attacks against you until you take damage from the creature again or the start of your next turn, whichever is sooner.
+When you take damage from a creature that is within 5 feet of you, you can use your reaction to adjust your defences. Once you do, the creature has disadvantage on its attacks against you until you take damage from the creature again or the start of your next turn, whichever is sooner.
 
 ## Level 2
 ### Cunning Action
@@ -4130,7 +4130,7 @@ ___
 - **Components:** V, S
 - **Duration:** two story ticks
 
-Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediatly stabalise and will be stunned until the next of their next turn.
+Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediately stabilise and will be stunned until the next of their next turn.
 
 ## Level 3
 ### Ability Score Improvement 
@@ -4164,7 +4164,7 @@ Starting at 4th level, your speed increases by 10 feet.
 | 5th | +2 | - |
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Dodging Tactics |
-| 8th | +4 | Ability Score Improvement, Coup de Grâce |
+| 8th | +4 | Ability Score Improvement, Coup de Grace |
 | 9th | +4 | - |
 | 10th | +4 | Ability Score Improvement |
 </div>
@@ -4327,7 +4327,7 @@ You can nimbly dodge out of the way of certain area Effects. When you are subjec
 When an attacker that you can see hits you with an Attack, you can use your Reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
 
 ## Level 8
-### Coup de Grâce
+### Coup de Grace
 Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse or a ranged weapon.
 
 \page
@@ -4371,7 +4371,7 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 <div style='margin-top:140px'></div>
 
 ### Unarmoured Defense
-While you are not wearing any armour and not wielding a shield, your Armor Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
+While you are not wearing any armour and not wielding a shield, your Armour Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
 
 #### Flying Bearhug -1 Stamina
 If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbutt as bonus action without paying the stamina cost.
@@ -4491,7 +4491,7 @@ Your face becomes a blackness that no light can pierce. The light dims in a 15ft
 Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage and immunity to Poisoned. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
 ##### Greten
 Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 + Charisma bonus additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
-This ability’s bleed damage damage increases by 1d4 when you reach 3rd level (2d4), 6th level (3d4), and 9th level (4d4).
+This ability’s bleed damage increases by 1d4 when you reach 3rd level (2d4), 6th level (3d4), and 9th level (4d4).
 
 ### Great Weapon Fighting
 When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the Two-Handed or Versatile property for you to gain this benefit.
@@ -4520,7 +4520,7 @@ ___
 - **Components:** V, S
 - **Duration:** Up to 1 hour
 
-Target creature grows scales over his entire body, protecting it from damage. The target’s AC can’t be less than 16, regardless of what kind of armor it is wearing.
+Target creature grows scales over his entire body, protecting it from damage. The target’s AC can’t be less than 16, regardless of what kind of armour it is wearing.
 
 #### Protection from Free Magic -3 Stamina
 ___
@@ -4592,12 +4592,12 @@ _Exert: This morph has unlimited duration until you use an action to unmorph. Yo
 ### Protection Tactics 
 At 7th level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
-##### Amorpheous
-When you are hit by a non-magical melee weapon attack by a creature with a Strength score less than 18, you can opt to trap the weapon and get it stuck in the Morphling. The attacker can no longer use that weapon until removed from the Morphling. The morphling can use a bonus action to equip the stuck weapon. 
+##### Amorphous
+When you are hit by a non-magical melee weapon attack by a creature with a Strength score less than 18, you can opt to trap the weapon and get it stuck in the Morphling. The attacker can no longer use that weapon until removed from the Morphling. The Morphling can use a bonus action to equip the stuck weapon. 
 
 If you are hit by a melee weapon attack using a body part, such as a fist or pincer by a creature with a strength score less than 16, you can opt to trap the body part and it will get stuck in the Morphling. You and the attacker are considered grappling each other.
 
-An enemy can use its action to try to wrench a weapon free or an allied body part, making a Strength + Strength skill check opposed by your DC. If you are knocked unconcious, any stuck weapons or body parts are considered no longer stuck.
+An enemy can use its action to try to wrench a weapon free or an allied body part, making a Strength + Strength skill check opposed by your DC. If you are knocked unconscious, any stuck weapons or body parts are considered no longer stuck.
 
 ##### Reinvigorating Shout
 Your battle roar also grants affected creatures 2 x Edge Dancer level in temporary hit points.
@@ -5456,7 +5456,7 @@ ___
 > - 15ft additional movement (40 total)
 > - Armour Class 13
 > - Multiattack: The Pillager makes two Bite attacks
-> - Reaction: Aggresive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
+> - Reaction: Aggressive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
 >
 > ### Actions
 >
@@ -5883,7 +5883,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  - Saving throws
  - Skill checks
  - Proficiency Bonus
- - Planes of existance
+ - Planes of existence
  - Dropping to 0 hp
  
 ## Minor changes
