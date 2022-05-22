@@ -263,11 +263,15 @@ Version V0.13
 <div class='pageNumber auto'></div>
 
 # World setting
+The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape is roughly like modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border witht he Old Kingdom.
 
 ## The Old Kingdom
-The Old Kingdom corresponds roughly to Scotland in landscape. Ancelstierre (representing England) and the Old Kingdom travel differently through time, with the hour of the day and the season of the year rarely in synchrony; therefore it is possible to spend more time in the Old Kingdom than is absent from Ancelstierre.
+The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Dead. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Dead cannot easily cross running water. Travelling is done in groups, generally accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26 hour days. 
 
-It is very sparsely populated due to the many dangers the dead pose to the general population.
+### Charter Religion
+Apart from being a source of magic, the Charter is also a form of religion. The common folk will generally choose to see the Charter as an omnipotent collection that protects them and grant the pious benefits. Powerful Charter Magic users will generally be seen as priests. A fair amount of the population can use very minor Charter Magic, for example to light a fire. These people will generally be considered favourably and will likely hold roles such as mayor.
+
+The charter is also sometimes referred to as the Pact of the Seven Bright Shiners.
 
 ### Rulers
 The Old Kingdom is ruled by a king and queen. The king is in charge of the military arm of the country while the queen is in charge of the rest. 
@@ -282,22 +286,37 @@ The Abhorsen will generally have several Abhorsen-in-waiting, as apprentices. Th
 #### The Clayr
 The Clayr are an oracular group composed nearly entirely of women, who live in a snowy mountain called the Clayr's Glacier, in the northern part of the Old Kingdom. Nearly all are beautiful and possess nut-brown skin, pale blond hair, and eyes of blue or green. The Glacier is also home to the Great Library of the Clayr, which contains a variety of treasures, monsters, and rarities in addition to books. Due to the Clayr's precognitive Sight, within the Great Library, there are often rooms created for events which unfold decades or centuries later. 
 
-### Charter
-Apart from being a source of magic, the Charter is also a form of religion. The common folk will generally choose to see the Charter as an omnipotent collection that protects them and grant the pious benefits. Powerful Charter Magic users will generally be seen as priests. A fair amount of the population can use very minor Charter Magic, for example to light a fire. These people will generally be considered favourably and will likely hold roles such as mayor.
-
-The charter is also sometimes referred to as the Seven Bright Shiners.
-
-<div style='margin-top:140px'></div>
-
-
-
 ### Towns
 Most towns in the Old Kingdom will be walled to protect against the Dead. Villagers are often left to fend for themselves and are therefore generally quite close knit with a healthy dose of scepticism for outsiders.
 
-### The Nine Bright Shiners
-The most advanced and powerful Free Magic elementals, of which seven created the Charter and are represented by the bells. Of the remaining two, Yrael later became Mogget, the Abhorsens' companion; and Orannis, "last and mightiest of the Nine", opposed the Charter and was imprisoned by the Seven. The correlation of the Seven and the necromantic bells includes the Precincts of Death, with each bell equalling a specific Precinct.
+### Ancelstierre Technology
+Most advanced technology does not play nicely with the Charter within the Old Kingdom. Cars will breakdown with welds coming apart and paint disintegrating into raw components. Machine fabricated clothes and paper will be reduced to scraps and rags. Guns will refuse to fire and grenades will not explode.
 
-Yrael, also known as Mogget, initially refused to take a side for or against Orannis, and was therefore later enslaved to the Abhorsen by the other immortals. Whenever unbound, he will try to kill the current Abhorsen and is thus rarely let out by the Abhorsen. To most Mogget appears as a small white cat but to others Mogget adopts a different name and appears as an albino dwarf. Mogget cannot use his dwarf-form without the express permission of the current Abhorsen or an Abhorsen-in-Waiting.
+
+
+
+\page
+
+<div class='pageNumber auto'></div>
+
+## The Old Kingdom History
+In a time long past, chaotic magic creatures roamed free in the Old Kingdom. Of these creatures, nine were far more powerful than the other, as well as immortal. These nine creature became known as the Nine Bright Shiners. They feuded with each other and kept their own agenda. 
+
+One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to a Dead creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Dead. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in ethernal sleep until his two halves are reforged. 
+
+Orannis' influence lingered however, with his Dead reduced to mindless zombies, perputually hungry for Life. His followers also remaing, necromancers controlling the Dead for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Dead out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Dead lower and lower into the realm of Death, until they are banished from existence. 
+
+These acts severly weaked the Bright Shiners of the Charter, but the land was not yet safe, with necormancers still managing to reanimate the Dead. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners disolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
+
+Two of them worked together on their boon, transforming into the Wall, a massive structure between what is now the Old Kingdom and Ancelstierre, containing the magic and preventing it from going spreading to the south.
+One gave their blessing to a bloodline, intending them to rule the land and protect its people from the followers of Orannis. This bloodline became the kings and queens of the Old Kingdom.
+One of them blessed the bloodline of what is now known as the Abhorsens, granting them power to hunt down the followers of Orannis and their Dead.
+One of them imbued the denizens of the Glacier, granting them the ability to predict the future, so they could warn the land.
+It is not known what happened to the remaining two, but given they did not form a Great Charter stone, it is believed they still roam the land in their dimished forms.
+
+
+#### Knowledge of the history
+Children infused with a Charter Mark living in the Old Kingdom naturally remember the following poem. Adults remember the poem exists, but its knowledge of its content will disappear from memory gradually over an hour after hearing or reading it.
 
 > ##### The Nine Bright Shiners
 >
@@ -328,10 +347,6 @@ Yrael, also known as Mogget, initially refused to take a side for or against Ora
 >*Broken in two and buried under hill,*
 >
 >*Forever to lie there wishing us ill.*
-
-
-### Ancelstierre Technology
-Most advanced technology will fail within the Old Kingdom. Cars will breakdown with welds coming apart and paint disintegrating into raw components. Machine fabricated clothes and paper will be reduced to scraps and rags. Guns will refuse to fire or will explode completely.
 
 \page
 
