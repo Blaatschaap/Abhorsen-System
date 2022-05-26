@@ -310,6 +310,8 @@ One of them blessed the bloodline of what is now known as the Abhorsens, grantin
 One of them imbued the denizens of the Glacier, granting them the ability to predict the future, so they could warn the land.
 It is not known what happened to the remaining two, but given they did not form a Great Charter stone; it is believed they still roam the land in their diminished forms.
 
+<div style='margin-top:140px'></div>
+
 
 #### Knowledge of the history
 Children infused with a Charter Mark living in the Old Kingdom naturally remember the following poem. Adults remember the poem exists, but its knowledge of its content will disappear from memory gradually over an hour after hearing or reading it.
