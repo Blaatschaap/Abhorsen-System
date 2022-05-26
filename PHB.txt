@@ -5875,7 +5875,8 @@ ___
 In this chapter you can find on a broad level what rules from 5e I have changed or replaced and which I've kept.
 
 ## Removed
- - All classes
+ - All original classes
+ - All Races
  - All skill's
  - Spell(slot) system
  
@@ -5898,10 +5899,11 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  
 ## Optional rules used
  - Massive Damage
+ - Flanking (with modification)
 
 ## No changes
  - Action economy
- - Conditions
+ - Conditions (with addition)
 
 ## Additions
  - 5 new classes with 15 subclasses in total
@@ -5934,16 +5936,22 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
  </div>
  
  # Still To Do
-  
-  - Additional bestiary content
-  - Additional content for higher levels
-  - Additional choices within the classes & subclasses  
-  - Information on each sub class placing them in the world
-  - Magic Items
+ - Magic Items
+ - Additional bestiary content
+ - Additional content for higher levels
+ - Additional choices within the classes & subclasses
+ - Information on each sub class placing them in the world
+ - Further explain the precincts with more detail
+ - Mechanics on how to make/destroy charter stones.
+	
   
  ## Unimplemented ideas
 - Frenzy zombies
+- Hemathurge Fester ability
+- Charter mage, downtime activity create charter stone
 - Turn all subclasses into separate classes and making them share some abilities.
+- Charter stone aura's?
+- Stat blocks for shade of Astarael & Kibeth?
 	
 
 
