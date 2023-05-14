@@ -461,7 +461,7 @@ The Seventh Precinct is an endless pool of deep, still and clear water. It is wa
 
 These stats determine your modifiers for all the skill checks and saving throws. Below is a list of the ability scores, as well as which checks they directly affect and example skill checks.
 
-{{classTable,frame,decoration
+{{classTable,frame
 ##### Ability scores
 | Skill 				  | Affects 									| Example skill checks 			| 
 |:---------------:|:-------------------------:|-|
@@ -905,8 +905,6 @@ Here are Sabriël's skill modifiers. She has chosen her Strength to be her lowes
  - Letting from a dead colleague
  - Common clothes
  - 10 gp
-
-\column
 
 
 \page
@@ -2051,16 +2049,15 @@ _Exert: The fissures you create also will spout bursts of flame, dealing an addi
 ## Flesh Binder
 
 ### Class Features
-___
-- **Hit Dice:** 2d6 per Flesh Binder level
-- **Hit Points: ** 2d6 (or 7) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
-- **DC:** 8 + Charisma + Aptitude
-- **Magic Type:** Free Magic
+::**Hit Dice:** 2d6 per Flesh Binder level
+::**Hit Points:** 2d6 (or 7) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
+::**Spell Attack bonus:** Charisma + Aptitude
+::**DC:** 8 + Charisma + Aptitude
+::**Magic Type:** Free Magic
 
 #### Proficiencies
-___
-- **Armour:** Light armour
-- **Weapons:** Simple weapons
+::**Armour:** Light armour
+::**Weapons:** Simple weapons
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -2538,7 +2535,7 @@ Choose up to three non-Dead creatures in range, which must make a Charter Consti
 
  *Mold your own friend* 
  
- {{classTable
+{{classTable
 ##### The Animator
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
@@ -2716,17 +2713,15 @@ You no longer take damage from casting Conjure Flesh.
 ## Mysticist
 
 ### Class Features
-___
-- **Hit Dice:** 2d8 per Mysticist level
-- **Hit Points: ** 2d8 (or 9) + your Constitution modifier per Mysticist level. Maximum values on level 1
-- **Spell Attack bonus:** Agility + Intelligence
-- **DC:** 8 + (Agility or Intelligence) + Aptitude
-- **Magic Type:** Charter Magic
+::**Hit Dice:** 2d8 per Mysticist level
+::**Hit Points:** 2d8 (or 9) + your Constitution modifier per Mysticist level. Maximum values on level 1
+::**Spell Attack bonus:** Agility + Intelligence
+::**DC:** 8 + (Agility or Intelligence) + Aptitude
+::**Magic Type:** Charter Magic
 
 #### Proficiencies
-___
-- **Armour:** Light armour
-- **Weapons:** Simple weapons, Martial Ranged Weapons
+::**Armour:** Light armour
+::**Weapons:** Simple weapons, Martial Ranged Weapons
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -4028,16 +4023,14 @@ While wearing this ring, the creature can recover 2 Stamina as an action. Once u
 ## Edge Dancer
 
 ### Class Features
-___
-- **Hit Dice:** 2d10 per Edge Dancer level
-- **Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
-- **DC:** 8 + (Strength or Agility) + Constitution
-- **Magic Type:** Free Magic
+::**Hit Dice:** 2d10 per Edge Dancer level
+::**Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
+::**DC:** 8 + (Strength or Agility) + Constitution
+::**Magic Type:** Free Magic
 
 #### Proficiencies
-___
-- **Armour:** Light armour, Medium armour
-- **Weapons:** Simple weapons
+::**Armour:** Light armour, Medium armour
+::**Weapons:** Simple weapons
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -4064,11 +4057,10 @@ You can use your reaction to deflect a weapon until the start of your next turn.
 ##### Sly Pose
 When you take damage from a creature that is within 5 feet of you, you can use your reaction to adjust your defences. Once you do, the creature has disadvantage on its attacks against you until you take damage from the creature again or the start of your next turn, whichever is sooner.
 
+:::
 ## Level 2
 ### Cunning Action
 Your quick thinking and agility allow you to move and act quickly. You can take a Bonus Action on each of your turns in Combat. This bonus action can be used only to take the Dash, Disengage, or Hide action.
-
-<div style='margin-top:140px'></div>
 
 #### Dance with Death
 ::**Casting Time:** 1 bonus action
@@ -4098,13 +4090,13 @@ Starting at 4th level, your speed increases by 10 feet.
 {{pageNumber,auto}}
 
 # Subclasses
+___
 The Edge Dancer knows 3 subclasses which you choose one of at level 1. The available options are Trickster, Grappler or Morphling.
-
 
 ## Trickster  
 *Now you see me, now I'm gone!*
 
- {{classTable
+{{classTable
 ##### The Trickster
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
@@ -4131,9 +4123,7 @@ The additional damage increases to 3 when you reach 3rd level, to 5 upon reachin
 ### Quick Draw
 You can throw light weapons without having them in hand.
 
-<div style='margin-top:140px'></div>
-
-
+::::::::::::
 
 #### Mage hand
 ::**Casting Time:** 1 action
@@ -4289,7 +4279,7 @@ Beginning at 8th Level, you master how to strike disadvantaged foes. Once per tu
 ## Grappler
 *Boot to the head!*
 
- {{classTable
+{{classTable
 ##### The Grappler
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
@@ -4401,7 +4391,7 @@ As an action, you stomp your foot with earth shattering power. Each creature in 
 ## Morphling
 *Looks are only temporary!*
 
- {{classTable
+{{classTable
 ##### The Morphling
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
@@ -4432,15 +4422,15 @@ Using Free Magic you can morph parts of your body to resemble a free magic creat
 
 ##### Stilken
 Your feet grow short tiny hooks. You can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free.  You gain half your movement speed in climbing speed.  However, these hooks don't allow you to move this way on a slippery surface, such as one covered by ice or oil.
+##### Hrule
+Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage and immunity to Poisoned. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
 
-<div style='margin-top:140px'></div>
-
+:::::
 ##### Hish
 Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing. You also gain immunity to being restrained. Any effect that would restrain you, grapples you instead.
 ##### Aziminil
 Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision. You also gain immunity to being blinded.
-##### Hrule
-Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resistance to Necrotic damage and immunity to Poisoned. Any blood in a 10ft radius is absorbed by you and any target you hit can't regain hit points until the start of your next turn.
+
 ##### Greten
 Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 + Charisma bonus additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
 This ability’s bleed damage increases by 1d4 when you reach 3rd level (2d4), 6th level (3d4), and 9th level (4d4).
@@ -4500,11 +4490,11 @@ You can attack twice, instead of once, whenever you take the Attack action on yo
 ##### Aura of Decay
 Any enemies within a 15ft radius around you deduct your Charisma modifier from any saving throw they do.
 
+::::::
+
 ## Level 4
 ### Relentless Hunger
 By 4th level, your supernatural focus helps you close off a foe’s retreat. When you hit a creature with an opportunity attack, you can move up to half your speed immediately after the attack and as part of the same reaction. This movement doesn’t provoke opportunity attacks.
-
-<div style='margin-top:140px'></div>
 
 
 
@@ -4595,15 +4585,12 @@ You have undergone extensive physical training to gain the following benefits:
 - You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.
 
 
-<div style='margin-top:180px'></div>
+:
 
 ## Charger
 When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
 
 If you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).
-
-
-
 
 ## Crossbow Expert	
 Thanks to extensive practice with the crossbow, you gain the following benefits:
@@ -4683,18 +4670,17 @@ You have trained to master the use of heavy armour, gaining the following benefi
 - Increase your Strength score by 1, to a maximum of 20.
 - You gain proficiency with heavy armour.
 
+
+\page
+
+{{pageNumber,auto}}
+
 ## Heavy Armour Master	
 _Prerequisite: Proficiency with heavy armour_
 
 You can use your armour to deflect strikes that would kill others. You gain the following benefits:
 - Increase your Strength score by 1, to a maximum of 20.
 - While you are wearing heavy armour, bludgeoning, piercing, and slashing damage that you take from non magical weapons is reduced by 3.
-
-
-
-\page
-
-{{pageNumber,auto}}
 
 ## Inspiring Leader	
 _Prerequisite: Charisma 13 or higher_
@@ -4727,8 +4713,6 @@ You have practiced moving in medium armour to gain the following benefits:
 - Wearing medium armour doesn’t impose disadvantage on skill checks to hide or sneak.
 - When you wear medium armour, you can add 3, rather than 2, to your AC if you have an Agility of 16 or higher.
 
-<div style='margin-top:140px'></div>
-
 ## Mobile	
 You are exceptionally speedy and agile. You gain the following benefits:
 - Your speed increases by 10 feet.
@@ -4750,6 +4734,12 @@ You are a dangerous foe to face while mounted. While you are mounted and aren’
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
+
+
+\page
+
+{{pageNumber,auto}}
+
 ## Observant
 Quick to notice details of your environment, you gain the following benefits:
 - Increase your Intelligence or Aptitude score by 1, to a maximum of 20.
@@ -4762,17 +4752,12 @@ You have achieved a penetrating precision in combat, granting you the following 
 - Once per turn, when you hit a creature with an attack that deals piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.
 - When you score a critical hit that deals piercing damage to a creature, you can roll one additional damage die when determining the extra piercing damage the target takes.
 
-
-\page
-
-{{pageNumber,auto}}
-
-
 ## Pole arm Master
 You can keep your enemies at bay with reach weapons. You gain the following benefits:
 - When you take the Attack action and attack with only a glaive, halberd, or quarterstaff, you can use a bonus action to make a melee attack with the opposite end of the weapon. The weapon’s damage die for this attack is a d4, and the attack deals bludgeoning damage.
 - While you are wielding a glaive, halberd, pike, or quarterstaff, other creatures provoke an opportunity attack from you when they enter your reach.
 
+::::::::::::::::::::
 ## Poisoner
 You can prepare and deliver deadly poisons, granting you the following benefits:
 - When you make a damage roll that deals poison damage, it ignores resistance to poison damage.
@@ -4793,9 +4778,11 @@ You have mastered ranged weapons and can make shots that others find impossible.
 - Your ranged weapon attacks ignore half cover and three-quarters cover.
 - Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a - 5 penalty to the attack roll. If the attack hits, you add +10 to the attack’s damage.
 
-<div style='margin-top:140px'></div>
 
 
+\page
+
+{{pageNumber,auto}}
 
 ## Shield Master	
 You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:
@@ -4821,11 +4808,6 @@ You've learned where to cut to have the greatest results, granting you the follo
 You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:
 - When you cast a spell that requires you to make an attack roll, the spell’s range is doubled.
 - Your ranged spell attacks ignore half cover and three-quarters cover.
-
-
-\page
-
-{{pageNumber,auto}}
 
 ## Tavern Brawler
 Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:
@@ -4856,7 +4838,6 @@ You have practiced extensively with a variety of weapons, gaining the following 
 
 {{pageNumber,auto}}
 
-
 # Equipment
 
 ## Weapons
@@ -4880,48 +4861,48 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 {{pageNumber,auto}}
 
-<div class='classTable wide'>
+{{classTable,wide,frame
 ##### Weapons
-| Name | Cost | Damage | Properties |
-|:-----:|:---:|:---|:---:|:---:|
+| Name | Cost | Damage |   Properties    |
+|:----:|:-----------:|:-------------|:---------------------:|
 | ***Simple Melee Weapons*** | | | | 
-  | Club | 1 sp | 1d4 bludgeoning | Impact, light |
-  | Dagger | 2 gp | 1d4 piercing | Finesse, light, thrown (range 20/60) |
-  | Great Club | 2 sp | 1d8 bludgeoning | Brawn, Two-handed |
-  | Hand Axe | 5 gp | 1d6 slashing | Impact, light, thrown (range 20/60) |
-  | Javelin | 5 sp | 1d6 piercing | Brawn, thrown (range 30/120) |
-  | Light Hammer | 2 gp | 1d4 bludgeoning | Impact, light, thrown (range 20/60) |
-  | Mace | 5 gp | 1d6 bludgeoning | Brawn |
-  | Quarterstaff | 2 sp | 1d6 bludgeoning | Brawn, versatile (1d8) |
-  | Sickle | 1 gp | 1d6 slashing | Nimble, light |
-  | Spear | 1 gp | 1d6 piercing | Impact, thrown (range 20/60), Versatile (1d8) |
+| Club | 1 sp | 1d4 bludgeoning | Impact, light |
+| Dagger | 2 gp | 1d4 piercing | Finesse, light, thrown (range 20/60) |
+| Great Club | 2 sp | 1d8 bludgeoning | Brawn, Two-handed |
+| Hand Axe | 5 gp | 1d6 slashing | Impact, light, thrown (range 20/60) |
+| Javelin | 5 sp | 1d6 piercing | Brawn, thrown (range 30/120) |
+| Light Hammer | 2 gp | 1d4 bludgeoning | Impact, light, thrown (range 20/60) |
+| Mace | 5 gp | 1d6 bludgeoning | Brawn |
+| Quarterstaff | 2 sp | 1d6 bludgeoning | Brawn, versatile (1d8) |
+| Sickle | 1 gp | 1d6 slashing | Nimble, light |
+| Spear | 1 gp | 1d6 piercing | Impact, thrown (range 20/60), Versatile (1d8) |
 | ***Simple Ranged Weapons*** | | | | 
-  | Light Crossbow | 25 gp | 1d8 piercing | Nimble, ammunition (range 80/320), loading, two-handed |
-  | Dart | 5 cp | 1d4 piercing | Finesse, thrown (range 20/60) |
-  | Short Bow | 2 sp | 1d6 piercing | Nimble, ammunition (range 80/320), two-handed |
-  | Sling | 1 gp | 1d4 bludgeoning | Nimble, ammunition (range 30/120) |
+| Light Crossbow | 25 gp | 1d8 piercing | Nimble, ammunition (range 80/320), loading, two-handed |
+| Dart | 5 cp | 1d4 piercing | Finesse, thrown (range 20/60) |
+| Short Bow | 2 sp | 1d6 piercing | Nimble, ammunition (range 80/320), two-handed |
+| Sling | 1 gp | 1d4 bludgeoning | Nimble, ammunition (range 30/120) |
 | ***Martial Melee Weapons*** | | | |
-  | Battleaxe | 10 gp | 1d8 slashing | Brawn, versatile (1d10) |
-  | Glaive | 20 gp | 1d10 slashing | Nimble, heavy, reach, two-handed |
-  | Great Axe | 30 gp | 1d12 slashing | Brawn, heavy, two-handed |
-  | Great Sword | 50 gp | 2d6 slashing | Impact, heavy, two-handed |
-  | Halberd | 20 gp | 1d10 slashing | Brawn, heavy, reach, two-handed |
-  | Lance | 10 gp | 1d12 piercing | Impact, reach, special |
-  | Long Sword | 15 gp | 1d8 slashing | Impact, versatile (1d10) |
-  | Maul | 10 gp | 2d6 bludgeoning | Brawn, heavy, two-handed |
-  | Morningstar | 15 gp | 1d8 piercing | Brawn |
-  | Rapier | 25 gp | 1d8 piercing | Finesse |
-  | Scimitar | 25 gp | 1d6 slashing | Finesse, light |
-  | Short Sword | 10 gp | 1d6 piercing | Impact, light |
-  | War Hammer | 15 gp | 1d8 bludgeoning | Brawn, versatile (1d10) |
-  | Whip | 2 gp | 1d6 slashing | Finesse, reach(15 ft) |
+| Battleaxe | 10 gp | 1d8 slashing | Brawn, versatile (1d10) |
+| Glaive | 20 gp | 1d10 slashing | Nimble, heavy, reach, two-handed |
+| Great Axe | 30 gp | 1d12 slashing | Brawn, heavy, two-handed |
+| Great Sword | 50 gp | 2d6 slashing | Impact, heavy, two-handed |
+| Halberd | 20 gp | 1d10 slashing | Brawn, heavy, reach, two-handed |
+| Lance | 10 gp | 1d12 piercing | Impact, reach, special |
+| Long Sword | 15 gp | 1d8 slashing | Impact, versatile (1d10) |
+| Maul | 10 gp | 2d6 bludgeoning | Brawn, heavy, two-handed |
+| Morningstar | 15 gp | 1d8 piercing | Brawn |
+| Rapier | 25 gp | 1d8 piercing | Finesse |
+| Scimitar | 25 gp | 1d6 slashing | Finesse, light |
+| Short Sword | 10 gp | 1d6 piercing | Impact, light |
+| War Hammer | 15 gp | 1d8 bludgeoning | Brawn, versatile (1d10) |
+| Whip | 2 gp | 1d6 slashing | Finesse, reach(15 ft) |
 | ***Martial Ranged Weapons*** | | | | 
-  | Blowgun | 10 gp | 1d4  piercing | Nimble, ammunition (range 25/100), loading |
-  | Hand Crossbow | 75 gp | 1d6 piercing | Nimble, ammunition (range 30/120), light, loading |
-  | Heavy Crossbow | 50 gp | 1d10 piercing | Nimble, ammunition (range 100/400), heavy, loading, two-handed |
-  | Longbow | 50 gp | 1d8 piercing | Nimble, ammunition (range 150/600), heavy, two-handed |
-  | Net | 4 gp | _ | Finesse, special, thrown (range 5/15) |
-</div>
+| Blowgun | 10 gp | 1d4  piercing | Nimble, ammunition (range 25/100), loading |
+| Hand Crossbow | 75 gp | 1d6 piercing | Nimble, ammunition (range 30/120), light, loading |
+| Heavy Crossbow | 50 gp | 1d10 piercing | Nimble, ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow | 50 gp | 1d8 piercing | Nimble, ammunition (range 150/600), heavy, two-handed |
+| Net | 4 gp | -- | Finesse, special, thrown (range 5/15) |
+}}
 
 \page
 
@@ -4931,18 +4912,15 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 Any costs listed are on top of the cost of the ammunition. Modifications can only be made to ammunition with the approval of the GM, to prevent things such as barbed trebuchet shots.
 
 All damage listed is in addition to any regular damage the ammunition would deal on hit.
-
+::::::
 #### Barbed
 Barbed ammunition will stick in the target on hit. If the target takes further damage, it must make a DC 10 Physical Agility saving throw or the barbed ammunition will be ripped out, dealing 1d6 piercing damage. The target or a creature within 5 ft of it can use its action to remove the ammunition.
 
-<div style='margin-top:140px'></div>
-```
-```
 #### Charter 
 Charter enchanted ammunition can be activated using a free action by any creature wielding the ammunition and that is capable of charter magic. Charter ammunition is counted as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
 
 
-<div class='classTable wide'>
+{{classTable,wide,frame
   
 ##### Ammunition Modifications
 | Mod | Additional Cost | Barbed | Effect |
@@ -4958,7 +4936,7 @@ Charter enchanted ammunition can be activated using a free action by any creatur
 | Barbed Tracking | 45 GP | Yes | Upon activation the ammunition leaves a trail of feint trail of charter marks that can be followed by any for up to one hour. |
 | Spirit Glass | 100 GP | _ | This ammunition explodes, regardless if it hit the target. All creatures within a 10ft radius must make a DC 15 Charter Agility saving throw or take 2d10 fire damage. Free Magic Creatures take double damage from this explosion. |
 | Disrupting | 50 GP | _ | On hit, the target takes an additional 1d8 psychic damage and must pass a DC 12 Charter Intelligence saving throw or has disadvantage on all Charter saving throws for 3 rounds. |  
-</div>
+}}
 
 
 \page
@@ -4968,19 +4946,15 @@ Charter enchanted ammunition can be activated using a free action by any creatur
 
 ## Armour
 
-
-
 ### Gethre
 Gethre is a charter infused metal that resists the corruption caused by Free magic. Per piece of Gethre infused armour, the wearer gains +1 AC against any attacks made by Free magic creatures and +1 to all saving throws against effects caused by Free magic creatures.
 
-<div style='margin-top:140px'></div>
-```
-```
+
+::::::::::
 
 
 
-
-<div class='classTable wide'>
+{{classTable,wide,frame
   
 ##### Armour
 | Armour | Cost | AC | Gethre | Strength | Sneaking |
@@ -5003,43 +4977,45 @@ Gethre is a charter infused metal that resists the corruption caused by Free mag
 | Splint | 200 GP | 18 | _ | Str 15 | Disadvantage |
 | Gethre Splint | 700 GP | 18 | Yes | Str 15 | Disadvantage |
 | Plate| 1000 GP | 19 | _ | Str 15 | Disadvantage |
-  | ***Shields*** | | | | | |
+| ***Shields*** | | | | | |
 | Shield | 15 GP | +2 | _ | _ | _ |
 | Gethre Shield | 500 GP | +2 | Yes | _ | _ |  
-</div>
+}}
 
 
 \page
 
 {{pageNumber,auto}}
 
+
+
 ## Potions
 
-<div class='classTable wide'>
+{{classTable,wide,frame,potions
  ### Potion table
 | Name | Effect | Cost |
-|:----:|:---:|:--:|
- |**Common**||| 
-| Healing potion  | *Gain 2d4 + 2 hp* 												| 30 GP |
-| Healing salve  | *Gain 1d4 hp every round for 10 Story Ticks.* 					|  25 GP |
-  |**Uncommon**|||
-  | Greater healing potion  | *Gain 4d4 + 4 hp* 												| 90 GP|
-| Giant Strength  | *Set your Str score to 20 for 10 Story Ticks.*		| 60 GP |
-| Elemental Resistance  | *You Gain Fire, Ice, Lightning or Thunder Resistance for 10 Story Ticks. The type of resistance gained is determined upon potion creation.*												| 60 GP |
-| Animal Friendship | *Any non-hostile Animal that drinks this will consider you a friend for 10 Story Ticks.*| 40 GP|
-| Alchemist fire | *This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating it as an improvised weapon. On a hit, the target takes 1d8 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Constitution + Agility check to extinguish the flames.*| 25 GP |
-| Swimming  | *You grow gills and fins for 1 hour. During this time you gain a swimming speed equal to your movement speed and will allow you to breathe underwater.*	| 30 GP |
-  | The Cat  | *You grow long, near unbreakable nails for 10 Story Ticks. You gain the Claw ability, which is an Agility + Agility melee attack dealing 1d8 + Agility slashing damage. You also gain a climbing speed equal to your movementspeed.*											| 35 GP |
- | Life's Breath  | *This potion can either be drunk directly, or else be applied to the Death Ice of a creature, affecting the creature encased within. Add +2 to any Death stabilisation or Death climbing checks.*											| 160 GP |
- |**Rare**||| 
-| Superior healing potion  | *Gain 8d4 + 8 hp* 												| 250 GP|
-  | Oil of Slipperiness  | *This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 5 minutes. The affected creature then gains the effect of a freedom of movement spell for 1 hour. Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 1 hours.* 							| 60 GP |
-| Fire breath  | *After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Physical Agility saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened*						| 60 GP |
-| Death Ice  | *After drinking this potion, you will immediately enter Death on the first precinct*					|  25 GP |
-| Fire veins  | *This potion only has effect if you have a body to return to. You will immediately leave Death, regardless of what precinct you were on. Being ripped from Death this fast will however leave you paralysed for 2 story ticks.*						|  500 GP |
+|:----:|:-----------|:------:|
+|**Common**|||
+| *Healing potion*  | Gain 2d4 + 2 hp 												| 30 GP |
+| *Healing salve*  | Gain 1d4 hp every round for 10 Story Ticks. 					|  25 GP |
+|**Uncommon**|||
+| *Greater healing potion*  | Gain 4d4 + 4 hp 												| 90 GP |
+| *Giant Strength*  | Set your Str score to 20 for 10 Story Ticks.		| 60 GP |
+| *Elemental Resistance*  | You Gain Fire, Ice, Lightning or Thunder Resistance for 10 Story Ticks. The type of resistance gained is determined upon potion creation.| 60 GP |
+| *Animal Friendship* | Any non-hostile Animal that drinks this will consider you a friend for 10 Story Ticks.| 40 GP|
+| *Alchemist fire* | This sticky, adhesive fluid ignites when exposed to air. As an action, you can throw this flask up to 20 feet, shattering it on impact. Make a ranged attack against a creature or object, treating it as an improvised weapon. On a hit, the target takes 1d8 fire damage at the start of each of its turns. A creature can end this damage by using its action to make a DC 10 Constitution + Agility check to extinguish the flames.| 25 GP |
+| *Swimming*  | You grow gills and fins for 1 hour. During this time you gain a swimming speed equal to your movement speed and will allow you to breathe underwater.	| 30 GP |
+| *The Cat*  | You grow long, near unbreakable nails for 10 Story Ticks. You gain the Claw ability, which is an Agility + Agility melee attack dealing 1d8 + Agility slashing damage. You also gain a climbing speed equal to your movementspeed.											| 35 GP |
+| *Life's Breath*  | This potion can either be drunk directly, or else be applied to the Death Ice of a creature, affecting the creature encased within. Add +2 to any Death stabilisation or Death climbing checks.											| 160 GP |
+|**Rare**||| 
+| *Superior healing potion*  | Gain 8d4 + 8 hp 												| 250 GP|
+| *Oil of Slipperiness*  | This sticky black unguent is thick and heavy in the container, but it flows quickly when poured. The oil can cover a Medium or smaller creature, along with the equipment it's wearing and carrying (one additional vial is required for each size category above Medium). Applying the oil takes 5 minutes. The affected creature then gains the effect of a freedom of movement spell for 1 hour. Alternatively, the oil can be poured on the ground as an action, where it covers a 10-foot square, duplicating the effect of the grease spell in that area for 1 hours. 							| 60 GP |
+| *Fire breath*  | After drinking this potion, you can use a bonus action to exhale fire at a target within 30 feet of you. The target must make a DC 13 Physical Agility saving throw, taking 4d6 fire damage on a failed save, or half as much damage on a successful one. The effect ends after you exhale the fire three times or when 1 hour has passed. This potion's orange liquid flickers, and smoke fills the top of the container and wafts out whenever it is opened						| 60 GP |
+| *Death Ice*  | After drinking this potion, you will immediately enter Death on the first precinct					|  25 GP |
+| *Fire veins*  | This potion only has effect if you have a body to return to. You will immediately leave Death, regardless of what precinct you were on. Being ripped from Death this fast will however leave you paralysed for 2 story ticks.						|  500 GP |
 
 
-  </div>
+}}
 
 \page
 
@@ -5051,49 +5027,49 @@ Gethre is a charter infused metal that resists the corruption caused by Free mag
 Poisons come in the following four types:
 
 
-- #### Contact: 
+#### Contact: 
 Contact poison can be smeared on an object and remains potent until it is Touched or washed off. A creature that touches contact poison with exposed skin suffers its Effects.
 
-- #### Ingested:
+#### Ingested:
 A creature must swallow an entire dose of ingested poison to suffer its Effects. The dose can be delivered in food or a liquid. You may decide that a partial dose has a reduced Effect, such as allowing advantage on the saving throw or dealing only half damage on a failed save.
 
-- #### Inhaled: 
+#### Inhaled: 
 These poisons are powders or gases that take Effect when inhaled. Blowing the powder or releasing the gas subjects creatures in a 5-foot cube to its Effect. The resulting cloud dissipates immediately afterward. Holding one’s breath is ineffective against inhaled poisons, as they affect nasal membranes, tear ducts, and other parts of the body.
 
-- #### Injury:
+#### Injury:
 Injury poison can be applied to Weapons, Ammunition, trap Components, and other Objects that deal piercing or slashing damage and remain potent until delivered through a wound or washed off. A creature that takes piercing or slashing damage from an object coated with the poison is exposed to its Effects.
 
-<div class='classTable wide'>
+{{classTable,wide,frame,poisons
 ### Poison table
 | Name 	| Effect| Type 	| Price per dose | 
-|:---:	|:---:	|:---	|:---:			|
-| Assassin’s blood 	| A creature subjected to this poison must make a DC 10 Physical Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is Poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t Poisoned. | Ingested| 150 gp |
-| Burnt umber fumes | A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends. |	Inhaled	| 500 gp |
-| Crawler mucus		| This poison must be harvested from a dead or Incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or be Poisoned for 1 minute. The Poisoned creature is Paralyzed. The creature can repeat the saving throw at the end of each of its turns, Ending the Effect on itself on a success. | Contact	| 200 gp |
-| Belladonna poison		| This poison can only be made in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or be Poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also Unconscious while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. | Injury	| 200 gp |
-| Essence of ether	| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 8 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |Inhaled	| 300 gp|
-| Malice			| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 1 hour. The Poisoned creature is Blinded. |Inhaled	| 250 gp|
-| Midnight tears 	| A creature that ingests this poison suffers no Effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Physical Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one. |	Ingested| 1,500 gp|
-| Oil of taggit		| A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or become Poisoned for 24 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage. | Contact	| 400 gp|
-| Pale tincture		| A creature subjected to this poison must succeed on a DC 16 Physical Constitution saving throw or take 3 (1d6) poison damage and become Poisoned. The Poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful Saving Throws, the Effect ends and the creature can heal normally. |Ingested	| 250 gp|
-| Purple Worm poison| This poison must be harvested from a dead or Incapacitated Purple Worm. A creature subjected to this poison must make a DC 19 Physical Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 2,000 gp|
+|:---:|:---:|:---|:---:|
+| *Assassin’s blood* 	| A creature subjected to this poison must make a DC 10 Physical Constitution saving throw. On a failed save, it takes 6 (1d12) poison damage and is Poisoned for 24 hours. On a successful save, the creature takes half damage and isn’t Poisoned. | Ingested| 150 gp |
+| *Burnt umber fumes* | A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or take 10 (3d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 3 (1d6) poison damage. After three successful saves, the poison ends. |	Inhaled	| 500 gp |
+| *Crawler mucus*		| This poison must be harvested from a dead or Incapacitated crawler. A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or be Poisoned for 1 minute. The Poisoned creature is Paralyzed. The creature can repeat the saving throw at the end of each of its turns, Ending the Effect on itself on a success. | Contact	| 200 gp |
+| *Belladonna poison*		| This poison can only be made in a place far removed from sunlight. A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or be Poisoned for 1 hour. If the saving throw fails by 5 or more, the creature is also Unconscious while Poisoned in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. | Injury	| 200 gp |
+| *Essence of ether*	| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 8 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage or if another creature takes an action to shake it awake. |Inhaled	| 300 gp|
+| *Malice*			| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 1 hour. The Poisoned creature is Blinded. |Inhaled	| 250 gp|
+| *Midnight tears* 	| A creature that ingests this poison suffers no Effect until the stroke of midnight. If the poison has not been neutralized before then, the creature must succeed on a DC 17 Physical Constitution saving throw, taking 31 (9d6) poison damage on a failed save, or half as much damage on a successful one. |	Ingested| 1,500 gp|
+| *Oil of taggit*		| A creature subjected to this poison must succeed on a DC 13 Physical Constitution saving throw or become Poisoned for 24 hours. The Poisoned creature is Unconscious. The creature wakes up if it takes damage. | Contact	| 400 gp|
+| *Pale tincture*		| A creature subjected to this poison must succeed on a DC 16 Physical Constitution saving throw or take 3 (1d6) poison damage and become Poisoned. The Poisoned creature must repeat the saving throw every 24 hours, taking 3 (1d6) poison damage on a failed save. Until this poison ends, the damage the poison deals can’t be healed by any means. After seven successful Saving Throws, the Effect ends and the creature can heal normally. |Ingested	| 250 gp|
+| *Purple Worm poison*| This poison must be harvested from a dead or Incapacitated Purple Worm. A creature subjected to this poison must make a DC 19 Physical Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 2,000 gp|
 
-  </div>
+}}
 
 
 \page
 
 {{pageNumber,auto}}
-<div class='classTable wide'>
+{{classTable,wide,frame,poisons
 ### Poison table continued
 | Name 	| Effect| Type 	| Price per dose | 
-|:---:	|:---:	|:---	|:---:			|
-| Wolfsbane	extract	| A creature subjected to this poison must succeed on a DC 10 Physical Constitution saving throw, taking 8 (3d4) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 150 gp|
-| Serpent venom		| This poison must be harvested from a dead or Incapacitated Giant Poisonous Snake. A creature subjected to this poison must succeed on a DC 11 Physical Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 200 gp|
-| Torpor	 		| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 4d6 hours. The Poisoned creature is Incapacitated. |Ingested	| 600 gp|
-| Truth serum		| A creature subjected to this poison must succeed on a DC 11 Physical Constitution saving throw or become Poisoned for 1 hour. The Poisoned creature can’t knowingly speak a lie. An affected creature is becomes aware of the poison after its first attempt at a lie and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth. |Ingested	| 150 gp|
-| Wyvern poison		| This poison must be harvested from a dead or Incapacitated Wyvern. A creature subjected to this poison must make a DC 15 Physical Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. |Injury	| 1,200 gp |
-  </div>
+|:---:|:---:|:---|:---:|
+| *Wolfsbane	extract*	| A creature subjected to this poison must succeed on a DC 10 Physical Constitution saving throw, taking 8 (3d4) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 150 gp|
+| *Serpent venom*		| This poison must be harvested from a dead or Incapacitated Giant Poisonous Snake. A creature subjected to this poison must succeed on a DC 11 Physical Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.| Injury	| 200 gp|
+| *Torpor*	 		| A creature subjected to this poison must succeed on a DC 15 Physical Constitution saving throw or become Poisoned for 4d6 hours. The Poisoned creature is Incapacitated. |Ingested	| 600 gp|
+| *Truth serum*		| A creature subjected to this poison must succeed on a DC 11 Physical Constitution saving throw or become Poisoned for 1 hour. The Poisoned creature can’t knowingly speak a lie. An affected creature is becomes aware of the poison after its first attempt at a lie and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth. |Ingested	| 150 gp|
+| *Wyvern poison*		| This poison must be harvested from a dead or Incapacitated Wyvern. A creature subjected to this poison must make a DC 15 Physical Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one. |Injury	| 1,200 gp |
+}}
 
 
 \page
@@ -5113,9 +5089,9 @@ Any Dead standing in fast flowing water, must make a Water saving throw at the e
 Any Dead within 300ft of an unbroken Charter stone, have -2 to any attack roll or saving throw. Conversely, any Dead within 300ft of a broken Charter Stone have +2 to any attack rolls and saving throws.
 
 
-___
-> ## Dead Hand
->*Medium* ***Lesser Dead***
+{{monster,frame
+## Dead Hand
+*Medium* ***Lesser Dead***
 ___
 **Armour Class** :: 11
 **Hit Points** :: 32
@@ -5134,16 +5110,16 @@ ___
 :
 ***Grave bound.*** The Dead Hand need to consume one humanoid every week or it will return to Death. If the Dead Hand spends at least 4 hours a day within or on grave dirt, it can prolong this, by not counting that day for the week.
 :
->***Pack Tactics.*** The Dead Hand has advantage on attack rolls against a creature if at least one of the Dead Hand's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The Dead Hand has advantage on attack rolls against a creature if at least one of the Dead Hand's allies is within 5 feet of the creature and the ally isn't incapacitated.
 :
->***Sunlight Sensitivity.*** While in sunlight, the Dead Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
-___
+***Sunlight Sensitivity.*** While in sunlight, the Dead Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 6 (1d6 + 2) piercing damage.
-
-___
-> ## Gore Crows
->*Medium swarm of tiny* ***Lesser Dead***
+}}
+:
+{{monster,frame
+## Gore Crows
+*Medium swarm of tiny* ***Lesser Dead***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 35
@@ -5159,27 +5135,27 @@ ___
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 1
 ___
-:
 ***Keen Smell.*** The swarm has advantage on skill checks that rely on sight.
 :
 ***Soul Bound Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny crow. The swarm can't regain hit points or gain temporary hit points. Gore Crows more than 200 ft away from the main body of the swarm will disintegrate.
 :
 ***Tracking Bond.*** If the swarm of Gore Crows is bound by free magic, the keeper of the bond knows how far and in which direction the main body of the swarm is in relation to the keeper. 
 :
->***Sunlight Sensitivity.*** While in sunlight, the Gore Crows have disadvantage on attack rolls, as well as on checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the Gore Crows have disadvantage on attack rolls, as well as on checks that rely on sight.
 :
 ***Grave bound.*** Gore Crows need to consume one humanoid every week or it will return to Death. If the Gore Crows spend at least 4 hours a day within or on grave dirt, it can prolong this, by not counting that day for the week.
 :
 ### Actions
 ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 1) piercing damage 
-
+}}
 
 \page
 
 {{pageNumber,auto}}
-___
-> ## Dread Wolf
->*Medium* ***Lesser Dead***
+
+{{monster,frame
+## Dread Wolf
+*Medium*  ***Lesser Dead***
 ___
 **Armour Class** :: 14
 **Hit Points** :: 37
@@ -5201,9 +5177,11 @@ ___
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 2) piercing damage.
 
-___
-> ## Oozing Lizard
->*Small* ***Lesser Dead***
+}}
+:
+{{monster,frame
+## Oozing Lizard
+*Small*  ***Lesser Dead***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 42
@@ -5221,9 +5199,11 @@ ___
 ### Actions
 ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 3 (1d6 -1) piercing damage.
 
-___
-> ## Decrepit Deer
->*Large* ***Lesser Dead***
+}}
+:
+{{monster,frame
+## Decrepit Deer
+*Large*  ***Lesser Dead***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 38
@@ -5248,9 +5228,11 @@ ___
 ### Actions
 ***Ram.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 8 (2d8 + 3) bludgeoning damage.
 
-___
-> ## Ghastly Owl
->*Small* ***Lesser Dead***
+}}
+:
+{{monster,frame
+## Ghastly Owl
+*Small*  ***Lesser Dead***
 ___
 **Water Save DC** :: 16
 **Armour Class** :: 11
@@ -5264,16 +5246,17 @@ ___
 **Senses** :: Darkvision 120ft. passive Perception 14
 **Languages** :: -
 **Challenge** :: 1/2
-___
 ### Actions
 ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 4 (1d4 +1) piercing damage.
+}}
+
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Mordaut
->*Tiny dead* ***Medium Dead***
+{{monster,frame
+## Mordaut
+*Tiny dead*  ***Medium Dead***
 ___
 **Armour Class** :: 9
 **Hit Points** :: 43
@@ -5298,9 +5281,11 @@ ___
 ***Possession (Recharge 6).*** One Humanoid that the Mordaut can see within 5 ft. of it must succeed on a DC 13 Charter Charisma saving throw or be possessed by the Mordaut; the Mordaut then disappears, and the target is Incapacitated and loses control of its body. The Mordaut now controls the body but doesn't deprive the target of awareness. The Mordaut can't be targeted by any Attack, spell, or other Effect and it retains its Alignment, Intelligence, Charisma, Aptitude, and immunity to being Charmed and Frightened. It otherwise uses the possessed target's Statistics and gains access to the target's knowledge, Class Features, and Proficiencies whilst possession is ongoing.
 The possession lasts until the body drops to 0 Hit Points, the Mordaut ends it as a Bonus Action, or the Mordaut forced out by an Effect like the Saraneth bell. When the possession ends, the Mordaut reappears in an unoccupied space within 5 ft. of the body. The target is immune to this Mordaut's Possession for 1 hour after succeeding on the saving throw or after the possession ends.
 
-___
-> ## Shadow Hand
->*Medium*  ***Medium Dead***
+}}
+:
+{{monster,frame
+## Shadow Hand
+*Medium*  ***Medium Dead***
 ___
 **Armour Class** :: 13
 **Hit Points** :: 53
@@ -5317,7 +5302,7 @@ ___
 ___
 ***Undead Fortitude.*** If damage reduces the Dead to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
 :
->***Sunlight Sensitivity.*** While in sunlight, the Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
 ### Actions
 :
 ***Multiattack.*** The Shadow hand makes two attacks, only one of which can be a Bite Attack.
@@ -5325,14 +5310,15 @@ ___
 ***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
 :
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 3). 
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Howler
->*Medium*  ***Medium Dead***
+{{monster,frame
+## Howler
+*Medium*  ***Medium Dead***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 45
@@ -5357,9 +5343,11 @@ ___
 :
 ***Howl (Recharge 5-6).*** *Ranged Spell Attack:* DC 13 Charter Charisma saving throw, 30ft line. *Failed save:* Target is frightened and takes 1d6 Psychic damage. Frightened created can make a saving throw every time the Howler takes damage. Half damage on successful save and no frighten effects. 
 
-___
-> ## Ravager
->*Medium*  ***Medium Dead***
+}}
+:
+{{monster,frame
+## Ravager
+*Medium*  ***Medium Dead***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 45
@@ -5373,11 +5361,11 @@ ___
 **Senses** :: Darkvision 60ft. passive Perception 12
 **Challenge** :: 4
 ___
->***Keen Smell.*** The Ravager has advantage on skill checks that rely on sight.
+***Keen Smell.*** The Ravager has advantage on skill checks that rely on sight.
 :
->***Pack Tactics.*** The Ravager has advantage on attack rolls against a creature if at least one of the Ravager's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The Ravager has advantage on attack rolls against a creature if at least one of the Ravager's allies is within 5 feet of the creature and the ally isn't incapacitated.
 :
->***Strider.*** The Ravager is not hindered by difficult terrain.
+***Strider.*** The Ravager is not hindered by difficult terrain.
 :
 ### Actions
 :
@@ -5385,10 +5373,11 @@ ___
 :
 ***Gorge (Recharge 5-6).*** *Melee Weapon Attack:* +8 to hit, 10ft cone from centre of this creature. Hit 7 (1d6 + 3).
 
-___
-___
-> ## Pillager
->*Medium*  ***Medium Dead***
+}}
+:
+{{monster,frame,wide
+## Pillager
+*Medium*  ***Medium Dead***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 60
@@ -5402,28 +5391,28 @@ ___
 **Senses** :: Darkvision 60ft. passive Perception 8
 **Challenge** :: 3
 ___
->***Pack Tactics.*** The Pillager has advantage on attack rolls against a creature if at least one of the Pillager's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The Pillager has advantage on attack rolls against a creature if at least one of the Pillager's allies is within 5 feet of the creature and the ally isn't incapacitated.
 :
->***Frenzy.*** If the Pillager is at half of its hit points or less, it gains the following features:
-> - 15ft additional movement (40 total)
-> - Armour Class 13
-> - Multiattack: The Pillager makes two Bite attacks
-> - Reaction: Aggressive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
+***Frenzy.*** If the Pillager is at half of its hit points or less, it gains the following features:
+ - 15 ft additional movement (40 total)
+ - Armour Class 13
+ - Multiattack: The Pillager makes two Bite attacks
+ - Reaction: Aggressive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
 :
 ### Actions
 :
 ***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3) piercing damage.
 :
 ***Blood Spit (Recharge 5-6).*** *Ranged Spell Attack:* target up to 3 creatures within 30ft range, +8 to hit. 2d6 Necrotic damage on hit. Regardless of hits, Pillager takes 10 piercing damage.
-
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Thralk
->*Large*  ***Greater Dead***
+{{monster,frame
+## Thralk
+*Large*  ***Greater Dead***
 ___
 **Armour Class** :: 17
 **Hit Points** :: 84
@@ -5451,9 +5440,11 @@ The Thralk has two harpoon arms and can grapple up to two creatures at once.
 :
 ***Sorrowful Embrace.*** Each creature grappled by the Thralk must make a DC 15 Charter Charisma saving throw. A creature takes 18 (4d8) psychic damage and is frightened of the Thralk on a failed save ,or half as much damage on a successful one. In either case, the Thralk pulls each creature grappled by it up to 20 feet straight toward it. If the creature breaks from the grapple, it can make a DC 15 Charter Charisma saving throw at the end of its turn to break the frighten effect. It will also disappear 1 minute after breaking the grapple.
 
-___
-> ## Ghlim
->*Medium*  ***Medium Dead***
+}}
+:
+{{monster,frame
+## Ghlim
+*Medium*  ***Medium Dead***
 ___
 **Armour Class** :: 16
 **Hit Points** :: 27
@@ -5472,24 +5463,26 @@ ___
 ___
 ***Grave bound.*** The Ghlim needs to either be within 30ft of a murder upon a living humanoid every day or spend at least 4 hours a day within or on grave dirt. If it does not do either of these actions, it will return to Death.
 :
->  ***Fallible Invisibility.*** The Ghlim is invisible. This invisibility can be circumvented by three things:
+***Fallible Invisibility.*** The Ghlim is invisible. This invisibility can be circumvented by three things:
 :
->  -  The Ghlim appears as a drab, semi-translucent humanoid if it moves faster than half its speed.
->  -  The Ghlim appears as a dim dark form if its reflection can be seen in a mirror or on another surface.
->  -  Dead can see through this invisibility.
+ -  The Ghlim appears as a drab, semi-translucent humanoid if it moves faster than half its speed.
+ -  The Ghlim appears as a dim dark form if its reflection can be seen in a mirror or on another surface.
+ -  Dead can see through this invisibility.
+ 
 :
 ***Trackless.*** The Ghlim leaves no tracks to indicate where it has been or where it's headed.
 ### Actions
 :
->  ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 4) slashing damage. If the Ghlim has advantage on the attack roll, the target also takes 4 (1d6) necrotic damage.
+  ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 4) slashing damage. If the Ghlim has advantage on the attack roll, the target also takes 4 (1d6) necrotic damage.
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Rester 
->*Medium*  ***Greater Dead***
+{{monster,frame
+## Rester 
+*Medium*  ***Greater Dead***
 ___
 **Armour Class** :: 18
 **Hit Points** :: 196
@@ -5507,11 +5500,11 @@ ___
 ___
 ***Undead Fortitude.*** If damage reduces the Dead to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
 :
->***Relentless Hunger.*** If another creature deals damage to the Rester, the Rester's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 10 (2d8) psychic damage.
+***Relentless Hunger.*** If another creature deals damage to the Rester, the Rester's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 10 (2d8) psychic damage.
 :
->On its turn, the Rester has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.
+On its turn, the Rester has disadvantage on attack rolls if no other creature has dealt damage to it since the end of its last turn.
 :
->***Two Heads.*** The Rester has advantage on Intelligence checks based on vision and hearing. The Rester also has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
+***Two Heads.*** The Rester has advantage on Intelligence checks based on vision and hearing. The Rester also has advantage on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 ### Actions
 :
 ***Multiattack.*** The Rester makes three attacks.
@@ -5519,9 +5512,11 @@ ___
 ***Hook.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 13 (2d8 + 3) piercing damage. 
 
 
-___
-> ## Stilken
->*Large*  ***Free Magic Creature***
+}}
+:
+{{monster,frame
+## Stilken
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 17
 **Hit Points** :: 103
@@ -5544,15 +5539,16 @@ ___
 :
 ***Pincer strike.*** *Melee Weapon Attack:* +7 to hit, reach 10ft., one target. *Hit* 7 (1d8 + 3). The target must make a DC 15 Physical Agility saving throw or be restrained. 
 :
-***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6). 
+***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6).
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Hish 
->*Large*  ***Free Magic Creature***
+{{monster,frame
+## Hish 
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 13
 **Hit Points** :: 97
@@ -5578,12 +5574,14 @@ ___
 :
 ***Multiattack.*** The Hish makes two attacks.
 :
->***Touch.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns
+***Touch.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns
 
 
-___
-> ## Aziminil
->*Large*  ***Free Magic Creature***
+}}
+:
+{{monster,frame
+## Aziminil
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 19
 **Hit Points** :: 167
@@ -5608,14 +5606,15 @@ ___
 ***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 7 (1d8 + 3) slashing damage. Instead of dealing damage, the Aziminil can grapple the target (escape DC 14). 
 :
 ***Face of Fears.*** *Melee Spell Attack:* DC 17 Charisma Charter saving throw, reach 10ft., one target. *Failed save* 20 (4d8) psychic damage. Half damage on successful save.
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Baazalanan
->*Huge*  ***Free Magic Creature***
+{{monster,frame
+## Baazalanan
+*Huge*  ***Free Magic Creature***
 ___
 **Armour Class** :: 14
 **Hit Points** :: 221
@@ -5641,9 +5640,11 @@ ___
 ***Bite.*** *Melee Weapon Attack:* +9 to hit, 15ft cone from centre of this creature. *Hit* 18 (3d6 + 3). 
 
 
-___
-> ## Greten
->*Tiny*  ***Free Magic Creature***
+}}
+:
+{{monster,frame
+## Greten
+*Tiny*  ***Free Magic Creature***
 ___
 **Armour Class** :: 16
 **Hit Points** :: 3
@@ -5665,16 +5666,17 @@ ___
 ### Actions
 :
 ***Leap.*** Ranged Weapon Attack: +5 to hit, reach 10/20 ft., one creature. Hit: 2 (1d4) bludgeoning damage. Move the Greten to the target on hit. Target creature is grappled. _See Impregnation._
-
+}}
 
 \page
 
 {{pageNumber,auto}}
 
 
-___
-> ## Hrule
->*Medium*  ***Free Magic Creature***
+
+{{monster,frame
+## Hrule
+*Medium*  ***Free Magic Creature***
 ___
 **Armour Class** :: 13
 **Hit Points** :: 43
@@ -5695,9 +5697,11 @@ ___
 :
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6). Hit: (1d6 + 4) piercing damage plus (3d6)necrotic damage. The target's hit point maximum is reduced by an amount equal to half the necrotic damage taken rounded down, and the Hrule regains hit points equal to that amount. The reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
 
-___
-> ## Wood-Weir
->*Large*  ***Free Magic Creature***
+}}
+:
+{{monster,frame
+## Wood-Weir
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 17
 **Hit Points** :: 90
@@ -5714,22 +5718,22 @@ ___
 **Languages** :: None
 **Challenge** :: 7
 ___
-:
-> **Imprisonment.** The Wood-Weir is a free magic creature ripped out of Death by powerful Free magic and locked into a wooden carving imbued with Free magic. It is therefore considered a Dead creature for most game purposes. However, it unaffected by water or charter stones in the manner Dead creatures are and cannot be controlled by the power of Saraneth. If the Wood-Weir is reduced to 0 hit points, it is considered slain and the free magic creature is released back into Death. The Wood-Weir will follow all commands by the Free magic sorcerer which has captured it, in a light most favourable to the sorcerer.
+
+**Imprisonment.** The Wood-Weir is a free magic creature ripped out of Death by powerful Free magic and locked into a wooden carving imbued with Free magic. It is therefore considered a Dead creature for most game purposes. However, it unaffected by water or charter stones in the manner Dead creatures are and cannot be controlled by the power of Saraneth. If the Wood-Weir is reduced to 0 hit points, it is considered slain and the free magic creature is released back into Death. The Wood-Weir will follow all commands by the Free magic sorcerer which has captured it, in a light most favourable to the sorcerer.
 :
 ### Actions
 ***Trample.***  The Wood-Weir can move it's movement speed + 10 in a straight line as an action. This movement does not provoke attacks of opportunity and can move through enemies, but must end in a unoccupied location. Any creatures the Wood-Weird walked over, must make a Physical Strength saving throw. They take 4d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone. 
 :
 ***Bite.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6). Hit: (1d6 + 4) bludgeoning damage.
-
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Ferenk
->*Large*  ***Free Magic Creature***
+{{monster,frame
+## Ferenk
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 130
@@ -5757,9 +5761,11 @@ ___
 :
 ***Engulf.*** The Ferenk engulfs a Medium or smaller creature grappled by it. The engulfed target is blinded, restrained, and unable to breathe, and it must succeed on a DC 14 Physical Constitution saving throw at the start of each of the Ferenk's turns or take 13 (2d8 + 4) bludgeoning damage. If the Ferenk moves, the engulfed target moves with it. The Ferenk can have only one creature engulfed at a time.
 
-___
-> ## Dwerllin
->*Large*  ***Free Magic Creature***
+}}
+:
+{{monster,frame
+## Dwerllin
+*Large*  ***Free Magic Creature***
 ___
 **Armour Class** :: 19
 **Hit Points** :: 100
@@ -5781,15 +5787,15 @@ ___
 ### Actions
 :
 ***Catapult.*** Choose one object weighing 1 to 5 pounds within range that isn’t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Physical Agility saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d6 bludgeoning damage. The target is also pushed back 10ft.
-
+}}
 
 \page
 
 {{pageNumber,auto}}
 
-___
-> ## Ghast
->*Medium*  ***Free Magic Creature***
+{{monster,frame
+## Ghast
+*Medium*  ***Free Magic Creature***
 ___
 **Armour Class** :: 11
 **Hit Points** :: 45
@@ -5817,12 +5823,14 @@ ___
 ***Withering Touch.*** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) necrotic damage. Target creature is considered grappled (escape DC 14).
 :
 ***Abduct.*** _Melee Weapon Attack:_ **Can only be done in Life.** Target grappled creature is considered restrained and it and the Ghast move to the first layer of Death.
+}}
 
 \page
 
 {{pageNumber,auto}}
 
 # Changes from 5e
+___
 In this chapter you can find on a broad level what rules from 5e I have changed or replaced and which I've kept.
 
 ## Removed
@@ -5876,7 +5884,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
 {{pageNumber,auto}}
 
 
-<div class='wide' style='text-align:center'>
+{{wide,center
 # Credits
 
 #### Mod created by Blaatschaap.
@@ -5903,7 +5911,7 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
 - Turn all subclasses into separate classes and making them share some abilities.
 - Charter stone aura's?
 - Stat blocks for shade of Astarael & Kibeth?
-	
+}}	
 
 
 
@@ -5912,12 +5920,8 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
 \page
 
 {{pageNumber,auto}}
-<style>
-  .phb h1+p:first-letter {
-    all: unset;
-  }
-</style>
 # Open Gaming License 5e
+___
 
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wizards of the Coast, Inc (“Wizards”). All Rights Reserved.
 
@@ -5944,17 +5948,18 @@ The owner of any Product Identity used in Open Game Content shall retain all rig
 
 8. Identification: If you distribute Open Game Content You must clearly indicate which portions of the work that you are distributing are Open Game Content.
 
-9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
 
-10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
-
-11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
 
 
 \page
 
 {{pageNumber,auto}}
 
+9. Updating the License: Wizards or its designated Agents may publish updated versions of this License. You may use any authorized version of this License to copy, modify and distribute any Open Game Content originally distributed under any version of this License.
+
+10. Copy of this License: You MUST include a copy of this License with every copy of the Open Game Content You Distribute.
+
+11. Use of Contributor Credits: You may not market or advertise the Open Game Content using the name of any Contributor unless You have written permission from the Contributor to do so.
 
 12. Inability to Comply: If it is impossible for You to comply with any of the terms of this License with respect to some or all of the Open Game Content due to statute, judicial order, or governmental regulation then You may not Use any Open Game Material so affected.
 
