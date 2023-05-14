@@ -548,7 +548,7 @@ When a creature takes damage from a single source equal to or greater than half 
 ### Checking the Charter mark
 Some creatures will have a Charter mark on their forehead. As an action you can check the Charter mark of a willing creature or a creature with speed 0. This will inform you whether they are considered Dead, a Free Magic creature or have any hiding in their bodies.
 
-### Dazed
+### Dazed Condition
 Dazed is a new condition which will reduce your speed by half, will let you either perform an action or bonus action and you can't perform more than one melee or ranged attack during your turn. This also breaks concentration.
 
 
@@ -602,13 +602,25 @@ The length of a 'story time unit' will very heavily between scenes. Therefore it
 
 {{note
 ##### Story Tick
-A Story Tick is the unit of story time that passes in which all relevant PC's and NPC's get their actions in. The most obvious example is a round in combat, but it could also for instance be the time it takes to perform a short rest.
+A Story Tick is the unit of story time that passes in which all relevant PC's and NPC's get their actions in. The most obvious example is a round in combat, but it could also be the time it takes to perform a short rest.
 }}
+
+### Dying Condition
+Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points is reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
 
 ### Using items without proficiency
 You have disadvantage on any attacks or skill checks using items you are not proficient in.
 
+### Alternate Initiative system
+This is an optional alternative initiative system intended to make combat less dependant on individual initiatives. It goes as follows:
 
+ - Every player rolls initiative as normal.
+ - GM rolls initiative for monster with the highest initiative only.
+ - Highest initiative goes first, as normal.
+ - if a player went first, then the highest initiative monster goes second.  After that, the next highest initiative player, followed by the second highest initiative monster.  Battle alternates between a players turn and a monsters turn whenever possible,.
+ - If the monster won initiative, it goes first, then everything goes the same as the previous step.
+ 
+ This system prevents stacks of monsters all acting at once and whiping out the party before they got to act, or vice versa. This removes a lot of randomness from the initiative order and to less one-sided battles, whilst still promoting a higher initiative score. 
 \page
 
 {{pageNumber,auto}}
@@ -691,7 +703,9 @@ If a decayed soul somehow finds a way back to Life, its body will generally look
 There are various ways of entering Death, some forced, some voluntary. You always enter Death at the first layer, but the velocity of entering Death can be very different depending on the method of entry.
 
 ### Hitting 0 hit points
-If a creature drops to 0 hit points, that creature's soul will enter Death. Every Story Tick the creature will potentially fall deeper into Death. If the creature passes the seventh layer of Death, the creature body will no longer be encased in ice and cannot return. Entering Death without any hit points makes it very likely that you will pass the seventh gate without outside help.
+If a creature drops to 0 hit points, that creature will gain the dying condition. If the creature still has the dying condition at the end of its turn two story ticks later, or receives more damage, the creature's soul will enter Death. 
+
+Every Story Tick the creature will potentially fall deeper into Death. If the creature passes the seventh layer of Death, the creature body will no longer be encased in ice and cannot return. Entering Death without any hit points makes it very likely that you will pass the seventh gate without outside help.
 
 ### Free magic
 If you are a Free magic user, you will have natural connection with the Death dimension. Some free magic users can freely move into Death without being reduced to zero hit points. This will reduce the pull of the water, but will hardly make Death a safe space. The water can still drag you down and there could be Dead hunting you and trying to use you to return to Life.
@@ -712,7 +726,7 @@ Once you enter Death and do not wish to pass the seventh gate, you will need to 
 | Current Layer | Destroyed body | 0 Hit points | 1+ Hit points |
 |:----:|:-------------:|:-------------:|:-------------:|
 | 1  | Automatic Failure  |Automatic Failure  | Automatic Success |
-| 2  | Automatic Failure	|Automatic Failure  | 8  |
+| 2  | Automatic Failure	|12  | 8  |
 | 3 | Automatic Failure 	|14  				| 10 |
 | 4 | 15 					|15  				| 12 |
 | 5 | 18 					|17  				| 14 |
@@ -731,8 +745,6 @@ Whilst grappled, they will move with you, if you decide to either ascend or desc
 
 ### Force creatures down
 If you are above 1 hit point, stabilized and you are on the same layer as another creature, you can attempt to shove the creature through the next gate. Distance to the target is irrelevant for this shove check whilst these conditions are true. You must make a Strength + Aptitude skill check opposed by either a Strength + Aptitude skill check or an Agility + Aptitude skill check. The target has disadvantage if the creature is not considered stabilized. On success, the target creature is pushed one layer down, but will stay stabilized if it was before.
-
-
 
 ### Climbing Death layers
 It is possible to claw back from Death back into life if you have a body to return to. Without a body, you will require help from either a necromancer or a creature with equivalent magical powers.
@@ -5853,12 +5865,12 @@ ___
 **Challenge** :: 5
 ___
 ***Innate Spellcasting.*** The Mirage innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
-- At will: Mirror Image (5e), Cloud of Daggers (5e), Spark
+- At will: Mirror Image (5e), Cloud of Daggers (5e), Spark, Alter self, Disguise self
 
 ***Hallucinatory Terrain.***  The Mirage can make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain, with a casting time of 1 minute. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
 The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt a double Intelligence skill check against the Mirae's spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
 :
-***Skitter Scatter.*** The Mirae points at a point it can see within 200 ft. A blinding light flashes over the targeted area, knocking back and blinding creatures in the area. Each creature in a 20 ft radius sphere is knocked 10ft away from the point. Each affected creature must also make a Physical Strength saving throw or be blinded for 1 minute. Blinded creatures can make a Physical Strength saving throw at the end of each of its turns. On a success, the effect ends.
+***Skitter Scatter.*** The Mirage points at a point it can see within 200 ft. A blinding light flashes over the targeted area, knocking back and blinding creatures in the area. Each creature in a 20 ft radius sphere is knocked 10ft away from the point. Each affected creature must also make a Physical Strength saving throw or be blinded for 1 minute. Blinded creatures can make a Physical Strength saving throw at the end of each of its turns. On a success, the effect ends.
 :
 ### Actions
 :
@@ -5930,6 +5942,8 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
 #### Mod created by Blaatschaap.
 
 Based heavily upon the 5e rule system as well as the Abhorsen series of books by Garth Nix.
+
+Alternative initiative system is lifted wholesale from Taking20, a TTRPG youtube channel.
 
 Content in this conversion mod is licensed under a Open Gaming License Version 1.0a.
 }}
