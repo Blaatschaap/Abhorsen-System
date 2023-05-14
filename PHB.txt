@@ -23,7 +23,7 @@
   
 Map credit: Garth Nix
 
-Version V0.14
+Version V0.15
 }}
 
 
@@ -5906,7 +5906,7 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
  - Flanking
  - Using potions
  - Feats
- 
+ - Alternative initiative
  
 ## Optional rules used
  - Massive Damage
