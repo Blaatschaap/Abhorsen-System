@@ -1006,7 +1006,7 @@ At 7th level, you gain one of the following features of your choice. You can cha
 Whenever you are about the make a saving throw, you gain the ability to spend 1 Stamina and gain advantage on that saving throw.
 
 ##### Parry
-As a reaction, you can spend 2 Stamina and gain 2 AC until the start of your next turn.
+As a reaction, you can spend 2 Stamina and gain 2 AC, including against the triggering attack, until the start of your next turn.
 
 ##### Power Through
 After you got hit by a weapon attack and have taken the damage, you can spend your reaction and 2 stamina to power through and gain as much temporary hit points as the attack did. These temporary hit points last until the end of your next turn.
@@ -1063,7 +1063,7 @@ When you engage in two handed weapon fighting, on a hit, you can push your targe
 When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
 ### Charge
-If you move at least 20ft straight toward a target and then hit it with an attack on the same turn, the target takes an extra 1d6 bludgeoning damage from the first attack. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone.
+If you move at least 20ft straight toward a target and then hit it with an attack on the same turn, the target takes an extra 1d6 bludgeoning damage from the first attack that hits. If the target is a creature, it must succeed on a Physical Strength saving throw or be knocked prone.
 
 #### Whirlwind -1 Stamina
 You can use your action to make a melee attack against any number of creatures within melee range of you, with a separate attack roll for each target.
@@ -2732,12 +2732,13 @@ You start with the following equipment, in addition to the equipment granted by 
 - Leather armour
 - *(a)* burglar's pack or *(b)* a Explorer's pack
 - Potion you can brew
+- Herbalism kit
 
 #### Subclasses
 The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Tinkerer.
 
 ### Brew healing potion 
-As a mysticist, you know how to brew healing potions. To do this, you must gather the required herbs and brew them to a potion. The cost represents the average cost for which a shop may sell the required herbs. Finding these herbs in the wild will be generally rare. 
+As a mysticist, you know how to brew healing potions and gain proficiency in Herbalism kits. To do this, you must gather the required herbs and brew them to a potion. The cost represents the average cost for which a shop may sell the required herbs. Finding these herbs in the wild is generally rare. 
 
 Making a healing potion takes one minute and requires an Intelligence + Constitution skill check. On a failed check, the ingredients are lost.
 
@@ -2873,7 +2874,7 @@ This spell’s damage increases by 1d4 when you reach 3th level (2d4), 6th level
 
 The next time you hit a creature with a weapon attack before this spell ends, a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Physical Strength saving throw or be grappled by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away.
 
-A creature restrained by the vines or one that can touch the creature can use its action to make a Strength skill check against your spell save DC. On a success, the target is freed.
+A creature grappled by the vines or one that can touch the creature can use its action to make a Strength skill check against your spell save DC. On a success, the target is freed.
 
 
 
@@ -3109,7 +3110,7 @@ You can learn two stamina costing abilities of your choice from any class but th
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Charter Intelligence saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
 
 
-{{column-count:1}}
+{{column-count:1
 | Knowledge | Save Modifier |
 |:---:|:------------|
 |Second hand (you have heard of the target) | 	+5|
@@ -3119,7 +3120,7 @@ You can see and hear a particular creature you choose that is on the same plane 
 |Likeness or picture |	-2|
 |Possession or garment |	-4|
 |Body part, lock of hair, bit of nail, or the like |	-10|
-
+}}
 On a successful save, the target isn't affected, and you can't use this spell against it again for 24 hours.
 
 On a failed save, the spell creates an invisible sensor within 10 feet of the target. You can see and hear through the sensor as if you were there. The sensor moves with the target, remaining within 10 feet of it for the duration. A creature that can see invisible objects sees the sensor as a luminous orb about the size of your fist.
@@ -3577,7 +3578,7 @@ Each prototype costs some stamina to create and has its own statistics block. Ea
 
 You also have the following actions with which you can interact with your prototypes:
 
-- As a bonus action, you can move an active prototype under your control up to 30 feet.
+- As a bonus action, you can move an active prototype under your control up to its movement speed.
 - As an action, you can fix a prototype, resetting its duration and restoring 2d4 + 2 x Mysticist level hit points.
 - If the duration of a prototype expires, they are no longer considered magical and stop functioning. They do still occupy their location and their location is considered difficult terrain (given the prototype is of size small or larger). 
 - As an action, you can reactivate a broken prototype without spending the material components, but respending the stamina. This can only be done if their location is unoccupied.
@@ -3606,6 +3607,7 @@ There is a limit to how many prototypes you can have under your control, which c
 ___
 **Armour Class** :: 12
 **Hit Points** :: 10 + 3x Mysticist level
+**Speed**       :: 0 ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3620,7 +3622,7 @@ ___
 ***Shock.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 90 ft., one target you can see. Hit: 1d6 + Mysticist level Lightning damage.
 }}
 
-<div style='margin-top:140px'></div>
+:::::
 
 #### Prototype Sheep -2 Stamina
 ::**Casting Time:** 1 action
@@ -3635,6 +3637,7 @@ ___
 ___
 **Armour Class** :: 8
 **Hit Points** :: 10 + 5x Mysticist level
+**Speed**       :: 30ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3668,6 +3671,7 @@ ___
 ___
 **Armour Class** :: 18
 **Hit Points** :: 30 + 3x Mysticist level
+**Speed**       :: 0 ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3725,6 +3729,7 @@ Instead of increasing your ability scores, you can instead take a feat, chosen f
 ___
 **Armour Class** :: 12
 **Hit Points** :: 15 + 3x Mysticist level
+**Speed**       :: 60 ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3733,8 +3738,6 @@ ___
 **Damage Immunities:** :: poison
 **Condition Immunities:** :: exhaustion, poisoned
 ___
-***Born to run.*** Whenever the Prototype Horse is moved as a bonus action, it moves twice as far.
-:
 ***Trample.*** The Prototype Horse can move through enemies, but must end in a unoccupied location. Any creatures the Prototype Horse walked over, must make a Physical Strength saving throw. They take 2d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone.
 }}
 
@@ -3766,6 +3769,7 @@ You make a small, yet totally intended mishap with your equipment. Every creatur
 ___
 **Armour Class** :: 17
 **Hit Points** :: 10 + 2x Mysticist level
+**Speed**       :: 25 ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3776,6 +3780,8 @@ ___
 ___
 ### Actions
 ***Constrict.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 20/40 ft., one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Move the Prototype Snake to the target on hit. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
+:
+***Wrap.*** *Melee Weapon Attack:* your spell attack modifier to hit, one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
 :
 ***Crush*** *Melee Weapon Attack:* **Can only be done on Grappled targets** your spell attack modifier to hit. One target. _Hit_ 2d6 + Mysticist level bludgeoning damage.
 }}
@@ -3796,6 +3802,7 @@ ___
 ___
 **Armour Class** :: 12
 **Hit Points** :: 30 + 5x Mysticist level
+**Speed**       :: 40 ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -3839,7 +3846,7 @@ ___
 The wearer of this armour gains these benefits:
 :
 - The wearer's walking speed increases by 5 feet.
-- The armour includes gauntlets, each of which is a magic melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
+- The armour includes gauntlets, each of which is a magic brawn melee weapon that can be wielded only when the hand is holding nothing. The wearer is proficient with the gauntlets, and each one deals 1d8 force damage on a hit and has the thrown property, with a normal range of 20 feet and a long range of 60 feet. When thrown, the gauntlet detaches and flies at the attack's target, then immediately returns to the wearer and reattaches.
 - The armour can't be removed against the wearer's will.
 - If the wearer is missing any limbs, the armour replaces those limbs - hands, arms, feet, legs, or similar appendages. The replacements function identically to the body parts they replace.
 }}
@@ -4479,8 +4486,9 @@ _Exert: Target up to two creatures._
 
 ## level 2
 #### Flash of Corruption -2 Stamina
-You bless your attacks with the decaying touch of Free Magic. Starting at 2nd Level, when you hit a creature with a melee weapon attack, you can expend 2 Stamina to deal 2d8 necrotic damage to the target, in addition to the weapon's damage. This ability’s damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8).
+You bless your attacks with the decaying touch of Free Magic. Starting at 2nd Level, when you hit a creature with a melee weapon attack, you can expend 2 Stamina to deal 1d8 necrotic damage to the target, in addition to the weapon's damage. This ability’s damage increases by 1d8 when you reach 5th level (2d8), and 9th level (3d8).
 
+_Exert: Add double the amount of added dice._
 
 ## Level 3
 ### Decay Tactics 
@@ -5221,9 +5229,9 @@ ___
 **Challenge** :: 1
 ___
 :
->***Charge.*** If the Decrepit Deer moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
+***Charge.*** If the Decrepit Deer moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be knocked prone.
 :
->***Sunlight Sensitivity.*** While in sunlight, the Decrepit Deer has disadvantage on attack rolls, as well as on checks that rely on sight.
+***Sunlight Sensitivity.*** While in sunlight, the Decrepit Deer has disadvantage on attack rolls, as well as on checks that rely on sight.
 :
 ***Grave bound.*** The Decrepit Deer needs to consume one humanoid every week or it will return to Death. If the Decrepit Deer spend at least 4 hours a day within or on grave dirt, it can prolong this, by not counting that day for the week.
 :
@@ -5309,9 +5317,9 @@ ___
 :
 ***Multiattack.*** The Shadow hand makes two attacks, only one of which can be a Bite Attack.
 :
-***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3). Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
+***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3) slashing damage. Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
 :
-***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 11 (2d6 + 3). 
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (2d6 + 3) piercing damage. 
 }}
 
 \page
@@ -5335,9 +5343,9 @@ ___
 **Challenge** :: 4
 ___
 :
->***Keen Smell.*** The Howler has advantage on skill checks that rely on sight.
+***Keen Smell.*** The Howler has advantage on skill checks that rely on sight.
 :
->***Pack Tactics.*** The Howler has advantage on attack rolls against a creature if at least one of the Howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
+***Pack Tactics.*** The Howler has advantage on attack rolls against a creature if at least one of the Howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
 :
 ### Actions
 :
@@ -5543,6 +5551,7 @@ ___
 :
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6).
 }}
+
 
 \page
 
@@ -5784,7 +5793,7 @@ ___
 ___
 ***Living Storm.*** Whenever the Dwerllin moves past objects within 10 feet of him weighing a maximum of 5 pounds that are not being worn of carried, they are thrown in a random direction.
 :
-***Magic Resistance.*** You have advantage on saving throws against spells and other magical effects.
+***Magic Resistance.*** The Dwerllin has advantage on saving throws against spells and other magical effects.
 :
 ### Actions
 :
@@ -5825,6 +5834,35 @@ ___
 ***Withering Touch.*** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) necrotic damage. Target creature is considered grappled (escape DC 14).
 :
 ***Abduct.*** _Melee Weapon Attack:_ **Can only be done in Life.** Target grappled creature is considered restrained and it and the Ghast move to the first layer of Death.
+}}
+:
+{{monster,frame
+## Mirage
+*Medium*  ***Free Magic Creature***
+___
+**Armour Class** :: 15
+**Hit Points** :: 57
+**Speed** :: 220ft., climb 20ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|11 (+1)|15 (+2)|15 (+2)|12 (+1)|19 (+4)	|15 (+2)	|14 (+2)|
+___
+**Senses** :: Darkvision 60ft, passive Perception 17
+**Languages** :: Common
+**Challenge** :: 5
+___
+***Innate Spellcasting.*** The Mirage innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
+- At will: Mirror Image (5e), Cloud of Daggers (5e), Spark
+
+***Hallucinatory Terrain.***  The Mirage can make natural terrain in a 150-foot cube in range look, sound, and smell like some other sort of natural terrain, with a casting time of 1 minute. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren’t changed in appearance.
+The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn’t obvious by touch, a creature carefully examining the illusion can attempt a double Intelligence skill check against the Mirae's spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
+:
+***Skitter Scatter.*** The Mirae points at a point it can see within 200 ft. A blinding light flashes over the targeted area, knocking back and blinding creatures in the area. Each creature in a 20 ft radius sphere is knocked 10ft away from the point. Each affected creature must also make a Physical Strength saving throw or be blinded for 1 minute. Blinded creatures can make a Physical Strength saving throw at the end of each of its turns. On a success, the effect ends.
+:
+### Actions
+:
+***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 }}
 
 \page
