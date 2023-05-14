@@ -36,66 +36,66 @@ Version V0.14
 {{toc,column-count:5
 ##### Table Of Contents
 - **[1 The Abhorsen System](#p1)**
-- **[2 World setting](#p4)**
-  - [The Old Kingdom](#p4)
-  - [The Old Kingdom History](#p5)
-  - [Ancelstierre](#p6)
-  - [Magic](#p7)
-  - [Creatures](#p8)
-  - [Death](#p9)
-- **[3 Game mechanics](#p10)**
-- **[4 Stamina](#p13)**
-  - [Regaining Stamina](#p13)
-  - [ Stamina moves](#p13)
-- **[5 Death](#p14)**
-  - [Soul Decay](#p14)
-  - [Entering Death](#p14)
-  - [Returning from Death](#p15)
-- **[6 Character creation](#p16)**
-  - [Step-By-Step](#p16)
-  - [Example character](#p17)
-- **[7 Classes](#p18)**
-  - **[Runic Knight](#p18)**
-    - [Diamond of protection](#p18)
-    - [Ability Score Improvement ](#p18)
-    - [Offensive Tactics](#p18)
-    - [Reliable Strikes](#p19)
-    - [Defensive Tactics](#p19)
-    - [Survivor](#p19)
-	- **[Fighter](#p20)**
-		- [Fighting Styles](#p20)
-		- [Charge](#p20)
-		- [Brutal Critical](#p20)
-		- [Aggressive](#p20)
-		- [Killing Stroke](#p20)
-		- [Relentless Endurance](#p20)
-		- [Action Surge](#p21)
-		- [Frenzy](#p21)
-	- **[Ranger](#p22)**
-		- [Nimble Fighter](#p22)
-		- [Quick reload](#p22)
-		- [Imbue ammunition](#p22)
-		- [Slayer's Prey](#p22)
-		- [Tumble](#p23)
-		- [Chain](#p23)
-		- [Additional Imbue Ammunition ](#p23)
-	- **[Guardian](#p24)**
-		- [Sentinel](#p24)
-		- [Defender](#p24)
-		- [Protector of Faith](#p24)
-		- [Protection](#p25)
+- **[2 World setting](#p3)**
+  - [The Old Kingdom](#p3)
+  - [The Old Kingdom History](#p4)
+  - [Ancelstierre](#p5)
+  - [Magic](#p6)
+  - [Creatures](#p7)
+  - [Death](#p8)
+- **[3 Game mechanics](#p9)**
+- **[4 Stamina](#p12)**
+  - [Regaining Stamina](#p12)
+  - [ Stamina moves](#p12)
+- **[5 Death](#p13)**
+  - [Soul Decay](#p13)
+  - [Entering Death](#p13)
+  - [Returning from Death](#p14)
+- **[6 Character creation](#p15)**
+  - [Step-By-Step](#p15)
+  - [Example character](#p16)
+- **[7 Classes](#p17)**
+  - **[Runic Knight](#p17)**
+    - [Diamond of protection](#p17)
+    - [Ability Score Improvement ](#p17)
+    - [Offensive Tactics](#p17)
+    - [Reliable Strikes](#p18)
+    - [Defensive Tactics](#p18)
+    - [Survivor](#p18)
+	- **[Fighter](#p19)**
+		- [Fighting Styles](#p19)
+		- [Charge](#p19)
+		- [Brutal Critical](#p19)
+		- [Aggressive](#p19)
+		- [Killing Stroke](#p19)
+		- [Relentless Endurance](#p19)
+		- [Action Surge](#p20)
+		- [Frenzy](#p20)
+	- **[Ranger](#p21)**
+		- [Nimble Fighter](#p21)
+		- [Quick reload](#p21)
+		- [Imbue ammunition](#p21)
+		- [Slayer's Prey](#p21)
+		- [Tumble](#p22)
+		- [Chain](#p22)
+		- [Additional Imbue Ammunition ](#p22)
+	- **[Guardian](#p23)**
+		- [Sentinel](#p23)
+		- [Defender](#p23)
+		- [Protector of Faith](#p23)
+		- [Protection](#p24)
 \column
 
-- **[Spellslinger](#p26)**
-    - [Bells](#p26)
-    - [Ability Score Improvement ](#p27)
-    - [Meta Magic tactics](#p27)
+- **[Spellslinger](#p25)**
+    - [Bells](#p25)
+    - [Ability Score Improvement ](#p26)
+    - [Meta Magic tactics](#p26)
 	- **[Silencer](#p28)**
 		- [Bell master](#p28)
 		- [Front line fighter](#p28)
 		- [Inspiration](#p29)
 		- [Versatile tactics](#p29)
-		- [Thunderous Strikes](#p29)
+		- [Thunderous Strikes](#p30)
 		- [Indomitable](#p30)
 	- **[Charter mage](#p31)**
 		- [Baptism](#p31)
@@ -2008,15 +2008,17 @@ Choose a creature in range you can see. From the primary targets location, pick 
 
 _Exert: Choose a fourth target._
 
+## Level 6
+
+### Elemental Equilibrium
+The elements are your allies and mastered, never feared. You gain resistance to the last elemental damage you have taken. So if you take fire damage, you will have Fire resistance for any further hits until you are hit by either Cold, Lightning or Thunder damage.
+
 \page
 
 {{pageNumber,auto}}
 
 
-## Level 6
 
-### Elemental Equilibrium
-The elements are your allies and mastered, never feared. You gain resistance to the last elemental damage you have taken. So if you take fire damage, you will have Fire resistance for any further hits until you are hit by either Cold, Lightning or Thunder damage.
 
 #### Mass Shatter -5 Stamina
 ::**Casting Time:** 1 action
@@ -5892,8 +5894,8 @@ In this chapter you can find on a broad level what rules from 5e I have changed 
 Based heavily upon the 5e rule system as well as the Abhorsen series of books by Garth Nix.
 
 Content in this conversion mod is licensed under a Open Gaming License Version 1.0a.
- </div>
- 
+}}
+
  # Still To Do
  - Magic Items
  - Additional bestiary content
@@ -5911,7 +5913,7 @@ Content in this conversion mod is licensed under a Open Gaming License Version 1
 - Turn all subclasses into separate classes and making them share some abilities.
 - Charter stone aura's?
 - Stat blocks for shade of Astarael & Kibeth?
-}}	
+	
 
 
 
