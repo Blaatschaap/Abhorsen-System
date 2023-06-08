@@ -23,7 +23,7 @@
   
 Map credit: Garth Nix
 
-Version V0.15
+Version V0.16
 }}
 
 
@@ -927,6 +927,18 @@ Here are Sabriël's skill modifiers. She has chosen her Strength to be her lowes
 
 ## Runic Knight
 
+A Burly hulk charging into a pack of Dead, Throwing them every which way. With vicious slashes he ends the free magic spawn on the ground. 
+An archer providing cover for her companion, fires a barrage of arrows with such force, some pierce through multiple enemies. Finally, she spots her target, Shouting his location to her allies.
+A heavily plated Warrior flies through the air, landing next to the cowering necromancer with a resounding slam. He bashes his shield into the face of the surprised free magic user. 
+
+All of these are Runic knights, unparallel weapon specialists and adept at enchanting their gear. Each is a warrior well acquainted with Death and its spawn. Each uses the Charter in unique ways to guide their weapons and shield their allies.
+
+Runic knights learn the basics of all weapons and imbuements. Whether fighting with an axe, a longsword or a bow, the knight is sure to leave devastation in his or her wake. Each Runic knight specializes in a specific fighting style, some choosing more offensive styles, some more defensive, but each is highly skilled in all. 
+
+When building a Runic knight, consider where you got your martial training and what style of fighting you are specialized in. Where did you get your training in imbuing your gear with the Charter and how does your runic knight excel in repelling the Dead. 
+You may have enjoyed formal training in a private army, or had a mentor in the guard, or self-taught, unrefined but hardened by fighting off waves of Dead. All these considerations lead to molding the character to explore the wide world of the Old Kingdom with.
+
+
 ### Class Features
 ::**Hit Dice:** 2d12 per Runic Knight level
 ::**Hit Points:** 2d12 (or 13) + your Constitution modifier per Runic Knight level. Maximum values on level 1.
@@ -946,7 +958,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* five javelins or *(b)* any simple melee weapon
 - *(a)* Chain mail or *(b)* a Chain shirt
 - *(a)* Dungeoneer's pack or *(b)* a Burglar's pack
-
+:
 #### Subclasses
 The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
 
@@ -962,7 +974,6 @@ This ritual can be shortened by using up Charter imbued silver. Imbuing the silv
 | 500   | 1 minute |
 | 2500  | 12 seconds |
 
-<div style='margin-top:340px'></div>
 
 #### Imbue
 ::**Casting Time:** 1 action
@@ -980,6 +991,12 @@ You can imbue your weapon to gain additional benefits. Only you can only gain be
  
  Alternatively you can imbue a cloak. Any creature wearing the cloak or else if their physical body is covered by the cloak (even if encased in ice), will always count as having 1+ hp in Death. Their maximum hit points also rise by 6 + 2 x Runic Knight level.
  
+
+
+\page
+
+{{pageNumber,auto}}
+
 ### Ability Score Improvement 
 
 When you reach second level, and again at 4th, 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -1001,10 +1018,6 @@ You gain +2 to all attack rolls and +2 to all damage rolls
 When you hit a creature with an attack, you can push the creature up to 10 feet away from you in a straight line. If it is pushed, it takes an additional 2 + Runic Knight level bludgeoning damage.
 
 
-\page
-
-{{pageNumber,auto}}
-
 ## Level 6
 ### Reliable Strikes
 When you roll a 1 or 2 on a damage die for an Attack you make with a weapon, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2.
@@ -1019,7 +1032,7 @@ Whenever you are about the make a saving throw, you gain the ability to spend 1 
 
 ##### Parry
 As a reaction, you can spend 2 Stamina and gain 2 AC, including against the triggering attack, until the start of your next turn.
-
+::
 ##### Power Through
 After you got hit by a weapon attack and have taken the damage, you can spend your reaction and 2 stamina to power through and gain as much temporary hit points as the attack did. These temporary hit points last until the end of your next turn.
 
@@ -1341,6 +1354,19 @@ At 6th level, when a creature within 30 feet of you makes an attack roll, you ca
 {{pageNumber,auto}}
 
 ## Spellslinger
+A stout woman calmly removes a bell from her bandolier, looks at the giant Dead creature storming at her. With a clear single note, the fetid abomination is frozen in its tracks.
+To her side, a priest of the charter seems in full concentration, his charter mark flashing, as suddenly the ground under a group of foul creatures twists and turns into a massive mudslide. 
+Cackling, a soot covered sorceress looks at the result of her fiery incantations. A field filled with circles of fire and ice; the targeted horde of free magic creatures disintegrated.
+:
+Spellslingers are adept at using the raw power of the charter to coax the elements to their advantage. Using specificly tuned bells and incantations, the spellslinger either conjures massive water walls to protect, or ruptures the earth to devastate.
+:
+All spellslingers aim for mastery of the charter. Whether from a more religious angle, or on a quest for power, the spellslinger is always striving to become more intune with the charter and its implements.
+:
+The most important question to answer when creating your spellslinger is the origin of your attunement to the charter. Were you taught by a village mage, trained by the religious order, or did you get your powers by experimentation? 
+What is your stance on parents refusing to place a charter mark on their child or on the users of free magic.
+Your history and your stance on the politics around the charter form the basis of your journey to explore the charter and the Old Kingdom at large.
+
+
 
 ### Class Features
 ::**Hit Dice:** 2d6 per Spellslinger level
@@ -1363,7 +1389,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Subclasses
 The Spellslinger knows 3 subclasses which you choose one of at level 1. The available options are Silencer, Charter Mage or Elementalist.
-
+::::::
 {{wide
 ### Bells
 
@@ -1376,6 +1402,12 @@ Recharge die is d10. Each use of the bell is an action.
 | **Dyrim**  | 9-10 | Create a stationary reverberating echo originating from the ringer with a radius of 30ft. The echo will either decrease the DC of any Bell Magical effect by 3 + Spellslinger level for 1 minute or else removes an ongoing echo. Any concentration checks done within the echo by creatures other than the ringer are done at disadvantage.|
 }}
 
+
+
+\page
+
+{{pageNumber,auto}}
+
 #### Message
 ::**Casting Time:** 1 action
 ::**Range:** 100 feet + Spellslinger level x 100 feet
@@ -1386,7 +1418,6 @@ Recharge die is d10. Each use of the bell is an action.
 You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
-<div style='margin-top:340px'></div>
 
 #### Thunderbolt
 ::**Casting Time:** 1 action
@@ -1396,11 +1427,6 @@ You can cast this spell through solid objects if you are familiar with the targe
 <div style='margin-top:0px'></div>
 
 Make a ranged spell attack against the target. On a hit, the target takes 1d8 + Aptitude modifier Thunder damage. If you perform a critical hit with this spell, the target is dazed until the end of your next turn. This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
-
-
-\page
-
-{{pageNumber,auto}}
 
 
 #### Fire claw
@@ -1416,7 +1442,7 @@ Make a melee spell attack against the target. On a hit, the target takes 1d10 + 
 When you reach third level and again at 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
-
+::
 ## Level 4
 #### Earth Spike -1 Stamina
 ::**Casting Time:** 1 action   
@@ -1424,10 +1450,6 @@ Instead of increasing your ability scores, you can instead take a feat, chosen f
 ::**Components:** S  
 ::**Duration** Instantaneous  
 You extend your hand toward a medium or smaller creature you can see within range and a 5ft earthen spire jolts up from the ground under them. The creature must succeed on a Physical Agility saving throw or take 2d8 + Aptitude modifier bludgeoning damage. The creature is pushed towards an adjacent space the target chooses. The earthen spire is 10ft high, has 10hp and 10 AC.
-
-
-::::::::::::::::
-
 
 ## Level 7
 ### Meta Magic tactics
@@ -1445,16 +1467,18 @@ When you cast a spell that has a duration of 1 minute or longer, you can spend 3
 ##### Heightened Spell
 When you cast a spell that forces a creature to make a saving throw to resist its effects, you can spend 4 stamina to give one target of the spell disadvantage on its first saving throw made against the spell.
 
-##### Quickened Spell
-When you cast a spell that has a casting time of 1 action, you can spend 3 stamina to change the casting time to 1 bonus action for this casting.
-
-##### Seeking Spell
-If you make an attack roll for a spell and miss, you can spend 3 stamina to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Meta Magic option during the casting of the spell.
 
 
 \page
 
 {{pageNumber,auto}}
+
+
+##### Quickened Spell
+When you cast a spell that has a casting time of 1 action, you can spend 3 stamina to change the casting time to 1 bonus action for this casting.
+
+##### Seeking Spell
+If you make an attack roll for a spell and miss, you can spend 3 stamina to reroll the d20, and you must use the new roll. You can use Seeking Spell even if you have already used a different Meta Magic option during the casting of the spell.
 
 ##### Subtle Spell
 When you cast a spell, you can spend 2 stamina to cast it without any somatic or verbal components.
@@ -2062,6 +2086,20 @@ _Exert: The fissures you create also will spout bursts of flame, dealing an addi
 
 ## Flesh Binder
 
+A thin spear of bone pierces through the group of cultists, several exploding in gory explosions. A wall of burning spirits hold off the cultists from the bone conjurer and her allies.
+
+Using the reprieve, a long-haired woman jumps into Death, quickly retrieving her ally from the first precinct. She quickly follows it up by ripping the life force out of one of her foes, healing her ally to full fighting fitness.
+
+Blinking the Death ice out of his eyes, a tall, robed man commands his even taller clay friend back into the fray. The soul-infused clay golem races towards its first foe, unhinges his jaw and swallows it whole.
+:
+Flesh binders are masters of using tuned bells and free magic to command their Dead minions to do their bidding. Controlling blood, bone and flesh, flesh binders overwhelm their enemies and revitalize their allies.
+:
+Whilst the foul-smelling free magic has a bad reputation, it is merely a powerful tool in the hands of the flesh binder. Whether used for good or evil, they and their minions are a force to be reckoned with.
+:
+As a fleshbinder, you will have to deal with free magic's somewhat deserved bad reputation. Do you keep your Dead allies out in the open, or do you pretend to be a innocuous charter mage? Given its bad reputation, you will also have to think of how and where you learned your craft. Did you break free from a cult lead by an evil necromancer, or did the Abhorsen see your potential and give you a few quick starters?
+However you build your flesh binder, your tale will be filled with tension and unique ways of solving your tribulations in the Old Kingdom.
+
+
 ### Class Features
 ::**Hit Dice:** 2d6 per Flesh Binder level
 ::**Hit Points:** 2d6 (or 7) + your Constitution modifier per Flesh Binder level. Maximum values on level 1
@@ -2082,7 +2120,7 @@ You start with the following equipment, in addition to the equipment granted by 
 
 #### Subclasses
 The Flesh Binder knows 3 subclasses which you choose one of at level 1. The available options are Occultist, Hemathurge or Animator.
-
+:::::::::::
 {{wide
 ### Bells
 Recharge die is d10. Each use of the bell is an action.
@@ -2094,6 +2132,16 @@ Recharge die is d10. Each use of the bell is an action.
 | **Belgaer**  | 9-10 | Choose a target within 20ft. You can make the target forget about an event of maximum 5 minutes if the target fails a Charter Intelligence saving throw. Or you can restore memory erased by a Belgaer bell. This will always restore all erased memories and cause the target to gain one level of exhaustion.|
 | **Astarael**  | 10 | **This bell only works in Life.** All creatures within 40ft radius must make a Charter Strength saving throw. Dead creatures have disadvantage on this saving throw. Any creature who fails the saving throw is thrust 3 layers into Death. The ringer automatically fails the saving throw. |
 }}
+
+
+
+
+
+
+
+\page
+
+{{pageNumber,auto}}
 
 ### Keeper of the dead
 Using the power of Saraneth, you can control Dead. There is a limit to how many Dead and how powerful Dead you can keep under your control for long periods. The Medium Dead are twice as hard to keep under control as Lesser Dead with the Greater Dead being twice as hard to keep under control as Medium Dead. You can use any combination of Dead you like. For example you can have two Lesser Dead and one Medium Dead or one Greater Dead or four Lesser Dead. 
@@ -2114,15 +2162,7 @@ The Dead have their own initiative, but follow your commands. Communicating comm
 
 You can only command Dead that are on the same plane of existence. For instance, if you step into Death, either willingly or forcedly, whilst you have Dead under your control remaining in Life, they will continue following their most recent commands. Any Dead you control in Death, you can give new commands to.
 
-
-
-
-
-
-\page
-
-{{pageNumber,auto}}
-
+::::::::::::::
 #### Death awaits
 ::**Casting Time:** 1 action
 ::**Range** 100 feet
@@ -2159,6 +2199,13 @@ When you reach third level and again at 6th, 8th and 10th level, you can increas
 
 Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
 
+
+
+\page
+
+{{pageNumber,auto}}
+
+
 ## Level 3
 
 ### Team Tactics 
@@ -2187,13 +2234,7 @@ Starting at 4th level, you have advantage on grappling checks performed in Death
 Using free magic, you transform a piece of your flesh into a blood sword. Your maximum hp is lowered by 3 x Flesh Binder level for the duration of this spell. The blood sword counts as a +2 Long sword, with the notable exception that any creatures with an intelligence score higher than 4 have proficiency with this sword.
 
 _Exert: The maximum hit point loss is doubled, but the Blood Sword becomes a +3 long sword._
-
-
-\page
-
-{{pageNumber,auto}}
-
-
+::::::::::::::::
 ## Level 7
 
 ### Spell Tactics 
@@ -2725,6 +2766,31 @@ You no longer take damage from casting Conjure Flesh.
 {{pageNumber,auto}}
 
 ## Mysticist
+A white-haired, dark-skinned woman glares at the rampaging stilken. A giant ghostly fist appears above the free magic creature and stomps it into the ground.
+Her ally, a simple looking lady with flowers in her hair, swiftly raises her bow, its arrow dripping poison. Ready to fire, should the stilken manage to rise.
+From the top of a dodgy mechanical horse, a man whose hair seems to have been struck by lightning at least once, commands his constructs forward, surrounding the stilken.
+:
+Mysticists are the most varied and creative of all the charter magic users. Whether predicting their target's demise, rapidly awakening nature or constructing the most wonderful metal creatures, mysticists have an answer ready.
+:
+Where Runic knights focus their charter magic on enchanting their gear and spellslingers on conjuring the elements, mysticists focus on changing their surroundings. Always curious, always looking to learn. Nothing is impossible in the eyes of a mysticist, if you set your mind to it and as long as you dedicate enough time to it.
+:
+Mysticists must figure out how their curiosity is triggered and how they scratch that itch. Rewriting history, brewing potions or powering constructs with natural lightning are all within the possibilities. Using this knowledge, will you assist the common folk, or will you immortalize your legacy in thick tomes. However you use the result of your studies, you are sure to leave your mark on the Old Kingdom.
+
+### Brew healing potion 
+As a mysticist, you know how to brew healing potions and gain proficiency in Herbalism kits. To do this, you must gather the required herbs and brew them to a potion. The cost represents the average cost for which a shop may sell the required herbs. Finding these herbs in the wild is generally rare. 
+
+Making a healing potion takes one minute and requires an Intelligence + Constitution skill check. On a failed check, the ingredients are lost.
+
+| Level | Healing potion type | Cost | DC | 
+|:----:|:----------:|:-------:|:---------:|
+| 1-2  | Minor 			| 25 GP		| 10 				| 
+| 3-4  | 3x Minor		| 50 GP 	| 12 				|
+| 5-7  | Greater		| 50 GP 	| 14 				|
+| 8-10 | Superior		| 75 GP 	| 15 				|
+
+### Speak with Small Beasts
+Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
+::
 
 ### Class Features
 ::**Hit Dice:** 2d8 per Mysticist level
@@ -2749,34 +2815,17 @@ You start with the following equipment, in addition to the equipment granted by 
 #### Subclasses
 The Mysticist knows 3 subclasses which you choose one of at level 1. The available options are Watcher, Herbalist or Tinkerer.
 
-### Brew healing potion 
-As a mysticist, you know how to brew healing potions and gain proficiency in Herbalism kits. To do this, you must gather the required herbs and brew them to a potion. The cost represents the average cost for which a shop may sell the required herbs. Finding these herbs in the wild is generally rare. 
-
-Making a healing potion takes one minute and requires an Intelligence + Constitution skill check. On a failed check, the ingredients are lost.
-
-| Level | Healing potion type | Cost | DC | 
-|:----:|:----------:|:-------:|:---------:|
-| 1-2  | Minor 			| 25 GP		| 10 				| 
-| 3-4  | 3x Minor		| 50 GP 	| 12 				|
-| 5-7  | Greater		| 50 GP 	| 14 				|
-| 8-10 | Superior		| 75 GP 	| 15 				|
-
-### Speak with Small Beasts
-Through sound and gestures, you may communicate simple ideas with Small or smaller beasts.
-
-<div style='margin-top:240px'></div>
-
 ### Versatile Incantations
 As a mysticist, you are highly versatile in your spell casting. At 1st level, you know three spells from the following list.
 
-- Noxious cloud
-- Alarm Mouse Sending
 - Invoke the Golden Star
 - Echoing Strike
 - Detect poison and disease
 - Static Web
 - Debilitating dart
 - Ensnaring Strike
+- Noxious cloud
+- Alarm Mouse Sending
 
 At higher levels you can choose more of these spells, as found in the following table.
 
@@ -2786,28 +2835,6 @@ At higher levels you can choose more of these spells, as found in the following 
 | 3-4  | 4				| 
 | 5-7  | 5				| 
 | 8-10 | 6				|
-
-#### Noxious cloud
-::**Casting Time:** 1 action
-::**Range** 15ft
-::**Components** V, S
-::**Duration** Instantaneous
-<div style='margin-top:0px'></div>
-
-You extend your hand toward a creature you can see within range and project a puff of poisonous gas from your palm. The creature must succeed on a Charter Constitution saving throw or take 1d8 + Aptitude modifier poison damage.
-
-This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
-
-#### Invoke the Golden Star
-::**Casting Time:** 1 action
-::**Range** Self (10-foot radius)
-::**Components** V, S
-::**Duration** Instantaneous
-<div style='margin-top:0px'></div>
-
-You invoke the power of Clayr. Tendrils of white energy erupt from you and batter all Dead creatures within 10 feet of you. Each creature in that area must make a Charter Strength saving throw. On a failed save, a target takes 2d6 radiant damage + Aptitude modifier and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effects.
-
-This spell’s damage increases by 1d6 when you reach 3th level (3d6), 6th level (4d6), and 9th level (5d6).
 
 
 \page
@@ -2895,6 +2922,28 @@ A creature grappled by the vines or one that can touch the creature can use its 
 
 {{pageNumber,auto}}
 
+#### Noxious cloud
+::**Casting Time:** 1 action
+::**Range** 15ft
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You extend your hand toward a creature you can see within range and project a puff of poisonous gas from your palm. The creature must succeed on a Charter Constitution saving throw or take 1d8 + Aptitude modifier poison damage.
+
+This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
+
+#### Invoke the Golden Star
+::**Casting Time:** 1 action
+::**Range** Self (10-foot radius)
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You invoke the power of Clayr. Tendrils of white energy erupt from you and batter all Dead creatures within 10 feet of you. Each creature in that area must make a Charter Strength saving throw. On a failed save, a target takes 2d6 radiant damage + Aptitude modifier and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effects.
+
+This spell’s damage increases by 1d6 when you reach 3th level (3d6), 6th level (4d6), and 9th level (5d6).
+
 
 ## Level 2
 #### Detect magic -1 Stamina 
@@ -2908,7 +2957,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
 
 _Exert: This spell no longer requires concentration._
-
+::::::::::::::
 ## Level 4
 #### Spider climb
 ::**Casting Time:** 1 action
@@ -4042,10 +4091,24 @@ While wearing this ring, the creature can recover 2 Stamina as an action. Once u
 
 
 ## Edge Dancer
+With a flourish, a gangly man flings his rapier at the surprised necromancer. With a hiss the rapier pierces the torso, only to disappear in a puff smoke, reappearing in the hands of the cloaked figure.
+
+Not wanting to be left out, his ally, a broad-shouldered short man, grabs one of the nearby Dead by its ankle and slams the wailing dead into the confused necromancer, knocking both prone.
+
+To make the confusion complete, all the blood from the wounds is absorbed by a woman with a scorpion-like tail, who finishes the necromancer off with a quick strike with her stinger.
+
+All of these characters are examples of Edge dancers. People who infuse their being with free magic, granting them strange and distorted powers to wrangle? their foes with.
+:
+Edge dancers are masters at confusing their enemies and, sometimes literally, turning their worlds upside down. Teleporting weapons, superhuman strength or growing new non-human limbs are all within their grasp. They dance on the edge of humanity, defying comprehension.
+:
+The central question for an edge dancer to figure out is how their free magic manifests itself. Are there permanent outward signs? How did you learn you could mingle with free magic and how comfortable with it are you? Do you embrace your powers, or do you merely use them to survive? Were you shunned by your community, or perhaps revered?
+
+However you decide to create your edge dancer, they are sure to have an impact in any social encounters, as well as on the battle field. They are guaranteed to carve their own strange and curious stories in the lands of the Old Kingdom.
+
 
 ### Class Features
 ::**Hit Dice:** 2d10 per Edge Dancer level
-::**Hit Points: ** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
+::**Hit Points:** 2d10 (or 11) + your Constitution modifier per Edge Dancer level. Maximum values on level 1
 ::**DC:** 8 + (Strength or Agility) + Constitution
 ::**Magic Type:** Free Magic
 
@@ -4090,7 +4153,12 @@ Your quick thinking and agility allow you to move and act quickly. You can take 
 ::**Duration** two story ticks
 <div style='margin-top:0px'></div>
 
-Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediately stabilise and will be stunned until the next of their next turn.
+Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediately stabilise and will be stunned until the next start of their next turn.
+
+
+\page
+
+{{pageNumber,auto}}
 
 ## Level 3
 ### Ability Score Improvement 
@@ -4103,6 +4171,10 @@ Instead of increasing your ability scores, you can instead take a feat, chosen f
 ## Level 4
 ### Fast Movement
 Starting at 4th level, your speed increases by 10 feet.
+
+## Level 5
+### Ambusher
+At 5th pevel, if you are hidden from a creature that you force a saving throw upon, the creature has disadvantage on that saving throw.
 
 
 
@@ -4125,7 +4197,7 @@ The Edge Dancer knows 3 subclasses which you choose one of at level 1. The avail
 | 2nd | +1 | Cunning Action, Steel will, Observant Fighter  |
 | 3rd | +1 | Ability Score Improvement, Rogue tactics, Flashing Blades |
 | 4th | +2 | Fast Movement |
-| 5th | +2 | - |
+| 5th | +2 | Ambusher |
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Dodging Tactics |
 | 8th | +4 | Ability Score Improvement, Coup de Grace |
@@ -4139,7 +4211,7 @@ You can make a Trickster quickly by following these suggestions. First, Agility 
 ### Finesse weapon mastery
 Gain proficiency with all weapons that have the finesse property. You also deal 1 additional damage with attacks performed with finesse weapons. All finesse weapons also gain the thrown (range 30/80) property, unless it could already be thrown further. 
 
-The additional damage increases to 3 when you reach 3rd level, to 5 upon reaching 6th level and to 7 upon reaching 9th level.
+The additional damage increases to 2 when you reach 3rd level, to 3 upon reaching 6th level and to 5 upon reaching 9th level.
 
 ### Quick Draw
 You can throw light weapons without having them in hand.
@@ -4255,7 +4327,7 @@ You touch a non-magical weapon. Until the spell ends, that weapon becomes a magi
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You flourish the weapon used in the casting and then teleport to the back of a target you can see within range. Make a melee attack against the target. Regardless of hit or miss, you can pick another target within 30ft and teleport to their back and attack them. Then you can choose a final third target and teleport and attack them. You cannot repeat targets. 
+You flourish the weapon used in the casting and then teleport to the back of a target you can see within range. Make a melee attack against the target. Regardless of hit or miss, you can pick another target within 30ft from your new location and teleport to their back and attack them. Then you can choose a final third target and teleport and attack them. You cannot repeat targets. 
 
 If there are not enough targets within range, or if you choose not to teleport on, you end at your last target in an unoccupied space within 5ft of the target. 
 
@@ -4308,7 +4380,7 @@ Beginning at 8th Level, you master how to strike disadvantaged foes. Once per tu
 | 2nd | +1 | Cunning Action, Claw hands  |
 | 3rd | +1 | Ability Score Improvement, Wrestling Tactics |
 | 4th | +2 | Fast Movement |
-| 5th | +2 | Uncanny Dodge |
+| 5th | +2 | Ambusher, Uncanny Dodge |
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Brain Tactics |
 | 8th | +4 | Ability Score Improvement |
@@ -4420,7 +4492,7 @@ As an action, you stomp your foot with earth shattering power. Each creature in 
 | 2nd | +1 | Cunning Action, Flash of Corruption  |
 | 3rd | +1 | Ability Score Improvement, Delay Tactics |
 | 4th | +2 | Fast Movement, Relentless Hunger, Morph Additional Aspects |
-| 5th | +2 | - |
+| 5th | +2 | Ambusher |
 | 6th | +3 | Ability Score Improvement, Durable Morph |
 | 7th | +3 | Protection Tactics |
 | 8th | +4 | Ability Score Improvement, Inspire Flexibility |
