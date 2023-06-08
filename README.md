@@ -22,6 +22,5 @@ Feel free to contribute by posting issues (or  even better, pull requests). If y
 
 * Monster art (do keep in mind that you need to have all the rights/permissions to use these)
 * More Monsters
-* Class/subclass introductions, explaining their role in the world
 * Custom Abhorsen themed Backgrounds
 
