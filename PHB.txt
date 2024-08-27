@@ -1134,6 +1134,24 @@ Once you use this feature, you must finish a short or Long Rest before you can u
 ### Frenzy
 If you have dealt damage to an enemy during your turn, you cannot be charmed or frightened until the end of your next turn.
 
+## Level 9
+### Overwhelming hit
+When you hit another creature with a melee weapon attack, you can spend 1 stamina to attempt a Overwhelming hit. Target has disadvantage on their next attack roll. That attack also deals 1d6 less damage, with a minimum of 0.
+
+#### Gore slash -2 Stamina
+You can replace an attack of an attack action with a Gore slash. On hit, target takes an additional 2d8 damage. 
+
+Target also suffers a 1d8 piercing damage bleed at the start of each of their turns. If the target is already suffering from a bleed, the 1d8 is in addition to any existing bleeds. If target is not hit with a gore slash since the start of their last turn, the bleed ends.
+
+## Level 10
+### Spiteful
+If a creature has hit you since your last turn, you gain advantage on the first attack roll against that creature.
+
+#### Take down - 4 Stamina
+Choose a target within melee range. Make five attacks against the target. You gain 1 exhaustion after the attacks.
+
+
+
 \page
 
 {{pageNumber,auto}}
@@ -1223,6 +1241,21 @@ At 6th level you gain additional imbuement options for your ammunition
 | **Shade**  | 1 | On hit, the target must make a Charter Charisma saving throw, or its vision is reduced to 5 ft  until the start of your next turn.|
 | **Seeking**  | 2 | You don't make an attack roll for any attack made with seeking ammunition. The attack will automatically hit, but cannot perform critical hits. Normal rules for targeting still apply.|
 | **Walloping**  | 2 | This ammunition packs a wallop. A creature hit by the ammunition must succeed on a Physical Strength saving throw or be knocked prone.|
+
+## Level 9
+### Spotter
+You have a +5 bonus to skill checks to find hidden creatures and traps.
+
+## Level 10
+#### Spectral weapon -4 Stamina
+::**Casting Time:** 1 bonus action
+::**Range:** 30 feet 
+::**Components:** S
+::**Duration** 1 minute.
+<div style='margin-top:0px'></div>
+
+You create a floating, spectral copy of your weapon within range that lasts for the duration or until you cast this spell again. If you are not carrying a ranged weapon, it will use the statistics of a long bow. You and the spectral weapon share vision, as well as allowing you to shoot from its location.
+At the end of your turn, you can use a free action to move the weapon up to 20 feet and perform a ranged weapon attack on a creature of your choice, as if you were carrying it. This attack cannot use any of your stamina moves. 
 
 \page
 
@@ -1314,6 +1347,18 @@ Choose an unoccupied location within range. You leap to the specified location, 
 {{pageNumber,auto}}
 
 
+## Level 3
+#### Shield Toss -3 Stamina
+_Requires a shield_
+
+Make a weapon attack on a creature you can see within 90 feet using your shield. Consider the shield a melee weapon with the Impact attribute, dealing 2d8 base weapon damage.
+
+On hit, the creature must succeed on a Physical Constitution saving throw, or be considered Dazed for 1 story tick. The shield is considered as if placed on the ground in the location of the target.
+
+If you miss, the shield will continue on in a straight line for the range of this ability. If the shield intersects with another creature, make a new attack roll for this new target. If the shield hits an object such as a wall, or reaches the end of the range, the shield is considered to be placed at that location.
+
+_Exert: After hitting a creature, the shield will bounce to a new target you choose within the remaining range._
+
 ## Level 4
 #### Reinvigorating touch -2 Stamina
 ::**Casting Time:** 1 minute
@@ -1333,7 +1378,7 @@ _Exert: The casting time is reduce to 1 action._
 ::**Duration** 1 minute
 <div style='margin-top:0px'></div>
 
-Choose up to 3 friendly, willing non-Dead creatures within range. You and the chosen targets will become connected with a very faint beam of charter magic. Any damage you or any of the chosen creatures take, is split evenly over all the chosen creatures. The damage is split before any mitigation and the damage after the split is rounded up. The Life Link can be ended as a bonus action by the caster.
+Choose up to 3 friendly, willing non-Dead creatures within range. You and the chosen targets will become connected with a very faint beam of charter magic. Any damage you or any of the chosen creatures take, is split evenly over all the chosen creatures. The damage is split before any mitigations such as resistances and the damage after the split is rounded up. The Life Link can be ended as a bonus action by the caster.
 
 ## Level 5
 ### Protection
@@ -1348,6 +1393,18 @@ You gain resistance against non-magical bludgeoning, piercing and slashing damag
 <div style='margin-top:0px'></div>
 
 At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +5 bonus to the roll. You make this choice after you see the roll, but before the GM says whether the attack hits or misses. 
+
+## Level 7
+### Shield Pickup
+You can pick up a shield from the ground as a free action, given it is not worn or considered stuck.
+
+## Level 9
+### Spectral Shield 
+Even if you don't have a shield equiped, a spectral shield protects you. You are always considered to be wielding a shield and have a bonus associated with wielding a shield. You can use this spectral shield for Stamina abilities that require a shield, but it will reappear next to you at the end of your turn.
+
+## Level 10
+#### Vengeance -1 Stamina
+After getting hit by a melee hit, you can spend your reaction to reflect any damage dealt by that hit back to the attacker, before considering mitigations such as resistances.
 
 \page
 
@@ -4091,19 +4148,20 @@ While wearing this ring, the creature can recover 2 Stamina as an action. Once u
 
 
 ## Edge Dancer
-With a flourish, a gangly man flings his rapier at the surprised necromancer. With a hiss the rapier pierces the torso, only to disappear in a puff smoke, reappearing in the hands of the cloaked figure.
+With a flourish, a cloaked gangly man flings his rapier at the surprised necromancer. With hardly a sound the rapier imbeds itself in the torso, only to disappear in a puff smoke, reappearing in the hands of the cloaked figure.
 
-Not wanting to be left out, his ally, a broad-shouldered short man, grabs one of the nearby Dead by its ankle and slams the wailing dead into the confused necromancer, knocking both prone.
+Not wanting to be left out, his ally grabs one of the nearby Dead by its ankle, and throws the confused Dead into the confused necromancer, knocking both prone.
 
-To make the confusion complete, all the blood from the wounds is absorbed by a woman with a scorpion-like tail, who finishes the necromancer off with a quick strike with her stinger.
+Taking advantage of the confusion, a woman with a scorpion-like tail dashes forward, who finishes the necromancer off with a quick strike with her stinger.
 
-All of these characters are examples of Edge dancers. People who infuse their being with free magic, granting them strange and distorted powers to wrangle? their foes with.
+All of these characters are examples of Edge dancers. People who infuse their being with free magic, granting them strange and distorted powers to tackle their foes with.
 :
-Edge dancers are masters at confusing their enemies and, sometimes literally, turning their worlds upside down. Teleporting weapons, superhuman strength or growing new non-human limbs are all within their grasp. They dance on the edge of humanity, defying comprehension.
+Edge dancers are masters at confusing their enemies and, sometimes literally, turning their worlds upside down. Teleporting weapons, super human strength or growing new hazardous appendages are all within their grasp. They dance on the edge of humanity, defying comprehension.
 :
-The central question for an edge dancer to figure out is how their free magic manifests itself. Are there permanent outward signs? How did you learn you could mingle with free magic and how comfortable with it are you? Do you embrace your powers, or do you merely use them to survive? Were you shunned by your community, or perhaps revered?
+The central question for an edge dancer to figure out, is how their free magic manifests itself. Are there permanent outward signs? How did you learn you could mingle with free magic and how comfortable with it are you? Do you embrace your powers or do you merely use them to survive? Were you shunned by your community, or perhaps revered?
 
-However you decide to create your edge dancer, they are sure to have an impact in any social encounters, as well as on the battle field. They are guaranteed to carve their own strange and curious stories in the lands of the Old Kingdom.
+However you decide to create your edge dancer, they are sure to have an impact in any social encounters, as well as on the battle field. They are guaranteed to carve out their own strange and curious stories in the lands of the Old kingdom.
+
 
 
 ### Class Features
