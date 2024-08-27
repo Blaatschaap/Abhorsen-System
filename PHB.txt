@@ -62,7 +62,7 @@ Version V0.16
     - [Reliable Strikes](#p18)
     - [Defensive Tactics](#p18)
     - [Survivor](#p18)
-	- **[Fighter](#p19)**
+	- **[Warrior](#p19)**
 		- [Fighting Styles](#p19)
 		- [Charge](#p19)
 		- [Brutal Critical](#p19)
@@ -960,7 +960,7 @@ You start with the following equipment, in addition to the equipment granted by 
 - *(a)* Dungeoneer's pack or *(b)* a Burglar's pack
 :
 #### Subclasses
-The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
+The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Warrior, Ranger or Guardian.
 
 ### Diamond of protection
 You can cast a ritual of 5 minute to create a diamond shaped protection dome of up to 25ft at the widest. This means the diamond has widths of the following sizes from left to right: 5ft-15ft-25ft-15ft-5ft. The Undying, free magic creatures or effects caused by these creatures cannot cross the dome. Whether alive, dead or a free magic creature, a creature can opt to attack the dome. The dome has 15 AC and cannot be moved in any way. The dome has 10 * (Runic Knight level + Aptitude Modifier) in hit points. The dome lasts for as long as you are in it.
@@ -1049,11 +1049,11 @@ You don’t gain this benefit if you have 0 Hit Points.
 
 # Subclasses
 ___
-The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
+The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Warrior, Ranger or Guardian.
 
 <div style='margin-bottom:-5px'></div>
 
-## Fighter
+## Warrior
 *I will trample our enemies!*
 
 {{classTable,frame
@@ -1072,7 +1072,7 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 }}
 
 #### Quick Build
-You can make a Fighter quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
+You can make a Warrior quickly by following these suggestions. First, make Strength or Agility your highest ability score, depending on whether you want to focus on Brawn or Nimble melee weapons. Your next highest score should be Constitution. Second, choose the soldier background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
 ### Fighting Styles
 At level 1 you gain the following fighting styles.
