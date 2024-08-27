@@ -1057,7 +1057,6 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 *I will trample our enemies!*
 
 {{classTable,frame
-##### The Fighter
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Diamond of Protection, Imbue, Fighting styles, Charge |
@@ -1161,7 +1160,6 @@ Choose a target within melee range. Make five attacks against the target. You ga
 *They never saw me coming.*
 
 {{classTable,frame
-##### The Ranger
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Diamond of Protection, Imbue, Nimble Fighter, Quick Reload, Imbue Ammunition |
@@ -1265,7 +1263,7 @@ At the end of your turn, you can use a free action to move the weapon up to 20 f
 *#Blessed*
 
 {{classTable,frame
-##### The Guardian
+
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Diamond of Protection, Imbue, Sentinel, Defender, Protector of Faith |
@@ -1566,8 +1564,7 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 ## Silencer
 *Ring ring ring ring ring, Banana phone!*
 
-{{classTable
-##### The Silencer
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Kibeth, Ranna, Dyrim, Bell Master, Front line fighter |
@@ -1753,7 +1750,7 @@ A 20-foot-radius sphere of crushing force forms at a point you can see within ra
 
 ## Level 10
 ### Bell Savant
-You can use any bell as any other, such as using a Ranna bell as an Astarael bell.
+You can use any bell as any other, such as using a Ranna bell as an Astarael bell. You also gain the Keep of the dead ability as detailed for the Flesh Binder.
 
 \page
 
@@ -1763,8 +1760,7 @@ You can use any bell as any other, such as using a Ranna bell as an Astarael bel
 ## Charter mage
 *A lil Charter, knocking at your door.*
 
-{{classTable
-##### The Charter Mage
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Kibeth, Ranna, Dyrim, Baptism |
@@ -1976,6 +1972,25 @@ Water erupts from the ground in a 10ft radius cylinder 30ft high. Each creature 
 
 _Exert: The damage is increased to 6d6 cold damage and any creatures who fail the saving throw are also knocked prone._
 
+## Level 9
+#### Mass Decrepify -5 Stamina
+::**Casting Time:** 1 action
+::**Range** 90ft
+::**Components** V
+::**Duration** 10 story ticks
+<div style='margin-top:0px'></div>
+
+Choose up to 5 creatures you can see within range and choose an ability score. Each affected creature has disadvantage on all ability skill checks and saving throws involving that ability score. Until the spell ends, the target receives 1d10 additional force damage when it is hit with an attack.
+
+## Level 10
+#### Minute Murky Spheres -4 Stamina
+::**Casting Time:** 1 action
+::**Range** 90ft
+::**Components** V, S, M (A handful of mud)
+::**Duration** Concentration, Up to 10 minutes
+<div style='margin-top:0px'></div>
+
+Choose up to 5 points within range to place a 1 feet radius murky spheres of water. If a point is chosen on a creature or object, the sphere adheres to the creature or object. The spheres block all vision and sound. If a sphere prevents a creature from breathing, it is immediately considered drowning.
 \page
 
 {{pageNumber,auto}}
@@ -1983,8 +1998,7 @@ _Exert: The damage is increased to 6d6 cold damage and any creatures who fail th
 ## Elementalist
 *Wind, Thunder & Fire, Heed my call!*
 
-{{classTable
-##### The Elementalist
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Kibeth, Ranna, Dyrim, Elemental Proficiency |
@@ -2150,6 +2164,26 @@ _Exert: Choose up to 5 points within range._
 Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centred on the point. Each creature in that area must make an Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute clearing by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
 
 _Exert: The fissures you create also will spout bursts of flame, dealing an additional 2d12 fire damage._
+
+## Level 9
+### Reinvigorate
+Once per long rest, you can reinvigorate to regain up to your maximum stamina.
+
+## Level 10
+### Wild Strike
+Whenever you use stamina, you can trigger Wild Strike on a target creature within 60 feet. If you do, you take 2 times the stamina cost of the triggering ability in Psychic damage.
+On triggering Wild Strike, roll a d6:
+
+
+| Roll | Name       |Effect |
+|:----:|:-:         |:-:    |
+| 1    |**Ignition**|Target is set ablaze, dealing 2d6 damage at the start of their turn. The target or a creature within 5 ft of it can use its action to douse the flame.|
+| 2    |**Fiery Shock**|Each creature within a 10ft radius of the target must make a Physical Agility saving throw. Each creature takes 4d6 fire damage on a failure, or half on a success.|
+| 3    |**Arctic Snap**|Target must succeed on a Physical Constitution saving throw or be restrained until the start of your next turn.|
+| 4    |**Freeze Pulse**|You may pick two additional targets within range. All three creatures take 2d8 Cold damage.|
+| 5    |**Static**|Target has disadvantage on all saving throws until the start of your next turn.|
+| 6    |**Forked Lightning**|Choose up to 6 targets within range. Deal 2d4 lightning damage to each target.|
+
 
 \page
 
@@ -2340,8 +2374,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 ## Occultist
 *The Damned stand ready*
 
-{{classTable
-##### The Occultist
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Master of the Dead, Profane Blood |
@@ -2510,8 +2543,23 @@ ___
 
 You form a spindly undead version of a ram that charges in a direction of your bidding. It charges in maximum of 100 feet straight line of 10 feet wide and the first creature it encounters must make a Charter Strength saving throw. If the target fails its saving throw, it will take 4d6 bludgeoning damage and be knocked prone. The ram then continues in a line towards further targets. If a target succeeds on its saving throw, the target will take half the damage from the 4d6 bludgeoning damage and will not be knocked prone. 
 
-The ram will now be stopped and explode, forcing all creatures in a 15ft radius to make a Charter Agility saving throw. The explosion will deal a 4d6 bludgeoning damage on a failed saving throw, halved on a success. The initial target that set off the explosion will automatically succeed on the second saving throw.   
+The ram will now be stopped and explode, forcing all creatures in a 15ft radius to make a Charter Agility saving throw. The explosion will deal a 4d6 bludgeoning damage on a failed saving throw, halved on a success. The initial target that set off the explosion will automatically succeed on the second saving throw. 
 
+## Level 9
+### Ambiguous definitions
+You can now consider Lesser Undying as corpses, and corpses as Lesser Undying.
+
+## level 10
+#### Mass Corpse Explosion -5 Stamina
+::**Casting Time:** 1 action
+::**Range** 120ft
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+Choose up to 5 corpses within range you can see. The choses corpses explode in a fiery explosion, destroying the corpse. Any creature within 10 feet must make a physical agility saving throw. On a failed saving throw, creatures take 2d8 bludgeoning damage and 2d8 fire damage, or half as much on a succesful save.
+
+_Exert: Choose up to 8 corpses. Explosion radius becomes 15 feet._
 \page
 
 {{pageNumber,auto}}
@@ -2519,8 +2567,7 @@ The ram will now be stopped and explode, forcing all creatures in a 15ft radius 
 ## Hemathurge
 *And you get a heal! And you get a heal!*
 
-{{classTable
-##### The Hemathurge
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Song of rest, Reinvigorating touch |
@@ -2652,6 +2699,39 @@ Starting at 5th level, your power over disease and illness makes you immune to d
 
 Choose up to three non-Dead creatures in range, which must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target for each primary target in range. If the secondary target is a non-Dead, it gains half the damage dealt in hit points. If the secondary target is Dead, it takes half the damage dealt as poison damage.
 
+## Level 9
+#### Grow Fungal Undying -2 Stamina
+::**Casting Time:** 1 minute
+::**Range** 20ft
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You can grow any Undying of CR 5 or lower you have seen, from any source of blood not within a creature. They enter under your control as Undying, but count as free magic creatures.
+
+## Level 10
+#### Blood Clot -6 Stamina
+::**Casting Time:** 1 action
+::**Range** 90ft
+::**Components** V, S
+::**Duration** Concentration, Up to 10 story ticks.
+<div style='margin-top:0px'></div>
+
+Choose a creature in range that you can see. Creature is considered Dazed. It must make a physical Constitution saving throw. At the start of each of their turns, roll 2d6. If they failed their saving throw, you choose one of the die as the result, otherwise they choose one. Based on the result, the following will happen:
+
+
+| Roll  | Effect                                                |
+|:---   |:-----:                                                |
+| 1     | Creature is stunned until the end of their turn.      |
+| 2     | Creature takes 4d10 bludgeoning damage.               |
+| 3     | Creature is restrained until the start of your next turn.      |
+| 4     | Creature is knocked prone and takes 2d8 necrotic damage.      |
+| 5     | Creature is muffled and is considered suffocating until the end of their next turn. If the creature suffers this result twice in a row, it takes 10d10 necrotic damage.      |
+| 6     | Creature is blinded, muffled and deafended until the end of their next turn.      |
+
+
+
+
 \page
 
 {{pageNumber,auto}}
@@ -2661,8 +2741,7 @@ Choose up to three non-Dead creatures in range, which must make a Charter Consti
 
  *Mold your own friend* 
  
-{{classTable
-##### The Animator
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Mordicant |
@@ -2830,6 +2909,41 @@ Your bond with the Mordicant intensifies. Any Mordicant under your control gains
 
 ### Flesh Crafter
 You no longer take damage from casting Conjure Flesh.
+
+## Level 9
+#### Death Nova
+::**Casting Time:** 1 action
+::**Range** Self
+::**Components** V
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+From you and every Undying under your control a hallowed nova erupts, affecting all enemies within 15 feet of the nova's origin. Nova's can overlap and affect creatures multiple times. All enemies hit by the nova must make a Charter Charisma saving throw. On failure, the creature is dazed and takes 5d10 necrotic damage. On a succes, creature is not dazed and takes half damage.
+
+## Level 10
+### Restructure
+You can spend 1 minute to remold a Mordicant under your control, allowing you to reconfigure all adaptations.
+
+
+\page
+
+{{pageNumber,auto}}
+
+### Additional Adaptations
+At level 10 you gain access to additional Mordicant adaptations.
+::::
+{{classTable,wide,frame
+  ### Additional adaptations
+    
+| Part | Cost | Effect |
+|:----:|:---:|:-------------|
+|**Requires Level 10**|||
+| **Rending claws**  | 3 | ***Requires Claws.*** After calculating damage from a claw attack, target suffers from a bleed. The bleed will deal the claw damage again at the end of their next turn. |
+| **Fortified flesh**  | 2 | Mordicant's hit points goes up by 50%.|
+| **Deathly Hallows**  | 3 | When a Mordicant brings a creature down to 0 hp, Mordicant gains 30% of that creatures maximum hitpoints. Mordicant also gains the Carnivorous ability. ***Carnivorous.*** As an action, choose a corpse within 5 feet. Mordicant starts devouring the corpse and spends 1 minute to regain 30% of the targets maximum hitpoints |
+| **Reinforced skull**  | 1 | Mordicant cannot be dazed, blinded, deafended or frightend. |
+| **Improved ligaments**  | 2 | Mordicant gains advantage on any check involving the Grappled or Restrained conditions.|
+}}
 
 
 \page
@@ -3059,8 +3173,7 @@ The Mysticist knows 3 subclasses which you choose one of at level 1. The availab
 ## Watcher
 *Who watches the Watchers?*
 
-{{classTable
-##### The Watcher
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Brew Healing Potion, Versatile Incantations, Portent, Sight, Keen Mind, Archery |
@@ -3315,8 +3428,7 @@ _Exert: You can create up to two lines of radiance, but a creature can only be a
 ## Herbalist
 *Double double trouble you bubble in a witches' brew*
 
-{{classTable
-##### The Herbalist
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Brew Healing Potion, Versatile Incantations, Nature's Guise, Archery, Mix Potion, Gather Herbs |
@@ -3618,8 +3730,7 @@ ___
 ## Tinkerer
 *C'mon in, I'll give ya the tour! NO TOUCHING!*
 
-{{classTable
-##### The Tinkerer
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Brew Healing Potion, Versatile Incantations, Infuse Item, Rapid Prototyping |
@@ -4261,8 +4372,7 @@ The Edge Dancer knows 3 subclasses which you choose one of at level 1. The avail
 ## Trickster  
 *Now you see me, now I'm gone!*
 
-{{classTable
-##### The Trickster
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Dance Poses, Finesse Weapon Mastery, Quick Draw |
@@ -4444,8 +4554,7 @@ Beginning at 8th Level, you master how to strike disadvantaged foes. Once per tu
 ## Grappler
 *Boot to the head!*
 
-{{classTable
-##### The Grappler
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Dance Poses, Hop up, Beat Down, Unarmed Strike, Unarmoured Defence |
@@ -4556,8 +4665,7 @@ As an action, you stomp your foot with earth shattering power. Each creature in 
 ## Morphling
 *Looks are only temporary!*
 
-{{classTable
-##### The Morphling
+{{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
 | 1st | +1 | Dance Poses, Great Weapon Fighting |
