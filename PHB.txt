@@ -220,7 +220,7 @@ Version V0.16
 The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape is roughly like modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border with the Old Kingdom.
 
 ## The Old Kingdom
-The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Dead. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Dead cannot easily cross running water. Travelling is done in groups, generally accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26 hour days. 
+The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Undying. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Undying cannot easily cross running water. Travelling is done in groups, generally accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26 hour days. 
 
 ### Charter Religion
 Apart from being a source of magic, the Charter is also a form of religion. The common folk will generally choose to see the Charter as an omnipotent collection that protects them and grant the pious benefits. Powerful Charter Magic users will generally be seen as priests. A fair amount of the population can use very minor Charter Magic, for example to light a fire. These people will generally be considered favourably and will likely hold roles such as mayor.
@@ -237,7 +237,7 @@ Their rule is hereditary. The first son or daughter is considered to be king- or
 
 
 #### Abhorsen
-This job title granted by the rulers of the Old Kingdom. The Abhorsen is tasked with keeping the Dead under control and sending them beyond the seventh gate. Generally a very gifted and strong Charter mage is picked who can also use Free Magic. This title can be held by one of the rulers should they choose to, but is generally given to another.
+This job title granted by the rulers of the Old Kingdom. The Abhorsen is tasked with keeping the Undying under control and sending them beyond the seventh gate. Generally a very gifted and strong Charter mage is picked who can also use Free Magic. This title can be held by one of the rulers should they choose to, but is generally given to another.
 
 The Abhorsen will generally have several Abhorsen-in-waiting, as apprentices. The Abhorsen and his students have access to both Charter Magic and Free Magic and can therefore use all magic bells.
 
@@ -245,7 +245,7 @@ The Abhorsen will generally have several Abhorsen-in-waiting, as apprentices. Th
 The Clayr are an oracular group composed nearly entirely of women, who live in a snowy mountain called the Clayr's Glacier, in the northern part of the Old Kingdom. Nearly all are beautiful and possess nut-brown skin, pale blond hair, and eyes of blue or green. The Glacier is also home to the Great Library of the Clayr, which contains a variety of treasures, monsters, and rarities in addition to books. Due to the Clayr's precognitive Sight, within the Great Library, there are often rooms created for events which unfold decades or centuries later. 
 
 ### Towns
-Most towns in the Old Kingdom will be walled to protect against the Dead. Villagers are often left to fend for themselves and are therefore generally quite close knit with a healthy dose of scepticism for outsiders.
+Most towns in the Old Kingdom will be walled to protect against the Undying. Villagers are often left to fend for themselves and are therefore generally quite close knit with a healthy dose of scepticism for outsiders.
 
 ### Ancelstierre Technology
 Most advanced technology does not play nicely with the Charter within the Old Kingdom. Cars will breakdown with welds coming apart and paint disintegrating into raw components. Machine fabricated clothes and paper will be reduced to scraps and rags. Guns will refuse to fire and grenades will not explode.
@@ -260,17 +260,17 @@ Most advanced technology does not play nicely with the Charter within the Old Ki
 ## The Old Kingdom History
 In a time long past, chaotic magic creatures roamed free in the Old Kingdom. Of these creatures, nine were far more powerful than the other, as well as immortal. These nine creature became known as the Nine Bright Shiners. They feuded with each other and kept their own agenda. 
 
-One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to a Dead creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Dead. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in eternal sleep until his two halves are reformed. 
+One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to an Undying creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Undying. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in eternal sleep until his two halves are reformed. 
 
-Orannis' influence lingered however, with his Dead reduced to mindless zombies, perpetually hungry for Life. His followers also remained, necromancers controlling the Dead for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Dead out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Dead lower and lower into the realm of Death, until they are banished from existence. 
+Orannis' influence lingered however, with his Undying reduced to mindless zombies, perpetually hungry for Life. His followers also remained, necromancers controlling the Undying for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Undying out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Undying lower and lower into the realm of Death, until they are banished from existence. 
 
-These acts severely weakened the Bright Shiners of the Charter, but the land was not yet safe, with necromancers still managing to reanimate the Dead. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners dissolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
+These acts severely weakened the Bright Shiners of the Charter, but the land was not yet safe, with necromancers still managing to reanimate the Undying. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners dissolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
 
 <div style='margin-top:140px'></div>
 
 Two of them worked together on their boon, transforming into the Wall, a massive structure between what is now the Old Kingdom and Ancelstierre, containing the magic and preventing it from going spreading to the south.
 One gave their blessing to a bloodline, intending them to rule the land and protect its people from the followers of Orannis. This bloodline became the kings and queens of the Old Kingdom.
-One of them blessed the bloodline of what is now known as the Abhorsens, granting them power to hunt down the followers of Orannis and their Dead.
+One of them blessed the bloodline of what is now known as the Abhorsens, granting them power to hunt down the followers of Orannis and their Undying.
 One of them imbued the denizens of the Glacier, granting them the ability to predict the future, so they could warn the land.
 It is not known what happened to the remaining two, but given they did not form a Great Charter stone; it is believed they still roam the land in their diminished forms.
 
@@ -308,10 +308,10 @@ Ancelstierre is quite large and generally at war with its southern neighbours. T
 Most southern consider magic a myth and will generally look down upon northern Ancelstierriens who actually deal with free and charter magic on a daily basis. Because of this, most army recruits coming from the south get a rude awakening if they are stationed in or near the Perimeter.
 
 ### The Wall
-The Wall is made by two of the Bright Shiners from the Charter and separates Ancelstierre and the Old Kingdom. The Wall is a vast 30 ft high earthen wall stretching from coast to coast, looking akin to large dunes. The wall was made to protect other areas from the Dead and Orannis. The Dead cannot cross the Wall without sustaining damage or weakening them. This does not stop them from constantly trying to cross into Ancelstierre, where life is in abundance and poorly defended.
+The Wall is made by two of the Bright Shiners from the Charter and separates Ancelstierre and the Old Kingdom. The Wall is a vast 30 ft high earthen wall stretching from coast to coast, looking akin to large dunes. The wall was made to protect other areas from the Undying and Orannis. The Undying cannot cross the Wall without sustaining damage or weakening them. This does not stop them from constantly trying to cross into Ancelstierre, where life is in abundance and poorly defended.
 
 #### Crossing points
-Over the years, several crossing points have been made in the wall. At these crossings the Wall is lowered to allow for easier trade. Because of this, the protections against the Dead are also lower here, making it a preferred place of entry for the Dead and their allies. Nowadays, all crossing points have guards on the Ancelstierre side of the wall in order to protect northern Ancelstierre.
+Over the years, several crossing points have been made in the wall. At these crossings the Wall is lowered to allow for easier trade. Because of this, the protections against the Undying are also lower here, making it a preferred place of entry for the Undying and their allies. Nowadays, all crossing points have guards on the Ancelstierre side of the wall in order to protect northern Ancelstierre.
 
 ::::::::::::::::::::::
 
@@ -321,12 +321,12 @@ The Perimeter is a roughly 20 mile wide strip of land on the Ancelstierre side o
 The dead can generally survive in the Perimeter, but may combust if out during a bright day. Free and Charter magic will work in this area, but will fail the further from the wall it is used.
 
 #### The Wall Garrison
-The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has a very high death rate under new recruits due to constant attacks from the Dead, but any reports about the Dead are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore most soldiers, who survive their initial confrontations with the Dead, will arm themselves with swords and bows. This is generally done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
+The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has a very high death rate under new recruits due to constant attacks from the Undying, but any reports about the Undying are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore most soldiers, who survive their initial confrontations with the Undying, will arm themselves with swords and bows. This is generally done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
 
-Northern Ancelstierriens who have a knack for Charter or Free Magic will generally be put in small patrol groups spread throughout the Perimeter. If Dead are found attacking the wall, they will be called to save the regular soldiers.
+Northern Ancelstierriens who have a knack for Charter or Free Magic will generally be put in small patrol groups spread throughout the Perimeter. If Undying are found attacking the wall, they will be called to save the regular soldiers.
 
 #### Prohibited Zone
-This is the area directly bordering the Wall and is filled with hand forged barbed wire and trenches. Due to the Dead commonly looking fairly human until they start attacking, it is hard to decipher if a person is human or Dead. Therefore the Wall Garrison has the policy to shoot any trespassers who cannot quickly identify themselves and have a permit to be near the wall. 
+This is the area directly bordering the Wall and is filled with hand forged barbed wire and trenches. Due to the Undying commonly looking fairly human until they start attacking, it is hard to decipher if a person is human or Undying. Therefore the Wall Garrison has the policy to shoot any trespassers who cannot quickly identify themselves and have a permit to be near the wall. 
 
 
 ##### Prohibited zone border
@@ -357,7 +357,7 @@ Though Free Magic is 'corrosive' to living things and Charter Magic, Free Magic 
 *Five Great Charters knit the land.*  
 *Together linked, hand in hand.*  
 *One in the people who wear the Crown.*  
-*Two in the folk who keep the Dead down.*  
+*Two in the folk who keep the Undying down.*  
 *Three and Five became stone and mortar.*  
 *Four sees all in frozen water.*
 </div>
@@ -368,27 +368,27 @@ This rhyme dictates that at some point in history the Five Great Charters were c
 <div style='margin-top:140px'></div>
 
 ### Charter stones
-Charter Stones are large stone monuments "with Charter marks running like quicksilver through the stone, forming and dissolving, only to reform again, in a never-ending story that told of the making of the world." They serve as an easy access point to the Charter for Charter mages, and suppress the Dead and any entrance to Death, but can be broken by Free Magic sorcerers with the use of the blood of a Charter mage. They can be mended by strong charter mages, using blood from a family line unsullied by free magic. The royal line is the most famous of these bloodlines, but others also exist within the Old Kingdom.
+Charter Stones are large stone monuments "with Charter marks running like quicksilver through the stone, forming and dissolving, only to reform again, in a never-ending story that told of the making of the world." They serve as an easy access point to the Charter for Charter mages, and suppress the Undying and any entrance to Death, but can be broken by Free Magic sorcerers with the use of the blood of a Charter mage. They can be mended by strong charter mages, using blood from a family line unsullied by free magic. The royal line is the most famous of these bloodlines, but others also exist within the Old Kingdom.
 
 The Charter stones were originally created by the Wallmakers. There are many Charter Stones throughout the Old Kingdom that strengthen the presence of the Charter.
 
 ### The Bells
 
-The bells of power are seven eponymous bells typically used by magic users to control the Dead, named after the Seven Bright Shiners who invested themselves in the Charter. Each bell has a specific power over the Dead and Free Magic creatures, and if used by a skilled magic user, also on living people. An errant or improper ring can affect the caster instead of the target, or cause other adverse effects. From smallest to largest they are:
+The bells of power are seven eponymous bells typically used by magic users to control the Undying, named after the Seven Bright Shiners who invested themselves in the Charter. Each bell has a specific power over the Undying and Free Magic creatures, and if used by a skilled magic user, also on living people. An errant or improper ring can affect the caster instead of the target, or cause other adverse effects. From smallest to largest they are:
 
 ##### Bells
 | Bell 			| Nickname| Description 																																												|
 |:----------|:-------:|:---------------------------------------------------------------------------------------------------:|
 | **Ranna**			| *Sleeper*	| Prompts drowsiness in the auditor																															|
 | **Mosrael**		| *Waker*		| Transmit the ringer further into Death but the auditor into Life               								|
-| **Kibeth**		| *Walker*	| Grants the Dead freedom of movement or force them to walk according to the ringer's intention |
+| **Kibeth**		| *Walker*	| Grants the Undying freedom of movement or force them to walk according to the ringer's intention |
 | **Dyrim**			| *Speaker*	| Either revive or annul the hearer's ability to speak  													              |
 | **Belgaer**		| *Thinker*	| Restore or remove memory                																											|
-| **Saraneth**	| *Binder*	| Control the Dead directly                																											|
+| **Saraneth**	| *Binder*	| Control the Undying directly                																											|
 | **Astarael**	| *Weeper*	| Send both ringer and auditor far into Death                																		|
 
 ### Bell bandoliers
-People wearing bell bandoliers are generally considered suspicious by common folk. Unless directly associated to the Abhorsen, bandolier carriers could very well be necromancers looking for fresh Dead to collect.
+People wearing bell bandoliers are generally considered suspicious by common folk. Unless directly associated to the Abhorsen, bandolier carriers could very well be necromancers looking for fresh Undying to collect.
 
 
 
@@ -399,18 +399,18 @@ People wearing bell bandoliers are generally considered suspicious by common fol
 ## Creatures
 Strictly speaking, there are five basic supernatural creatures in the Abhorsen world:
 
-### The Dead
-The Dead are ghosts with both the inclination and the ability to resist the river of Death, who re-enter the world of Life. Though a rare few emerge into Life on their own power, most must be summoned by a necromancer or emerge near a broken Charter Stone (where the Charter's influence has been severely diminished, creating a "door into Death"), or where many deaths have recently occurred. All Dead are averse to running water, and most are unable to withstand direct sunlight.
+### The Undying
+The Undying are ghosts with both the inclination and the ability to resist the river of Death, who re-enter the world of Life. Though a rare few emerge into Life on their own power, most must be summoned by a necromancer or emerge near a broken Charter Stone (where the Charter's influence has been severely diminished, creating a "door into Death"), or where many deaths have recently occurred. All Undying are averse to running water, and most are unable to withstand direct sunlight.
 
-There are three classes of Dead: Lesser, Medium and Greater. The Greater Dead are usually represented by Dead from beyond the Fifth Gate (spirits from the deeper realms of Death and correspondingly more powerful). Greater Dead, such as Fifth-Gate Resters or Thralks, may exist in Life without a physical body (making them much more difficult to destroy).
+There are three classes of Undying: Lesser, Medium and Greater. The Greater Undying are usually represented by Undying from beyond the Fifth Gate (spirits from the deeper realms of Death and correspondingly more powerful). Greater Undying, such as Fifth-Gate Resters or Thralks, may exist in Life without a physical body (making them much more difficult to destroy).
 
-The name of Lesser Dead refers to Dead Hands, Ghlims and Gore Crows: a range of re-embodied spirits often used by necromancers as weapons. Lesser Dead may be incapacitated by immersing them in running water or by destroying their physical bodies with Charter Magic or explosives. Most Dead prey on the living to remain in Life.
+The name of Lesser Undying refers to Undying Hands, Ghlims and Gore Crows: a range of re-embodied spirits often used by necromancers as weapons. Lesser Undying may be incapacitated by immersing them in running water or by destroying their physical bodies with Charter Magic or explosives. Most Undying prey on the living to remain in Life.
 
 ### Constructs
-Free Magic constructs are forms assumed by Free Magic elementals or powerful Dead spirits. Though such constructs may be destroyed, destroying the Elemental itself is much more difficult and typically the province of Free Magic.
+Free Magic constructs are forms assumed by Free Magic elementals or powerful Undying spirits. Though such constructs may be destroyed, destroying the Elemental itself is much more difficult and typically the province of Free Magic.
 
 ### Mordicants
-These are fiery constructs of clay and blood, animated by Free Magic and guided by a Greater Dead or Free magic user, able to move between Life and Death at will. They are fierce combatants, and seem to have enhanced senses, able to track specific targets over hundreds of miles, resisting direct sunlight to do so.
+These are fiery constructs of clay and blood, animated by Free Magic and guided by a Greater Undying or Free magic user, able to move between Life and Death at will. They are fierce combatants, and seem to have enhanced senses, able to track specific targets over hundreds of miles, resisting direct sunlight to do so.
 
 <div style='margin-top:240px'></div>
 
@@ -426,7 +426,7 @@ Charter Sendings are servants or sentries constructed entirely of Charter Marks.
 
 ## Death
 
-Death consists of Seven Precincts divided by Seven Gates, through which a grey river flows. Almost everything in Death is a bleak grey, and a subtle grey fogginess limits visibility. The river may also contain and conceal hostile dead beings, which attack living travellers. Free Magic users can cross the boundary at will. Dead spirits can cross only when aided by a Necromancer, or when the border is weakened by a concentration of (often violent) deaths. Dexterity and great willpower are required to resist the current, which is psychological as well as physical. Each gate responds to a Free Magic spell wielded by Abhorsens and Free Magic users; Dead cannot pass any Gate unless they are very powerful. Each Precinct contains a different peril.
+Death consists of Seven Precincts divided by Seven Gates, through which a grey river flows. Almost everything in Death is a bleak grey, and a subtle grey fogginess limits visibility. The river may also contain and conceal hostile dead beings, which attack living travellers. Free Magic users can cross the boundary at will. Undying spirits can cross only when aided by a Necromancer, or when the border is weakened by a concentration of (often violent) deaths. Dexterity and great willpower are required to resist the current, which is psychological as well as physical. Each gate responds to a Free Magic spell wielded by Abhorsens and Free Magic users; Undying cannot pass any Gate unless they are very powerful. Each Precinct contains a different peril.
 
 
 #### First Precinct
@@ -439,15 +439,15 @@ The Second Precinct has pitfalls throughout its domain and low visibility; The G
 The Third Precinct has slightly warmer ankle-deep water and visibility is slightly improved. Periodic, irresistible waves carry dead creatures through the Gate (a wall of mist), often beyond the final Seventh Gate.
 
 #### Fourth Precinct
-The Fourth Precinct has a low concentration of Dead, as most of those who reach it have been stunned by the Third Precinct's waves, and are carried easily to the dangerous and deceptively short waterfall that comprises its Gate.
+The Fourth Precinct has a low concentration of Undying, as most of those who reach it have been stunned by the Third Precinct's waves, and are carried easily to the dangerous and deceptively short waterfall that comprises its Gate.
 
 \column
 
 #### Fifth Precinct
-The Fifth Precinct is too deep to wade, and must be crossed by a thin black bridge that frequently attracts dead creatures. The water in the Fifth Precinct has strong mutagenic properties, and is implied to be partially responsible for the monstrous appearance of some Greater Dead and necromancers. Its Gate is a whirlpool. 
+The Fifth Precinct is too deep to wade, and must be crossed by a thin black bridge that frequently attracts dead creatures. The water in the Fifth Precinct has strong mutagenic properties, and is implied to be partially responsible for the monstrous appearance of some Greater Undying and necromancers. Its Gate is a whirlpool. 
 
 #### Sixth Precinct
-The Sixth Precinct has no current, and its water is present as a shallow pool. There are many Dead creatures in this Precinct, some of whom are Greater Dead. The Gate has no substance and can appear anywhere, but appears as a lift bordered by a cylinder of water.
+The Sixth Precinct has no current, and its water is present as a shallow pool. There are many Undying creatures in this Precinct, some of whom are Greater Undying. The Gate has no substance and can appear anywhere, but appears as a lift bordered by a cylinder of water.
 
 #### Seventh Precinct
 The Seventh Precinct is an endless pool of deep, still and clear water. It is warmer than the other precincts and there is no fog, allowing a necromancer to see in every direction. The Seventh Gate, resembling a starry sky, confirms the final death of any who look upon it, except those to who retain a native span of years. Those claimed by the Gate rise at varying speeds and vanish, never to return.
@@ -546,7 +546,7 @@ When a creature takes damage from a single source equal to or greater than half 
 | 8-10 | The creature can’t take reactions until the end of its next turn. |
 
 ### Checking the Charter mark
-Some creatures will have a Charter mark on their forehead. As an action you can check the Charter mark of a willing creature or a creature with speed 0. This will inform you whether they are considered Dead, a Free Magic creature or have any hiding in their bodies.
+Some creatures will have a Charter mark on their forehead. As an action you can check the Charter mark of a willing creature or a creature with speed 0. This will inform you whether they are considered Undying, a Free Magic creature or have any hiding in their bodies.
 
 ### Dazed Condition
 Dazed is a new condition which will reduce your speed by half, will let you either perform an action or bonus action and you can't perform more than one melee or ranged attack during your turn. This also breaks concentration.
@@ -690,11 +690,11 @@ Whilst in or near the Old Kingdom, there is a dimension other than the physical 
 Whilst your soul is within Death, your body will be encased in ice, incapacitating your body. You cannot move, perform actions or reactions and cannot gain hit points. Any attack on your body will automatically hit, but cannot critically strike you. Your body will also automatically fail all Physical saving throws.
 
 ## Soul Decay
-If your soul only spends a short period of time in Death and your body is still mostly intact, it is possible to return to your body without permanent effects. However, if your soul stays in Death for long periods of time on end, your soul will start to degrade. You will lose your personality traits and hunger more and more to taking the life of others. Eventually the hunger will overtake your senses and you will transform into one of the Dead. These are souls that simply refuse to stay dead and will seek ways of returning to Life.
+If your soul only spends a short period of time in Death and your body is still mostly intact, it is possible to return to your body without permanent effects. However, if your soul stays in Death for long periods of time on end, your soul will start to degrade. You will lose your personality traits and hunger more and more to taking the life of others. Eventually the hunger will overtake your senses and you will transform into one of the Undying. These are souls that simply refuse to stay dead and will seek ways of returning to Life.
 
-Depending on your strength of will and your control of Free Magic, the decay will affect you differently. Most regular people will turn into mostly mindless beings simply named Dead. But a perished necromancer might turn into a Mordicant.
+Depending on your strength of will and your control of Free Magic, the decay will affect you differently. Most regular people will turn into mostly mindless beings simply named Dead Hands. But a perished necromancer might turn into a Mordicant.
 
-If a decayed soul somehow finds a way back to Life, its body will generally look withered and might have black mists leaking from various cracks. Being transformed into the Dead will have various benefits and disadvantages. Most Dead have inhuman strength and can survive most wounds. On the downside, most Dead can be bound by Free Magic and might require deaths to occur near them to remain in Life.
+If a decayed soul somehow finds a way back to Life, its body will generally look withered and might have black mists leaking from various cracks. Being transformed into the Undying will have various benefits and disadvantages. Most Undying have inhuman strength and can survive most wounds. On the downside, most Undying can be bound by Free Magic and might require deaths to occur near them to remain in Life.
 
 
 <div style='margin-top:270px'></div>
@@ -708,7 +708,7 @@ If a creature drops to 0 hit points, that creature will gain the dying condition
 Every Story Tick the creature will potentially fall deeper into Death. If the creature passes the seventh layer of Death, the creature body will no longer be encased in ice and cannot return. Entering Death without any hit points makes it very likely that you will pass the seventh gate without outside help.
 
 ### Free magic
-If you are a Free magic user, you will have natural connection with the Death dimension. Some free magic users can freely move into Death without being reduced to zero hit points. This will reduce the pull of the water, but will hardly make Death a safe space. The water can still drag you down and there could be Dead hunting you and trying to use you to return to Life.
+If you are a Free magic user, you will have natural connection with the Death dimension. Some free magic users can freely move into Death without being reduced to zero hit points. This will reduce the pull of the water, but will hardly make Death a safe space. The water can still drag you down and there could be Undying hunting you and trying to use you to return to Life.
 
 ### Artefacts
 There are also artefacts that allow entrance to Death. The most common of these are the various bells magic users have, but there are also artefacts that do not require the user to have magical powers. This last category of artefact is very rare and sought after.
@@ -927,7 +927,7 @@ Here are Sabriël's skill modifiers. She has chosen her Strength to be her lowes
 
 ## Runic Knight
 
-A Burly hulk charging into a pack of Dead, Throwing them every which way. With vicious slashes he ends the free magic spawn on the ground. 
+A Burly hulk charging into a pack of Undying, Throwing them every which way. With vicious slashes he ends the free magic spawn on the ground. 
 An archer providing cover for her companion, fires a barrage of arrows with such force, some pierce through multiple enemies. Finally, she spots her target, Shouting his location to her allies.
 A heavily plated Warrior flies through the air, landing next to the cowering necromancer with a resounding slam. He bashes his shield into the face of the surprised free magic user. 
 
@@ -935,8 +935,8 @@ All of these are Runic knights, unparallel weapon specialists and adept at encha
 
 Runic knights learn the basics of all weapons and imbuements. Whether fighting with an axe, a longsword or a bow, the knight is sure to leave devastation in his or her wake. Each Runic knight specializes in a specific fighting style, some choosing more offensive styles, some more defensive, but each is highly skilled in all. 
 
-When building a Runic knight, consider where you got your martial training and what style of fighting you are specialized in. Where did you get your training in imbuing your gear with the Charter and how does your runic knight excel in repelling the Dead. 
-You may have enjoyed formal training in a private army, or had a mentor in the guard, or self-taught, unrefined but hardened by fighting off waves of Dead. All these considerations lead to molding the character to explore the wide world of the Old Kingdom with.
+When building a Runic knight, consider where you got your martial training and what style of fighting you are specialized in. Where did you get your training in imbuing your gear with the Charter and how does your runic knight excel in repelling the Undying. 
+You may have enjoyed formal training in a private army, or had a mentor in the guard, or self-taught, unrefined but hardened by fighting off waves of Undying. All these considerations lead to molding the character to explore the wide world of the Old Kingdom with.
 
 
 ### Class Features
@@ -963,7 +963,7 @@ You start with the following equipment, in addition to the equipment granted by 
 The Runic Knight knows 3 subclasses which you choose one of at level 1. The available options are Fighter, Ranger or Guardian.
 
 ### Diamond of protection
-You can cast a ritual of 5 minute to create a diamond shaped protection dome of up to 25ft at the widest. This means the diamond has widths of the following sizes from left to right: 5ft-15ft-25ft-15ft-5ft. The Dead, free magic creatures or effects caused by these creatures cannot cross the dome. Whether alive, dead or a free magic creature, a creature can opt to attack the dome. The dome has 15 AC and cannot be moved in any way. The dome has 10 * (Runic Knight level + Aptitude Modifier) in hit points. The dome lasts for as long as you are in it.
+You can cast a ritual of 5 minute to create a diamond shaped protection dome of up to 25ft at the widest. This means the diamond has widths of the following sizes from left to right: 5ft-15ft-25ft-15ft-5ft. The Undying, free magic creatures or effects caused by these creatures cannot cross the dome. Whether alive, dead or a free magic creature, a creature can opt to attack the dome. The dome has 15 AC and cannot be moved in any way. The dome has 10 * (Runic Knight level + Aptitude Modifier) in hit points. The dome lasts for as long as you are in it.
 Any creatures whose body is within the dome add the creators Aptitude modifier to any Death saving throws.
 
 This ritual can be shortened by using up Charter imbued silver. Imbuing the silver will take roughly 1 minute per 100 silver coins or equivalent pure silver and the silver will remain imbued with 1 week. See the following table to see how much this can speed up the ritual for the amount of silver.
@@ -1376,7 +1376,7 @@ _Exert: The casting time is reduce to 1 action._
 ::**Duration** 1 minute
 <div style='margin-top:0px'></div>
 
-Choose up to 3 friendly, willing non-Dead creatures within range. You and the chosen targets will become connected with a very faint beam of charter magic. Any damage you or any of the chosen creatures take, is split evenly over all the chosen creatures. The damage is split before any mitigations such as resistances and the damage after the split is rounded up. The Life Link can be ended as a bonus action by the caster.
+Choose up to 3 friendly, willing non-Undying creatures within range. You and the chosen targets will become connected with a very faint beam of charter magic. Any damage you or any of the chosen creatures take, is split evenly over all the chosen creatures. The damage is split before any mitigations such as resistances and the damage after the split is rounded up. The Life Link can be ended as a bonus action by the caster.
 
 ## Level 5
 ### Protection
@@ -1409,7 +1409,7 @@ After getting hit by a melee hit, you can spend your reaction to reflect any dam
 {{pageNumber,auto}}
 
 ## Spellslinger
-A stout woman calmly removes a bell from her bandolier, looks at the giant Dead creature storming at her. With a clear single note, the fetid abomination is frozen in its tracks.
+A stout woman calmly removes a bell from her bandolier, looks at the giant Undying creature storming at her. With a clear single note, the fetid abomination is frozen in its tracks.
 To her side, a priest of the charter seems in full concentration, his charter mark flashing, as suddenly the ground under a group of foul creatures twists and turns into a massive mudslide. 
 Cackling, a soot covered sorceress looks at the result of her fiery incantations. A field filled with circles of fire and ice; the targeted horde of free magic creatures disintegrated.
 :
@@ -1452,7 +1452,7 @@ Recharge die is d10. Each use of the bell is an action.
 
 | Bell | Recharge | Effect |
 |:----:|:---:|:--|
-| **Kibeth**  | 7-10 | Choose a target Dead within 60 ft. Depending on the tone, it will either daze the target Dead or else grant freedom of movement to the Dead. The Dead can opt to make a Charter Intelligence saving throw to resist the Daze effect. If it is granted freedom of movement, then their movement no longer provokes attacks of opportunity and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained. Ringers’ choice. Either effect will lasts up to 1 minute.|
+| **Kibeth**  | 7-10 | Choose a target Undying within 60 ft. Depending on the tone, it will either daze the target Undying or else grant freedom of movement to the Undying. The Undying can opt to make a Charter Intelligence saving throw to resist the Daze effect. If it is granted freedom of movement, then their movement no longer provokes attacks of opportunity and spells and other magical effects can neither reduce the target’s speed nor cause the target to be paralyzed or restrained. Ringers’ choice. Either effect will lasts up to 1 minute.|
 | **Ranna**  | 6-10 | The sound of this bell sends creatures into a magical slumber. Roll 4d8 + 2xd8 Spellslinger level; the total is how many hit points of creatures this spell can affect. Creatures within 30 feet of you, but excluding you, are affected in ascending order of their current hit points (ignoring unconscious creatures). Starting with the creature that has the lowest current hit points, each creature affected by this spell falls unconscious until the spell ends, the sleeper takes damage, or someone uses an action to shake or slap the sleeper awake. Subtract each creature’s hit points from the total before moving on to the creature with the next lowest hit points. A creature’s hit points must be equal to or less than the remaining total for that creature to be affected. The ringer must make a DC Charter Intelligence saving save or also fall asleep. You can use your action to wake a sleeping person. |
 | **Dyrim**  | 9-10 | Create a stationary reverberating echo originating from the ringer with a radius of 30ft. The echo will either decrease the DC of any Bell Magical effect by 3 + Spellslinger level for 1 minute or else removes an ongoing echo. Any concentration checks done within the echo by creatures other than the ringer are done at disadvantage.|
 }}
@@ -1630,7 +1630,7 @@ This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level
 ::**Duration** Concentration, Up to 1 minute
 <div style='margin-top:0px'></div>
 
-Boost the effect of your Kibeth bell by narrowing and directing the effect on a specific creature as an action. This creature does not have the restriction of being Dead. Target creature must make a Charter Intelligence saving throw or be paralysed for the duration. Casting this ability uses your Kibeth bell and puts it in recharge.
+Boost the effect of your Kibeth bell by narrowing and directing the effect on a specific creature as an action. This creature does not have the restriction of being Undying. Target creature must make a Charter Intelligence saving throw or be paralysed for the duration. Casting this ability uses your Kibeth bell and puts it in recharge.
 
 
 \page
@@ -1803,7 +1803,7 @@ As an action you can baptize an unmarked, willing and living creature. If a crea
 ::**Duration** 1 minute
 <div style='margin-top:0px'></div>
 
-As an action you can bless an area of water, either liquid or solid, that you can see within range and that fits within a 5-foot cube. Any Dead either within the body of water or drenched in it will take 1d10 radiant damage. Any non-dead creature within or covered by the blessed water will have advantage on any Death stabilisation checks.
+As an action you can bless an area of water, either liquid or solid, that you can see within range and that fits within a 5-foot cube. Any Undying either within the body of water or drenched in it will take 1d10 radiant damage. Any non-dead creature within or covered by the blessed water will have advantage on any Death stabilisation checks.
 
 
 #### Mudslide -1 Stamina
@@ -1827,7 +1827,7 @@ This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level
 
 Target visible creature gains 2d8 + 3x Spellslinger level in temporary hit points as a see-through armour of water forms around the target.
 
-If cast on a Dead creature, it must make a water saving throw or be restrained while it has the temporary hit points. It can repeat this saving throw at the end of each of its turn.
+If cast on an Undying creature, it must make a water saving throw or be restrained while it has the temporary hit points. It can repeat this saving throw at the end of each of its turn.
 
 #### Quake -3 Stamina
 ::**Casting Time:** 1 action
@@ -1867,7 +1867,7 @@ is halved if the fire effect passes through the wall to reach its target. Spells
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-By touching the charter mark of either a corpse, or else a person encased in Death ice, you can give them their last rites. Their body will ignite with a bright white flame, reducing it to ash. The flame does not affect any worn of surrounding objects, such as clothes or the floor. Once a body is reduced to ash in this manner, it cannot become or inhibit a Dead.
+By touching the charter mark of either a corpse, or else a person encased in Death ice, you can give them their last rites. Their body will ignite with a bright white flame, reducing it to ash. The flame does not affect any worn of surrounding objects, such as clothes or the floor. Once a body is reduced to ash in this manner, it cannot become or inhibit an Undying.
 
 Only bodies which have a charter mark can be given the Last Rites. This spell leaves faint charter magic traces that another Charter mage can pick up for up to 3 days, by touching the location.
 
@@ -1924,7 +1924,7 @@ _Exert: If cast on a creature without resistance or immunity, the creature will 
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You point at a creature. If it is a Non-Dead creature, it is healed for 3d4 + Spellslinger level hit points. If it is a Dead creature, it instead takes 3d8 +2 x Spellslinger level of radiant damage.
+You point at a creature. If it is a Non-Undying creature, it is healed for 3d4 + Spellslinger level hit points. If it is an Undying creature, it instead takes 3d8 +2 x Spellslinger level of radiant damage.
 
 _Exert: You can choose up to 3 targets, but the effect for each target is halved._
 
@@ -2197,11 +2197,11 @@ Using the reprieve, a long-haired woman jumps into Death, quickly retrieving her
 
 Blinking the Death ice out of his eyes, a tall, robed man commands his even taller clay friend back into the fray. The soul-infused clay golem races towards its first foe, unhinges his jaw and swallows it whole.
 :
-Flesh binders are masters of using tuned bells and free magic to command their Dead minions to do their bidding. Controlling blood, bone and flesh, flesh binders overwhelm their enemies and revitalize their allies.
+Flesh binders are masters of using tuned bells and free magic to command their Undying minions to do their bidding. Controlling blood, bone and flesh, flesh binders overwhelm their enemies and revitalize their allies.
 :
 Whilst the foul-smelling free magic has a bad reputation, it is merely a powerful tool in the hands of the flesh binder. Whether used for good or evil, they and their minions are a force to be reckoned with.
 :
-As a fleshbinder, you will have to deal with free magic's somewhat deserved bad reputation. Do you keep your Dead allies out in the open, or do you pretend to be a innocuous charter mage? Given its bad reputation, you will also have to think of how and where you learned your craft. Did you break free from a cult lead by an evil necromancer, or did the Abhorsen see your potential and give you a few quick starters?
+As a fleshbinder, you will have to deal with free magic's somewhat deserved bad reputation. Do you keep your Undying allies out in the open, or do you pretend to be a innocuous charter mage? Given its bad reputation, you will also have to think of how and where you learned your craft. Did you break free from a cult lead by an evil necromancer, or did the Abhorsen see your potential and give you a few quick starters?
 However you build your flesh binder, your tale will be filled with tension and unique ways of solving your tribulations in the Old Kingdom.
 
 
@@ -2232,10 +2232,10 @@ Recharge die is d10. Each use of the bell is an action.
 
 | Bell | Recharge | Effect |
 |:----:|:---:|:--|
-| **Saraneth**  | 8-10 | Choose target Dead you can see within 60ft range. The target as well as any Dead within 5ft radius must make a Charter Charisma saving throw or be bound to your will. The Dead gains a bonus equal to their CR, rounded down, for this saving throw. Dead already bound by another user will have advantage on this saving throw. See Keeper of the dead for additional information.|
-| **Mosrael**  | 7-10 | **This bell only works in Death.** Choose a target on the same layer of Death. The target and any others within 10ft must make a Charter Charisma saving throw or be lifted one layer of Death up. Any affected creature can choose to fail the saving throw. The ringer is thrown one layer of Death down regardless of success. If any effected creatures either have 0 hit points or is classified as a Dead, the creature will have disadvantage on this saving throw.|
+| **Saraneth**  | 8-10 | Choose target Undying you can see within 60ft range. The target as well as any Undying within 5ft radius must make a Charter Charisma saving throw or be bound to your will. The Undying gains a bonus equal to their CR, rounded down, for this saving throw. Undying already bound by another user will have advantage on this saving throw. See Keeper of the dead for additional information.|
+| **Mosrael**  | 7-10 | **This bell only works in Death.** Choose a target on the same layer of Death. The target and any others within 10ft must make a Charter Charisma saving throw or be lifted one layer of Death up. Any affected creature can choose to fail the saving throw. The ringer is thrown one layer of Death down regardless of success. If any effected creatures either have 0 hit points or is classified as an Undying, the creature will have disadvantage on this saving throw.|
 | **Belgaer**  | 9-10 | Choose a target within 20ft. You can make the target forget about an event of maximum 5 minutes if the target fails a Charter Intelligence saving throw. Or you can restore memory erased by a Belgaer bell. This will always restore all erased memories and cause the target to gain one level of exhaustion.|
-| **Astarael**  | 10 | **This bell only works in Life.** All creatures within 40ft radius must make a Charter Strength saving throw. Dead creatures have disadvantage on this saving throw. Any creature who fails the saving throw is thrust 3 layers into Death. The ringer automatically fails the saving throw. |
+| **Astarael**  | 10 | **This bell only works in Life.** All creatures within 40ft radius must make a Charter Strength saving throw. Undying creatures have disadvantage on this saving throw. Any creature who fails the saving throw is thrust 3 layers into Death. The ringer automatically fails the saving throw. |
 }}
 
 
@@ -2249,23 +2249,23 @@ Recharge die is d10. Each use of the bell is an action.
 {{pageNumber,auto}}
 
 ### Keeper of the dead
-Using the power of Saraneth, you can control Dead. There is a limit to how many Dead and how powerful Dead you can keep under your control for long periods. The Medium Dead are twice as hard to keep under control as Lesser Dead with the Greater Dead being twice as hard to keep under control as Medium Dead. You can use any combination of Dead you like. For example you can have two Lesser Dead and one Medium Dead or one Greater Dead or four Lesser Dead. 
+Using the power of Saraneth, you can control Undying. There is a limit to how many Undying and how powerful Undying you can keep under your control for long periods. The Medium Undying are twice as hard to keep under control as Lesser Undying with the Greater Undying being twice as hard to keep under control as Medium Undying. You can use any combination of Undying you like. For example you can have two Lesser Undying and one Medium Undying or one Greater Undying or four Lesser Undying. 
 
-You can keep more Dead under your control for a short time, but once this time runs out, all the Dead under your control will break loose. They will no longer be bound by you and cannot be bound for the next day.
-As an action, you can spend a minute to banish a Dead under your control back to Death.
+You can keep more Undying under your control for a short time, but once this time runs out, all the Undying under your control will break loose. They will no longer be bound by you and cannot be bound for the next day.
+As an action, you can spend a minute to banish an Undying under your control back to Death.
 
-Consult the following table to find the maximum amount of Dead you can keep under control, what maximum challenge rating Dead you can keep and for how long you can maintain control after going over the maximum.
+Consult the following table to find the maximum amount of Undying you can keep under control, what maximum challenge rating Undying you can keep and for how long you can maintain control after going over the maximum.
 
-| Level | Maximum Lesser Dead | Maximum Challenge Rating Dead | Control Time while over Maximum |
+| Level | Maximum Lesser Undying | Maximum Challenge Rating Undying | Control Time while over Maximum |
 |:----:|:-:|:-:|:---|
 | 1-2  | 2  | 2 | 3 story ticks |
 | 3-4  | 4  | 3 | 5 story ticks |
 | 5-7  | 6  | 5 | 10 story ticks |
 | 8-10 | 10 | 6 | 15 story ticks |
 
-The Dead have their own initiative, but follow your commands. Communicating commands to your Dead is done as a free action on your turn. The dead on their turn will try as best as they can to perform these commands. You can only change these commands on your turn. If you for instance tell a Dead to walk left and attack enemies there, but between your turn and the Dead's turn the enemies died, the Dead will still walk left.
+The Undying have their own initiative, but follow your commands. Communicating commands to your Undying is done as a free action on your turn. The dead on their turn will try as best as they can to perform these commands. You can only change these commands on your turn. If you for instance tell an Undying to walk left and attack enemies there, but between your turn and the Undying's turn the enemies died, the Undying will still walk left.
 
-You can only command Dead that are on the same plane of existence. For instance, if you step into Death, either willingly or forcedly, whilst you have Dead under your control remaining in Life, they will continue following their most recent commands. Any Dead you control in Death, you can give new commands to.
+You can only command Undying that are on the same plane of existence. For instance, if you step into Death, either willingly or forcedly, whilst you have Undying under your control remaining in Life, they will continue following their most recent commands. Any Undying you control in Death, you can give new commands to.
 
 ::::::::::::::
 #### Death awaits
@@ -2275,7 +2275,7 @@ You can only command Dead that are on the same plane of existence. For instance,
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You point at one creature you can see within range, and the target is reminded of the frailty of life. The target must succeed on a Charter Intelligence saving throw or take 1d6 + Aptitude modifier necrotic damage. If the target is missing any of its hit points or is a Dead, it instead takes 1d10 + Aptitude modifier necrotic damage.
+You point at one creature you can see within range, and the target is reminded of the frailty of life. The target must succeed on a Charter Intelligence saving throw or take 1d6 + Aptitude modifier necrotic damage. If the target is missing any of its hit points or is an Undying, it instead takes 1d10 + Aptitude modifier necrotic damage.
 
 The spell’s damage increases by one die when you reach 3th level (2d6 or 2d10), 6th level (3d6 or 3d10), and 9th level (4d6 or 4d10). 
 
@@ -2286,7 +2286,7 @@ As a Flesh Binder, you have a special connection with Death. As long as you have
 ## Level 2
 
 ### Convocation
-When you take damage, you can spend your reaction to teleport one of the Lesser or Medium Dead under your control to an unoccupied space next to you.
+When you take damage, you can spend your reaction to teleport one of the Lesser or Medium Undying under your control to an unoccupied space next to you.
 
 #### Conjure Flesh -1 Stamina
 ::**Casting Time:** 1 minute
@@ -2294,9 +2294,9 @@ When you take damage, you can spend your reaction to teleport one of the Lesser 
 ::**Components** V 
 ::**Duration** Instantaneous
 
-You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This sculpted corpse counts as a corpse that died today. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Dead of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
+You draw some of your own blood and infuse it with free magic. You take 2 x Flesh Binder piercing damage. The blood lands in target location and will start to fester and grow into something resembling a corpse. This sculpted corpse counts as a corpse that died today. This corpse can be further manipulated using the Saraneth bell as an action, transforming the corpse into a Lesser Undying of Challenge rating 1 or lower under your control. This will put the Saraneth bell in recharge.
 
-_Exert: Casting time becomes a bonus action. Corpse transformation into a Lesser Dead remains an action._
+_Exert: Casting time becomes a bonus action. Corpse transformation into a Lesser Undying remains an action._
 
 ### Ability Score Improvement 
 
@@ -2317,13 +2317,13 @@ Instead of increasing your ability scores, you can instead take a feat, chosen f
 At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
 ##### Executioner
-Whenever you, or one of the Dead under your control reduces a creature to 0 hp, you can use your reaction and 1 stamina to perform an action. You must perform this action right away, regardless of whose turn it is.
+Whenever you, or one of the Undying under your control reduces a creature to 0 hp, you can use your reaction and 1 stamina to perform an action. You must perform this action right away, regardless of whose turn it is.
 
 ##### Pile on
-After you or one of the Dead under your control have damaged a creature in the same round, any additional damage against the target is increased by 1d4.
+After you or one of the Undying under your control have damaged a creature in the same round, any additional damage against the target is increased by 1d4.
 
 ##### Greater Convocation
-When you take damage, you can spend your reaction to swap places with one of the Dead under your control.
+When you take damage, you can spend your reaction to swap places with one of the Undying under your control.
 
 ## Level 4
 ### Soul grip
@@ -2357,7 +2357,7 @@ Enemies have disadvantage on saving throws against any of your stamina costing s
 ## Level 8
 
 ### Saraneth Mastery
-Your extensive experience with the bell of Saraneth allows you to focus on multiple Dead at a time. In addition to the target Dead chosen for Saraneth, any CR 3 or lower Dead within 10ft of your target, are also affected by Saraneth.
+Your extensive experience with the bell of Saraneth allows you to focus on multiple Undying at a time. In addition to the target Undying chosen for Saraneth, any CR 3 or lower Undying within 10ft of your target, are also affected by Saraneth.
 
 
 
@@ -2377,7 +2377,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 {{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
-| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Master of the Dead, Profane Blood |
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the dead, Step into Death, Master of the Undying, Profane Blood |
 | 2nd | +1 | Convocation |
 | 3rd | +1 | Ability Score Improvement, Team Tactics |
 | 4th | +2 | Soul Grip |
@@ -2393,7 +2393,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 #### Quick Build
 You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence saving throw.
 
-### Master of the Dead
+### Master of the Undying
 You have advantage on any Death saving throws. You can also use the Mosrael bell as a bonus action.
 
 ### Profane Bloom
@@ -2441,7 +2441,7 @@ The spell’s damage increases by 1d6 when you reach 3th level (2d6), 6th level 
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Choose a corpse within range that you can see, or a Dead within range under your control. The chosen target explodes in a fiery explosion, destroying the target. Any creature within 15 feet must make a Physical Agility saving throw. On a failed saving throw, a target takes 2d8 bludgeoning damage and 1d8 fire damage, or half as much damage on a successful one.
+Choose a corpse within range that you can see, or an Undying within range under your control. The chosen target explodes in a fiery explosion, destroying the target. Any creature within 15 feet must make a Physical Agility saving throw. On a failed saving throw, a target takes 2d8 bludgeoning damage and 1d8 fire damage, or half as much damage on a successful one.
 
 The spell’s bludgeoning damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8). 
 
@@ -2455,7 +2455,7 @@ _Exert: This spell's bludgeoning damage is fire damage instead. Any creatures da
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Choose a Lesser Dead bound by you or a corpse sculpted by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Dead will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Dead will deal an additional 1d6, Medium Dead 1d8 and Greater Dead 1d10. This transformation cannot be undone.
+Choose a Lesser Undying bound by you or a corpse sculpted by you. Its body is morphed in such a way that a bone banner will grow from its back with your insignia on it. It loses its ability to perform attacks. Any other bound by you Undying will feel encouraged and deal an additional damage for as long as the Bone Banner is within 30ft. Lesser Undying will deal an additional 1d6, Medium Undying 1d8 and Greater Undying 1d10. This transformation cannot be undone.
 
 #### Bone Spear -2 Stamina
 ::**Casting Time:** 1 action
@@ -2482,7 +2482,7 @@ The spell’s damage increases by 2d6 when you reach 4th level (5d6), 7th level 
 ::**Duration** Instantaneous
 <div style='margin-top:1px'></div>
 
-Violently explode your body and the body of one of the Dead you control. From the gore explosion of your Dead, you rebuild your body, teleporting over there. Any creature within 10ft of either your original location as the location of your new body, must make a Physical Agility saving throw. Creatures take 3d6 bludgeoning damage on a failed save, and half damage on success. The Dead you exploded is not rebuilt. 
+Violently explode your body and the body of one of the Undying you control. From the gore explosion of your Undying, you rebuild your body, teleporting over there. Any creature within 10ft of either your original location as the location of your new body, must make a Physical Agility saving throw. Creatures take 3d6 bludgeoning damage on a failed save, and half damage on success. The Undying you exploded is not rebuilt. 
 
 <div style='margin-top:-1px'></div>
 
@@ -2498,14 +2498,14 @@ Violently explode your body and the body of one of the Dead you control. From th
 ::**Duration** Concentration, up to 12 seconds
 <div style='margin-top:-1px'></div>
 
-You summon two Dead spirits that take the form of burning skulls and appear in the closest unoccupied spaces near you. These Raging Spirits take their initiative right after your turn. On their turn, they will seek out the closest enemy they can see and attack them if possible. If the spell ends, they will be reduced to 0 hit points. Recasting this spell will not break your concentration. Summoned Raging Spirits do not count towards the maximum Dead under your control. 
+You summon two Undying spirits that take the form of burning skulls and appear in the closest unoccupied spaces near you. These Raging Spirits take their initiative right after your turn. On their turn, they will seek out the closest enemy they can see and attack them if possible. If the spell ends, they will be reduced to 0 hit points. Recasting this spell will not break your concentration. Summoned Raging Spirits do not count towards the maximum Undying under your control. 
 
 _Exert: Summon 4 Raging Spirits._
 
 
 {{monster,frame
 ## Raging Spirit
-*Small* ***Lesser Dead***
+*Small* ***Lesser Undying***
 ___
 **Armour Class** 15
 **Hit Points**  :: 15
@@ -2570,7 +2570,7 @@ _Exert: Choose up to 8 corpses. Explosion radius becomes 15 feet._
 {{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
-| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Song of rest, Reinvigorating touch |
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the dead, Step into Death, Song of rest, Reinvigorating touch |
 | 2nd | +1 | Convocation |
 | 3rd | +1 | Ability Score Improvement, Team Tactics |
 | 4th | +2 | Soul Grip |
@@ -2600,7 +2600,7 @@ Any willing allied creature you touch in Death other than yourself, will be cons
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Target non-Dead creature in range must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target in range. If the secondary target is a non-Dead, it gains half the damage dealt in hit points. If the secondary target is Dead, it takes half the damage dealt in poison damage.
+Target non-Undying creature in range must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target in range. If the secondary target is a non-Undying, it gains half the damage dealt in hit points. If the secondary target is Undying, it takes half the damage dealt in poison damage.
 
 The spell’s damage increases by 1d8 when you reach 3th level (3d8), 6th level (4d8), and 9th level (5d8). 
 
@@ -2645,9 +2645,9 @@ The touch of your shadow-wreathed hand will cause the target to become enveloped
 ::**Duration** Up to 1 minute
 <div style='margin-top:0px'></div>
 
-Choose target Dead under your control you can see. When the target deals damage with attacks, you regain half of damage dealt rounded up as hit points.
+Choose target Undying under your control you can see. When the target deals damage with attacks, you regain half of damage dealt rounded up as hit points.
 
-_Exert: choose two target Dead._
+_Exert: choose two target Undying._
 
 
 \page
@@ -2679,7 +2679,7 @@ The plague counts as a natural disease and can be cured using non-magical means.
 ::**Duration** Concentration, Up to 1 minute
 <div style='margin-top:0px'></div>
 
-Target creature within range must make a Physical Constitution saving throw. Dead have advantage on this saving throw. On a failed save, the target has disadvantage on any attacks it makes. Regardless of success, the target takes 2d8 Necrotic damage. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. At the end of each of its turns, the target can make another Physical Constitution saving throw. On a success, the spell ends on the target.
+Target creature within range must make a Physical Constitution saving throw. Undying have advantage on this saving throw. On a failed save, the target has disadvantage on any attacks it makes. Regardless of success, the target takes 2d8 Necrotic damage. Until the spell ends, you can use a bonus action on each of your subsequent turns to cause this damage again. At the end of each of its turns, the target can make another Physical Constitution saving throw. On a success, the spell ends on the target.
 
 The spell’s damage increases by 1d8 when you reach 8th level (3d8) and 10th level (4d8). 
 
@@ -2697,7 +2697,7 @@ Starting at 5th level, your power over disease and illness makes you immune to d
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Choose up to three non-Dead creatures in range, which must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target for each primary target in range. If the secondary target is a non-Dead, it gains half the damage dealt in hit points. If the secondary target is Dead, it takes half the damage dealt as poison damage.
+Choose up to three non-Undying creatures in range, which must make a Charter Constitution saving throw. On a failed saving throw, the target takes 2d8 necrotic damage. Then choose a secondary target for each primary target in range. If the secondary target is a non-Undying, it gains half the damage dealt in hit points. If the secondary target is Undying, it takes half the damage dealt as poison damage.
 
 ## Level 9
 #### Grow Fungal Undying -2 Stamina
@@ -2744,7 +2744,7 @@ Choose a creature in range that you can see. Creature is considered Dazed. It mu
 {{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
-| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the Dead, Step into Death, Mordicant |
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the dead, Step into Death, Mordicant |
 | 2nd | +1 | Convocation |
 | 3rd | +1 | Ability Score Improvement, Team Tactics |
 | 4th | +2 | Soul Grip |
@@ -2760,9 +2760,9 @@ Choose a creature in range that you can see. Creature is considered Dazed. It mu
 You can make an Animator quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Aptitude. Second, choose the hermit background.  Third, choose the Charter saving throw protection bonus, picking at least Charisma and Intelligence saving throws.
 
 ### Mordicant
-  The Animator can create their own Dead by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Dead that died within the past week. 
+  The Animator can create their own Undying by using Free Magic. The Mordicant has a set of base stats and actions, which can be expanded depending on your Flesh Binder level. The Animator can then makes adaptations to the Mordicant, which can be found in the Mordicant Adaptation table. Every adaptation will require a certain amount of adaptation points, depending on how extensive the change is. To change a Mordicant, or to return it from Death, you require a corpse of a humanoid non-Undying that died within the past week. 
   
-  A Mordicant counts as a Greater Dead towards your maximum amount of Dead, but will never break free of your control for being over your maximum number of Dead controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
+  A Mordicant counts as a Greater Undying towards your maximum amount of Undying, but will never break free of your control for being over your maximum number of Undying controlled. If the Mordicant is bound by another creature than you, the Mordicant will simply not move or attack until it is returned to your side. Consult the following table to find how many adaptation points you have at specific levels. 
 
 <div style='margin-top:140px'></div>
 
@@ -2781,7 +2781,7 @@ To create the Mordicant, you have bonded your soul to your Mordicant and are abl
 
 {{monster,frame
 ## Mordicant
-*Large* ***Lesser Dead***
+*Large* ***Lesser Undying***
 ___
 **Armour Class** -
 **Hit Points**  :: -
@@ -3125,7 +3125,7 @@ This spell’s damage increases by 1d8 when you reach 3th level (2d8), 6th level
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You invoke the power of Clayr. Tendrils of white energy erupt from you and batter all Dead creatures within 10 feet of you. Each creature in that area must make a Charter Strength saving throw. On a failed save, a target takes 2d6 radiant damage + Aptitude modifier and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effects.
+You invoke the power of Clayr. Tendrils of white energy erupt from you and batter all Undying creatures within 10 feet of you. Each creature in that area must make a Charter Strength saving throw. On a failed save, a target takes 2d6 radiant damage + Aptitude modifier and can’t take reactions until its next turn. On a successful save, the creature takes half damage, but suffers no other effects.
 
 This spell’s damage increases by 1d6 when you reach 3th level (3d6), 6th level (4d6), and 9th level (5d6).
 
@@ -3234,7 +3234,7 @@ You can attempt to influence the future of a creature encased in Death Ice, by c
 ::**Duration** Concentration, Up to 1 minute
 <div style='margin-top:0px'></div>
 
-Target creature with an intelligence of 6 or higher must make a Charter Intelligence saving throw. Dead have disadvantage on this saving throw. On a failed save, the target sees an illusion from an ancient enemy or equivalent creature the target fears. While under the effect of this spell, the target will treat the illusion as real. The target will be attacked by the illusion and will be so convinced that the target will take 2d8 psychic damage. The target perceives the damage as a type appropriate to the illusion. At the end of each of the target's turns before the spell ends, the target must make a Charter Intelligence saving throw or take 1d8 psychic damage. On a successful save, the spell ends and the target will know who caused the illusion.
+Target creature with an intelligence of 6 or higher must make a Charter Intelligence saving throw. Undying have disadvantage on this saving throw. On a failed save, the target sees an illusion from an ancient enemy or equivalent creature the target fears. While under the effect of this spell, the target will treat the illusion as real. The target will be attacked by the illusion and will be so convinced that the target will take 2d8 psychic damage. The target perceives the damage as a type appropriate to the illusion. At the end of each of the target's turns before the spell ends, the target must make a Charter Intelligence saving throw or take 1d8 psychic damage. On a successful save, the spell ends and the target will know who caused the illusion.
 
 This spell’s damage at the end of the target's turn increases by 1d8 when you reach 3th level (2d8), 6th level (3d8), and 9th level (4d8).
 
@@ -3414,7 +3414,7 @@ You develop a greater sense of direction and can find your way anywhere. You can
 ::**Duration** Concentration, 10 story ticks
 <div style='margin-top:0px'></div>
 
-A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Charter Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. The Dead have disadvantage on this saving throw.
+A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-long line. Each creature in the line must make a Charter Constitution saving throw. On a failed save, a creature takes 6d8 radiant damage and is blinded until your next turn. On a successful save, it takes half as much damage and isn’t blinded by this spell. The Undying have disadvantage on this saving throw.
 You can create a new line of radiance as your action on any turn until the spell ends.
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 
@@ -4275,7 +4275,7 @@ While wearing this ring, the creature can recover 2 Stamina as an action. Once u
 ## Edge Dancer
 With a flourish, a cloaked gangly man flings his rapier at the surprised necromancer. With hardly a sound the rapier imbeds itself in the torso, only to disappear in a puff smoke, reappearing in the hands of the cloaked figure.
 
-Not wanting to be left out, his ally grabs one of the nearby Dead by its ankle, and throws the confused Dead into the confused necromancer, knocking both prone.
+Not wanting to be left out, his ally grabs one of the nearby Undying by its ankle, and throws the confused Undying into the confused necromancer, knocking both prone.
 
 Taking advantage of the confusion, a woman with a scorpion-like tail dashes forward, who finishes the necromancer off with a quick strike with her stinger.
 
@@ -4718,7 +4718,7 @@ When you roll a 1 or 2 on a damage die for an Attack you make with a melee weapo
 ::**Duration** Up to 4 Story ticks
 <div style='margin-top:0px'></div>
 
-You give off an impressive roar and inspire your allies. You and any Non-Dead ally in range gain half your Strength or Agility modifier rounded up in damage to any weapon attacks they do.
+You give off an impressive roar and inspire your allies. You and any Non-Undying ally in range gain half your Strength or Agility modifier rounded up in damage to any weapon attacks they do.
 
 _Exert: Any creature affected by your battle roar is no longer frightened._
 
@@ -5353,19 +5353,19 @@ Injury poison can be applied to Weapons, Ammunition, trap Components, and other 
 
 # Bestiary
 
-### Dead
+### Undying
 #### Water
-Any depth of flowing water is considered difficult terrain for Dead. 
+Any depth of flowing water is considered difficult terrain for Undying. 
 
-Any Dead standing in fast flowing water, must make a Water saving throw at the end of each of its turn. A Water saving throw is a simple d20 roll and the DC to meet is noted for each Dead.
+Any Undying standing in fast flowing water, must make a Water saving throw at the end of each of its turn. A Water saving throw is a simple d20 roll and the DC to meet is noted for each Undying.
 
 #### Charter stones
-Any Dead within 300ft of an unbroken Charter stone, have -2 to any attack roll or saving throw. Conversely, any Dead within 300ft of a broken Charter Stone have +2 to any attack rolls and saving throws.
+Any Undying within 300ft of an unbroken Charter stone, have -2 to any attack roll or saving throw. Conversely, any Undying within 300ft of a broken Charter Stone have +2 to any attack rolls and saving throws.
 
 
 {{monster,frame
 ## Dead Hand
-*Medium* ***Lesser Dead***
+*Medium* ***Lesser Undying***
 ___
 **Armour Class** :: 11
 **Hit Points** :: 32
@@ -5393,7 +5393,7 @@ ___
 :
 {{monster,frame
 ## Gore Crows
-*Medium swarm of tiny* ***Lesser Dead***
+*Medium swarm of tiny* ***Lesser Undying***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 35
@@ -5429,7 +5429,7 @@ ___
 
 {{monster,frame
 ## Dread Wolf
-*Medium*  ***Lesser Dead***
+*Medium*  ***Lesser Undying***
 ___
 **Armour Class** :: 14
 **Hit Points** :: 37
@@ -5455,7 +5455,7 @@ ___
 :
 {{monster,frame
 ## Oozing Lizard
-*Small*  ***Lesser Dead***
+*Small*  ***Lesser Undying***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 42
@@ -5477,7 +5477,7 @@ ___
 :
 {{monster,frame
 ## Decrepit Deer
-*Large*  ***Lesser Dead***
+*Large*  ***Lesser Undying***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 38
@@ -5506,7 +5506,7 @@ ___
 :
 {{monster,frame
 ## Ghastly Owl
-*Small*  ***Lesser Dead***
+*Small*  ***Lesser Undying***
 ___
 **Water Save DC** :: 16
 **Armour Class** :: 11
@@ -5530,7 +5530,7 @@ ___
 
 {{monster,frame
 ## Mordaut
-*Tiny dead*  ***Medium Dead***
+*Tiny dead*  ***Medium Undying***
 ___
 **Armour Class** :: 9
 **Hit Points** :: 43
@@ -5559,7 +5559,7 @@ The possession lasts until the body drops to 0 Hit Points, the Mordaut ends it a
 :
 {{monster,frame
 ## Shadow Hand
-*Medium*  ***Medium Dead***
+*Medium*  ***Medium Undying***
 ___
 **Armour Class** :: 13
 **Hit Points** :: 53
@@ -5574,7 +5574,7 @@ ___
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 3
 ___
-***Undead Fortitude.*** If damage reduces the Dead to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
 :
 ***Sunlight Sensitivity.*** While in sunlight, the Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
 ### Actions
@@ -5592,7 +5592,7 @@ ___
 
 {{monster,frame
 ## Howler
-*Medium*  ***Medium Dead***
+*Medium*  ***Medium Undying***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 45
@@ -5621,7 +5621,7 @@ ___
 :
 {{monster,frame
 ## Ravager
-*Medium*  ***Medium Dead***
+*Medium*  ***Medium Undying***
 ___
 **Armour Class** :: 15
 **Hit Points** :: 45
@@ -5651,7 +5651,7 @@ ___
 :
 {{monster,frame,wide
 ## Pillager
-*Medium*  ***Medium Dead***
+*Medium*  ***Medium Undying***
 ___
 **Armour Class** :: 8
 **Hit Points** :: 60
@@ -5686,7 +5686,7 @@ ___
 
 {{monster,frame
 ## Thralk
-*Large*  ***Greater Dead***
+*Large*  ***Greater Undying***
 ___
 **Armour Class** :: 17
 **Hit Points** :: 84
@@ -5702,7 +5702,7 @@ ___
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 5
 ___
-***Undead Fortitude.*** If damage reduces the Dead to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the Thralk drops to 1 hit point instead.
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the Thralk drops to 1 hit point instead.
 :
 ***Death Aura.***  At the start of each of the Thralk's turns, each creature within 5 feet of it must succeed on a DC 15 Charter Intelligence saving throw or take 10 (2d6) necrotic damage.
 ### Actions
@@ -5718,7 +5718,7 @@ The Thralk has two harpoon arms and can grapple up to two creatures at once.
 :
 {{monster,frame
 ## Ghlim
-*Medium*  ***Medium Dead***
+*Medium*  ***Medium Undying***
 ___
 **Armour Class** :: 16
 **Hit Points** :: 27
@@ -5741,7 +5741,7 @@ ___
 :
  -  The Ghlim appears as a drab, semi-translucent humanoid if it moves faster than half its speed.
  -  The Ghlim appears as a dim dark form if its reflection can be seen in a mirror or on another surface.
- -  Dead can see through this invisibility.
+ -  Undying can see through this invisibility.
  
 :
 ***Trackless.*** The Ghlim leaves no tracks to indicate where it has been or where it's headed.
@@ -5756,7 +5756,7 @@ ___
 
 {{monster,frame
 ## Rester 
-*Medium*  ***Greater Dead***
+*Medium*  ***Greater Undying***
 ___
 **Armour Class** :: 18
 **Hit Points** :: 196
@@ -5772,7 +5772,7 @@ ___
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 6
 ___
-***Undead Fortitude.*** If damage reduces the Dead to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
 :
 ***Relentless Hunger.*** If another creature deals damage to the Rester, the Rester's attack rolls have advantage until the end of its next turn, and the first time it hits with a hook attack on its next turn, the attack's target takes an extra 10 (2d8) psychic damage.
 :
@@ -5994,7 +5994,7 @@ ___
 **Challenge** :: 7
 ___
 
-**Imprisonment.** The Wood-Weir is a free magic creature ripped out of Death by powerful Free magic and locked into a wooden carving imbued with Free magic. It is therefore considered a Dead creature for most game purposes. However, it unaffected by water or charter stones in the manner Dead creatures are and cannot be controlled by the power of Saraneth. If the Wood-Weir is reduced to 0 hit points, it is considered slain and the free magic creature is released back into Death. The Wood-Weir will follow all commands by the Free magic sorcerer which has captured it, in a light most favourable to the sorcerer.
+**Imprisonment.** The Wood-Weir is a free magic creature ripped out of Death by powerful Free magic and locked into a wooden carving imbued with Free magic. It is therefore considered an Undying creature for most game purposes. However, it unaffected by water or charter stones in the manner Undying creatures are and cannot be controlled by the power of Saraneth. If the Wood-Weir is reduced to 0 hit points, it is considered slain and the free magic creature is released back into Death. The Wood-Weir will follow all commands by the Free magic sorcerer which has captured it, in a light most favourable to the sorcerer.
 :
 ### Actions
 ***Trample.***  The Wood-Weir can move it's movement speed + 10 in a straight line as an action. This movement does not provoke attacks of opportunity and can move through enemies, but must end in a unoccupied location. Any creatures the Wood-Weird walked over, must make a Physical Strength saving throw. They take 4d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone. 
