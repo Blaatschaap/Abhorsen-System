@@ -1741,6 +1741,20 @@ Beginning at 8th level, you can Reroll a saving throw that you fail. If you do s
 
 You let off an imbued cry that envelopes nearby allies like a warding veil, protecting them from harm. Whilst under the effect of the warding shout, all allied creatures have +2 to their AC and they cannot be affected by Charm.
 
+## Level 9
+#### Vacuum -4 Stamina
+::**Casting Time:** 1 action
+::**Range** 120 feet
+::**Components** V, S, M (a black marble)
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Physical Constitution saving throw. On a failed save, the creature takes 5d10 force damage, and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+
+## Level 10
+### Bell Savant
+You can use any bell as any other, such as using a Ranna bell as an Astarael bell.
+
 \page
 
 {{pageNumber,auto}}
