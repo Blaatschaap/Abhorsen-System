@@ -606,7 +606,18 @@ A Story Tick is the unit of story time that passes in which all relevant PC's an
 }}
 
 ### Dying Condition
-Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points is reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
+Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. You cannot regain hitpoints during your turn. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points is reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
+
+Every playable character will have access to the Spare the Dying ability.
+
+#### Spare the dying
+::**Casting Time:** 1 action
+::**Range** Touch 
+::**Components** S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+Touch a willing other creature with the dying condition. Suspend the progression of dying story ticks. If a creature's dying story ticks has been suspended for 3 story ticks, they regain 1 hp after their turn ends.
 
 ### Using items without proficiency
 You have disadvantage on any attacks or skill checks using items you are not proficient in.
@@ -1243,6 +1254,11 @@ At 6th level you gain additional imbuement options for your ammunition
 ## Level 9
 ### Spotter
 You have a +5 bonus to skill checks to find hidden creatures and traps.
+
+### Nature's Veil -2 Stamina
+You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
+ 
+You can use this feature 4 times, and you regain all expended uses when you finish a long rest.
 
 ## Level 10
 #### Spectral weapon -4 Stamina
@@ -3379,7 +3395,7 @@ Instead of targeting a creature, you can choose a location you have seen before 
 
 #### Prophesied missiles - 3 Stamina
 ::**Casting Time:** 1 action
-::**Range** self
+::**Range** Self
 ::**Components** V, S, M (A highly reflective and flat surface, which the spell consumes)
 ::**Duration** Concentration, up to 10 minute
 <div style='margin-top:0px'></div>
@@ -3419,6 +3435,31 @@ You can create a new line of radiance as your action on any turn until the spell
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 30-foot radius and dim light for an additional 30 feet. This light is sunlight.
 
 _Exert: You can create up to two lines of radiance, but a creature can only be affected by one of the lines._
+
+## Level 9
+
+#### Temportal Reverb -3 Stamina
+::**Casting Time:** 1 Reaction, when a creature you can see makes an attack roll or casts a spell.
+::**Range** 120ft
+::**Components** V, S 
+::**Duration** 1 story tick
+<div style='margin-top:0px'></div>
+
+You target the triggering creature, which must succeed on a Charter Intelligence saving throw or vanish, being thrown to another point in time and causing the attack to miss or the spell to be wasted. At the start of its next turn, the target reappears where it was or in the closest unoccupied space. The target does remember you casting the spell and being affected by it.
+
+## Level 10
+
+#### Time Stop -7 Stamina
+::**Casting Time:** 1 action
+::**Range** Self
+::**Components** V
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You briefly stop the flow of time for everyone but yourself. No time passes for other creatures, while you take 3 turns in a row, during which you can use actions and move as normal.
+
+This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 1,000 feet from the location where you cast it.
+
 
 
 \page
@@ -3722,6 +3763,43 @@ ___
 :
 ***Stomp.*** *Melee Weapon Attack:* +10 to hit, reach 5ft., one target. *Hit* 1d8 + 4 bludgeoning damage.
 }} 
+
+## Level 9
+
+#### Conjure Herbs -2 Stamina
+::**Casting Time:** 1 Action
+::**Range** Self
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You can make a gathering check for any herb in the gathering table, regardless if they grow locally.
+
+#### Conjure Potion -2* Stamina
+::**Casting Time:** 1 Action
+::**Range** Self
+::**Components** V, S
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You can conjure any potion or poison you can brew. The Stamina cost equals the brew's DC divided by 4 rounded up + 2.
+
+## Level 10
+
+#### Mass Grasping Vines
+::**Casting Time:** 1 Action
+::**Range** 90ft
+::**Components** V, S
+::**Duration** Concentration, Up to 10 story ticks
+<div style='margin-top:0px'></div>
+
+You conjure up to 4 vines that sprout from the ground in an unoccupied space of your choice that you can see within range. 
+
+Each vine can lash out to a creature within 30 feet of the vine. That creature must make a Physical Agility saving throw or be pulled 20 feet directly toward the vine. This movement will trigger attacks of opportunity. 
+
+Until the spell ends, you can direct the vines to lash out at the same creatures or other ones as a bonus action on each of your turns.
+
+
 
 \page
 
@@ -4072,6 +4150,62 @@ If a Prototype is reduced to 0 hit points, it explodes, dealing 25% of its total
 ##### Battery Improvements
 Your maximum amount of Infusements is increased by 2.
 
+\page
+
+{{pageNumber,auto}}
+
+
+## Level 9
+#### Fabricate -4 Stamina
+::**Casting Time:** 10 minutes
+::**Range** 120ft
+::**Components** V, S, M
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+You convert raw materials into products of the same material. For example, you can fabricate a wooden bridge from a clump of trees, a rope from a patch of hemp, and clothes from flax or wool.
+:
+
+Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
+:
+
+Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons
+
+_Exert: Casting time is reduced to 2 story ticks._
+
+## Level 10
+### Prototypes can move
+As a bonus action, you can move all prototypes under your control.
+
+#### Prototype Ballista -5 Stamina
+::**Casting Time:** 1 action
+::**Range** 5ft
+::**Components** V, S, M (any bow or crossbow)
+::**Duration** 10 Story Ticks
+<div style='margin-top:0px'></div>
+
+{{monster,frame
+## Prototype Ballista
+*Large*  ***Construct***
+___
+**Armour Class** :: 16
+**Hit Points** :: 20 + 4x Mysticist level
+**Speed**       :: 20 ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|16 (+3)|17 (+3)|6 (-2)|14 (+2)|1 (-5)	|1 (-5)	|13 (+1)|
+___
+**Damage Immunities:** :: poison
+**Condition Immunities:** :: exhaustion, poisoned
+___
+### Actions
+***Multiattack.*** The Prototype Ballista makes two attacks.
+:
+***Spear.*** *Ranged Weapon Attack:* your spell attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Mysticist level Piercing damage. Target must succeed on a Physical Agility saving throw or be restrained until the start of your next turn.
+:
+***Heavy bolt.*** *Ranged Weapon Attack:* your spell attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Mysticist level Bludgeoning damage. Target must succeed on a Physical Agility saving throw or be knocked up to 20 feet away from the ballista.
+}}
 
 \page
 
@@ -4413,7 +4547,7 @@ If you use the mage hand to place a weapon in your hand, you can use your bonus 
     The hand can’t attack, activate magic items, or carry more than 10 pounds.
 		
 		
-#### Shadow blink
+#### Shadow Step
 ::**Casting Time:** 1 bonus action
 ::**Range** Self
 ::**Components** V, S
@@ -4478,7 +4612,7 @@ At 3rd level, you gain one of the following features of your choice. You can cha
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 
 ##### Sneak
-The teleport range of your shadow blink is tripled. 
+The teleport range of your Shadow Step is tripled. 
 
 You also have advantage on any attempts to hide or avoid detection.
 
@@ -4547,6 +4681,15 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 ### Coup de Grace
 Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse or a ranged weapon.
 
+## Level 9
+### Shadow Step mastery
+You can use Shadow blink twice per turn as a free action. After performing a shadow blink, the first attack roll will be a critical hit on a 15 or higher.
+
+## Level 10
+
+#### Blink charge -3 Stamina
+If you move at least 20ft in straight line, as an bonus action you can Shadow Step up to 20 feet in a line, or 60 feet if you have the Sneak tactic. Any creatures between the start and end of your blink are teleported the distance of your Shadow Step in the same direction, or to the closest unoccupied space. Any teleported creatures other than you are knocked prone and lose their reaction.
+
 \page
 
 {{pageNumber,auto}}
@@ -4599,7 +4742,7 @@ You can replace an unarmed attack of an attack action with a Headbutt. On hit, t
 This ability’s damage increases by 1d6 when you reach 3th level (2d6), 6th level (3d6), and 9th level (4d6).
 
 #### Clothesline -2 Stamina
-You can use your action to make an unarmed melee attack making your arm into a hook, striking a large or smaller target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
+You can use your action to make an unarmed melee attack making your arm into a hook, striking a target with your bicep. If this attack hits, it knocks the target prone and deal 1d8 additional damage.
 
 _Exert: Strike up to two targets within melee range._
 
@@ -4657,6 +4800,22 @@ When you are hit by a melee attack, you can use your reaction and 2 stamina to m
 ## Level 8
 #### Earth Splitter -4 Stamina
 As an action, you stomp your foot with earth shattering power. Each creature in a 30-foot cone must make a Physical Agility saving throw. A creature takes 5d8 bludgeoning damage on a failed save, or half as much damage on a successful one.  Creatures who failed the saving throw are also knocked prone. A creature made of inorganic material such as stone, crystal, or metal has disadvantage on this saving throw. A nonmagical object that isn’t being worn or carried also takes the damage if it’s in the ability’s area.
+
+## Level 9
+### Flexilibity
+You can perform all your Stamina moves as either an action or a bonus action.
+
+### Overbearing
+You use a free action to take an overbearing pose until the start of your next turn, making all enemies be considered one size smaller for you.
+
+## Level 10
+
+#### Knee Dive -3 Stamina
+As an action, you can dive into a creature of your choice within 30 feet with your knees extended. You will move to the target, knocking you and the target prone. The target is considered restrained while you and the target remain prone and you do not move. The target receives 3d8 bludgeoning damage.
+
+If the target has a higher Strength score than you, it can use an action to break the restrain. Otherwise the target can use an action to attempt a double Strength skill contest against you, breaking the restrain on a success.
+
+
 
 \page
 
@@ -4821,6 +4980,57 @@ Your battle roar also grants affected creatures 2 x Edge Dancer level in tempora
 ## Level 8
 ### Inspire Flexibility
 Starting at 8th level, as a free action you can resolve one condition affecting an ally within 15ft of you, given you have immunity to that condition.
+
+## Level 9
+### Reliable strikes
+The first attack roll on your turn that you miss, you hit instead.
+
+## Level 10
+
+#### Morph Bright Shiner Aspect -3 Stamina
+::**Casting Time:** 1 bonus action
+::**Range** Self
+::**Components** S
+::**Duration** 5 story ticks
+<div style='margin-top:0px'></div>
+
+Using Free magic, gain one of the following aspects. This lasts for 5 story ticks. Only 1 Bright shiner aspect can be active at once. Durable Morph does not affect this aspect.
+
+##### Mosrael
+Gain advantage on Physical and Charter Strength Saving throws. You also gain advantage on all death saving throws and grappling ability checks. 
+
+You can move up to two layers in Death per turn. You must succeed on the respective checks to change layers.
+
+##### Kibeth
+Gain advantage on Physical and Charter Agility Saving throws. 
+
+Gain 15 feet of additional movement. Gain the ability to disengage as a free action.
+
+##### Saraneth
+Gain advantage on Physical Saving throws.
+
+Any melee hit you do, stuns Medium and Lesser Undying. On their turns, they wander their movement in a random direction, ignoring attacks of opportunity.
+##### Ranna
+Gain advantage on Physical and Charter Constitution Saving throws. 
+
+When you hit a creature that has less than half your maximum hp rounded up, the creature falls assleep. The creature wakes if it takes damage or if an action is used to wake the creature.
+##### Belgaer
+Gain advantage on Physical and Charter Intelligence Saving throws.
+
+You have advantage on all ability checks involving remembering things of the past or solving puzzles.
+
+##### Dyrim 
+Gain advantage on Physical and Charter Charisma Saving throws.
+
+You have advantage on initiative checks. When you hit a creature, you silence and deafen the creature until the start of your next turn.
+
+##### Astarael
+Gain advantage on Charter Saving throws.
+
+You gain the ability to step into Death as a bonus action. You no longer have to make checks to move between layers in Death, nor can you be grappled in Death against your will. 
+
+You take 5 psychic damage at the start of each of your turns while this aspect is active. This aspect ends if your health reaches 0. 
+
 
 \page
 
@@ -5271,7 +5481,7 @@ Gethre is a charter infused metal that resists the corruption caused by Free mag
 |:----:|:-----------|:------:|
 |**Common**|||
 | *Healing potion*  | Gain 2d4 + 2 hp 												| 30 GP |
-| *Healing salve*  | Gain 1d4 hp every round for 10 Story Ticks. 					|  25 GP |
+| *Healing salve*  | Gain 1d4 hp. Gain 1d4 hp every round for 5 Story Ticks. 					|  25 GP |
 |**Uncommon**|||
 | *Greater healing potion*  | Gain 4d4 + 4 hp 												| 90 GP |
 | *Giant Strength*  | Set your Str score to 20 for 10 Story Ticks.		| 60 GP |
@@ -5360,14 +5570,14 @@ Any depth of flowing water is considered difficult terrain for Undying.
 Any Undying standing in fast flowing water, must make a Water saving throw at the end of each of its turn. A Water saving throw is a simple d20 roll and the DC to meet is noted for each Undying.
 
 #### Charter stones
-Any Undying within 300ft of an unbroken Charter stone, have -2 to any attack roll or saving throw. Conversely, any Undying within 300ft of a broken Charter Stone have +2 to any attack rolls and saving throws.
+Any Undying within 300ft of an unbroken Charter stone, have -2 to any attack roll or saving throw. Conversely, any Undying within 300ft of a broken Charter Stone has +2 to any attack rolls and saving throws.
 
 
 {{monster,frame
 ## Dead Hand
 *Medium* ***Lesser Undying***
 ___
-**Armour Class** :: 11
+**Armour Class** :: 12
 **Hit Points** :: 32
 **Speed** :: 25ft.
 ___
@@ -5395,7 +5605,7 @@ ___
 ## Gore Crows
 *Medium swarm of tiny* ***Lesser Undying***
 ___
-**Armour Class** :: 8
+**Armour Class** :: 9
 **Hit Points** :: 35
 **Speed** :: Fly 40ft.
 ___
@@ -5479,7 +5689,7 @@ ___
 ## Decrepit Deer
 *Large*  ***Lesser Undying***
 ___
-**Armour Class** :: 8
+**Armour Class** :: 9
 **Hit Points** :: 38
 **Speed** :: 40ft.
 ___
@@ -5508,8 +5718,7 @@ ___
 ## Ghastly Owl
 *Small*  ***Lesser Undying***
 ___
-**Water Save DC** :: 16
-**Armour Class** :: 11
+**Armour Class** :: 12
 **Hit Points** :: 27
 **Speed** :: 5ft., fly 50ft
 ___
@@ -5517,6 +5726,7 @@ ___
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |3 (-4)|13 (+1)|12 (+1)|8 (-1)|2 (-4)	|7 (-2)	|12 (+1)|
 ___
+**Water Save DC** :: 16
 **Senses** :: Darkvision 120ft. passive Perception 14
 **Languages** :: -
 **Challenge** :: 1/2
@@ -5532,7 +5742,7 @@ ___
 ## Mordaut
 *Tiny dead*  ***Medium Undying***
 ___
-**Armour Class** :: 9
+**Armour Class** :: 10
 **Hit Points** :: 43
 **Speed** :: Fly 40ft.
 ___
@@ -5561,7 +5771,7 @@ The possession lasts until the body drops to 0 Hit Points, the Mordaut ends it a
 ## Shadow Hand
 *Medium*  ***Medium Undying***
 ___
-**Armour Class** :: 13
+**Armour Class** :: 14
 **Hit Points** :: 53
 **Speed** :: 35ft.
 ___
@@ -5594,7 +5804,7 @@ ___
 ## Howler
 *Medium*  ***Medium Undying***
 ___
-**Armour Class** :: 15
+**Armour Class** :: 17
 **Hit Points** :: 45
 **Speed** :: 40ft.
 ___
@@ -5623,7 +5833,7 @@ ___
 ## Ravager
 *Medium*  ***Medium Undying***
 ___
-**Armour Class** :: 15
+**Armour Class** :: 16
 **Hit Points** :: 45
 **Speed** :: 40ft.
 ___
@@ -5653,7 +5863,7 @@ ___
 ## Pillager
 *Medium*  ***Medium Undying***
 ___
-**Armour Class** :: 8
+**Armour Class** :: 9
 **Hit Points** :: 60
 **Speed** :: 25ft.
 ___
@@ -5669,7 +5879,7 @@ ___
 :
 ***Frenzy.*** If the Pillager is at half of its hit points or less, it gains the following features:
  - 15 ft additional movement (40 total)
- - Armour Class 13
+ - Armour Class 15
  - Multiattack: The Pillager makes two Bite attacks
  - Reaction: Aggressive: On taking damage, the Pillager can move up to half its movement speed towards the source of the damage.
 :
@@ -5688,7 +5898,7 @@ ___
 ## Thralk
 *Large*  ***Greater Undying***
 ___
-**Armour Class** :: 17
+**Armour Class** :: 18
 **Hit Points** :: 84
 **Speed** :: 25ft.
 ___
@@ -5758,7 +5968,7 @@ ___
 ## Rester 
 *Medium*  ***Greater Undying***
 ___
-**Armour Class** :: 18
+**Armour Class** :: 20
 **Hit Points** :: 196
 **Speed** :: 30ft.
 ___
