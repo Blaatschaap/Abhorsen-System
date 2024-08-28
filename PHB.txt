@@ -608,6 +608,8 @@ A Story Tick is the unit of story time that passes in which all relevant PC's an
 ### Dying Condition
 Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. You cannot regain hitpoints during your turn. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points is reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
 
+If you gain the dying condition while in Death, you will be get incapacitated and will be considered unstable.
+
 Every playable character will have access to the Spare the Dying ability.
 
 #### Spare the dying
@@ -731,7 +733,7 @@ There are also artefacts that allow entrance to Death. The most common of these 
 
 
 ## Returning from Death
-Once you enter Death and do not wish to pass the seventh gate, you will need to stabilize. This will be harder if your hit points at 0 and near impossible if your body and most specifically your brain are destroyed. If you have 0 hit points or worse, you will also be incapacitated in Death until you succeeded on your stabilisation saving throw. A stabilisation roll is considered a Death saving throw and will consist of a Charter Strength saving throw at the end of your turn. Upon success, you will stabilize, will no longer be incapacitated and stop your decent towards the seventh gate. Upon failure, you will go down one layer of Death, ever closer to true death.
+Once you enter Death through the dying condition and do not wish to pass the seventh gate, you will need to stabilize. This will be harder if your hit points at 0 and near impossible if your body and most specifically your brain is destroyed. If you have 0 hit points or worse, you will also be incapacitated in Death until you succeeded on your stabilisation saving throw. A stabilisation roll is considered a Death saving throw and will consist of a Charter Strength saving throw at the end of your turn. Upon success, you will stabilize, will no longer be incapacitated and stop your decent towards the seventh gate. Upon failure, you will go down one layer of Death, ever closer to true death.
 
 ##### Death stabilisation DC per layer
 | Current Layer | Destroyed body | 0 Hit points | 1+ Hit points |
@@ -993,7 +995,7 @@ This ritual can be shortened by using up Charter imbued silver. Imbuing the silv
 ::**Duration** 24 hours
 <div style='margin-top:0px'></div>
 
-You can imbue your weapon to gain additional benefits. Only you can only gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. At 8th level, you can imbue for free twice a day. Hits with an imbued weapon will critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
+You can imbue your weapon to gain additional benefits. Only you can gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. At 8th level, you can imbue for free twice a day. Hits with an imbued weapon will critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
 
  - Change your weapon damage type to either Fire, Thunder
  - Grant +5 movement speed
@@ -1052,7 +1054,7 @@ After you got hit by a weapon attack and have taken the damage, you can spend yo
 
 At 8th level, you attain the pinnacle of resilience in battle. At the start of each of your turns, you regain Hit Points equal to 5 + your Constitution modifier if you have no more than half of your Hit Points left.
 
-You don’t gain this benefit if you have 0 Hit Points.
+You don’t gain this benefit if you are in Death.
 
 \page
 
@@ -2393,7 +2395,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 {{classTable,frame
 | Level | Protection Bonus | Features |
 |:---:|:---:|:---|
-| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the dead, Step into Death, Master of the Undying, Profane Blood |
+| 1st | +1 | Saraneth, Mosrael, Belgaer, Astarael, Keeper of the dead, Step into Death, Master of the Undying, Profane Bloom |
 | 2nd | +1 | Convocation |
 | 3rd | +1 | Ability Score Improvement, Team Tactics |
 | 4th | +2 | Soul Grip |
@@ -2404,8 +2406,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 | 9th | +4 | - |
 | 10th | +4 | Ability Score Improvement |
 }}
-
-::
+:
 #### Quick Build
 You can make an Occultist quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Charisma. Second, choose the acolyte background. Third, choose the Charter saving throw protection bonus, picking at least Intelligence saving throw.
 
@@ -2428,7 +2429,7 @@ This ability’s damage increases when you reach 3th level (1d6 + 1d6), 6th leve
 
 A non-magical wall composed of a wild assortment of bones springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of 3 5-foot-by-5-foot panels. Each panel must be contiguous with at least one other panel. 
 
-If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (their choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Dexterity saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
+If the wall cuts through a creature’s space when it appears, the creature is pushed to one side of the wall (their choice). If a creature would be surrounded on all sides by the wall (or the wall and another solid surface), that creature can make a Physical Agility saving throw. On a success, it can use its reaction to move up to its speed so that it is no longer enclosed by the wall.
 
 The wall is an object made of bone that can be damaged and thus breached. Each panel has AC 15 and 30 hit points per panel. Reducing a panel to 0 hit points destroys it and might cause connected panels to collapse at the GM’s discretion. The wall disappears when the spell ends.
 
@@ -2628,7 +2629,7 @@ The spell’s damage increases by 1d8 when you reach 3th level (3d8), 6th level 
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You cleanse a creature of either one disease or one condition afflicting it. The condition removed can be blinded, deafened, paralyzed, or poisoned.
+You cleanse a creature of either one natural disease or one condition afflicting it. The condition removed can be blinded, deafened, paralyzed, or poisoned.
 
 _Exert: This spell's range is extended to 60 feet._
 
@@ -3342,7 +3343,7 @@ _Exert: This spell's range increases to 120ft._
 
 You create a Large hand of shimmering, translucent force in an unoccupied space that you can see within range. This hand will assist you in making any prophecies you make, a reality. The hand lasts for the spell’s duration, and it moves at your command, mimicking the movements of your own hand.
 
-The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Dexterity of 10 (+0). The hand doesn’t fill its space.
+The hand is an object that has AC 20 and hit points equal to your hit point maximum. If it drops to 0 hit points, the spell ends. It has a Strength of 26 (+8) and a Agility of 10 (+0). The hand doesn’t fill its space.
 
 When you cast the spell and as a bonus action on your subsequent turns, you can move the hand up to 60 feet and then cause one of the following effects with it.
 
@@ -4465,12 +4466,12 @@ Your quick thinking and agility allow you to move and act quickly. You can take 
 
 #### Dance with Death
 ::**Casting Time:** 1 bonus action
-::**Range** touch
+::**Range** Touch
 ::**Components** V, S
-::**Duration** two story ticks
+::**Duration** 5 story ticks
 <div style='margin-top:0px'></div>
 
-Touch target creature in Life and not encased in Death Ice. If within the next two story ticks they are forced into Death, they will immediately stabilise and will be stunned until the next start of their next turn.
+Touch a willing creature that has the dying condition. Suspend their 'send to death' counter. Any damage they take, you take instead. If maintained for 5 stock ticks, target gains 1 hp. You can break the bond at any time as a free action. Gaining the unconscious, paralyse or dying condition will break Dance with Death with all creatures whose bond you are maintaining.
 
 
 \page
@@ -4733,7 +4734,7 @@ When you use the Attack action with an unarmed strike on your turn, you can make
 While you are not wearing any armour and not wielding a shield, your Armour Class equals 11 + your Agility or Strength modifier + your Reflexes modifier. 
 
 #### Flying Bearhug -1 Stamina
-If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone, you also go prone, but you get to perform a headbutt as bonus action without paying the stamina cost.
+If you move at least 20ft straight toward a Large or smaller melee target, as an action you can jump at the target and try to wrestle it to the ground. If the target is a  creature, it must succeed on a Physical Strength saving throw or be knocked prone and be considered grappled by you. If the target goes prone,you get to perform a headbutt as bonus action without paying the stamina cost, before also going prone.
 
 _Exert: You can target up to Huge creatures._
 
@@ -5977,7 +5978,6 @@ ___
 |17 (+3)|9 (-1)|18 (+4)|19 (+4)|9 (-1)	|5 (-3)	|14 (+2)|
 ___
 **Water Save DC** :: 2
-**Skills** :: Intelligence +6
 **Senses** :: passive Perception 17
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 6
