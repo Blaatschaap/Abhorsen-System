@@ -31,183 +31,277 @@ Version V0.16
 
 {{pageNumber,auto}}
 
+{{toc,wide
+# Contents
 
-{{wide
-{{toc,column-count:5
-##### Table Of Contents
-- **[1 The Abhorsen System](#p1)**
-- **[2 World setting](#p3)**
-  - [The Old Kingdom](#p3)
-  - [The Old Kingdom History](#p4)
-  - [Ancelstierre](#p5)
-  - [Magic](#p6)
-  - [Creatures](#p7)
-  - [Death](#p8)
-- **[3 Game mechanics](#p9)**
-- **[4 Stamina](#p12)**
-  - [Regaining Stamina](#p12)
-  - [ Stamina moves](#p12)
-- **[5 Death](#p13)**
-  - [Soul Decay](#p13)
-  - [Entering Death](#p13)
-  - [Returning from Death](#p14)
-- **[6 Character creation](#p15)**
-  - [Step-By-Step](#p15)
-  - [Example character](#p16)
-- **[7 Classes](#p17)**
-  - **[Runic Knight](#p17)**
-    - [Diamond of protection](#p17)
-    - [Ability Score Improvement ](#p17)
-    - [Offensive Tactics](#p17)
-    - [Reliable Strikes](#p18)
-    - [Defensive Tactics](#p18)
-    - [Survivor](#p18)
-	- **[Warrior](#p19)**
-		- [Fighting Styles](#p19)
-		- [Charge](#p19)
-		- [Brutal Critical](#p19)
-		- [Aggressive](#p19)
-		- [Killing Stroke](#p19)
-		- [Relentless Endurance](#p19)
-		- [Action Surge](#p20)
-		- [Frenzy](#p20)
-	- **[Ranger](#p21)**
-		- [Nimble Fighter](#p21)
-		- [Quick reload](#p21)
-		- [Imbue ammunition](#p21)
-		- [Slayer's Prey](#p21)
-		- [Tumble](#p22)
-		- [Chain](#p22)
-		- [Additional Imbue Ammunition ](#p22)
-	- **[Guardian](#p23)**
-		- [Sentinel](#p23)
-		- [Defender](#p23)
-		- [Protector of Faith](#p23)
-		- [Protection](#p24)
-\column
-
-- **[Spellslinger](#p25)**
-    - [Bells](#p25)
-    - [Ability Score Improvement ](#p26)
-    - [Meta Magic tactics](#p26)
-	- **[Silencer](#p28)**
-		- [Bell master](#p28)
-		- [Front line fighter](#p28)
-		- [Inspiration](#p29)
-		- [Versatile tactics](#p29)
-		- [Thunderous Strikes](#p30)
-		- [Indomitable](#p30)
-	- **[Charter mage](#p31)**
-		- [Baptism](#p31)
-		- [Echo Tactics ](#p32)
-	- **[Elementalist](#p34)**
-		- [Elemental proficiency](#p34)
-		- [Elemental Tactics ](#p35)
-		- [Elemental Equilibrium](#p35)
-
-- **[Flesh Binder](#p37)**
-	- [Bells](#p37)
-	- [Keeper of the dead](#p37)
-	- [Step into Death](#p38)
-	- [Convocation](#p38)
-	- [Ability Score Improvement ](#p38)
-	- [Team Tactics ](#p38)
-	- [Soul grip](#p38)
-	- [Spell Tactics ](#p39)
-	- [Saraneth Mastery](#p39)
-	- **[Occultist](#p40)**
-		- [Master of the Dead](#p40)
-		- [Profane Bloom](#p40)
-	- **[Hemathurge](#p43)**
-		- [Song of rest](#p43)
-		- [Reinvigorating touch](#p43)
-		- [Disease mastery](#p44)
-	- **[Animator](#p45)**
-		- [Mordicant](#p45)
-		- [Extra Mordicant](#p47)
-		- [Lucky Mordicants](#p47)
-		- [Flesh Crafter](#p47)
-
-
-- **[Mysticist](#p48)**
-	- [Brew healing potion ](#p48)
-	- [Speak with Small Beasts](#p48)
-	- [Versatile Incantations](#p48)
-		- **[Watcher](#p51)**
-			- [Portent](#p51)
-			- [Sight](#p51)
-			- [Keen Mind](#p51)
-			- [Archery](#p51)
-			- [Danger sense](#p52)
-			- [Foresight Tactics ](#p52)
-			- [Ability Score Improvement ](#p52)
-			- [Fast learner](#p53)
-			- [Delay Tactics ](#p54)
-			- [Find the Path](#p54)
-		- **[Herbalist](#p55)**
-			- [Nature's guise](#p55)
-			- [Archery](#p55)
-			- [Mix potion](#p55)
-			- [Gather Herbs](#p56)
-			- [Ability Score Improvement ](#p57)
-			- [Herbal Tactics ](#p57)
-			- [Master of the Sickle](#p57)
-			- [Growth Tactics ](#p58)
-		- **[Tinkerer](#p60)**
-			- [Infuse Item](#p60)
-			- [Rapid Prototyping](#p62)
-			- [Mechanical Tactics ](#p63)
-			- [Ability Score Improvement ](#p63)
-			- [Scientist Tactics ](#p64)
-			- [Arcane Infusions](#p65)
-
-	
-	
-- **[Edge Dancer](#p68)**
-	- [Dance Poses](#p68)
-	- [Cunning Action](#p68)
-	- [Ability Score Improvement ](#p68)
-	- [Fast Movement](#p68)
-		- **[Trickster  ](#p69)**
-			- [Finesse weapon mastery](#p69)
-			- [Quick Draw](#p69)
-			- [Steel will](#p70)
-			- [Observant fighter](#p70)
-			- [Rogue Tactics ](#p70)
-			- [Flashing blades](#p70)
-			- [Dodging Tactics ](#p71)
-			- [Coup de Grace](#p71)
-		- **[Grappler](#p72)**
-			- [Hop up](#p72)
-			- [Beat down](#p72)
-			- [Unarmed strike](#p72)
-			- [Unarmoured Defense](#p72)
-			- [Claw Hands](#p72)
-			- [Wrestling Tactics ](#p73)
-			- [Uncanny dodge](#p73)
-			- [Brain Tactics ](#p73)
-
-- **[Morphling](#p74)**
-	- [Great Weapon Fighting](#p74)
-	- [Decay Tactics ](#p75)
-	- [Relentless Hunger](#p75)
-	- [Morph Additional Aspects](#p75)
-	- [Durable Morph](#p75)
-	- [Protection Tactics ](#p76)
-	- [Inspire Flexibility](#p76)
-
-- **[8 Feats](#p77)**
-- **[9 Equipment](#p82)**
-  - [Weapons](#p82)
-  - [Ammunition Modifications](#p84)
-  - [Armour](#p85)
-  - [Potions](#p86)
-  - [Poisons](#p87)
-- **[10 Bestiary](#p89)**
-- **[11 Changes from 5e](#p100)**
-- **[12 Credits](#p101)**
-- **[13 Open Gaming License 5e](#p102)**
+- ### [{{ The Abhorsen System}}{{ 1}}](#p1)
+- ### [{{ World setting}}{{ 5}}](#p5)
+  - #### [{{ The Old Kingdom}}{{ 5}}](#p5)
+    -  [{{ Charter Religion}}{{ 5}}](#p5)
+    -  [{{ Rulers}}{{ 5}}](#p5)
+    -  [{{ Towns}}{{ 5}}](#p5)
+    -  [{{ Ancelstierre Technology}}{{ 5}}](#p5)
+  -  [{{ The Old Kingdom History}}{{ 6}}](#p6)
+  - #### [{{ Ancelstierre}}{{ 7}}](#p7)
+    -  [{{ The Wall}}{{ 7}}](#p7)
+    -  [{{ The Perimeter}}{{ 7}}](#p7)
+  - #### [{{ Magic}}{{ 8}}](#p8)
+    -  [{{ The Five Great Charters}}{{ 8}}](#p8)
+    -  [{{ Charter stones}}{{ 8}}](#p8)
+    -  [{{ The Bells}}{{ 8}}](#p8)
+    -  [{{ Bell bandoliers}}{{ 8}}](#p8)
+  - #### [{{ Creatures}}{{ 9}}](#p9)
+  - #### [{{ Death}}{{ 10}}](#p10)
+- ### [{{ Game mechanics}}{{ 11}}](#p11)
+  - [{{ Ability Scores}}{{ 11}}](#p11)
+  - [{{ Dual Skill Checks}}{{ 11}}](#p11)
+  - [{{ Grappling}}{{ 12}}](#p12)
+  - [{{ Shove}}{{ 12}}](#p12)
+  - [{{ Massive Damage}}{{ 12}}](#p12)
+  - [{{ Checking the Charter mark}}{{ 12}}](#p12)
+  - [{{ Dazed Condition}}{{ 12}}](#p12)
+  - [{{ Concentration}}{{ 12}}](#p12)
+  - [{{ Getting up from prone}}{{ 12}}](#p12)
+  - [{{ Flanking}}{{ 12}}](#p12)
+  - [{{ Jumping}}{{ 12}}](#p12)
+  - [{{ Using potions}}{{ 12}}](#p12)
+  - [{{ Feats}}{{ 12}}](#p12)
+  - [{{ Exert}}{{ 12}}](#p12)
+  - [{{ Changing Tactics}}{{ 13}}](#p13)
+  - [{{ Story time}}{{ 13}}](#p13)
+  - [{{ Dying Condition}}{{ 13}}](#p13)
+  - [{{ Using items without proficiency}}{{ 13}}](#p13)
+  - [{{ Alternate Initiative system}}{{ 13}}](#p13)
+- ### [{{ Stamina}}{{ 14}}](#p14)
+  - #### [{{ Regaining Stamina}}{{ 14}}](#p14)
+  - #### [{{ Stamina moves}}{{ 14}}](#p14)
+    -  [{{ Movement}}{{ 14}}](#p14)
+    -  [{{ Attacking}}{{ 14}}](#p14)
+    -  [{{ Miscellaneous}}{{ 14}}](#p14)
+    ::::::::
+- ### [{{ Death}}{{ 15}}](#p15)
+  - #### [{{ Soul Decay}}{{ 15}}](#p15)
+  - #### [{{ Entering Death}}{{ 15}}](#p15)
+    -  [{{ Hitting 0 hit points}}{{ 15}}](#p15)
+    -  [{{ Free magic}}{{ 15}}](#p15)
+    -  [{{ Artefacts}}{{ 15}}](#p15)
+  - #### [{{ Returning from Death}}{{ 16}}](#p16)
+    -  [{{ Descending Death Layers}}{{ 16}}](#p16)
+    -  [{{ Grappling creature in Death}}{{ 16}}](#p16)
+    -  [{{ Force creatures down}}{{ 16}}](#p16)
+    -  [{{ Climbing Death layers}}{{ 16}}](#p16)
+- ### [{{ Character creation}}{{ 17}}](#p17)
+  - #### [{{ Step-By-Step}}{{ 17}}](#p17)
+  - #### [{{ Example character}}{{ 18}}](#p18)
+- ### [{{ Classes}}{{ 19}}](#p19)
+  - ### [{{ Runic Knight}}{{ 19}}](#p19)
+    -  [{{ Class Features}}{{ 19}}](#p19)
+    -  [{{ Diamond of protection}}{{ 19}}](#p19)
+    -  [{{ Ability Score Improvement}}{{ 20}}](#p20)
+    -  [{{ Offensive Tactics}}{{ 20}}](#p20)
+    -  [{{ Reliable Strikes}}{{ 20}}](#p20)
+    -  [{{ Defensive Tactics}}{{ 20}}](#p20)
+    -  [{{ Survivor}}{{ 20}}](#p20)
+  - ##### [{{ Subclasses}}{{ 21}}](#p21)
+  - #### [{{ Warrior}}{{ 21}}](#p21)
+    -  [{{ Fighting Styles}}{{ 21}}](#p21)
+    -  [{{ Charge}}{{ 21}}](#p21)
+    -  [{{ Brutal Critical}}{{ 21}}](#p21)
+    -  [{{ Aggressive}}{{ 21}}](#p21)
+    -  [{{ Killing Stroke}}{{ 21}}](#p21)
+    -  [{{ Relentless Endurance}}{{ 21}}](#p21)
+    -  [{{ Action Surge}}{{ 22}}](#p22)
+    -  [{{ Frenzy}}{{ 22}}](#p22)
+    -  [{{ Overwhelming hit}}{{ 22}}](#p22)
+    -  [{{ Spiteful}}{{ 22}}](#p22)
+  - #### [{{ Ranger}}{{ 23}}](#p23)
+    -  [{{ Nimble Fighter}}{{ 23}}](#p23)
+    -  [{{ Quick reload}}{{ 23}}](#p23)
+    -  [{{ Imbue ammunition}}{{ 23}}](#p23)
+    -  [{{ Slayer’s Prey}}{{ 23}}](#p23)
+    -  [{{ Tumble}}{{ 24}}](#p24)
+    -  [{{ Chain}}{{ 24}}](#p24)
+    -  [{{ Additional Imbue Ammunition}}{{ 24}}](#p24)
+    -  [{{ Spotter}}{{ 24}}](#p24)
+    -  [{{ Nature’s Veil -2 Stamina}}{{ 24}}](#p24)
+  - #### [{{ Guardian}}{{ 25}}](#p25)
+    -  [{{ Sentinel}}{{ 25}}](#p25)
+    -  [{{ Defender}}{{ 25}}](#p25)
+    -  [{{ Protector of Faith}}{{ 25}}](#p25)
+    -  [{{ Protection}}{{ 26}}](#p26)
+    -  [{{ Shield Pickup}}{{ 26}}](#p26)
+    -  [{{ Spectral Shield}}{{ 26}}](#p26)
 }}
+
+
+\page
+
+{{pageNumber,auto}}
+{{toc,wide,column-count:5
+# Contents
+  - ### [{{ Spellslinger}}{{ 27}}](#p27)
+    -  [{{ Class Features}}{{ 27}}](#p27)
+    -  [{{ Bells}}{{ 27}}](#p27)
+    -  [{{ Ability Score Improvement}}{{ 28}}](#p28)
+    -  [{{ Meta Magic tactics}}{{ 28}}](#p28)
+    - ##### [{{ Subclasses}}{{ 30}}](#p30)
+  - #### [{{ Silencer}}{{ 30}}](#p30)
+    -  [{{ Bell master}}{{ 30}}](#p30)
+    -  [{{ Front line fighter}}{{ 30}}](#p30)
+    -  [{{ Inspiration}}{{ 31}}](#p31)
+    -  [{{ Versatile tactics}}{{ 31}}](#p31)
+    -  [{{ Thunderous Strikes}}{{ 32}}](#p32)
+    -  [{{ Indomitable}}{{ 32}}](#p32)
+    -  [{{ Bell Savant}}{{ 32}}](#p32)
+  - #### [{{ Charter mage}}{{ 33}}](#p33)
+    -  [{{ Baptism}}{{ 33}}](#p33)
+    -  [{{ Echo Tactics}}{{ 34}}](#p34)
+  - #### [{{ Elementalist}}{{ 37}}](#p37)
+    -  [{{ Elemental proficiency}}{{ 37}}](#p37)
+    -  [{{ Elemental Tactics}}{{ 38}}](#p38)
+    -  [{{ Elemental Equilibrium}}{{ 38}}](#p38)
+    -  [{{ Reinvigorate}}{{ 39}}](#p39)
+    -  [{{ Wild Strike}}{{ 39}}](#p39)
+  - ### [{{ Flesh Binder}}{{ 40}}](#p40)
+    -  [{{ Class Features}}{{ 40}}](#p40)
+    -  [{{ Bells}}{{ 40}}](#p40)
+    -  [{{ Keeper of the dead}}{{ 41}}](#p41)
+    -  [{{ Step into Death}}{{ 41}}](#p41)
+    -  [{{ Convocation}}{{ 41}}](#p41)
+    -  [{{ Ability Score Improvement}}{{ 41}}](#p41)
+    -  [{{ Team Tactics}}{{ 42}}](#p42)
+    -  [{{ Soul grip}}{{ 42}}](#p42)
+    -  [{{ Spell Tactics}}{{ 42}}](#p42)
+    -  [{{ Saraneth Mastery}}{{ 42}}](#p42)
+  - ##### [{{ Subclasses}}{{ 43}}](#p43)
+  - #### [{{ Occultist}}{{ 43}}](#p43)
+    -  [{{ Master of the Undying}}{{ 43}}](#p43)
+    -  [{{ Profane Bloom}}{{ 43}}](#p43)
+    -  [{{ Ambiguous definitions}}{{ 45}}](#p45)
+  - #### [{{ Hemathurge}}{{ 46}}](#p46)
+    -  [{{ Song of rest}}{{ 46}}](#p46)
+    -  [{{ Reinvigorating touch}}{{ 46}}](#p46)
+    -  [{{ Disease mastery}}{{ 47}}](#p47)
+  - #### [{{ Animator}}{{ 48}}](#p48)
+    -  [{{ Mordicant}}{{ 48}}](#p48)
+    -  [{{ Mordicant adaptations}}{{ 49}}](#p49)
+    -  [{{ Extra Mordicant}}{{ 50}}](#p50)
+    -  [{{ Lucky Mordicants}}{{ 50}}](#p50)
+    -  [{{ Flesh Crafter}}{{ 50}}](#p50)
+    -  [{{ Restructure}}{{ 50}}](#p50)
+    -  [{{ Additional Adaptations}}{{ 51}}](#p51)
+    -  [{{ Additional adaptations}}{{ 51}}](#p51)
+  - ### [{{ Mysticist}}{{ 52}}](#p52)
+    -  [{{ Brew healing potion}}{{ 52}}](#p52)
+    -  [{{ Speak with Small Beasts}}{{ 52}}](#p52)
+    -  [{{ Class Features}}{{ 52}}](#p52)
+    -  [{{ Versatile Incantations}}{{ 52}}](#p52)
+  - ##### [{{ Subclasses}}{{ 55}}](#p55)
+  - #### [{{ Watcher}}{{ 55}}](#p55)
+    -  [{{ Portent}}{{ 55}}](#p55)
+    -  [{{ Sight}}{{ 55}}](#p55)
+    -  [{{ Keen Mind}}{{ 55}}](#p55)
+    -  [{{ Archery}}{{ 55}}](#p55)
+    -  [{{ Danger sense}}{{ 56}}](#p56)
+    -  [{{ Foresight Tactics}}{{ 56}}](#p56)
+    -  [{{ Ability Score Improvement}}{{ 56}}](#p56)
+    -  [{{ Fast learner}}{{ 57}}](#p57)
+    -  [{{ Delay Tactics}}{{ 58}}](#p58)
+    -  [{{ Find the Path}}{{ 58}}](#p58)
+  - #### [{{ Herbalist}}{{ 59}}](#p59)
+    -  [{{ Nature’s guise}}{{ 59}}](#p59)
+    -  [{{ Archery}}{{ 59}}](#p59)
+    -  [{{ Mix potion}}{{ 59}}](#p59)
+    -  [{{ Gather Herbs}}{{ 60}}](#p60)
+    -  [{{ Potion ingredients and brewing}}{{ 60}}](#p60)
+    -  [{{ Poison ingredients and brewing}}{{ 60}}](#p60)
+    -  [{{ Ability Score Improvement}}{{ 61}}](#p61)
+    -  [{{ Herbal Tactics}}{{ 61}}](#p61)
+    -  [{{ Master of the Sickle}}{{ 61}}](#p61)
+    -  [{{ Growth Tactics}}{{ 62}}](#p62)
+  - #### [{{ Tinkerer}}{{ 64}}](#p64)
+    -  [{{ Infuse Item}}{{ 64}}](#p64)
+    -  [{{ Rapid Prototyping}}{{ 66}}](#p66)
+    -  [{{ Mechanical Tactics}}{{ 67}}](#p67)
+    -  [{{ Ability Score Improvement}}{{ 67}}](#p67)
+    -  [{{ Scientist Tactics}}{{ 68}}](#p68)
+    -  [{{ Prototypes can move}}{{ 69}}](#p69)
+    -  [{{ Arcane Infusions}}{{ 70}}](#p70)
+
+}}
+
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+{{toc,wide
+# Contents
+  - ### [{{ Edge Dancer}}{{ 73}}](#p73)
+    -  [{{ Class Features}}{{ 73}}](#p73)
+    -  [{{ Dance Poses}}{{ 73}}](#p73)
+    -  [{{ Cunning Action}}{{ 73}}](#p73)
+    -  [{{ Ability Score Improvement}}{{ 74}}](#p74)
+    -  [{{ Fast Movement}}{{ 74}}](#p74)
+    -  [{{ Ambusher}}{{ 74}}](#p74)
+  - ##### [{{ Subclasses}}{{ 75}}](#p75)
+  - #### [{{ Trickster}}{{ 75}}](#p75)
+    -  [{{ Finesse weapon mastery}}{{ 75}}](#p75)
+    -  [{{ Quick Draw}}{{ 75}}](#p75)
+    -  [{{ Steel will}}{{ 76}}](#p76)
+    -  [{{ Observant fighter}}{{ 76}}](#p76)
+    -  [{{ Rogue Tactics}}{{ 76}}](#p76)
+    -  [{{ Flashing blades}}{{ 76}}](#p76)
+    -  [{{ Dodging Tactics}}{{ 77}}](#p77)
+    -  [{{ Coup de Grace}}{{ 77}}](#p77)
+    -  [{{ Shadow Step mastery}}{{ 77}}](#p77)
+  - #### [{{ Grappler}}{{ 78}}](#p78)
+    -  [{{ Hop up}}{{ 78}}](#p78)
+    -  [{{ Beat down}}{{ 78}}](#p78)
+    -  [{{ Unarmed strike}}{{ 78}}](#p78)
+    -  [{{ Unarmoured Defense}}{{ 78}}](#p78)
+    -  [{{ Claw Hands}}{{ 78}}](#p78)
+    -  [{{ Wrestling Tactics}}{{ 79}}](#p79)
+    -  [{{ Uncanny dodge}}{{ 79}}](#p79)
+    -  [{{ Brain Tactics}}{{ 79}}](#p79)
+    -  [{{ Flexilibity}}{{ 79}}](#p79)
+    -  [{{ Overbearing}}{{ 79}}](#p79)
+  - #### [{{ Morphling}}{{ 80}}](#p80)
+    -  [{{ Great Weapon Fighting}}{{ 80}}](#p80)
+    -  [{{ Decay Tactics}}{{ 81}}](#p81)
+    -  [{{ Relentless Hunger}}{{ 81}}](#p81)
+    -  [{{ Morph Additional Aspects}}{{ 81}}](#p81)
+    -  [{{ Durable Morph}}{{ 81}}](#p81)
+    -  [{{ Protection Tactics}}{{ 82}}](#p82)
+    -  [{{ Inspire Flexibility}}{{ 82}}](#p82)
+    -  [{{ Reliable strikes}}{{ 82}}](#p82)
+- ### [{{ Feats}}{{ 83}}](#p83)
+- ### [{{ Equipment}}{{ 88}}](#p88)
+  - #### [{{ Weapons}}{{ 88}}](#p88)
+    -  [{{ Brawn}}{{ 88}}](#p88)
+    -  [{{ Nimble}}{{ 88}}](#p88)
+    -  [{{ Impact}}{{ 88}}](#p88)
+    -  [{{ Finesse}}{{ 88}}](#p88)
+    -  [{{ Ammunition}}{{ 88}}](#p88)
+  - #### [{{ Ammunition Modifications}}{{ 90}}](#p90)
+  - #### [{{ Armour}}{{ 91}}](#p91)
+    -  [{{ Gethre}}{{ 91}}](#p91)
+  - #### [{{ Potions}}{{ 92}}](#p92)
+    -  [{{ Potion table}}{{ 92}}](#p92)
+  - #### [{{ Poisons}}{{ 93}}](#p93)
+    -  [{{ Poison Types}}{{ 93}}](#p93)
+    -  [{{ Poison table}}{{ 93}}](#p93)
+    -  [{{ Poison table continued}}{{ 94}}](#p94)
+- ### [{{ Bestiary}}{{ 95}}](#p95)
+  - #### [{{ Undying}}{{ 95}}](#p95)
+  - #### [{{ Free Magic Creatures}}{{ 102}}](#p102)
+- ### [{{ Changes from 5e}}{{ 108}}](#p108)
+- ### [{{ Credits}}{{ 109}}](#p109)
+- ### [{{ Still To Do}}{{ 109}}](#p109)
+- ### [{{ Open Gaming License 5e}}{{ 110}}](#p110)
+::::
 }}
 
 
@@ -217,38 +311,38 @@ Version V0.16
 
 # World setting
 :
-The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape is roughly like modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border with the Old Kingdom.
+The setting is focussed on the country The Old Kingdom and its neighbours. The Old Kingdom landscape resembles modern day Scotland, with lots of mountains and lakes. To the north are the steppes, populated by tribal barbarians. To the west is a vast desert with few oasis', while on the east there is the ocean. On the south is the country of Ancelstierre, with a massive wall on its border. Whilst the Old Kingdom and its northern neighbours have magic and feudal technology, Ancelstierre only has 1910's technology with magic only being available near the border with the Old Kingdom.
 
 ## The Old Kingdom
-The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Undying. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Undying cannot easily cross running water. Travelling is done in groups, generally accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26 hour days. 
+The Old Kingdom is a rugged land, sparsely populated and a low life expectancy. In the good times there is a standing army, with a ruler patrolling the land and protecting its inhabitants from the constant threat of the Undying. In the bad times, the villagers will have to fend for themselves. Towns are often close to peninsulas or islands, given the Undying cannot easily cross running water. Travelling is done in groups, sometimes accompanied by a charter mage to protect the merchants and other travellers. Time passes slower in the Old Kingdom, compared to other lands, resulting in 26-hour days. 
 
 ### Charter Religion
-Apart from being a source of magic, the Charter is also a form of religion. The common folk will generally choose to see the Charter as an omnipotent collection that protects them and grant the pious benefits. Powerful Charter Magic users will generally be seen as priests. A fair amount of the population can use very minor Charter Magic, for example to light a fire. These people will generally be considered favourably and will likely hold roles such as mayor.
+Apart from being a source of magic, the Charter is also a form of religion. The common folk tend to refer to the Charter as an omnipotent collection that protects them and grant the pious benefits. Powerful Charter Magic users are akin to priests. A fair amount of the population can use very minor Charter Magic, for example to light a fire. These people are held in high regard and tend to hold roles such as mayor.
 
-The charter is also sometimes referred to as the Pact of the Seven Bright Shiners.
+The Charter is also referred to as the Pact of the Seven Bright Shiners.
 
 ::::::::::::::::::
 
 ### Rulers
-The Old Kingdom is ruled by a king and queen. The king is in charge of the military arm of the country while the queen is in charge of the rest. 
+The Old Kingdom is a monarchy, with the king in charge of the military arm of the country while the queen takes care of the rest. 
 
 Their rule is hereditary. The first son or daughter is considered to be king- or queen-in-waiting. He/she will become the new ruler together with a partner chosen by him/her. This partner cannot be part of the royal line but must have an unsullied charter mark.
 
 
 
 #### Abhorsen
-This job title granted by the rulers of the Old Kingdom. The Abhorsen is tasked with keeping the Undying under control and sending them beyond the seventh gate. Generally a very gifted and strong Charter mage is picked who can also use Free Magic. This title can be held by one of the rulers should they choose to, but is generally given to another.
+This job title granted by the rulers of the Old Kingdom. The Abhorsen is tasked with keeping the Undying under control and sending them beyond the seventh gate. The Abhorsen tends to be a very gifted and strong Charter mage is picked who can also use Free Magic. This title can be held by one of the rulers should they be able to but is generally given to others.
 
-The Abhorsen will generally have several Abhorsen-in-waiting, as apprentices. The Abhorsen and his students have access to both Charter Magic and Free Magic and can therefore use all magic bells.
+The Abhorsen will prefer to have several Abhorsen-in-waiting, as apprentices. The Abhorsen and his students have access to both Charter Magic and Free Magic and can therefore use all magic bells.
 
 #### The Clayr
-The Clayr are an oracular group composed nearly entirely of women, who live in a snowy mountain called the Clayr's Glacier, in the northern part of the Old Kingdom. Nearly all are beautiful and possess nut-brown skin, pale blond hair, and eyes of blue or green. The Glacier is also home to the Great Library of the Clayr, which contains a variety of treasures, monsters, and rarities in addition to books. Due to the Clayr's precognitive Sight, within the Great Library, there are often rooms created for events which unfold decades or centuries later. 
+The Clayr are an oracular group composed almost exclusively of women, who live in a snowy mountain called the Clayr's Glacier, in the northern part of the Old Kingdom. They are all related and possess nut-brown skin, pale blond hair, and eyes of blue or green. The Glacier is also home to the Great Library of the Clayr, which contains a variety of treasures, monsters, and rarities in addition to books. Due to the Clayr's precognitive Sight, within the Great Library, there are often rooms created for events which unfold decades or centuries later. 
 
 ### Towns
-Most towns in the Old Kingdom will be walled to protect against the Undying. Villagers are often left to fend for themselves and are therefore generally quite close knit with a healthy dose of scepticism for outsiders.
+Most towns in the Old Kingdom will have walls to protect against the Undying. Villagers are often left to fend for themselves and are therefore generally quite close knit with a healthy dose of scepticism for outsiders.
 
 ### Ancelstierre Technology
-Most advanced technology does not play nicely with the Charter within the Old Kingdom. Cars will breakdown with welds coming apart and paint disintegrating into raw components. Machine fabricated clothes and paper will be reduced to scraps and rags. Guns will refuse to fire and grenades will not explode.
+Most advanced technology does not play nicely with the Charter within the Old Kingdom. Cars will breakdown with welds coming apart and paint disintegrating into raw components. Machine fabricated clothes and paper will be reduced to scraps and rags. Guns will refuse to function, and grenades will not explode.
 
 
 
@@ -258,11 +352,11 @@ Most advanced technology does not play nicely with the Charter within the Old Ki
 {{pageNumber,auto}}
 
 ## The Old Kingdom History
-In a time long past, chaotic magic creatures roamed free in the Old Kingdom. Of these creatures, nine were far more powerful than the other, as well as immortal. These nine creature became known as the Nine Bright Shiners. They feuded with each other and kept their own agenda. 
+In a time long past, chaotic magic creatures roamed free in the Old Kingdom. Of these creatures, nine were far more powerful than the other, as well as immortal. These nine creatures became known as the Nine Bright Shiners. They feuded with each other and kept their own agenda. 
 
 One of the Bright Shiners, named Orannis, was tired of the endless struggle and sought to end it, by attempting to reduce every living creature to an Undying creature under his control. The other Bright Shiners learned of his plan and banded together, with seven bright shiners forming a pact named the Charter. The goal of the Charter was to permanently bind Orannis and seal away his influence over the Undying. Yrael, the remaining Bright shiner not in the Charter, initially promised aid for binding Orannis, but backed out in the end, attempting to remain neutral. Without Yraels help though, only a partial binding was achieved. The Charter managed to split Orannis in two, binding him in eternal sleep until his two halves are reformed. 
 
-Orannis' influence lingered however, with his Undying reduced to mindless zombies, perpetually hungry for Life. His followers also remained, necromancers controlling the Undying for their own wicked gains. In order to curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Undying out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Undying lower and lower into the realm of Death, until they are banished from existence. 
+Orannis' influence lingered however, with his Undying reduced to mindless zombies, perpetually hungry for Life. His followers also remained, necromancers controlling the Undying for their own wicked gains. To curb the necromancers, the Charter created a river in the realm of Death, attempting to flush any Undying out of existence. This divided Death up in seven precincts, with each Bright Shiner attempting to push the Undying lower and lower into the realm of Death, until they are banished from existence. 
 
 These acts severely weakened the Bright Shiners of the Charter, but the land was not yet safe, with necromancers still managing to reanimate the Undying. Yrael also still roamed free, having betrayed the Charter. The Charter banded together again and punished Yrael, forcing him to forever serve the bloodline of the Abhorsen, until the Abhorsen thought his sentence finished. In a final act of desperation to prevent Orannis' corruption of the world, the Bright Shiners dissolved parts of their being in order to contain Orannis. Each would lend their power to the people, forming what is now known as Charter Magic. Each would also grant specific boons to the people. Five of them fully surrendered their bodies and formed the five Great Charter stones.
 
@@ -272,7 +366,7 @@ Two of them worked together on their boon, transforming into the Wall, a massive
 One gave their blessing to a bloodline, intending them to rule the land and protect its people from the followers of Orannis. This bloodline became the kings and queens of the Old Kingdom.
 One of them blessed the bloodline of what is now known as the Abhorsens, granting them power to hunt down the followers of Orannis and their Undying.
 One of them imbued the denizens of the Glacier, granting them the ability to predict the future, so they could warn the land.
-It is not known what happened to the remaining two, but given they did not form a Great Charter stone; it is believed they still roam the land in their diminished forms.
+It is not known what happened to the remaining two but given they did not form a Great Charter stone; it is believed they still roam the land in their diminished forms.
 
 #### Knowledge of the history
 Children infused with a Charter Mark living in the Old Kingdom naturally remember the following poem. Adults remember the poem exists, but its knowledge of its content will disappear from memory gradually over an hour after hearing or reading it.
@@ -301,14 +395,14 @@ Forever to lie there wishing us ill.
 
 {{pageNumber,auto}}
 ## Ancelstierre
-Ancelstierre is culturally and technologically based on pre-WWI Britain. There are boarding schools, biplanes and most of the long distance communication is based upon radio. Cars exist, but are somewhat rare and expensive. Most roads are made for carts and not for cars.
+Ancelstierre is culturally and technologically based on pre-WWI Britain. There are boarding schools, biplanes and most of the long-distance communication is based upon radio. Cars exist but are somewhat rare and expensive. Most roads are made for carts and not for cars.
 
 Ancelstierre is quite large and generally at war with its southern neighbours. The military plays a big role in the political landscape, but is beholden to the politicians.
 
 Most southern consider magic a myth and will generally look down upon northern Ancelstierriens who actually deal with free and charter magic on a daily basis. Because of this, most army recruits coming from the south get a rude awakening if they are stationed in or near the Perimeter.
 
 ### The Wall
-The Wall is made by two of the Bright Shiners from the Charter and separates Ancelstierre and the Old Kingdom. The Wall is a vast 30 ft high earthen wall stretching from coast to coast, looking akin to large dunes. The wall was made to protect other areas from the Undying and Orannis. The Undying cannot cross the Wall without sustaining damage or weakening them. This does not stop them from constantly trying to cross into Ancelstierre, where life is in abundance and poorly defended.
+The Wall was created by two of the Bright Shiners from the Charter and separates Ancelstierre and the Old Kingdom. The Wall is a vast 30 ft high earthen wall stretching from coast to coast, looking akin to large dunes. The wall was made to protect other areas from the Undying and Orannis. The Undying cannot cross the Wall without sustaining damage or weakening them. This does not stop them from constantly trying to cross into Ancelstierre, where life is in abundance and poorly defended.
 
 #### Crossing points
 Over the years, several crossing points have been made in the wall. At these crossings the Wall is lowered to allow for easier trade. Because of this, the protections against the Undying are also lower here, making it a preferred place of entry for the Undying and their allies. Nowadays, all crossing points have guards on the Ancelstierre side of the wall in order to protect northern Ancelstierre.
@@ -316,21 +410,21 @@ Over the years, several crossing points have been made in the wall. At these cro
 ::::::::::::::::::::::
 
 ### The Perimeter
-The Perimeter is a roughly 20 mile wide strip of land on the Ancelstierre side of the wall. There is a heavy presence of military in this area. Due to the closeness to the wall, magic will generally work here and technology will often fail. There is no radio contact possible if strong winds are blowing from the Old Kingdom. 
+The Perimeter is a roughly 20-mile-wide strip of land on the Ancelstierre side of the wall. There is a heavy presence of military in this area. Due to the closeness to the wall, magic will generally work here, and technology will often fail. There is no radio contact possible if fierce winds are blowing from the Old Kingdom. 
 
-The dead can generally survive in the Perimeter, but may combust if out during a bright day. Free and Charter magic will work in this area, but will fail the further from the wall it is used.
+The dead can generally survive in the Perimeter but may combust if out during a bright day. Free and Charter magic will work in this area but will fail the further from the wall it is used.
 
 #### The Wall Garrison
-The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has a very high death rate under new recruits due to constant attacks from the Undying, but any reports about the Undying are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore most soldiers, who survive their initial confrontations with the Undying, will arm themselves with swords and bows. This is generally done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
+The garrison tasked with securing the border is named the Wall Garrison. The Wall Garrison finds itself in a precarious position. It has an exceedingly high death rate under new recruits due to constant attacks from the Undying, but any reports about the Undying are dismissed as superstition by the generals down south. Their guns and trucks are prone to failure based on proximity to the wall. Therefore, most soldiers who survive their initial confrontations with the Undying, will arm themselves with swords and bows. This is done out of pocket, given that any requests for issued medieval weaponry is denied by the capital.
 
 Northern Ancelstierriens who have a knack for Charter or Free Magic will generally be put in small patrol groups spread throughout the Perimeter. If Undying are found attacking the wall, they will be called to save the regular soldiers.
 
 #### Prohibited Zone
-This is the area directly bordering the Wall and is filled with hand forged barbed wire and trenches. Due to the Undying commonly looking fairly human until they start attacking, it is hard to decipher if a person is human or Undying. Therefore the Wall Garrison has the policy to shoot any trespassers who cannot quickly identify themselves and have a permit to be near the wall. 
+The Prohibited Zone is the area directly bordering the Wall and is filled with hand forged barbed wire and trenches. Due to the Undying commonly looking fairly human until they start attacking, it is hard to decipher if a person is human or Undying. Therefore, the Wall Garrison has the policy to shoot any trespassers who cannot quickly identify themselves and have a permit to be near the wall. 
 
 
 ##### Prohibited zone border
-The prohibited zone's border is commonly marked by signs containing the following text:
+The prohibited zone's border is marked by signs containing the following text:
 {{descriptive
 ##### Trespassers will be shot without warning!
 }}
@@ -343,7 +437,7 @@ The prohibited zone's border is commonly marked by signs containing the followin
 ## Magic
 In the Old Kingdom, magic takes two forms: Free Magic or Charter Magic. The former is older, and natural in origin, whereas the latter is imposed as an assurance of order, by the immortal 'Seven Bright Shiners'. 
 
-Some Free Magic remains in the world, mainly in various breeds of monsters and certain magic users. 
+Some Free Magic remains in the world, in various breeds of monsters and certain magic users. 
 
 The Charter is described as an "endless flow" of symbols describing the cosmos; each used by magicians to achieve psycho kinesis. The composition of spells ranges from single Charter marks to long series requiring a 'master mark' and sometimes a physical focus (typically a sword or wand). 
 
@@ -502,7 +596,7 @@ These stats determine your modifiers for all the skill checks and saving throws.
 |                 |Maximum Stamina				    | Arcana |
 |                 |Charter saving throws		  | Casting spells |
 }}
-:::
+:::::
 ### Dual Skill Checks
 Skill checks, hit checks and saving throws will use a d20 as used in 5e.
 Skill checks will consist of using the modifiers of two ability scores. This can be two of the same modifiers. For example, if the player has to carry a heavy object a fair distance, the GM could ask you to roll a d20 and add your Strength and Constitution modifiers. But if it was simply lifting a very heavy boulder, it might require a Strength + Strength check, known as a double Strength check.
@@ -558,7 +652,7 @@ Concentration saving throws use Charter Constitution saving throws to maintain c
 <div style='margin-top:140px'></div>
 
 ### Getting up from prone
-In addition to using up half your speed, getting up from prone will also provoke attacks of opportunity. You are still considered prone for these attacks of opportunity.
+In addition to using up half your speed, getting up from prone will also provoke attacks of opportunity. You are considered prone for these attacks of opportunity.
 
 ### Flanking
 When making a melee attack, you gain a +1 to all attack rolls if your opponent is threatened by a character or creature friendly to you on the opponent’s opposite border or opposite corner.
@@ -576,7 +670,7 @@ You can drink a potion as a bonus action, given the potion is already in your po
 You can spend an action to use a potion on a willing or unconscious creature. For this the potion must be reachable and not worn of carried by another creature. You can use this action to for instance feed a healing potion from your belt to an ally, or else to drink a potion left unsupervised on the counter. 
 
 ### Feats
-A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. At certain levels, your class gives you the Ability Score Improvement feature. Using the feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once, unless the feat's description says otherwise.
+A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides. At certain levels, your class gives you the Ability Score Improvement feature. Using the feats rule, you can forgo taking that feature to take a feat of your choice instead. You can take each feat only once unless the feat's description says otherwise.
 
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler fear requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow - perhaps by a withering curse - you can't benefit from the Grappler feat until your Strength is restored.
 
@@ -589,7 +683,7 @@ Some Stamina abilities allow you to exert them. You will get a stronger effect, 
 
 ### Changing Tactics
 Some groups of features are marked as a tactic. These are mutually exclusive features where a choice will have to be made which of the features you want for your character.
-It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns ones psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to change their tactic.
+It is possible to switch between tactics in an extended downtime during which a character studies, exchanges charter marks or realigns one’s psyche, as relevant for your character. This requires a long rest of at least 24 hours. If the rest is interrupted by a period of strenuous activity—at least 1 hour of walking, fighting, casting Spells, or similar Adventuring activity—the characters must begin the rest again to change their tactic.
 
 At the end, a character can change one of his or her tactics, as well as all the usual benefits from a long rest.
 
@@ -598,7 +692,7 @@ Story time is what we call the time as the characters perceive it, from the pers
 
 Under most circumstances, story time has no actual relation to real time. For example, a combat exchange might take a few minutes to play out in real time, but it only covers what happens in the first few seconds of a conflict. Likewise, you can cover long swaths of time simply by saying that it happens (“The contact takes two weeks to get back to you—are you doing anything while you wait, or can we just skip to the meeting?”). When used this way, it’s really just a convenience, a narrative device in order to add realism and some consistency to your story.
 
-The length of a 'story time unit' will very heavily between scenes. Therefore it is not always logical to use absolute values of time for certain game mechanics. The story you are trying to tell might lose a fair amount of its tension if you see somebody getting attacked 200 meters away if you know that person will be sent to Death and permanently have died by the time you can get there. This is why certain game mechanics where this is relevant will refer to Story Ticks instead of minutes or hours. This way, the same consistent rules can be used for somebody dying in combat and somebody wasting away from a disease.
+The length of a 'story time unit' will very heavily between scenes. Therefore, it is not always logical to use absolute values of time for certain game mechanics. The story you are trying to tell might lose a fair amount of its tension if you see somebody getting attacked 200 meters away if you know that person will be sent to Death and permanently have died by the time you can get there. This is why certain game mechanics where this is relevant will refer to Story Ticks instead of minutes or hours. This way, the same consistent rules can be used for somebody dying in combat and somebody wasting away from a disease.
 
 {{note
 ##### Story Tick
@@ -606,9 +700,9 @@ A Story Tick is the unit of story time that passes in which all relevant PC's an
 }}
 
 ### Dying Condition
-Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. You cannot regain hitpoints during your turn. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points is reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
+Dying is a new condition that will afflict you whenever you reach 0 hit points. Dying reduces your movement to 0 as well as leaving you Prone, Dazed and Blinded. You cannot regain hit points during your turn. The Dying condition ends the moment you regain any hit points, although you will likely still be Prone. If your hit points are reduced even further whilst afflicted by Dying, you will enter Death, ending the dying condition. If you do not regain hit points over your next two story ticks, you will also be sent to Death at the end of your turn.
 
-If you gain the dying condition while in Death, you will be get incapacitated and will be considered unstable.
+If you gain the dying condition while in Death, you will are incapacitated and will be considered unstable.
 
 Every playable character will have access to the Spare the Dying ability.
 
@@ -625,15 +719,15 @@ Touch a willing other creature with the dying condition. Suspend the progression
 You have disadvantage on any attacks or skill checks using items you are not proficient in.
 
 ### Alternate Initiative system
-This is an optional alternative initiative system intended to make combat less dependant on individual initiatives. It goes as follows:
+This is an optional alternative initiative system intended to make combat less dependent on individual initiatives. It goes as follows:
 
  - Every player rolls initiative as normal.
  - GM rolls initiative for monster with the highest initiative only.
  - Highest initiative goes first, as normal.
- - if a player went first, then the highest initiative monster goes second.  After that, the next highest initiative player, followed by the second highest initiative monster.  Battle alternates between a players turn and a monsters turn whenever possible,.
+ - if a player went first, then the highest initiative monster goes second.  After that, the next highest initiative player, followed by the second highest initiative monster.  Battle alternates between a players turn and a monsters turn whenever possible.
  - If the monster won initiative, it goes first, then everything goes the same as the previous step.
  
- This system prevents stacks of monsters all acting at once and whiping out the party before they got to act, or vice versa. This removes a lot of randomness from the initiative order and to less one-sided battles, whilst still promoting a higher initiative score. 
+ This system prevents stacks of monsters all acting at once and wiping out the party before they got to act, or vice versa. This removes a lot of randomness from the initiative order and to less one-sided battles, whilst still promoting a higher initiative score. 
 \page
 
 {{pageNumber,auto}}
@@ -700,7 +794,7 @@ On your turn, you can use your bonus action and spend 2 stamina to bolster the r
 Whilst in or near the Old Kingdom, there is a dimension other than the physical world named Death. The physical realm is named Life. The souls of all creatures that die will find themselves drawn into Death. Death is a wet and gloomy place with seven layers, each with more and faster flowing water, but less light. The water will seep your strength and willpower in order to incapacitate you and take you deeper into Death. Where the first layer consists of a tame stream and puddles, the fifth layer is a massive whirlpool, ever flowing and pulling you towards the seventh layer. Between each layer there are barriers named gates. These vary from a small waterfall to the before mentioned whirlpool. It is possible to return from Death, but the deeper you are in Death, the harder it is. Beyond the seventh layer and its gate, lies true death. It is unknown what this entails, but nothing has ever returned from there.
 
 #### Your body whilst in Death
-Whilst your soul is within Death, your body will be encased in ice, incapacitating your body. You cannot move, perform actions or reactions and cannot gain hit points. Any attack on your body will automatically hit, but cannot critically strike you. Your body will also automatically fail all Physical saving throws.
+Whilst your soul is within Death, your body will be encased in ice, incapacitating your body. You cannot move, perform actions or reactions and cannot gain hit points. Any attack on your body will automatically hit but cannot critically strike you. Your body will also automatically fail all Physical saving throws.
 
 ## Soul Decay
 If your soul only spends a short period of time in Death and your body is still mostly intact, it is possible to return to your body without permanent effects. However, if your soul stays in Death for long periods of time on end, your soul will start to degrade. You will lose your personality traits and hunger more and more to taking the life of others. Eventually the hunger will overtake your senses and you will transform into one of the Undying. These are souls that simply refuse to stay dead and will seek ways of returning to Life.
@@ -721,7 +815,7 @@ If a creature drops to 0 hit points, that creature will gain the dying condition
 Every Story Tick the creature will potentially fall deeper into Death. If the creature passes the seventh layer of Death, the creature body will no longer be encased in ice and cannot return. Entering Death without any hit points makes it very likely that you will pass the seventh gate without outside help.
 
 ### Free magic
-If you are a Free magic user, you will have natural connection with the Death dimension. Some free magic users can freely move into Death without being reduced to zero hit points. This will reduce the pull of the water, but will hardly make Death a safe space. The water can still drag you down and there could be Undying hunting you and trying to use you to return to Life.
+If you are a Free magic user, you will have natural connection with the Death dimension. Some free magic users can freely move into Death without being reduced to zero hit points. This will reduce the pull of the water but will hardly make Death a safe space. The water can still drag you down and there could be Undying hunting you and trying to use you to return to Life.
 
 ### Artefacts
 There are also artefacts that allow entrance to Death. The most common of these are the various bells magic users have, but there are also artefacts that do not require the user to have magical powers. This last category of artefact is very rare and sought after.
@@ -733,7 +827,7 @@ There are also artefacts that allow entrance to Death. The most common of these 
 
 
 ## Returning from Death
-Once you enter Death through the dying condition and do not wish to pass the seventh gate, you will need to stabilize. This will be harder if your hit points at 0 and near impossible if your body and most specifically your brain is destroyed. If you have 0 hit points or worse, you will also be incapacitated in Death until you succeeded on your stabilisation saving throw. A stabilisation roll is considered a Death saving throw and will consist of a Charter Strength saving throw at the end of your turn. Upon success, you will stabilize, will no longer be incapacitated and stop your decent towards the seventh gate. Upon failure, you will go down one layer of Death, ever closer to true death.
+Once you enter Death through the dying condition and do not wish to pass the seventh gate, you will need to stabilize. This will be harder if your hit points are at 0 and near impossible if your body and most specifically your brain is destroyed. If you have 0 hit points or worse, you will also be incapacitated in Death until you succeeded on your stabilisation saving throw. A stabilisation roll is considered a Death saving throw and will consist of a Charter Strength saving throw at the end of your turn. Upon success, you will stabilize, will no longer be incapacitated, and stop your decent towards the seventh gate. Upon failure, you will go down one layer of Death, ever closer to true death.
 
 ##### Death stabilisation DC per layer
 | Current Layer | Destroyed body | 0 Hit points | 1+ Hit points |
@@ -892,7 +986,7 @@ Your maximum stamina is 5 + (your level * 3) + your Constitution modifier and yo
 
 
 ## Example character
-Sabriël is a level 1 Spellslinger with a Sage background. She choose the Charter mage subclass and to use the standard array of ability scores. She upgrades her Aptitude score. She finishes by electing to be proficient in the Strength, Constitution and Charisma Charter saving throws. 
+Sabriël is a level 1 Spellslinger with a Sage background. She chooses the Charter mage subclass and to use the standard array of ability scores. She upgrades her Aptitude score. She finishes by electing to be proficient in the Strength, Constitution and Charisma Charter saving throws. 
 
 Her choices (and her equipment) mean that she gains the following stats:
 
@@ -995,14 +1089,14 @@ This ritual can be shortened by using up Charter imbued silver. Imbuing the silv
 ::**Duration** 24 hours
 <div style='margin-top:0px'></div>
 
-You can imbue your weapon to gain additional benefits. Only you can gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. At 8th level, you can imbue for free twice a day. Hits with an imbued weapon will critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
+You can imbue your weapon to gain additional benefits. Only you can gain benefits from weapons you enchanted. The imbuement will last for one day. This action is free the first time on a day, but any further imbuement will expend two stamina. At 8th level, you can imbue for free twice a day. Hits with an imbued weapon will be critical on a 19 and 20 on the die roll. The weapon imbuement will also grant **one** of the following benefits:
 
  - Change your weapon damage type to either Fire, Thunder
  - Grant +5 movement speed
  - Grant a minimum initiative of 10
  
  
- Alternatively you can imbue a cloak. Any creature wearing the cloak or else if their physical body is covered by the cloak (even if encased in ice), will always count as having 1+ hp in Death. Their maximum hit points also rise by 6 + 2 x Runic Knight level.
+ Alternatively, you can imbue a cloak. Any creature wearing the cloak or else if their physical body is covered by the cloak (even if encased in ice), will always count as having 1+ hp in Death. Their maximum hit points also rise by 6 + 2 x Runic Knight level.
  
 
 
@@ -1148,7 +1242,7 @@ If you have dealt damage to an enemy during your turn, you cannot be charmed or 
 
 ## Level 9
 ### Overwhelming hit
-When you hit another creature with a melee weapon attack, you can spend 1 stamina to attempt a Overwhelming hit. Target has disadvantage on their next attack roll. That attack also deals 1d6 less damage, with a minimum of 0.
+When you hit another creature with a melee weapon attack, you can spend 1 stamina to attempt an Overwhelming hit. Target has disadvantage on their next attack roll. That attack also deals 1d6 less damage, with a minimum of 0.
 
 #### Gore slash -2 Stamina
 You can replace an attack of an attack action with a Gore slash. On hit, target takes an additional 2d8 damage. 
@@ -1203,11 +1297,11 @@ Your arrow or bolt will pierce through the target. If another target is behind t
 If this attack hits, it will automatically be a critical.
 
 #### Hailstorm -3 Stamina
-Your arrows or bolts hit all enemies within a 15ft by 15ft square, but have a -2 bonus to attack rolls. You use different ammunition for each target.
+Your arrows or bolts hit all enemies within a 15ft by 15ft square but have a -2 bonus to attack rolls. You use different ammunition for each target.
 
 _Exert: You have a +2 bonus to attack rolls instead._
 
-:::::
+:::::::
 
 ### Imbue ammunition
 You can imbue one item of ammunition with special effects as an action. The ammunition will remain imbued for one day before running out. Ammunition can be imbued only once. The Stamina cost will depend on the imbuement:
@@ -1261,6 +1355,8 @@ You have a +5 bonus to skill checks to find hidden creatures and traps.
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
  
 You can use this feature 4 times, and you regain all expended uses when you finish a long rest.
+
+:::::::::
 
 ## Level 10
 #### Spectral weapon -4 Stamina
@@ -1369,9 +1465,9 @@ _Requires a shield_
 
 Make a weapon attack on a creature you can see within 90 feet using your shield. Consider the shield a melee weapon with the Impact attribute, dealing 2d8 base weapon damage.
 
-On hit, the creature must succeed on a Physical Constitution saving throw, or be considered Dazed for 1 story tick. The shield is considered as if placed on the ground in the location of the target.
+On hit, the creature must succeed on a Physical Constitution saving throw or be considered Dazed for 1 story tick. The shield is considered as if placed on the ground in the location of the target.
 
-If you miss, the shield will continue on in a straight line for the range of this ability. If the shield intersects with another creature, make a new attack roll for this new target. If the shield hits an object such as a wall, or reaches the end of the range, the shield is considered to be placed at that location.
+If you miss, the shield will continue in a straight line for the range of this ability. If the shield intersects with another creature, make a new attack roll for this new target. If the shield hits an object such as a wall, or reaches the end of the range, the shield is placed at that location.
 
 _Exert: After hitting a creature, the shield will bounce to a new target you choose within the remaining range._
 
@@ -1400,6 +1496,8 @@ Choose up to 3 friendly, willing non-Undying creatures within range. You and the
 ### Protection
 You gain resistance against non-magical bludgeoning, piercing and slashing damage.
 
+:::::::
+
 ## Level 6
 #### Dedication to the Charter -2 Stamina
 ::**Casting Time:** 1 reaction
@@ -1416,7 +1514,7 @@ You can pick up a shield from the ground as a free action, given it is not worn 
 
 ## Level 9
 ### Spectral Shield 
-Even if you don't have a shield equiped, a spectral shield protects you. You are always considered to be wielding a shield and have a bonus associated with wielding a shield. You can use this spectral shield for Stamina abilities that require a shield, but it will reappear next to you at the end of your turn.
+Even if you don't have a shield equipped, a spectral shield protects you. You are always considered to be wielding a shield and have a bonus associated with wielding a shield. You can use this spectral shield for Stamina abilities that require a shield, but it will reappear next to you at the end of your turn.
 
 ## Level 10
 #### Vengeance -1 Stamina
@@ -1431,9 +1529,9 @@ A stout woman calmly removes a bell from her bandolier, looks at the giant Undyi
 To her side, a priest of the charter seems in full concentration, his charter mark flashing, as suddenly the ground under a group of foul creatures twists and turns into a massive mudslide. 
 Cackling, a soot covered sorceress looks at the result of her fiery incantations. A field filled with circles of fire and ice; the targeted horde of free magic creatures disintegrated.
 :
-Spellslingers are adept at using the raw power of the charter to coax the elements to their advantage. Using specificly tuned bells and incantations, the spellslinger either conjures massive water walls to protect, or ruptures the earth to devastate.
+Spellslingers are adept at using the raw power of the charter to coax the elements to their advantage. Using specifically tuned bells and incantations, the spellslinger either conjures massive water walls to protect, or ruptures the earth to devastate.
 :
-All spellslingers aim for mastery of the charter. Whether from a more religious angle, or on a quest for power, the spellslinger is always striving to become more intune with the charter and its implements.
+All spellslingers aim for mastery of the charter. Whether from a more religious angle, or on a quest for power, the spellslinger is always striving to become more in tune with the charter and its implements.
 :
 The most important question to answer when creating your spellslinger is the origin of your attunement to the charter. Were you taught by a village mage, trained by the religious order, or did you get your powers by experimentation? 
 What is your stance on parents refusing to place a charter mark on their child or on the users of free magic.
@@ -1755,7 +1853,7 @@ Beginning at 8th level, you can Reroll a saving throw that you fail. If you do s
 <div style='margin-top:0px'></div>
 
 You let off an imbued cry that envelopes nearby allies like a warding veil, protecting them from harm. Whilst under the effect of the warding shout, all allied creatures have +2 to their AC and they cannot be affected by Charm.
-
+:::::::::::::::
 ## Level 9
 #### Vacuum -4 Stamina
 ::**Casting Time:** 1 action
@@ -1764,7 +1862,7 @@ You let off an imbued cry that envelopes nearby allies like a warding veil, prot
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Physical Constitution saving throw. On a failed save, the creature takes 5d10 force damage, and is pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+A 20-foot-radius sphere of crushing force forms at a point you can see within range and tugs at the creatures there. Each creature in the sphere must make a Physical Constitution saving throw. On a failed save, the creature takes 5d10 force damage, and is pulled in a straight line toward the centre of the sphere, ending in an unoccupied space as close to the centre as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
 
 ## Level 10
 ### Bell Savant
@@ -2000,6 +2098,11 @@ _Exert: The damage is increased to 6d6 cold damage and any creatures who fail th
 
 Choose up to 5 creatures you can see within range and choose an ability score. Each affected creature has disadvantage on all ability skill checks and saving throws involving that ability score. Until the spell ends, the target receives 1d10 additional force damage when it is hit with an attack.
 
+
+\page
+
+{{pageNumber,auto}}
+
 ## Level 10
 #### Minute Murky Spheres -4 Stamina
 ::**Casting Time:** 1 action
@@ -2009,6 +2112,7 @@ Choose up to 5 creatures you can see within range and choose an ability score. E
 <div style='margin-top:0px'></div>
 
 Choose up to 5 points within range to place a 1 feet radius murky spheres of water. If a point is chosen on a creature or object, the sphere adheres to the creature or object. The spheres block all vision and sound. If a sphere prevents a creature from breathing, it is immediately considered drowning.
+
 \page
 
 {{pageNumber,auto}}
@@ -2179,14 +2283,14 @@ _Exert: Choose up to 5 points within range._
 ::**Duration** Concentration, Up to 10 Story Ticks
 <div style='margin-top:0px'></div>
 
-Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centred on the point. Each creature in that area must make an Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute clearing by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
+Choose a point you can see on the ground within range. The ground will shudder, quake and crack in a 10ft radius sphere centred on the point. Each creature in that area must make a Physical Agility saving throw. A creature takes 3d12 bludgeoning damage on a failed save, or half as much damage on a successful one. Additionally, the ground in that area becomes difficult terrain until cleared. Each 5-foot-square portion of the area requires at least 1 minute clearing by hand. On each of your turns after you cast this spell, you can use a bonus action to create a new fissure.
 
 _Exert: The fissures you create also will spout bursts of flame, dealing an additional 2d12 fire damage._
 
 ## Level 9
 ### Reinvigorate
 Once per long rest, you can reinvigorate to regain up to your maximum stamina.
-
+:::::::::::::
 ## Level 10
 ### Wild Strike
 Whenever you use stamina, you can trigger Wild Strike on a target creature within 60 feet. If you do, you take 2 times the stamina cost of the triggering ability in Psychic damage.
@@ -2219,7 +2323,7 @@ Flesh binders are masters of using tuned bells and free magic to command their U
 :
 Whilst the foul-smelling free magic has a bad reputation, it is merely a powerful tool in the hands of the flesh binder. Whether used for good or evil, they and their minions are a force to be reckoned with.
 :
-As a fleshbinder, you will have to deal with free magic's somewhat deserved bad reputation. Do you keep your Undying allies out in the open, or do you pretend to be a innocuous charter mage? Given its bad reputation, you will also have to think of how and where you learned your craft. Did you break free from a cult lead by an evil necromancer, or did the Abhorsen see your potential and give you a few quick starters?
+As a flesh binder, you will have to deal with free magic's somewhat deserved bad reputation. Do you keep your Undying allies out in the open, or do you pretend to be an innocuous charter mage? Given its bad reputation, you will also have to think of how and where you learned your craft. Did you break free from a cult lead by an evil necromancer, or did the Abhorsen see your potential and give you a few quick starters?
 However you build your flesh binder, your tale will be filled with tension and unique ways of solving your tribulations in the Old Kingdom.
 
 
@@ -2267,7 +2371,7 @@ Recharge die is d10. Each use of the bell is an action.
 {{pageNumber,auto}}
 
 ### Keeper of the dead
-Using the power of Saraneth, you can control Undying. There is a limit to how many Undying and how powerful Undying you can keep under your control for long periods. The Medium Undying are twice as hard to keep under control as Lesser Undying with the Greater Undying being twice as hard to keep under control as Medium Undying. You can use any combination of Undying you like. For example you can have two Lesser Undying and one Medium Undying or one Greater Undying or four Lesser Undying. 
+Using the power of Saraneth, you can control Undying. There is a limit to how many Undying and how powerful Undying you can keep under your control for long periods. The Medium Undying are twice as hard to keep under control as Lesser Undying with the Greater Undying being twice as hard to keep under control as Medium Undying. You can use any combination of Undying you like. For example, you can have two Lesser Undying and one Medium Undying or one Greater Undying or four Lesser Undying. 
 
 You can keep more Undying under your control for a short time, but once this time runs out, all the Undying under your control will break loose. They will no longer be bound by you and cannot be bound for the next day.
 As an action, you can spend a minute to banish an Undying under your control back to Death.
@@ -2415,7 +2519,7 @@ You have advantage on any Death saving throws. You can also use the Mosrael bell
 
 ### Profane Bloom
 Whenever you or your minions bring an enemy down to 0 hp, roll a d10. On a 4 or higher, the enemy explodes. Any creature within 10 ft must make a Physical Agility saving throw. On a failed saving throw, a target takes 1d4 bludgeoning damage and 1d4 fire damage, or half as much damage on a successful one. Allies automatically succeed on this saving throw. This effect can only trigger successfully once per turn.
-This ability’s damage increases when you reach 3th level (1d6 + 1d6), 6th level (1d8 + 1d8), and 9th level (1d10 + 1d10).
+This ability’s damage increases when you reach 3rd level (1d6 + 1d6), 6th level (1d8 + 1d8), and 9th level (1d10 + 1d10).
 
 <div style='margin-top:240px'></div>
 
@@ -2574,7 +2678,7 @@ You can now consider Lesser Undying as corpses, and corpses as Lesser Undying.
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Choose up to 5 corpses within range you can see. The choses corpses explode in a fiery explosion, destroying the corpse. Any creature within 10 feet must make a physical agility saving throw. On a failed saving throw, creatures take 2d8 bludgeoning damage and 2d8 fire damage, or half as much on a succesful save.
+Choose up to 5 corpses within range you can see. The choses corpses explode in a fiery explosion, destroying the corpse. Any creature within 10 feet must make a physical agility saving throw. On a failed saving throw, creatures take 2d8 bludgeoning damage and 2d8 fire damage, or half as much on a successful save.
 
 _Exert: Choose up to 8 corpses. Explosion radius becomes 15 feet._
 \page
@@ -2724,7 +2828,7 @@ Choose up to three non-Undying creatures in range, which must make a Charter Con
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You can grow any Undying of CR 5 or lower you have seen, from any source of blood not within a creature. They enter under your control as Undying, but count as free magic creatures.
+You can grow any Undying of CR 5 or lower you have seen, from any source of blood not within a creature. They enter under your control as Undying but count as free magic creatures.
 
 ## Level 10
 #### Blood Clot -6 Stamina
@@ -2734,7 +2838,7 @@ You can grow any Undying of CR 5 or lower you have seen, from any source of bloo
 ::**Duration** Concentration, Up to 10 story ticks.
 <div style='margin-top:0px'></div>
 
-Choose a creature in range that you can see. Creature is considered Dazed. It must make a physical Constitution saving throw. At the start of each of their turns, roll 2d6. If they failed their saving throw, you choose one of the die as the result, otherwise they choose one. Based on the result, the following will happen:
+Choose a creature in range that you can see. Creature is considered Dazed. It must make a physical Constitution saving throw. At the start of each of their turns, roll 2d6. If they failed their saving throw, you choose one of the dice as the result, otherwise they choose one. Based on the result, the following will happen:
 
 
 | Roll  | Effect                                                |
@@ -2744,7 +2848,7 @@ Choose a creature in range that you can see. Creature is considered Dazed. It mu
 | 3     | Creature is restrained until the start of your next turn.      |
 | 4     | Creature is knocked prone and takes 2d8 necrotic damage.      |
 | 5     | Creature is muffled and is considered suffocating until the end of their next turn. If the creature suffers this result twice in a row, it takes 10d10 necrotic damage.      |
-| 6     | Creature is blinded, muffled and deafended until the end of their next turn.      |
+| 6     | Creature is blinded, muffled and deafened until the end of their next turn.      |
 
 
 
@@ -2935,11 +3039,11 @@ You no longer take damage from casting Conjure Flesh.
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-From you and every Undying under your control a hallowed nova erupts, affecting all enemies within 15 feet of the nova's origin. Nova's can overlap and affect creatures multiple times. All enemies hit by the nova must make a Charter Charisma saving throw. On failure, the creature is dazed and takes 5d10 necrotic damage. On a succes, creature is not dazed and takes half damage.
+From you and every Undying under your control a hallowed nova erupts, affecting all enemies within 15 feet of the nova's origin. Nova's can overlap and affect creatures multiple times. All enemies hit by the nova must make a Charter Charisma saving throw. On failure, the creature is dazed and takes 5d10 necrotic damage. On a success, creature is not dazed and takes half damage.
 
 ## Level 10
 ### Restructure
-You can spend 1 minute to remold a Mordicant under your control, allowing you to reconfigure all adaptations.
+You can spend 1 minute to remould a Mordicant under your control, allowing you to reconfigure all adaptations.
 
 
 \page
@@ -2957,8 +3061,8 @@ At level 10 you gain access to additional Mordicant adaptations.
 |**Requires Level 10**|||
 | **Rending claws**  | 3 | ***Requires Claws.*** After calculating damage from a claw attack, target suffers from a bleed. The bleed will deal the claw damage again at the end of their next turn. |
 | **Fortified flesh**  | 2 | Mordicant's hit points goes up by 50%.|
-| **Deathly Hallows**  | 3 | When a Mordicant brings a creature down to 0 hp, Mordicant gains 30% of that creatures maximum hitpoints. Mordicant also gains the Carnivorous ability. ***Carnivorous.*** As an action, choose a corpse within 5 feet. Mordicant starts devouring the corpse and spends 1 minute to regain 30% of the targets maximum hitpoints |
-| **Reinforced skull**  | 1 | Mordicant cannot be dazed, blinded, deafended or frightend. |
+| **Deathly Hallows**  | 3 | When a Mordicant brings a creature down to 0 hp, Mordicant gains 30% of that creatures maximum hit points. Mordicant also gains the Carnivorous ability. ***Carnivorous.*** As an action, choose a corpse within 5 feet. Mordicant starts devouring the corpse and spends 1 minute to regain 30% of the targets maximum hit points |
+| **Reinforced skull**  | 1 | Mordicant cannot be dazed, blinded, deafened or frightened. |
 | **Improved ligaments**  | 2 | Mordicant gains advantage on any check involving the Grappled or Restrained conditions.|
 }}
 
@@ -2974,7 +3078,7 @@ From the top of a dodgy mechanical horse, a man whose hair seems to have been st
 :
 Mysticists are the most varied and creative of all the charter magic users. Whether predicting their target's demise, rapidly awakening nature or constructing the most wonderful metal creatures, mysticists have an answer ready.
 :
-Where Runic knights focus their charter magic on enchanting their gear and spellslingers on conjuring the elements, mysticists focus on changing their surroundings. Always curious, always looking to learn. Nothing is impossible in the eyes of a mysticist, if you set your mind to it and as long as you dedicate enough time to it.
+Where Runic knights focus their charter magic on enchanting their gear and spell slingers on conjuring the elements, mysticists focus on changing their surroundings. Always curious, always looking to learn. Nothing is impossible in the eyes of a mysticist, if you set your mind to it and as long as you dedicate enough time to it.
 :
 Mysticists must figure out how their curiosity is triggered and how they scratch that itch. Rewriting history, brewing potions or powering constructs with natural lightning are all within the possibilities. Using this knowledge, will you assist the common folk, or will you immortalize your legacy in thick tomes. However you use the result of your studies, you are sure to leave your mark on the Old Kingdom.
 
@@ -3439,7 +3543,7 @@ _Exert: You can create up to two lines of radiance, but a creature can only be a
 
 ## Level 9
 
-#### Temportal Reverb -3 Stamina
+#### Temporal Reverb -3 Stamina
 ::**Casting Time:** 1 Reaction, when a creature you can see makes an attack roll or casts a spell.
 ::**Range** 120ft
 ::**Components** V, S 
@@ -3602,7 +3706,7 @@ Ask your GM if what herbs are available nearby and choose one of the available t
 ::**Duration** Up to 1 minute
 <div style='margin-top:0px'></div>
 
-You send a swarm of spectral flies and insects towards the target. The target must succeed a Physical Constitution saving throw, or be infected. On a failed saving throw, The target takes 1d8 poison damage and the target will have a cloud of insects around it. Any attack rolls made by the target will be made as if its target has half-cover. The target will also be considered deafened. The target can spend his/her action to make a Physical Constitution saving throw, ending the swarm on a success.
+You send a swarm of spectral flies and insects towards the target. The target must succeed a Physical Constitution saving throw or be infected. On a failed saving throw, the target takes 1d8 poison damage and the target will have a cloud of insects around it. Any attack rolls made by the target will be made as if its target has half-cover. The target will also be considered deafened. The target can spend his/her action to make a Physical Constitution saving throw, ending the swarm on a success.
 
 This spell’s damage increases by 1d8 when you reach 4th level (2d8), 7th level (3d8), and 10th level (4d8).
 
@@ -3705,7 +3809,7 @@ You create a wall of tough, pliable, tangled brush bristling with needle-sharp t
 At 7rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
 
 ##### Gardener
-Whenever you gather herbs, you double the amount of dice rolled to determine the gather amount.
+Whenever you gather herbs, you double the number of dice rolled to determine the gather amount.
 
 ##### Efficient Farming
 The first class stamina ability you use per turn, costs 1 stamina less.
@@ -3774,7 +3878,7 @@ ___
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You can make a gathering check for any herb in the gathering table, regardless if they grow locally.
+You can make a gathering check for any herb in the gathering table, regardless of if they grow locally.
 
 #### Conjure Potion -2* Stamina
 ::**Casting Time:** 1 Action
@@ -4025,7 +4129,7 @@ All Prototype spells gain the following exert:
 _Exert: Build two prototypes instead of one._
 
 ##### Efficient Prototyping
-Your maximum amount of active Prototypes is increased by 50%, rounding up.
+Your maximum number of active Prototypes is increased by 50%, rounding up.
 
 <div style='margin-top:140px'></div>
 
@@ -4170,13 +4274,15 @@ You convert raw materials into products of the same material. For example, you c
 Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 10-foot cube, or eight connected 5-foot cubes), given a sufficient quantity of raw material. If you are working with metal, stone, or another mineral substance, however, the fabricated object can be no larger than Medium (contained within a single 5-foot cube). The quality of objects made by the spell is commensurate with the quality of the raw materials.
 :
 
-Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewelry, weapons
+Creatures or magic items can’t be created or transmuted by this spell. You also can’t use it to create items that ordinarily require a high degree of craftsmanship, such as jewellery and weapons.
 
 _Exert: Casting time is reduced to 2 story ticks._
 
 ## Level 10
 ### Prototypes can move
 As a bonus action, you can move all prototypes under your control.
+
+::::::::::::::::::::::::::::::
 
 #### Prototype Ballista -5 Stamina
 ::**Casting Time:** 1 action
@@ -4471,7 +4577,7 @@ Your quick thinking and agility allow you to move and act quickly. You can take 
 ::**Duration** 5 story ticks
 <div style='margin-top:0px'></div>
 
-Touch a willing creature that has the dying condition. Suspend their 'send to death' counter. Any damage they take, you take instead. If maintained for 5 stock ticks, target gains 1 hp. You can break the bond at any time as a free action. Gaining the unconscious, paralyse or dying condition will break Dance with Death with all creatures whose bond you are maintaining.
+Touch a willing creature that has the dying condition. Suspend their 'send to death' counter. Any damage they take, you take instead. If maintained for 5 stock ticks, target gains 1 hp. You can break the bond at any time as a free action. Gaining the unconscious, paralyse or dying condition will break Dance with Death with all creatures whose bond you are maintaining.
 
 
 \page
@@ -4689,7 +4795,7 @@ You can use Shadow blink twice per turn as a free action. After performing a sha
 ## Level 10
 
 #### Blink charge -3 Stamina
-If you move at least 20ft in straight line, as an bonus action you can Shadow Step up to 20 feet in a line, or 60 feet if you have the Sneak tactic. Any creatures between the start and end of your blink are teleported the distance of your Shadow Step in the same direction, or to the closest unoccupied space. Any teleported creatures other than you are knocked prone and lose their reaction.
+If you move at least 20ft in straight line, as a bonus action you can Shadow Step up to 20 feet in a line, or 60 feet if you have the Sneak tactic. Any creatures between the start and end of your blink are teleported the distance of your Shadow Step in the same direction, or to the closest unoccupied space. Any teleported creatures other than you are knocked prone and lose their reaction.
 
 \page
 
@@ -4812,9 +4918,9 @@ You use a free action to take an overbearing pose until the start of your next t
 ## Level 10
 
 #### Knee Dive -3 Stamina
-As an action, you can dive into a creature of your choice within 30 feet with your knees extended. You will move to the target, knocking you and the target prone. The target is considered restrained while you and the target remain prone and you do not move. The target receives 3d8 bludgeoning damage.
+As an action, you can dive into a creature of your choice within 30 feet with your knees extended. You will move to the target, knocking you and the target prone. The target is considered restrained while you and the target remain prone, and you do not move. The target receives 3d8 bludgeoning damage.
 
-If the target has a higher Strength score than you, it can use an action to break the restrain. Otherwise the target can use an action to attempt a double Strength skill contest against you, breaking the restrain on a success.
+If the target has a higher Strength score than you, it can use an action to break the restrain. Otherwise, the target can use an action to attempt a double Strength skill contest against you, breaking the restrain on a success.
 
 
 
@@ -4996,7 +5102,7 @@ The first attack roll on your turn that you miss, you hit instead.
 <div style='margin-top:0px'></div>
 
 Using Free magic, gain one of the following aspects. This lasts for 5 story ticks. Only 1 Bright shiner aspect can be active at once. Durable Morph does not affect this aspect.
-
+::
 ##### Mosrael
 Gain advantage on Physical and Charter Strength Saving throws. You also gain advantage on all death saving throws and grappling ability checks. 
 
@@ -6084,7 +6190,16 @@ On its turn, the Rester has disadvantage on attack rolls if no other creature ha
 
 
 }}
-:
+
+
+
+\page
+
+{{pageNumber,auto}}
+
+### Free Magic Creatures
+
+
 {{monster,frame
 ## Stilken
 *Large*  ***Free Magic Creature***
