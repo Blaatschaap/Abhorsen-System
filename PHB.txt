@@ -144,7 +144,7 @@ Version V0.16
     -  [{{ Bells}}{{ 27}}](#p27)
     -  [{{ Ability Score Improvement}}{{ 28}}](#p28)
     -  [{{ Meta Magic tactics}}{{ 28}}](#p28)
-    - ##### [{{ Subclasses}}{{ 30}}](#p30)
+  - ##### [{{ Subclasses}}{{ 30}}](#p30)
   - #### [{{ Silencer}}{{ 30}}](#p30)
     -  [{{ Bell master}}{{ 30}}](#p30)
     -  [{{ Front line fighter}}{{ 30}}](#p30)
@@ -2637,7 +2637,7 @@ ___
 |9 (-1)|8 (-1)	|14 (+2)|10 (+0)|1 (-5)	|3 (-4)	|14 (+2)|
 ___
 **Water Save DC** :: 18
-**Senses**               :: darkvision 60 ft., Passive Perception 8
+**Senses**               :: darkvision 60 ft., passive Perception 8
 **Languages**            :: None
 ___
 ***Volatile.*** If the Raging Spirit is reduced to 0 Hit Points, it will automatically trigger the explosion portion of the Profane Bloom ability.
@@ -2913,7 +2913,7 @@ ___
 |-			|8 (-1)	|14 (+2)|12 (+1)|8 (-1)	|7 (-2)	|6 (-2)	|
 ___
 **Water Save DC** :: 6
-**Senses**               :: Passive Perception 8
+**Senses**               :: passive Perception 8
 **Languages**            :: None
 ___
 ### Actions
@@ -3860,7 +3860,7 @@ ___
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |18(+4)		|8 (-1)	|14 (+2)|10 (+0)|8 (-1)	|7 (-2)	|6 (-2)|
 ___
-**Senses**  :: Passive Perception 12
+**Senses**  :: passive Perception 12
 **Languages** ::  One you know
 ___
 ### Actions
@@ -4445,7 +4445,7 @@ ___
 ___
 **Damage Immunities:** :: poison
 **Condition Immunities:** :: exhaustion, poisoned
-**Senses** :: Darkvision 60 ft., Passive Perception 10 + (PB x 2)
+**Senses** :: Darkvision 60 ft., passive Perception 10 + (PB x 2)
 **Languages** :: understands the languages you speak
 **Proficiency Bonus (PB):** :: equals your bonus
 ___
@@ -5335,7 +5335,7 @@ You are a dangerous foe to face while mounted. While you are mounted and aren’
 Quick to notice details of your environment, you gain the following benefits:
 - Increase your Intelligence or Aptitude score by 1, to a maximum of 20.
 - If you can see a creature’s mouth while it is speaking a language you understand, you can interpret what it’s saying by reading its lips.
-- You have a +5 bonus to your Passive Perception and passive Intelligence scores.
+- You have a +5 bonus to your passive Perception and passive Intelligence scores.
 
 ## Piercer
 You have achieved a penetrating precision in combat, granting you the following benefits:
@@ -5693,7 +5693,7 @@ ___
 |13 (+2)|7 (-2)|10 (+0)|12 (+1)|3 (-4)	|7 (-2)	|10 (+0)|
 ___
 **Water Save DC** :: 12
-**Senses** :: Darkvision 60ft. Passive Perception 8
+**Senses** :: Darkvision 60ft. passive Perception 8
 **Languages** :: Understands simple commands.
 **Challenge** :: 1
 ___
@@ -5722,7 +5722,7 @@ ___
 ___
 **Water Save DC** :: 17
 **Condition Immunities** :: Charmed, Frightened, Grappled, Paralyzed, Petrified, Prone, Restrained, Stunned
-**Senses** :: Darkvision 180 Ft., Passive Perception 16
+**Senses** :: Darkvision 180 Ft., passive Perception 16
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 1
 ___
@@ -5757,7 +5757,7 @@ ___
 |14 (+2)|15 (+2)|12 (+1)|10 (+0)|3 (-4)	|7 (-2)	|12 (+1)|
 ___
 **Water Save DC** :: 12
-**Senses** :: Darkvision 60ft. Passive Perception 8
+**Senses** :: Darkvision 60ft. passive Perception 8
 **Languages** :: -
 **Challenge** :: 1/2
 ___
@@ -5783,7 +5783,7 @@ ___
 |9 (-1)|11 (+0)|12 (+1)|10 (+0)|3 (-4)	|3 (-4)	|12 (+1)|
 ___
 **Water Save DC** :: 4
-**Senses** :: Darkvision 30ft. Passive Perception 7
+**Senses** :: Darkvision 30ft. passive perception 7
 **Languages** :: -
 **Challenge** :: 1/4
 ___
@@ -5805,7 +5805,7 @@ ___
 |17 (+3)|12 (+1)|11 (+0)|14 (+2)|7 (-2)	|10 (+0)	|12 (+1)|
 ___
 **Water Save DC** :: 8
-**Senses** :: Passive Perception 14
+**Senses** :: passive perception 14
 **Languages** :: -
 **Challenge** :: 1
 ___
@@ -5834,7 +5834,7 @@ ___
 |3 (-4)|13 (+1)|12 (+1)|8 (-1)|2 (-4)	|7 (-2)	|12 (+1)|
 ___
 **Water Save DC** :: 16
-**Senses** :: Darkvision 120ft. Passive Perception 14
+**Senses** :: Darkvision 120ft. passive perception 14
 **Languages** :: -
 **Challenge** :: 1/2
 ### Actions
@@ -5858,7 +5858,7 @@ ___
 |5 (-3)|12 (+1)|8 (-1)|8 (-1)|12 (+1)	|16 (+3)	|14 (+2)|
 ___
 **Water Save DC** :: 6
-**Senses** :: Darkvision 60ft. Passive Perception 13
+**Senses** :: Darkvision 60ft. passive perception 13
 **Languages** :: Common
 **Challenge** :: 2
 ___
@@ -5887,7 +5887,7 @@ ___
 |17 (+3)|9 (-1)|12 (+1)|14 (+2)|6 (-2)	|8 (-1)	|12 (+1)|
 ___
 **Water Save DC** :: 7
-**Senses** :: Darkvision 60ft. Passive Perception 9
+**Senses** :: Darkvision 60ft. passive perception 9
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 3
 ___
@@ -5920,7 +5920,7 @@ ___
 |13 (+1)|16 (+3)|15 (+2)|10 (+0)|4 (-3)	|9 (-1)	|15 (+2)|
 ___
 **Water Save DC** :: 10
-**Senses** :: Darkvision 60ft. Passive Perception 11
+**Senses** :: Darkvision 60ft. passive perception 11
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 3
 ___
@@ -5953,7 +5953,7 @@ ___
 |9 (-1)|17 (+3)|12 (+1)|10 (+0)|6 (-2)	|10 (+0)	|19 (+4)|
 ___
 **Water Save DC** :: 9
-**Senses** :: Darkvision 90ft. Passive Perception 17
+**Senses** :: Darkvision 90ft. passive perception 17
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 3
 ___
@@ -5978,7 +5978,7 @@ ___
 ___
 **Water Save DC** :: 13
 **Damage resistances** :: Necrotic
-**Senses** :: Passive Perception 11
+**Senses** :: passive perception 11
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 4
 ___
@@ -6007,7 +6007,7 @@ ___
 |16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
 ___
 **Water Save DC** :: 12
-**Senses** :: Darkvision 60ft. Passive Perception 12
+**Senses** :: Darkvision 60ft. passive Perception 12
 **Challenge** :: 4
 ___
 :
@@ -6036,7 +6036,7 @@ ___
 |16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)	|6 (-2)	|13 (+1)|
 ___
 **Water Save DC** :: 12
-**Senses** :: Darkvision 60ft. Passive Perception 12
+**Senses** :: Darkvision 60ft. passive Perception 12
 **Challenge** :: 4
 ___
 ***Keen Smell.*** The Ravager has advantage on skill checks that rely on sight.
@@ -6066,7 +6066,7 @@ ___
 |16 (+3)|7 (-2)|10 (+0)|12 (+1)|3 (-4)	|7 (-2)	|10 (+0)|
 ___
 **Water Save DC** :: 16
-**Senses** :: Darkvision 60ft. Passive Perception 8
+**Senses** :: Darkvision 60ft. passive Perception 8
 **Challenge** :: 3
 ___
 ***Pack Tactics.*** The Pillager has advantage on attack rolls against a creature if at least one of the Pillager's allies is within 5 feet of the creature and the ally isn't incapacitated.
@@ -6102,7 +6102,7 @@ ___
 ___
 **Water Save DC** :: 12
 **Damage Resistances** :: bludgeoning, piercing, and slashing while in dim light or darkness
-**Senses** :: Darkvision 60ft. Passive Perception 12
+**Senses** :: Darkvision 60ft. passive Perception 12
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 5
 ___
@@ -6135,7 +6135,7 @@ ___
 **Water Save DC** :: 14
 **Damage Immunity** :: piercing
 **Condition Immunity** :: Blinded
-**Senses** :: Darkvision 120ft. Passive Perception 11
+**Senses** :: Darkvision 120ft. passive Perception 11
 **Languages** :: Common
 **Challenge** :: 2
 ___
@@ -6171,7 +6171,7 @@ ___
 |17 (+3)|9 (-1)|18 (+4)|19 (+4)|9 (-1)	|5 (-3)	|14 (+2)|
 ___
 **Water Save DC** :: 2
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 6
 ___
@@ -6213,7 +6213,7 @@ ___
 |14 (+2)|19 (+4)|15 (+2)|11 (+0)|16 (+3)	|8 (-1)	|14 (+2)|
 ___
 **Damage Immunities** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: Common
 **Challenge** :: 5
 ___
@@ -6247,7 +6247,7 @@ ___
 ___
 **Damage Resistance** :: Bludgeoning, Piercing, and Slashing From Non-magical Attacks Or Non-anointed Weapons.
 **Damage Immunities** :: Fire
-**Senses** :: Passive Perception 8
+**Senses** :: passive Perception 8
 **Languages** :: understands Common, but can't speak
 **Challenge** :: 4
 ___
@@ -6279,7 +6279,7 @@ ___
 |14 (+2)|18 (+4)|17 (+3)|11 (+0)|21 (+5)	|13 (+1)	|15 (+2)|
 ___
 **Condition Immunities** :: Blinded
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: All languages, Telepathy 120 ft.
 **Challenge** :: 8
 ___
@@ -6311,7 +6311,7 @@ ___
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |21 (+5)|9 (-1)|12 (+1)|19 (+4)|14 (+2)	|8 (-1)	|17 (+3)|
 ___
-**Senses** :: Passive Perception 18
+**Senses** :: passive Perception 18
 **Languages** :: Common.
 **Challenge** :: 9
 ___
@@ -6341,7 +6341,7 @@ ___
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |10 (+0)|16 (+3)|10 (+0)|8 (-1)|1 (-5)	|1 (-5)	|12 (+1)|
 ___
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: -
 **Challenge** :: 1
 ___
@@ -6374,7 +6374,7 @@ ___
 |11 (+0)|19 (+4)|15 (+2)|17 (+3)|6 (-2)|4 (-3)	|10 (+0)|
 ___
 **Damage Immunities** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: None
 **Challenge** :: 3
 ___
@@ -6401,7 +6401,7 @@ ___
 **Damage Immunities** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
 **Damage Resistances** :: Bludgeoning, Piercing, and Slashing.
 **Damage Vulnerabilities** :: Fire, Acid, Psychic, Radiant
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Languages** :: None
 **Challenge** :: 7
 ___
@@ -6433,7 +6433,7 @@ ___
 **Damage Immunities** :: Lightning, Necrotic
 **Damage Resistance** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
 **Condition Immunities** :: Blinded, Deafened, Exhaustion
-**Senses** :: Blindsight 60 Ft. (Blind Beyond This Radius), Passive Perception 10
+**Senses** :: Blindsight 60 Ft. (Blind Beyond This Radius), passive Perception 10
 **Challenge** :: 4
 ___
 ***Lightning Absorption.*** Whenever Ferenk is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
@@ -6464,7 +6464,7 @@ ___
 ___
 **Damage Resistance** :: Slashing, Bludgeoning and piercing damage.
 **Condition Immunities** :: Blinded, Deafened, Exhaustion
-**Senses** :: Passive Perception 17
+**Senses** :: passive Perception 17
 **Challenge** :: 3
 ___
 ***Living Storm.*** Whenever the Dwerllin moves past objects within 10 feet of him weighing a maximum of 5 pounds that are not being worn of carried, they are thrown in a random direction.
@@ -6494,7 +6494,7 @@ ___
 ___
 **Damage Resistance** :: Slashing, Bludgeoning and piercing damage.
 **Condition Immunities** :: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
-**Senses** :: Darkvision 60ft. Passive Perception 11
+**Senses** :: Darkvision 60ft. passive Perception 11
 **Languages** :: Common
 **Challenge** :: 3
 ___
@@ -6524,7 +6524,7 @@ ___
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 |11 (+1)|15 (+2)|15 (+2)|12 (+1)|19 (+4)	|15 (+2)	|14 (+2)|
 ___
-**Senses** :: Darkvision 60ft, Passive Perception 17
+**Senses** :: Darkvision 60ft, passive Perception 17
 **Languages** :: Common
 **Challenge** :: 5
 ___
