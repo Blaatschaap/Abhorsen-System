@@ -5837,7 +5837,31 @@ ___
 :
 ***Drain life.*** *Ranged Weapon Attack:* +8 to hit, range 60 ft. *Hit* 8 (1d6 + 4) necrotic damage. Target is dazed until the end of their turn.
 }}
+:
+{{monster,frame
+## Ranger
+*Medium*  ***Lesser Undying***
+___
+**Armour Class** :: 13
+**Hit Points** :: 20
+**Speed** :: 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|4 (-3)|17 (+3)|10 (+0)|9 (-1)|5 (-3)	|1 (-5)	|6 (-2)|
+___
+**Water Save DC** :: 11
+**Senses** :: Darkvision 90ft. passive perception 17
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 2
+___
+***Barbed arrows*** The ranger uses Barbed arrows.
 
+### Actions
+:
+***Longbow.*** *Ranged Weapon Attack:* +7 to hit, range 150/600 ft. *Hit* 8 (1d8 + 3) piercing damage.
+}}
+:
 {{monster,frame
 ## Boomer
 *Medium*  ***Medium Undying***
