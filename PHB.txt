@@ -226,7 +226,7 @@ Version V0.16
     -  [{{ Ability Score Improvement}}{{ 67}}](#p67)
     -  [{{ Scientist Tactics}}{{ 68}}](#p68)
     -  [{{ Prototypes can move}}{{ 69}}](#p69)
-    -  [{{ Arcane Infusions}}{{ 70}}](#p70)
+    -  [{{ Infusions}}{{ 70}}](#p70)
 
 }}
 
@@ -321,7 +321,7 @@ Apart from being a source of magic, the Charter is also a form of religion. The 
 
 The Charter is also referred to as the Pact of the Seven Bright Shiners.
 
-::::::::::::::::::
+:::::::::::::::::::
 
 ### Rulers
 The Old Kingdom is a monarchy, with the king in charge of the military arm of the country while the queen takes care of the rest. 
@@ -608,13 +608,15 @@ There are three categories of saving throws, Physical, Charter and Death saving 
 For instance, if you have the following base modifiers: Strength +2, Agility +1, Reflexes +3, Constitution +0, Intelligence +0, Charisma +1 and Aptitude -1, your saving throw tables will look as following (ignoring proficiencies). Having a very high Reflexes score results in very good Physical saving throws, but the lacking Aptitude score means that Charter saving throws will be rough for this character.
 
 ##### Example Saving throws modifiers
-| Ability score | Physical | Charter |
-|:--------:|:-----:|:------:|
-| Strength 		| +5 | +1 |
-| Agility 		| +4 | +0 |
-| Constitution 	| +3 | -1 |
-| Intelligence 	| +3 | -1 |
-| Charisma 		| +4 | +0 |
+| Ability score | Base Value| Physical Saving | Charter Saving |
+|:--------:|:--:|:-----:|:------:|
+| Strength 		| +2| +5 | +1 |
+| Agility 		| +1 | +4 | +0 |
+| Reflexes 		| +3 | - | - |
+| Constitution 	| +0 | +3 | -1 |
+| Intelligence 	| +0 | +3 | -1 |
+| Charisma 		| +1 | +4 | +0 |
+| Aptitude    | -1 | - | - |
 
 \page
 
@@ -784,6 +786,9 @@ As an action, you can spend a hit die and 2 stamina to gain half the value of th
 
 #### Rally -2 Stamina
 On your turn, you can use your bonus action and spend 2 stamina to bolster the resolve of one of your companions. When you do so, choose a creature that can see or hear you. That creature gains temporary hit points equal to your level + your Charisma modifier.
+
+#### Reviving Shock -2* Stamina
+As an action, you can give a willing creature with the dying condition you touch 1 hp. This ability will cost stamina equal to the level or CR of the creature. This will also inflict 1 exhaustion on the creature and make them dazed until the end of your next turn.
 
 \page
 
@@ -1174,8 +1179,8 @@ The Runic Knight knows 3 subclasses which you choose one of at level 1. The avai
 | 6th | +3 | Ability Score Improvement, Reliable Strikes, Frenzy |
 | 7th | +3 | Defensive Tactics |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 | - |
-| 10th | +4 | Ability Score Improvement |
+| 9th | +4 | Overwhelming hit |
+| 10th | +4 | Ability Score Improvement, Spiteful |
 }}
 
 #### Quick Build
@@ -1277,7 +1282,7 @@ Choose a target within melee range. Make five attacks against the target. You ga
 | 6th | +3 | Ability Score Improvement, Reliable Strikes, Additional Imbue Ammunition |
 | 7th | +3 | Defensive Tactics |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 | - |
+| 9th | +4 | Spotter |
 | 10th | +4 | Ability Score Improvement |
 }}
 
@@ -1351,7 +1356,7 @@ At 6th level you gain additional imbuement options for your ammunition
 ### Spotter
 You have a +5 bonus to skill checks to find hidden creatures and traps.
 
-### Nature's Veil -2 Stamina
+#### Nature's Veil -2 Stamina
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
  
 You can use this feature 4 times, and you regain all expended uses when you finish a long rest.
@@ -1386,9 +1391,9 @@ At the end of your turn, you can use a free action to move the weapon up to 20 f
 | 4th | +2 | Ability Score Improvement |
 | 5th | +2 | Protection |
 | 6th | +3 | Ability Score Improvement, Reliable Strikes |
-| 7th | +3 | Defensive Tactics |
+| 7th | +3 | Defensive Tactics, Shield Pickup |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
-| 9th | +4 | - |
+| 9th | +4 | Spectral Shield |
 | 10th | +4 | Ability Score Improvement |
 }}
 
@@ -1692,7 +1697,7 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 | 7th | +3 | Meta Magic Tactics |
 | 8th | +4 | Ability Score Improvement, Indomitable |
 | 9th | +4 | - |
-| 10th | +4 | Ability Score Improvement |
+| 10th | +4 | Ability Score Improvement, Bell Savant |
 }}
 
 #### Quick Build
@@ -2131,8 +2136,8 @@ Choose up to 5 points within range to place a 1 feet radius murky spheres of wat
 | 6th | +3 | Ability Score Improvement, Elemental Equilibrium |
 | 7th | +3 | Meta Magic Tactics |
 | 8th | +4 | Ability Score Improvement |
-| 9th | +4 | - |
-| 10th | +4 | Ability Score Improvement |
+| 9th | +4 | Reinvigorate |
+| 10th | +4 | Ability Score Improvement, Wild Strike |
 }}
 
 
@@ -2507,7 +2512,7 @@ The Flesh Binder knows 3 subclasses which you choose one of at level 1. The avai
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Spell Tactics |
 | 8th | +4 | Ability Score Improvement, Saraneth Mastery |
-| 9th | +4 | - |
+| 9th | +4 | Ambiguous Definitions |
 | 10th | +4 | Ability Score Improvement |
 }}
 :
@@ -2873,8 +2878,8 @@ Choose a creature in range that you can see. Creature is considered Dazed. It mu
 | 6th | +3 | Ability Score Improvement, Lucky Mordicants, Flesh Crafter |
 | 7th | +3 | Spell Tactics |
 | 8th | +4 | Ability Score Improvement, Saraneth Mastery |
-| 9th | +4 | - |
-| 10th | +4 | Ability Score Improvement |
+| 9th | +4 | Extra Mordicant |
+| 10th | +4 | Ability Score Improvement, Restructure, Additional Adaptations |
 }}
 
 #### Quick Build
@@ -2902,11 +2907,12 @@ To create the Mordicant, you have bonded your soul to your Mordicant and are abl
 
 {{monster,frame
 ## Mordicant
-*Large* ***Lesser Undying***
+*Large* ***Greater Undying***
 ___
 **Armour Class** -
 **Hit Points**  :: -
 **Speed**       :: 30ft.
+**Challenge**   :: Your fleshbinder level
 ___
 |  STR  |  AGI  |  REF  |  CON  |  INT  |  CHA  |  APT  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -3925,7 +3931,7 @@ Until the spell ends, you can direct the vines to lash out at the same creatures
 | 7th | +3 | Scientist Tactics |
 | 8th | +4 | Ability Score Improvement |
 | 9th | +4 | - |
-| 10th | +4 | Ability Score Improvement |
+| 10th | +4 | Ability Score Improvement, Prototypes can move |
 }}
 
 #### Quick Build
@@ -3935,17 +3941,17 @@ You can make a Tinkerer quickly by following these suggestions. First, Intellige
 You've gain the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
 
 #### Infusing an Item
-Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your Tinkerer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement.
 
 Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.
 
 You can infuse more than one nonmagical object at the end of a long rest. the maximum number of objects appears in the Infusions Items table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion ends, and then the new infusion applies.
 :::
 #### Infusions Known
-When you gain this feature, pick four Tinkerer infusions to learn. 
+When you gain this feature, pick three infusions to learn. 
 You learn additional infusions of your choice when you reach 3rd level (5 total), 6th level (8 total), and 9th level (12 total).
 
-Whenever you gain a level in this class, you can replace one of the Tinkerer infusions you learned with a new one.
+Whenever you gain a level in this class, you can replace one of the infusions you learned with a new one.
 
 ##### Infusions Items
 | Level | Infusions known | Max infused Items |
@@ -4319,7 +4325,7 @@ ___
 {{pageNumber,auto}}
 
 
-### Arcane Infusions
+### Infusions
 
 {{monster
 ## Arcane Propulsion Armour
@@ -4424,7 +4430,7 @@ You learn intricate methods for magically creating a special homunculus that ser
 :
 You determine the homunculus's appearance. Some artificers prefer mechanical-looking birds, whereas some like winged vials or miniature, animate cauldrons.
 :
-The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block, which uses your proficiency bonus (PB) in several places.
+The homunculus is friendly to you and your companions, and it obeys your commands. See this creature's game statistics in the Homunculus Servant stat block.
 :
 In combat, the homunculus shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the homunculus can take any action of its choice, not just Dodge.
 :
@@ -4445,14 +4451,13 @@ ___
 ___
 **Damage Immunities:** :: poison
 **Condition Immunities:** :: exhaustion, poisoned
-**Senses** :: Darkvision 60 ft., passive Perception 10 + (PB x 2)
+**Senses** :: Darkvision 60 ft., passive Perception 10 + (Mysticist level / 2)
 **Languages** :: understands the languages you speak
-**Proficiency Bonus (PB):** :: equals your bonus
 ___
 ***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
 
 ### Actions
-***Force Strike.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
+***Force Strike.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + Mysticist level force damage.
 ### Reactions
 ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 }}
@@ -4624,7 +4629,7 @@ The Edge Dancer knows 3 subclasses which you choose one of at level 1. The avail
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Dodging Tactics |
 | 8th | +4 | Ability Score Improvement, Coup de Grace |
-| 9th | +4 | - |
+| 9th | +4 | Shadow Step mastery |
 | 10th | +4 | Ability Score Improvement |
 }}
 
@@ -4637,7 +4642,7 @@ Gain proficiency with all weapons that have the finesse property. You also deal 
 The additional damage increases to 2 when you reach 3rd level, to 3 upon reaching 6th level and to 5 upon reaching 9th level.
 
 ### Quick Draw
-You can throw light weapons without having them in hand.
+When making a throwing attack action, you can draw a light weapon to throw as part of that action.
 
 ::::::::::::
 
@@ -4786,11 +4791,11 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 
 ## Level 8
 ### Coup de Grace
-Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse or a ranged weapon.
+Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse weapon.
 
 ## Level 9
 ### Shadow Step mastery
-You can use Shadow blink twice per turn as a free action. After performing a shadow blink, the first attack roll will be a critical hit on a 15 or higher.
+You can use Shadow Step twice per turn as a free action. After performing a Shadow Step, the first attack roll your perform this turn will be a critical hit on a die roll of 15 or higher.
 
 ## Level 10
 
@@ -4815,7 +4820,7 @@ If you move at least 20ft in straight line, as a bonus action you can Shadow Ste
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Brain Tactics |
 | 8th | +4 | Ability Score Improvement |
-| 9th | +4 | - |
+| 9th | +4 | Flexilibity, Overbearing |
 | 10th | +4 | Ability Score Improvement |
 }}
 
@@ -4942,7 +4947,7 @@ If the target has a higher Strength score than you, it can use an action to brea
 | 6th | +3 | Ability Score Improvement, Durable Morph |
 | 7th | +3 | Protection Tactics |
 | 8th | +4 | Ability Score Improvement, Inspire Flexibility |
-| 9th | +4 | - |
+| 9th | +4 | Reliable strikes |
 | 10th | +4 | Ability Score Improvement |
 }}
 
@@ -5434,10 +5439,10 @@ You have practiced extensively with a variety of weapons, gaining the following 
 ## Weapons
 
 ### Brawn
-A Brawn weapon is meant for slamming and bashing and can therefore only be used using your Strength. For the attack roll, you use 2 x Strength modifier. For damage roll you add your Strength modifier.
+A Brawn weapon is meant for slamming and bashing and can therefore only be used using your Strength. For the attack roll, you use 2 x Strength modifier. For the damage roll you add your Strength modifier.
 
 ### Nimble
-A nimble weapon is meant for finding the chink in the armour, the gap in the targets defence. It can only be used using Agility. For the attack roll, you use 2 x Agility modifier. For damage roll you add your Agility modifier.
+A nimble weapon is meant for finding the chink in the armour, the gap in the targets defence. It can only be used using Agility. For the attack roll, you use 2 x Agility modifier. For the damage roll you add your Agility modifier.
 
 ### Impact
 Impact weapons are a mix between Brawn and Nimble weapons. They require a fair amount of force with a precise aim, but will cause devastating damage on a successful hit. For the attack roll, you use Strength modifier + Agility modifier. For damage roll you add the Agility modifier and the Strength modifier.
@@ -5709,6 +5714,264 @@ ___
 }}
 :
 {{monster,frame
+## Mordaut
+*Tiny*  ***Medium Undying***
+___
+**Armour Class** :: 10
+**Hit Points** :: 43
+**Speed** :: Fly 40ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|5 (-3)|12 (+1)|8 (-1)|8 (-1)|12 (+1)	|16 (+3)	|14 (+2)|
+___
+**Water Save DC** :: 6
+**Senses** :: Darkvision 60ft. passive perception 13
+**Languages** :: Common
+**Challenge** :: 2
+___
+***Grave bound.*** The Mordaut needs to consume one humanoid every week or it will return to Death. If the Mordaut or its host spends at least 4 hours a day within or on grave dirt, it can prolong this, by not counting that day for the week.
+:
+***Incorporeal Movement.*** The Mordaut can move through other creatures and Objects as if they were Difficult Terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+### Actions
+:
+***Drain life.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 8 (1d6 + 4) necrotic damage. The Mordaut regains hit points equal to that amount.
+:
+***Possession (Recharge 6).*** One Humanoid that the Mordaut can see within 5 ft. of it must succeed on a DC 13 Charter Charisma saving throw or be possessed by the Mordaut; the Mordaut then disappears, and the target is Incapacitated and loses control of its body. The Mordaut now controls the body but doesn't deprive the target of awareness. The Mordaut can't be targeted by any Attack, spell, or other Effect and it retains its Alignment, Intelligence, Charisma, Aptitude, and immunity to being Charmed and Frightened. It otherwise uses the possessed target's Statistics and gains access to the target's knowledge, Class Features, and Proficiencies whilst possession is ongoing.
+The possession lasts until the body drops to 0 Hit Points, the Mordaut ends it as a Bonus Action, or the Mordaut forced out by an Effect like the Saraneth bell. When the possession ends, the Mordaut reappears in an unoccupied space within 5 ft. of the body. The target is immune to this Mordaut's Possession for 1 hour after succeeding on the saving throw or after the possession ends.
+
+}}
+
+\page
+
+{{pageNumber,auto}}
+
+{{monster,frame
+## Shadow Hand
+*Medium*  ***Medium Undying***
+___
+**Armour Class** :: 14
+**Hit Points** :: 53
+**Speed** :: 35ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|17 (+3)|9 (-1)|12 (+1)|14 (+2)|6 (-2)	|8 (-1)	|12 (+1)|
+___
+**Water Save DC** :: 7
+**Senses** :: Darkvision 60ft. passive perception 9
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 3
+___
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
+:
+***Sunlight Sensitivity.*** While in sunlight, the Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
+### Actions
+:
+***Multiattack.*** The Shadow hand makes two attacks, only one of which can be a Bite Attack.
+:
+***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3) slashing damage. Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
+:
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (2d6 + 3) piercing damage. 
+}}
+
+
+{{monster,frame
+## Ghoul
+*Medium*  ***Medium Undying***
+___
+**Armour Class** :: 15
+**Hit Points** :: 45
+**Speed** :: 30ft (45ft while in blood frenzy).
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|13 (+1)|16 (+3)|15 (+2)|10 (+0)|4 (-3)	|9 (-1)	|15 (+2)|
+___
+**Water Save DC** :: 10
+**Senses** :: Darkvision 60ft. passive perception 11
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 3
+___
+***Blood Frenzy.*** The Ghoul can go into a blood frenzy as a bonus action. If in a blood frenzy, the Ghoul will take 7 piercing damage at the end of each turn, but gains 15ft of additional movement and the Multi attack and Aggression abilities. The Ghoul can end the blood frenzy as an action.
+:
+***Aggresive.*** Whilst in blood frenzy, the ghoul can use a reaction on getting hit to move up to its movement.
+:
+***Canabalize.*** The Ghoul can use an action to eat a corpse and regain 20 hit points.
+
+### Actions
+:
+***Multiattack.*** The Ghoul hand makes two attacks if it in a blood frenzy.
+
+:
+***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 8 (1d8 + 3) bludgeoning damage. 
+
+
+}}
+
+\page
+
+{{pageNumber,auto}}
+
+
+{{monster,frame
+## Gawker
+*Medium*  ***Medium Undying***
+___
+**Armour Class** :: 13
+**Hit Points** :: 30
+**Speed** :: 25ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|9 (-1)|17 (+3)|12 (+1)|10 (+0)|6 (-2)	|10 (+0)	|19 (+4)|
+___
+**Water Save DC** :: 9
+**Senses** :: Darkvision 90ft. passive perception 17
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 3
+___
+***Eye swarm*** The Gawker can see invisible creatures and objects. It cannot be surprised and can see in all directions. It has advantage on all skill checks based on vision.
+
+### Actions
+:
+***Drain life.*** *Ranged Weapon Attack:* +8 to hit, range 60 ft. *Hit* 8 (1d6 + 4) necrotic damage. Target is dazed until the end of their turn.
+}}
+
+{{monster,frame
+## Boomer
+*Medium*  ***Medium Undying***
+___
+**Armour Class** :: 11
+**Hit Points** :: 45
+**Speed** :: 25ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|12 (+1)|13 (+1)|9 (-1)|20 (+5)|3 (-4)	|10 (+0)	|15 (+2)|
+___
+**Water Save DC** :: 13
+**Damage resistances** :: Necrotic
+**Senses** :: passive perception 11
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 4
+___
+
+### Actions
+:
+***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 6 (1d8 + 1) slashing damage. 
+:
+***Detonate.*** Each creature within 15 feet of the Boomer must make a DC 16 Charter Agility saving throw, taking 3d8 + 5 in necrotic damage on a failed save or half as much damage on a successful one. Boomers automatically succeed on this saving throw. All creatures that fail the saving throw, are pulled to an unoccupied space as close to the Boomer. The affected area is considered difficult terrain.
+}}
+
+\page
+
+{{pageNumber,auto}}
+
+{{monster,frame
+## Thralk
+*Large*  ***Greater Undying***
+___
+**Armour Class** :: 18
+**Hit Points** :: 84
+**Speed** :: 25ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|11 (+0)|19 (+4)|16 (+3)|14 (+2)|12 (+1)	|8 (-1)	|12 (+1)|
+___
+**Water Save DC** :: 12
+**Damage Resistances** :: bludgeoning, piercing, and slashing while in dim light or darkness
+**Senses** :: Darkvision 60ft. passive Perception 12
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 5
+___
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the Thralk drops to 1 hit point instead.
+:
+***Death Aura.***  At the start of each of the Thralk's turns, each creature within 5 feet of it must succeed on a DC 15 Charter Intelligence saving throw or take 10 (2d6) necrotic damage.
+### Actions
+:
+***Multiattack.*** The Thralk makes one Harpoon Arm Attack and then uses Sorrowful Embrace.
+:
+***Harpoon Arm.*** Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 17 (3d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature.
+The Thralk has two harpoon arms and can grapple up to two creatures at once.
+:
+***Sorrowful Embrace.*** Each creature grappled by the Thralk must make a DC 15 Charter Charisma saving throw. A creature takes 18 (4d8) psychic damage and is frightened of the Thralk on a failed save ,or half as much damage on a successful one. In either case, the Thralk pulls each creature grappled by it up to 20 feet straight toward it. If the creature breaks from the grapple, it can make a DC 15 Charter Charisma saving throw at the end of its turn to break the frighten effect. It will also disappear 1 minute after breaking the grapple.
+
+}}
+:
+{{monster,frame
+## Ghlim
+*Medium*  ***Medium Undying***
+___
+**Armour Class** :: 16
+**Hit Points** :: 27
+**Speed** :: 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|6 (-2)|19 (+4)|14 (+2)|4 (-3)|10 (+0)	|8 (-1)	|14 (+2)|
+___
+**Water Save DC** :: 14
+**Damage Immunity** :: piercing
+**Condition Immunity** :: Blinded
+**Senses** :: Darkvision 120ft. passive Perception 11
+**Languages** :: Common
+**Challenge** :: 2
+___
+***Grave bound.*** The Ghlim needs to either be within 30ft of a murder upon a living humanoid every day or spend at least 4 hours a day within or on grave dirt. If it does not do either of these actions, it will return to Death.
+:
+***Fallible Invisibility.*** The Ghlim is invisible. This invisibility can be circumvented by three things:
+:
+ -  The Ghlim appears as a drab, semi-translucent humanoid if it moves faster than half its speed.
+ -  The Ghlim appears as a dim dark form if its reflection can be seen in a mirror or on another surface.
+ -  Undying can see through this invisibility.
+ 
+:
+***Trackless.*** The Ghlim leaves no tracks to indicate where it has been or where it's headed.
+### Actions
+:
+  ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 4) slashing damage. If the Ghlim has advantage on the attack roll, the target also takes 4 (1d6) necrotic damage.
+}}
+
+\page
+
+{{pageNumber,auto}}
+
+#### Undying animals
+Human corpses are not the only ones that can be used to make an Undying creature, putting human souls in animal corpses is also possible. The more whole soul and the closer in size the animal resembles a human, the more stable the resurrection is and the more human the Undying will act.
+
+Animal Undying tend to keep some of their animal characterictics, but also dehumanizes the soul, specially if the animal is far smaller. Animal Undying tend not to be able to speak and have equivalent intelligence of the host animal. Souls released from an Undying animal are heavily damage and frayed, making it virtually impossible to infuse another corpse with the soul. The following Undying are merely some examples, but the possibilities are near endless.
+
+It is also possible to infuse a heap of small animal corpses with a single soul, such as the Gore crows. The gruesome ritual requires a living human to be sacrificed and a fair amount of energy, but leads to a more human swarm of animals that act as one. Undying created in this method tend to be short lived, given this puts tremendous amounts of strain on a soul.
+
+{{monster,frame
+## Dread Wolf
+*Medium*  ***Lesser Undying***
+___
+**Armour Class** :: 14
+**Hit Points** :: 37
+**Speed** :: 40ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|14 (+2)|15 (+2)|12 (+1)|10 (+0)|3 (-4)	|7 (-2)	|12 (+1)|
+___
+**Water Save DC** :: 12
+**Senses** :: Darkvision 60ft. passive Perception 8
+**Languages** :: -
+**Challenge** :: 1/2
+___
+>***Pounce.*** If the Dread Wolf moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Physical Strength saving throw or be knocked prone. If the target is prone, the Dread Wolf can make one bite attack against it as a bonus action.
+:
+>***Pack Tactics.*** The Dread Wolf has advantage on attack rolls against a creature if at least one of the Dread Wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
+___
+### Actions
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 2) piercing damage.
+
+}}
+:
+{{monster,frame
 ## Gore Crows
 *Medium swarm of tiny* ***Lesser Undying***
 ___
@@ -5740,35 +6003,11 @@ ___
 ***Beak.*** *Melee Weapon Attack:* +3 to hit, reach 5ft., one target. *Hit* 4 (1d4 + 1) piercing damage 
 }}
 
+
 \page
 
 {{pageNumber,auto}}
 
-{{monster,frame
-## Dread Wolf
-*Medium*  ***Lesser Undying***
-___
-**Armour Class** :: 14
-**Hit Points** :: 37
-**Speed** :: 40ft.
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|14 (+2)|15 (+2)|12 (+1)|10 (+0)|3 (-4)	|7 (-2)	|12 (+1)|
-___
-**Water Save DC** :: 12
-**Senses** :: Darkvision 60ft. passive Perception 8
-**Languages** :: -
-**Challenge** :: 1/2
-___
->***Pounce.*** If the Dread Wolf moves at least 20 ft. straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Physical Strength saving throw or be knocked prone. If the target is prone, the Dread Wolf can make one bite attack against it as a bonus action.
-:
->***Pack Tactics.*** The Dread Wolf has advantage on attack rolls against a creature if at least one of the Dread Wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.
-___
-### Actions
-***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 6 (1d4 + 2) piercing damage.
-
-}}
 :
 {{monster,frame
 ## Oozing Lizard
@@ -5839,155 +6078,6 @@ ___
 **Challenge** :: 1/2
 ### Actions
 ***Beak.*** *Melee Weapon Attack:* +5 to hit, reach 5ft., one target. *Hit* 4 (1d4 +1) piercing damage.
-}}
-
-\page
-
-{{pageNumber,auto}}
-
-{{monster,frame
-## Mordaut
-*Tiny*  ***Medium Undying***
-___
-**Armour Class** :: 10
-**Hit Points** :: 43
-**Speed** :: Fly 40ft.
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|5 (-3)|12 (+1)|8 (-1)|8 (-1)|12 (+1)	|16 (+3)	|14 (+2)|
-___
-**Water Save DC** :: 6
-**Senses** :: Darkvision 60ft. passive perception 13
-**Languages** :: Common
-**Challenge** :: 2
-___
-***Grave bound.*** The Mordaut needs to consume one humanoid every week or it will return to Death. If the Mordaut or its host spends at least 4 hours a day within or on grave dirt, it can prolong this, by not counting that day for the week.
-:
-***Incorporeal Movement.*** The Mordaut can move through other creatures and Objects as if they were Difficult Terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
-### Actions
-:
-***Drain life.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 8 (1d6 + 4) necrotic damage. The Mordaut regains hit points equal to that amount.
-:
-***Possession (Recharge 6).*** One Humanoid that the Mordaut can see within 5 ft. of it must succeed on a DC 13 Charter Charisma saving throw or be possessed by the Mordaut; the Mordaut then disappears, and the target is Incapacitated and loses control of its body. The Mordaut now controls the body but doesn't deprive the target of awareness. The Mordaut can't be targeted by any Attack, spell, or other Effect and it retains its Alignment, Intelligence, Charisma, Aptitude, and immunity to being Charmed and Frightened. It otherwise uses the possessed target's Statistics and gains access to the target's knowledge, Class Features, and Proficiencies whilst possession is ongoing.
-The possession lasts until the body drops to 0 Hit Points, the Mordaut ends it as a Bonus Action, or the Mordaut forced out by an Effect like the Saraneth bell. When the possession ends, the Mordaut reappears in an unoccupied space within 5 ft. of the body. The target is immune to this Mordaut's Possession for 1 hour after succeeding on the saving throw or after the possession ends.
-
-}}
-:
-{{monster,frame
-## Shadow Hand
-*Medium*  ***Medium Undying***
-___
-**Armour Class** :: 14
-**Hit Points** :: 53
-**Speed** :: 35ft.
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|17 (+3)|9 (-1)|12 (+1)|14 (+2)|6 (-2)	|8 (-1)	|12 (+1)|
-___
-**Water Save DC** :: 7
-**Senses** :: Darkvision 60ft. passive perception 9
-**Languages** :: understands Common, but can't speak
-**Challenge** :: 3
-___
-***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
-:
-***Sunlight Sensitivity.*** While in sunlight, the Hand has disadvantage on attack rolls, as well as on checks that rely on sight.
-### Actions
-:
-***Multiattack.*** The Shadow hand makes two attacks, only one of which can be a Bite Attack.
-:
-***Unarmed strike.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 7 (1d6 + 3) slashing damage. Instead of dealing damage, the Shadow Hand can grapple the target (escape DC 14). 
-:
-***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 10 (2d6 + 3) piercing damage. 
-}}
-
-\page
-
-{{pageNumber,auto}}
-
-{{monster,frame
-## Ghoul
-*Medium*  ***Medium Undying***
-___
-**Armour Class** :: 15
-**Hit Points** :: 45
-**Speed** :: 30ft (45ft while in blood frenzy).
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|13 (+1)|16 (+3)|15 (+2)|10 (+0)|4 (-3)	|9 (-1)	|15 (+2)|
-___
-**Water Save DC** :: 10
-**Senses** :: Darkvision 60ft. passive perception 11
-**Languages** :: understands Common, but can't speak
-**Challenge** :: 3
-___
-***Blood Frenzy.*** The Ghoul can go into a blood frenzy as a bonus action. If in a blood frenzy, the Ghoul will take 7 piercing damage at the end of each turn, but gains 15ft of additional movement and the Multi attack and Aggression abilities. The Ghoul can end the blood frenzy as an action.
-:
-***Aggresive.*** Whilst in blood frenzy, the ghoul can use a reaction on getting hit to move up to its movement.
-:
-***Canabalize.*** The Ghoul can use an action to eat a corpse and regain 20 hit points.
-
-### Actions
-:
-***Multiattack.*** The Ghoul hand makes two attacks if it in a blood frenzy.
-
-:
-***Slam.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 8 (1d8 + 3) bludgeoning damage. 
-
-
-}}
-:
-{{monster,frame
-## Gawker
-*Medium*  ***Medium Undying***
-___
-**Armour Class** :: 13
-**Hit Points** :: 30
-**Speed** :: 25ft.
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|9 (-1)|17 (+3)|12 (+1)|10 (+0)|6 (-2)	|10 (+0)	|19 (+4)|
-___
-**Water Save DC** :: 9
-**Senses** :: Darkvision 90ft. passive perception 17
-**Languages** :: understands Common, but can't speak
-**Challenge** :: 3
-___
-***Eye swarm*** The Gawker can see invisible creatures and objects. It cannot be surprised and can see in all directions. It has advantage on all skill checks based on vision.
-
-### Actions
-:
-***Drain life.*** *Ranged Weapon Attack:* +8 to hit, range 60 ft. *Hit* 8 (1d6 + 4) necrotic damage. Target is dazed until the end of their turn.
-}}
-
-{{monster,frame
-## Boomer
-*Medium*  ***Medium Undying***
-___
-**Armour Class** :: 11
-**Hit Points** :: 45
-**Speed** :: 25ft.
-___
-|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|12 (+1)|13 (+1)|9 (-1)|20 (+5)|3 (-4)	|10 (+0)	|15 (+2)|
-___
-**Water Save DC** :: 13
-**Damage resistances** :: Necrotic
-**Senses** :: passive perception 11
-**Languages** :: understands Common, but can't speak
-**Challenge** :: 4
-___
-
-### Actions
-:
-***Claw.*** *Melee Weapon Attack:* +6 to hit, reach 5ft., one target. *Hit* 6 (1d8 + 1) slashing damage. 
-:
-***Detonate.*** Each creature within 15 feet of the Boomer must make a DC 16 Charter Agility saving throw, taking 3d8 + 5 in necrotic damage on a failed save or half as much damage on a successful one. Boomers automatically succeed on this saving throw. All creatures that fail the saving throw, are pulled to an unoccupied space as close to the Boomer. The affected area is considered difficult terrain.
 }}
 
 \page
@@ -6088,78 +6178,85 @@ ___
 
 {{pageNumber,auto}}
 
+#### Corrupted Sendings
+
 {{monster,frame
-## Thralk
-*Large*  ***Greater Undying***
+## Corrupted Sending
+*Medium*  ***Lesser Undying***
 ___
-**Armour Class** :: 18
-**Hit Points** :: 84
-**Speed** :: 25ft.
+**Armour Class** :: 14
+**Hit Points** :: 20
+**Speed** :: fly 60ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|11 (+0)|19 (+4)|16 (+3)|14 (+2)|12 (+1)	|8 (-1)	|12 (+1)|
+|13 (+1)|16 (+3)|14 (+2)|19 (+4)|12 (+1)	|6 (-2)	|14 (+2)|
 ___
 **Water Save DC** :: 12
-**Damage Resistances** :: bludgeoning, piercing, and slashing while in dim light or darkness
-**Senses** :: Darkvision 60ft. passive Perception 12
-**Languages** :: understands Common, but can't speak
-**Challenge** :: 5
+**Damage Resistance** :: Fire, Cold, Thunder, Lightning. Slashing, Bludgeoning and Piercing damage from Magical or imbued attacks.
+**Damage Vulnerabilities** :: Slashing, Bludgeoning and Piercing damage from non-Magical attacks.
+**Senses** :: Blindsight 30ft. passive Perception 12
+**Challenge** :: 2
 ___
-***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the Thralk drops to 1 hit point instead.
 :
-***Death Aura.***  At the start of each of the Thralk's turns, each creature within 5 feet of it must succeed on a DC 15 Charter Intelligence saving throw or take 10 (2d6) necrotic damage.
 ### Actions
 :
-***Multiattack.*** The Thralk makes one Harpoon Arm Attack and then uses Sorrowful Embrace.
+***Deathly Touch (Recharge 6).*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 9 (2d4 + 3) necrotic damage. On hit, the target must make a DC 14 Charter charisma saving throw, or be frightend. A frightend creature must spend its movement to move away from the Corrupted Sending. This lasts 2 story ticks.
 :
-***Harpoon Arm.*** Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 17 (3d8 + 3) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature.
-The Thralk has two harpoon arms and can grapple up to two creatures at once.
-:
-***Sorrowful Embrace.*** Each creature grappled by the Thralk must make a DC 15 Charter Charisma saving throw. A creature takes 18 (4d8) psychic damage and is frightened of the Thralk on a failed save ,or half as much damage on a successful one. In either case, the Thralk pulls each creature grappled by it up to 20 feet straight toward it. If the creature breaks from the grapple, it can make a DC 15 Charter Charisma saving throw at the end of its turn to break the frighten effect. It will also disappear 1 minute after breaking the grapple.
-
+***Claw.*** *Melee Weapon Attack:* +8 to hit, *Hit* 6 (1d4 + 3) necrotic damage.
 }}
 :
 {{monster,frame
-## Ghlim
-*Medium*  ***Medium Undying***
+## Spirit Storm
+*Huge*  ***Greater Undying***
 ___
-**Armour Class** :: 16
-**Hit Points** :: 27
-**Speed** :: 30ft.
+**Armour Class** :: 17
+**Hit Points** :: 150
+**Speed** :: fly 60ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|6 (-2)|19 (+4)|14 (+2)|4 (-3)|10 (+0)	|8 (-1)	|14 (+2)|
+|21 (+5)|14 (+2)|14 (+2)|20 (+5)|10 (+0)	|10 (+0)	|17 (+3)|
 ___
-**Water Save DC** :: 14
-**Damage Immunity** :: piercing
-**Condition Immunity** :: Blinded
-**Senses** :: Darkvision 120ft. passive Perception 11
-**Languages** :: Common
-**Challenge** :: 2
+**Water Save DC** :: 12
+**Damage Resistance** :: Fire, Cold, Acid.
+**Senses** :: Blindsight 60ft. passive Perception 12
+**Challenge** :: 6
 ___
-***Grave bound.*** The Ghlim needs to either be within 30ft of a murder upon a living humanoid every day or spend at least 4 hours a day within or on grave dirt. If it does not do either of these actions, it will return to Death.
+***Siphoning storm.*** The area in 60ft radius around the Spirit Storm is affected by a siphoning effect. The area is considered diffifult terrain and any creature that starts its turn in the Siphoning Storm must make a DC 17 Charter Constitution saving throw. On a failure, the creature take 1d4 + 1 necrotic damage and throws a d6 and a d4. The d4 determines the amount of of attributes lost until long rest. Consult the below table to see what attribute is lost, based on the rolled d6.
+
+##### Attribute losses
+| d6 die roll | Attribute |
+|:-:|:-----|
+| 1           | Strength    |
+| 2           | Agility     | 
+| 3           | Reflexes    |
+| 4           | Intelligence|
+| 5           | Charisma    |
+| 6           | Aptitude    |
 :
-***Fallible Invisibility.*** The Ghlim is invisible. This invisibility can be circumvented by three things:
-:
- -  The Ghlim appears as a drab, semi-translucent humanoid if it moves faster than half its speed.
- -  The Ghlim appears as a dim dark form if its reflection can be seen in a mirror or on another surface.
- -  Undying can see through this invisibility.
- 
-:
-***Trackless.*** The Ghlim leaves no tracks to indicate where it has been or where it's headed.
 ### Actions
 :
-  ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d4 + 4) slashing damage. If the Ghlim has advantage on the attack roll, the target also takes 4 (1d6) necrotic damage.
+***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 15ft. *Hit* 19 (2d12 + 5) bludgeoning damage and 10 (1d8 + 5) necrotic damage.
+:
+***Thundering Backlash (Recharge 5-6).*** The Spirit Storm sends out a shockwave in a 60-foot cone. Each creature in that area must make a DC 17 Charter Constitution saving throw, taking 28 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
+:
+### Legendary Actions (3 per round)
+:
+***Slam.*** *Melee Weapon Attack:* +10 to hit, reach 15ft. *Hit* 19 (2d12 + 5) bludgeoning damage and 10 (1d8 + 5) necrotic damage.
+:
+***Slow.*** range 60ft. Each creature in a 20ft cube must make a DC 17 Charter Agility saving throw, or be considered dazed for 2 story ticks. Affected creatures also take 2d4 psychic damage.
 }}
 
 \page
 
 {{pageNumber,auto}}
 
+#### Resters
+Resters are Undying that have spent long periods of time in the mutagenic water of the sixth layer of Death and have been mutated beyond their regular Undying form. They frequently grow additional limbs or even fuse with other Undying Resters. This results in wildly different creatures that may have unique characteristics and abilities. Some may be no longer be affected by flowing water or the Saraneth bell, whilst others may be docile and follow just about any command.
+
 {{monster,frame
-## Rester 
+## Hook Rester 
 *Medium*  ***Greater Undying***
 ___
 **Armour Class** :: 20
@@ -6187,10 +6284,37 @@ On its turn, the Rester has disadvantage on attack rolls if no other creature ha
 ***Multiattack.*** The Rester makes three attacks.
 :
 ***Hook.*** *Melee Weapon Attack:* +8 to hit, reach 5ft., one target. *Hit* 13 (2d8 + 3) piercing damage. 
+}}
+: 
+{{monster,frame
+## Moist 
+*Medium*  ***Greater Undying***
+___
+**Armour Class** :: 20
+**Hit Points** :: 196
+**Speed** :: 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|17 (+3)|9 (-1)|18 (+4)|19 (+4)|9 (-1)	|5 (-3)	|14 (+2)|
+___
+**Water Save DC** :: Automatically saves
+**Senses** :: passive Perception 17
+**Languages** :: understands Common, but can't speak
+**Challenge** :: 8
+___
+***Undead Fortitude.*** If damage reduces the Undying to 0 Hit Points, it must make a Physical Constitution saving throw with a DC of the damage taken, unless the damage from a critical hit or from an imbued weapon or ammunition. On a success, the zombie drops to 1 hit point instead.
+:
+***Waterborne.*** A Moist is unaffected by flowing water and has advantage on all stabilization checks in Death.
 
+### Actions
+:
+***Multiattack.*** The Rester makes three attacks.
+:
+***Water Burst (Recharge 4-6).*** Choose a   *Ranged Spell Attack:* +8 to hit, reach 5ft., one target. *Hit* 13 (2d8 + 3) piercing damage. 
+:
 
 }}
-
 
 
 \page
