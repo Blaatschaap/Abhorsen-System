@@ -3045,7 +3045,7 @@ You no longer take damage from casting Conjure Flesh.
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-From you and every Undying under your control a hallowed nova erupts, affecting all enemies within 15 feet of the nova's origin. Nova's can overlap and affect creatures multiple times. All enemies hit by the nova must make a Charter Charisma saving throw. On failure, the creature is dazed and takes 5d10 necrotic damage. On a success, creature is not dazed and takes half damage.
+From you and every Undying under your control a hallowed nova erupts, affecting all enemies within 15 feet of the nova's origin. Nova's can overlap and affect creatures multiple times. All enemies hit by the nova must make a Charter Charisma saving throw. On failure, the creature is dazed until the start of your next turn and takes 5d10 necrotic damage. On a success, creature is not dazed and takes half damage.
 
 ## Level 10
 ### Restructure
@@ -4024,7 +4024,13 @@ There is a limit to how many prototypes you can have under your control, which c
 | 3-5  	| 3 							|
 | 6-8 	| 4 							|
 | 9+ 		| 5 							|
-}}
+
+
+### Prototype attack modifiers
+Each prototype has a 2 + your Mysticist level modifier to hit its attacks. This is known as the prototype attack modifier.
+:
+It also gains half your Mysticist level as added damage. This is known as the prototype damage modifier.
+
 
 #### Prototype Lightning Rod -2 Stamina
 ::**Casting Time:** 1 action
@@ -4032,7 +4038,7 @@ There is a limit to how many prototypes you can have under your control, which c
 ::**Components** V, S, M (a metal rod of at least 3 ft)
 ::**Duration** 1 minute
 <div style='margin-top:0px'></div>
-
+}}
 {{monster,frame
 ## Prototype Lightning Rod
 *Medium*  ***Construct***
@@ -4051,10 +4057,15 @@ ___
 ***Pass Through.*** The Prototype Lightning Rod does not block creatures from passing through its location, but does use its Shock action on each creature passing through. Creatures can only be Shocked once per turn through the means of Pass Through.
 :
 ### Actions
-***Shock.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 90 ft., one target you can see. Hit: 1d6 + Mysticist level Lightning damage.
+***Shock.*** *Ranged Weapon Attack:* Prototype attack modifier to hit, range 90 ft., one target you can see. Hit: 1d6 + Prototype damage modifier Lightning damage.
 }}
 
-:::::
+\page
+
+{{pageNumber,auto}}
+
+
+
 
 #### Prototype Sheep -2 Stamina
 ::**Casting Time:** 1 action
@@ -4085,11 +4096,18 @@ ___
 ***Detonate.*** Each creature within 20 feet of the Prototype Sheep must make a Physical Agility saving throw against your spell save DC, taking 2d8 + 50% of the Prototype Sheep's current hit points rounded up in force damage on a failed save or half as much damage on a successful one. After using this ability, the Prototype Sheep is considered 'no more' and cannot be fixed or reactivated, nor does it still occupy its location.
 }}
 
-\page
-
-{{pageNumber,auto}}
-
 ## Level 2
+#### Mending
+::**Casting Time:** 1 minute
+::**Range** Touch
+::**Components** V S M (Two lodestones)
+::**Duration** Instantaneous
+<div style='margin-top:0px'></div>
+
+This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
+
+:::::::::::::
 #### Prototype Wall -2 Stamina
 ::**Casting Time:** 1 action
 ::**Range** 5ft
@@ -4115,16 +4133,6 @@ ___
 ***Wall.*** The Prototype Wall provides three-quarters cover against any ranged attacks for any creature next to the wall, provided the attack is coming from the other side of the wall. The wall does not inhibit vision for creatures next to the wall.
 }}
 
-#### Mending
-::**Casting Time:** 1 minute
-::**Range** Touch
-::**Components** V S M (Two lodestones)
-::**Duration** Instantaneous
-<div style='margin-top:0px'></div>
-
-This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
-This spell can physically repair a magic item or construct, but the spell can’t restore magic to such an object.
-
 ## Level 3
 ### Mechanical Tactics 
 At 3rd level, you gain one of the following features of your choice. You can change your choice at a later time following the rules for tactics.
@@ -4137,13 +4145,16 @@ _Exert: Build two prototypes instead of one._
 ##### Efficient Prototyping
 Your maximum number of active Prototypes is increased by 50%, rounding up.
 
-<div style='margin-top:140px'></div>
 
 ### Ability Score Improvement 
 
 When you reach third level and again at 6th, 8th and 10th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 Instead of increasing your ability scores, you can instead take a feat, chosen from the feats chapter.
+
+\page
+
+{{pageNumber,auto}}
 
 
 ## Level 4
@@ -4182,11 +4193,7 @@ ___
 <div style='margin-top:0px'></div>
 
 You make a small, yet totally intended mishap with your equipment. Every creature but you within 15 ft must make a Charter Constitution saving throw. On a failed saving throw the target takes 4d8 Lightning damage and the next attack roll made against it before the end of your next turn has advantage, thanks to the shock cramping their muscles. They take half damage on a successful saving throw and suffer no other adverse effects of this spell.
-
-\page
-
-{{pageNumber,auto}}
-
+::::::::::::::
 ## Level 6
 #### Prototype Snake -4 Stamina
 ::**Casting Time:** 1 action
@@ -4211,14 +4218,18 @@ ___
 **Condition Immunities:** :: exhaustion, poisoned
 ___
 ### Actions
-***Constrict.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 20/40 ft., one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Move the Prototype Snake to the target on hit. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
+***Constrict.*** *Ranged Weapon Attack:* Prototype attack modifier to hit, range 20/40 ft., one target you can see. Hit: 1d6 + Prototype damage modifier bludgeoning damage. Move the Prototype Snake to the target on hit. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
 :
-***Wrap.*** *Melee Weapon Attack:* your spell attack modifier to hit, one target you can see. Hit: 1d6 + Mysticist level bludgeoning damage. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
+***Wrap.*** *Melee Weapon Attack:* Prototype attack modifier to hit, one target you can see. Hit: 1d6 + half Mysticist level rounded up bludgeoning damage. Target creature is grappled (Escape DC equal to you DC). The Prototype Snake can only Grapple 1 target.
 :
-***Crush*** *Melee Weapon Attack:* **Can only be done on Grappled targets** your spell attack modifier to hit. One target. _Hit_ 2d6 + Mysticist level bludgeoning damage.
+***Crush*** *Melee Weapon Attack:* **Can only be done on Grappled targets** Prototype attack modifier to hit. One target. _Hit_ 2d6 + Prototype damage modifier bludgeoning damage.
 }}
 
-<div style='margin-top:440px'></div>
+
+\page
+
+{{pageNumber,auto}}
+
 
 #### Prototype Elephant -2 Stamina
 ::**Casting Time:** 1 action
@@ -4248,7 +4259,7 @@ ___
 ### Actions
 ***Multiattack.*** The Prototype Elephant makes two attacks.
 :
-***Tusk.*** *Melee Weapon Attack:* your spell attack modifier to hit. One target. _Hit_ 3d6 + Mysticist level bludgeoning damage. If target is Medium or smaller, it is shoved 10 away from the Prototype Elephant to an unoccupied location.
+***Tusk.*** *Melee Weapon Attack:* Prototype attack modifier to hit. One target. _Hit_ 3d6 + Prototype damage modifier bludgeoning damage. If target is Medium or smaller, it is shoved 10 away from the Prototype Elephant to an unoccupied location.
 
 }}
 ## Level 7
@@ -4260,12 +4271,7 @@ If a Prototype is reduced to 0 hit points, it explodes, dealing 25% of its total
 
 ##### Battery Improvements
 Your maximum amount of Infusements is increased by 2.
-
-\page
-
-{{pageNumber,auto}}
-
-
+::::::::::::
 ## Level 9
 #### Fabricate -4 Stamina
 ::**Casting Time:** 10 minutes
@@ -4284,11 +4290,14 @@ Creatures or magic items can’t be created or transmuted by this spell. You als
 
 _Exert: Casting time is reduced to 2 story ticks._
 
+
+\page
+
+{{pageNumber,auto}}
+
 ## Level 10
 ### Prototypes can move
 As a bonus action, you can move all prototypes under your control.
-
-::::::::::::::::::::::::::::::
 
 #### Prototype Ballista -5 Stamina
 ::**Casting Time:** 1 action
@@ -4296,6 +4305,8 @@ As a bonus action, you can move all prototypes under your control.
 ::**Components** V, S, M (any bow or crossbow)
 ::**Duration** 10 Story Ticks
 <div style='margin-top:0px'></div>
+
+This prototype counts as two prototypes for your maximum amount of prototypes.
 
 {{monster,frame
 ## Prototype Ballista
@@ -4315,9 +4326,9 @@ ___
 ### Actions
 ***Multiattack.*** The Prototype Ballista makes two attacks.
 :
-***Spear.*** *Ranged Weapon Attack:* your spell attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Mysticist level Piercing damage. Target must succeed on a Physical Agility saving throw or be restrained until the start of your next turn.
+***Spear.*** *Ranged Weapon Attack:* Prototype attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Prototype damage modifier Piercing damage. Target must succeed on a Physical Agility saving throw or be restrained until the start of your next turn.
 :
-***Heavy bolt.*** *Ranged Weapon Attack:* your spell attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Mysticist level Bludgeoning damage. Target must succeed on a Physical Agility saving throw or be knocked up to 20 feet away from the ballista.
+***Heavy bolt.*** *Ranged Weapon Attack:* Prototype attack modifier to hit. range 90/180. One target. _Hit_ 3d8 + Prototype damage modifier Bludgeoning damage. Target must succeed on a Physical Agility saving throw or be knocked up to 20 feet away from the ballista.
 }}
 
 \page
@@ -4457,7 +4468,7 @@ ___
 ***Evasion.*** If the homunculus is subjected to an effect that allows it to make a Physical Agility saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
 
 ### Actions
-***Force Strike.*** *Ranged Weapon Attack:* your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + Mysticist level force damage.
+***Force Strike.*** *Ranged Weapon Attack:* Prototype attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + Prototype damage modifier force damage.
 ### Reactions
 ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 }}
