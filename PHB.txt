@@ -1420,12 +1420,14 @@ Make a melee attack on the target. On hit, your target will be knocked prone as 
 
 #### Enduring Cry -2 Stamina
 ::**Casting Time:** 1 bonus action
-::**Range:** Self 
+::**Range:** Self (10ft)
 ::**Components:** V
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-You let off a loud cry that will allow you to temporarily ignore hits. This purges any frighten effects on you and you gain temporary hit points based on the amount of enemies in melee range. You will gain 3 temporary hit points for any enemy medium size of smaller, and 6 temporary hit points for any enemy Large or larger. An enduring cry will give you a minimum of 5 temporary hp, regardless if enemies are close.
+You let off a loud cry that will allow you to temporarily ignore hits. This purges any frighten effects on you and you gain temporary hit points based on the amount of enemies within 10ft. You will gain 3 temporary hit points for any enemy medium size of smaller, and 6 temporary hit points for any enemy Large or larger. An enduring cry will give you a minimum of 5 temporary hp, regardless if enemies are close.
+
+_Exert: You gain 2 stamina whilst you have the temporary hitpoint from Enduring Cry, whenever you get hit or take damage from an enemy creature._
 
 #### Bless -2 Stamina
 ::**Casting Time:** 1 action
@@ -1465,14 +1467,17 @@ Choose an unoccupied location within range. You leap to the specified location, 
 
 
 ## Level 3
-#### Shield Toss -3 Stamina
+### Shield Pickup
+You can pick up a shield from the ground as a free action, given it is not worn or considered stuck.
+
+#### Shield Toss -2 Stamina
 _Requires a shield_
 
-Make a weapon attack on a creature you can see within 90 feet using your shield. Consider the shield a melee weapon with the Impact attribute, dealing 2d8 base weapon damage.
+Make a melee weapon attack on a creature you can see within 90 feet using your shield. Consider the shield a melee weapon with the Impact attribute, dealing 2d8 base weapon damage.
 
 On hit, the creature must succeed on a Physical Constitution saving throw or be considered Dazed for 1 story tick. The shield is considered as if placed on the ground in the location of the target.
 
-If you miss, the shield will continue in a straight line for the range of this ability. If the shield intersects with another creature, make a new attack roll for this new target. If the shield hits an object such as a wall, or reaches the end of the range, the shield is placed at that location.
+If you miss, the shield will continue in a straight line for the range of this ability. If the shield intersects with another creature, make a new attack roll for this new target. If the shield hits an object such as a wall, or reaches the end of the range, the shield is placed at that location. At the end of this ability, you can spend 1 stamina to return the shield to your hand.
 
 _Exert: After hitting a creature, the shield will bounce to a new target you choose within the remaining range._
 
@@ -1484,7 +1489,7 @@ _Exert: After hitting a creature, the shield will bounce to a new target you cho
 ::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
-Target creature regains 3d6 + 3 x Guardian level.
+Target creature regains 3d6 + 3 x Guardian level. This ability costs 1 stamina less if used on yourself.
 
 _Exert: The casting time is reduce to 1 action._
 
@@ -1495,13 +1500,17 @@ _Exert: The casting time is reduce to 1 action._
 ::**Duration** 1 minute
 <div style='margin-top:0px'></div>
 
-Choose up to 3 friendly, willing non-Undying creatures within range. You and the chosen targets will become connected with a very faint beam of charter magic. Any damage you or any of the chosen creatures take, is split evenly over all the chosen creatures. The damage is split before any mitigations such as resistances and the damage after the split is rounded up. The Life Link can be ended as a bonus action by the caster.
-
+Choose up to 3 friendly, willing non-Undying creatures within range. You and the chosen targets will become connected with a very faint luminescent beam of charter magic. Any damage any of the chosen creatures take, is halved for those creatures. You also take half the original damage. The damage you take is considered non-magical piercing damage. The Life Link can be ended as a bonus action by the caster.
+::::::::
 ## Level 5
-### Protection
-You gain resistance against non-magical bludgeoning, piercing and slashing damage.
+#### Shield Wall -2 Stamina
+_Requires a shield_
 
-:::::::
+::**Casting Time:** 1 action
+::**Range** Self 
+::**Components** M ()
+::**Duration** 1 minute
+You conjure a 25 ft wide, 15 ft high and 1 ft thick spectral wall, centered on you with 10 + 5 x level hp. The Shield Wall have your AC - 3 and uses your saving throw modifiers - 3. Shield Wall blocks any projectiles coming from in front of you, but not from behind you. Does not block vision.
 
 ## Level 6
 #### Dedication to the Charter -2 Stamina
@@ -1514,13 +1523,20 @@ You gain resistance against non-magical bludgeoning, piercing and slashing damag
 At 6th level, when a creature within 30 feet of you makes an attack roll, you can use your reaction to grant that creature a +5 bonus to the roll. You make this choice after you see the roll, but before the GM says whether the attack hits or misses. 
 
 ## Level 7
-### Shield Pickup
-You can pick up a shield from the ground as a free action, given it is not worn or considered stuck.
+### Protection
+You gain resistance against non-magical bludgeoning, piercing and slashing damage.
 
 ## Level 9
 ### Spectral Shield 
-Even if you don't have a shield equipped, a spectral shield protects you. You are always considered to be wielding a shield and have a bonus associated with wielding a shield. You can use this spectral shield for Stamina abilities that require a shield, but it will reappear next to you at the end of your turn.
+::**Casting Time:** 1 reaction
+::**Range** Self
+::**Components** V
+::**Duration** Instantaneous
+You conjure a spectral shield for 10 story ticks. Whilst the spectral shield exists, you are considered to be wielding a shield and have a bonus associated with wielding a shield. You can use this spectral shield for Stamina abilities that require a shield, but it will reappear next to you at the end of your turn. The spectral shield can be dismissed as a free action.
 
+\page
+
+{{pageNumber,auto}}
 ## Level 10
 #### Vengeance -1 Stamina
 After getting hit by a melee hit, you can spend your reaction to reflect any damage dealt by that hit back to the attacker, before considering mitigations such as resistances.
