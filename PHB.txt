@@ -677,7 +677,7 @@ A feat represents a talent or an area of expertise that gives a character specia
 You must meet any prerequisite specified in a feat to take that feat. If you ever lose a feat's prerequisite, you can't use that feat until you regain the prerequisite. For example, the Grappler fear requires you to have a Strength of 13 or higher. If your Strength is reduced below 13 somehow - perhaps by a withering curse - you can't benefit from the Grappler feat until your Strength is restored.
 
 ### Exert
-Some Stamina abilities allow you to exert them. You will get a stronger effect, but the ability will cost double the amount of stamina.
+Some Stamina abilities allow you to exert them. You will get a stronger effect, but the ability will cost double the amount of initial stamina cost.
 
 \page
 
@@ -1720,12 +1720,15 @@ The Spellslinger knows 3 subclasses which you choose one of at level 1. The avai
 You can make a Silencer quickly by following these suggestions. First, Aptitude should be your highest ability score, followed by Constitution. Second, choose the entertainer background. Third, choose the Physical saving throw protection bonus, picking at least Agility and Constitution saving throws.
 
 ### Bell master
-You can use your bells as a bonus action. You also do not need to wield them to use.
+You can use your bells as a bonus action. You also do not need to wield the bells to use them, merely carry them on your person.
 
 ### Front line fighter
 You gain proficiency in martial melee weapons as well as shields. Your hit point maximum is also increased by 2 at level 1. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points. 
 
-:::::::::::::::
+### Kibeth Proficiency
+When you use Kibeth on an Undying that is already dazed, you can opt to restrain them for the duration. If you use Kibeth on an Undying already under the effect of freedom of movement, you will grant them 30ft of additional movement.
+
+:::
 #### Silence -1 Stamina
 ::**Casting Time:** 1 bonus action
 ::**Range** Self, 30ft radius
@@ -4818,7 +4821,7 @@ When an attacker that you can see hits you with an Attack, you can use your Reac
 
 ## Level 8
 ### Coup de Grace
-Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is prone, grappled or restrained. The Attack must use a Finesse weapon.
+Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is dazed, prone, grappled or restrained. The Attack must use a Finesse weapon.
 
 ## Level 9
 ### Shadow Step mastery
@@ -5000,7 +5003,7 @@ Your eyes go black and any damage you deal changes to Necrotic damage. Gain Resi
 ##### Hish
 Your body turns liquid and you start to give off a slight glow. You give off 5ft radius of bright light and 10ft radius of dim light. You also gain the ability to move through creatures, dealing 1d4 + Charisma bonus fire damage when passing through them. You cannot end in the space of another creature and a creature can only take this damage once per turn. You can also can move through a space as narrow as 1 inch wide without squeezing. You also gain immunity to being restrained. Any effect that would restrain you, grapples you instead.
 ##### Aziminil
-Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision. You also gain immunity to being blinded.
+Your face becomes a blackness that no light can pierce. The light dims in a 15ft radius around you, turning bright light into dim light and dim light into darkness. You gain 60ft + 5x Charisma bonus Darkvision. You also gain immunity to being blinded and the blindness condition.
 
 ##### Greten
 Your attacks gain a vicious bite and gauge the enemy. Deal 1d4 + Charisma bonus additional piercing damage with each attack and make the target creature bleed. Target must make a Physical Constitution saving throw, taking another 1d4 piercing damage on a failed saving throw the next time they move, after which this bleed expires. This bleed does not stack with itself.
