@@ -787,7 +787,7 @@ As an action, you can spend a hit die and 2 stamina to gain half the value of th
 #### Rally -2 Stamina
 On your turn, you can use your bonus action and spend 2 stamina to bolster the resolve of one of your companions. When you do so, choose a creature that can see or hear you. That creature gains temporary hit points equal to your level + your Charisma modifier.
 
-#### Reviving Shock -2* Stamina
+#### Reviving Shock
 As an action, you can give a willing creature with the dying condition you touch 1 hp. This ability will cost stamina equal to the level or CR of the creature. This will also inflict 1 exhaustion on the creature and make them dazed until the end of your next turn.
 
 \page
@@ -4659,8 +4659,8 @@ The Edge Dancer knows 3 subclasses which you choose one of at level 1. The avail
 | 6th | +3 | Ability Score Improvement |
 | 7th | +3 | Dodging Tactics |
 | 8th | +4 | Ability Score Improvement, Coup de Grace |
-| 9th | +4 | Shadow Step mastery |
-| 10th | +4 | Ability Score Improvement |
+| 9th | +4 | Shadow Clone |
+| 10th | +4 | Ability Score Improvement, Shadow Step mastery |
 }}
 
 #### Quick Build
@@ -4799,7 +4799,7 @@ _Exert: Attack a fourth target. This can be the same target as the first or the 
 ::**Duration** Concentration, up to 10 Story ticks
 <div style='margin-top:0px'></div>
 
-You create a perfect illusion of yourself that lasts for 10 Story ticks, or until you lose your concentration. The illusion appears in an unoccupied space that you can see within 30 feet of you. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
+You create a perfect illusion of yourself that lasts for 10 Story ticks, or until you lose your concentration. The illusion appears in an unoccupied space that you can see within 30 feet of you. Other creatures can perform a Intelligence + Charisma skill check against your spell save DC to determine it is an illusion. As a bonus action on your turn, you can move the illusion up to 30 feet to a space you can see, but it must remain within 120 feet of you.
 
 For the duration, the illusion can perform all your actions and abilities, provided you can see the target. It only has an action and bonus action, but no movement. Moreover, any damage it deals is divided by 4, rounded up. Any damage it takes, you take instead but is divided by 2, rounded up. Any stamina it spends, you spend. Additionally, when both you and your illusion are within 5 feet of a creature that can see the illusion, you and the illusion have advantage on attack rolls against that creature, given how distracting the illusion is to the target.
 
@@ -4817,20 +4817,25 @@ At 7th level, you gain one of the following features of your choice. You can cha
 You can nimbly dodge out of the way of certain area Effects. When you are subjected to an Effect that allows you to make a Physical saving throw to take only half damage, You can spend your reaction and 2 stamina to instead take no damage if you succeed on the saving throw, and only half damage if you fail.
 
 ##### Wind Dancer
-When an attacker that you can see hits you with an Attack, you can use your Reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
+When an attacker that you can see hits you with an Attack, you can use your reaction and 1 Stamina to halve the attack's damage against you. Your AC is raised by 1 until the start of your next turn.
 
 ## Level 8
 ### Coup de Grace
-Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is dazed, prone, grappled or restrained. The Attack must use a Finesse weapon.
+Beginning at 8th Level, you master how to strike disadvantaged foes. Once per turn, you can deal an extra 3d6 damage to one creature you hit with a melee attack if the creature is dazed, prone, grappled or restrained. The attack must use a Finesse weapon.
 
 ## Level 9
-### Shadow Step mastery
-You can use Shadow Step twice per turn as a free action. After performing a Shadow Step, the first attack roll your perform this turn will be a critical hit on a die roll of 15 or higher.
+#### Shadow Clone -1 Stamina
+::**Casting Time:** 1 free action
+::**Range** Self
+::**Components** V
+::**Duration** up to 10 Story ticks
+<div style='margin-top:0px'></div>
+
+Whenever you use the Shadow Step ability, you can leave behind a Shadow Clone. This clone will act independently from you and try to look natural in its position, but cannot change location. Creatures can perform a Intelligence + Charisma skill check against your spell save DC to determine it is an illusion. In addition to looking just like you, your Shadow Clones can perform attacks of opportunity and attempting a sleight of hand. Your Shadow clones use your statistics for these reactions. Once a Shadow Clone has performed an attack, it will dissipate.
 
 ## Level 10
-
-#### Blink charge -3 Stamina
-If you move at least 20ft in straight line, as a bonus action you can Shadow Step up to 20 feet in a line, or 60 feet if you have the Sneak tactic. Any creatures between the start and end of your blink are teleported the distance of your Shadow Step in the same direction, or to the closest unoccupied space. Any teleported creatures other than you are knocked prone and lose their reaction.
+### Shadow Step mastery
+You can use Shadow Step twice per turn as a free action. After performing a Shadow Step, the first attack roll your perform this turn will be a critical hit on a die roll of 15 or higher.
 
 \page
 
