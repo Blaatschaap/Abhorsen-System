@@ -1387,11 +1387,11 @@ At the end of your turn, you can use a free action to move the weapon up to 20 f
 |:---:|:---:|:---|
 | 1st | +1 | Diamond of Protection, Imbue, Sentinel, Defender, Protector of Faith |
 | 2nd | +1 | Ability Score Improvement |
-| 3rd | +1 | Offensive Tactics |
+| 3rd | +1 | Offensive Tactics, Shield Pickup |
 | 4th | +2 | Ability Score Improvement |
-| 5th | +2 | Protection |
+| 5th | +2 |  |
 | 6th | +3 | Ability Score Improvement, Reliable Strikes |
-| 7th | +3 | Defensive Tactics, Shield Pickup |
+| 7th | +3 | Defensive Tactics, Protection |
 | 8th | +4 | Ability Score Improvement, Survivor, Additional Free Imbue |
 | 9th | +4 | Spectral Shield |
 | 10th | +4 | Ability Score Improvement |
@@ -1508,7 +1508,7 @@ _Requires a shield_
 
 ::**Casting Time:** 1 action
 ::**Range** Self 
-::**Components** M ()
+::**Components** M (A flat plate of metal)
 ::**Duration** 1 minute
 You conjure a 25 ft wide, 15 ft high and 1 ft thick spectral wall, centered on you with 10 + 5 x level hp. The Shield Wall have your AC - 3 and uses your saving throw modifiers - 3. Shield Wall blocks any projectiles coming from in front of you, but not from behind you. Does not block vision.
 
