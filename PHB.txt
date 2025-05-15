@@ -123,7 +123,7 @@ Version V0.16
     -  [{{ Chain}}{{ 24}}](#p24)
     -  [{{ Additional Imbue Ammunition}}{{ 24}}](#p24)
     -  [{{ Spotter}}{{ 24}}](#p24)
-    -  [{{ Nature’s Veil -2 Stamina}}{{ 24}}](#p24)
+    -  [{{ Nature’s Veil}}{{ 24}}](#p24)
   - #### [{{ Guardian}}{{ 25}}](#p25)
     -  [{{ Sentinel}}{{ 25}}](#p25)
     -  [{{ Defender}}{{ 25}}](#p25)
@@ -297,7 +297,7 @@ Version V0.16
   - #### [{{ Free Magic Creatures}}{{ 106}}](#p106)
 - ### [{{ Changes from 5e}}{{ 112}}](#p112)
 - ### [{{ Credits}}{{ 113}}](#p113)
-- ### [{{ Still To Do}}{{ 113}}](#p113)
+- ### [{{ Still To Come}}{{ 113}}](#p113)
 - ### [{{ Open Gaming License 5e}}{{ 114}}](#p114)
 ::::::::
 }}
@@ -1361,7 +1361,7 @@ You have a +5 bonus to skill checks to find hidden creatures and traps.
 #### Nature's Veil -2 Stamina
 You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
  
-You can use this feature 4 times, and you regain all expended uses when you finish a long rest.
+You can use this feature up to four times, before requiring a long rest to regain the expended uses.
 
 :::::::::
 
