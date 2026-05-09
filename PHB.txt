@@ -2050,13 +2050,13 @@ Minor physical damage to the stone doesn’t harm you, but its partial destructi
 ::**Casting Time:** 1 bonus action
 ::**Range** 90ft
 ::**Components** V, S
-::**Duration** Concentration, up to 1 minute
+::**Duration** Concentration, up to 10 story ticks
 <div style='margin-top:0px'></div>
 
-You warp the resistances of target creature. Choose one of the following damage types: Cold, Fire, Lightning, or Thunder damage. If the target was immune to the chosen damage, it is now considered merely resistant. If it was resistant before, it loses its resistance. 
+You warp the resistances of target creature. Choose one of the following damage types: Cold, Fire, Lightning, or Thunder damage. If the target was immune to the chosen damage, it is now considered merely resistant. If it was resistant before, it loses its resistance. If it didn't have resistance, it will now be considered vulnerable to the chosen damage type.
 Recasting this spell on the same target will not break your concentration. You can affect the same damage type again, and therefore removing for example an immunity entirely, or affect a different damage type.
 
-_Exert: If cast on a creature without resistance or immunity, the creature will become vulnerable to the chosen damage type._
+_Exert: If exerted, the curse will act as if immediately recasted. However, the duration is reduced to 3 story ticks._
 
 ## Level 5
 #### Restoration -2 Stamina
