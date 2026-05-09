@@ -6675,7 +6675,7 @@ ___
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|7 (-2)|13 (+1)|14 (+2)|10 (+0)|0 (+0)	|17 (+3)	|14 (+2)|
+|7 (-2)|13 (+1)|14 (+2)|10 (+0)|10 (+0)	|17 (+3)	|14 (+2)|
 ___
 **Damage Resistance** :: Slashing, Bludgeoning and piercing damage.
 **Condition Immunities** :: Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained
@@ -6725,6 +6725,67 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 :
 ***Longbow.*** *Ranged Weapon Attack:* +6 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 }}
+
+
+\page
+
+{{pageNumber,auto}}
+
+### NPC's
+
+{{monster,frame
+## Clayr Guard
+*Medium*  ***Humanoid***
+___
+**Armour Class** :: 17
+**Hit Points** :: 30
+**Speed** :: 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|18 (+4)|15 (+2)|14 (+2)|12 (+1)|13 (+1)	|17 (+3)	|11 (+0)|
+___
+**Senses** :: Passive Perception 13
+**Languages** :: Common
+**Challenge** :: 3
+___
+***Born into the charter.*** The Clayr have advantage on all intelligence, charisma charters saving throws against Charter magic.
+:
+
+### Actions
+***Halberd.*** _Melee Weapon Attack:_ +8 to hit, reach 10 ft., one target. Hit: 10 (1d10 + 4) slashing damage.
+:
+***Cudgel.*** _Melee Weapon Attack:_ +8 to hit, reach 5 ft., one target. Hit: 8 (1d6 + 4) bludgeoning damage.
+}}
+:
+
+{{monster,frame
+## Clayr Librarian apprentice
+*Medium*  ***Humanoid***
+___
+**Armour Class** :: 13
+**Hit Points** :: 25
+**Speed** :: 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|11 (+0)|12 (+1)|10 (+0)|16 (+3)|19 (+4)	|15 (+2)	|16 (+3)|
+___
+**Senses** :: Passive Perception 14
+**Languages** :: Common
+**Challenge** :: 3
+___
+***Born into the charter.*** The Clayr have advantage on all intelligence, charisma charters saving throws against Charter magic.
+:
+***Innate Spellcasting.*** The apprentice innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
+- At will: Invoke the Golden Star, Debilitating dart, The eye of orannis, Message, Detect magic, Prophecy of Life.
+:
+### Actions
+***Pen knife.*** _Melee Weapon Attack:_ +2 to hit, reach 5 ft., one target. Hit: 3 (1d4) piercing damage.
+:
+***Longbow.*** *Ranged Weapon Attack:* +5 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+}}
+:
 
 \page
 
