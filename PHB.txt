@@ -3497,7 +3497,7 @@ You can learn two stamina costing abilities of your choice from any class but th
 ::**Casting Time:** 1 minute
 ::**Range** self
 ::**Components** V, S, M (A highly reflective and flat surface, which the spell consumes)
-::**Duration** Concentration, up to 10 minute
+::**Duration** Concentration, up to 10 minutes
 <div style='margin-top:0px'></div>
 
 You can see and hear a particular creature you choose that is on the same plane of existence as you. The target must make a Charter Intelligence saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're casting this spell, it can fail the saving throw voluntarily if it wants to be observed.
@@ -3528,8 +3528,8 @@ Instead of targeting a creature, you can choose a location you have seen before 
 #### Prophesied missiles - 3 Stamina
 ::**Casting Time:** 1 action
 ::**Range** Self
-::**Components** V, S, M (A highly reflective and flat surface, which the spell consumes)
-::**Duration** Concentration, up to 10 minute
+::**Components** V, S
+::**Duration** Instantaneous
 <div style='margin-top:0px'></div>
 
 You create four glowing darts of magical force which you predict will hurt your enemies. Each dart hits a creature of your choice that you can see within range. A dart deals 2d6 + Aptitude modifier to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
@@ -6384,7 +6384,6 @@ ___
 
 ### Free Magic Creatures
 
-
 {{monster,frame
 ## Stilken
 *Large*  ***Free Magic Creature***
@@ -6412,7 +6411,99 @@ ___
 :
 ***Bite.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 16 (2d8 + 6).
 }}
+:
+{{monster,frame
+## Nimani
+*Large*  ***Free Magic Creature***
+___
+**Armour Class** :: 17
+**Hit Points** :: 170
+**Speed** :: 25ft., fly 60ft. 
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|14 (+2)|15 (+2)|16 (+3)|23 (+6)|26 (+8)	|13 (+1)	|23 (+6)|
+___
+**Damage Immunities** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
+**Senses** :: passive Perception 16
+**Languages** :: Common, all written languages. Telepathy 240 ft.
+**Challenge** :: 9
+___
+***Strict.*** The Nimani will hold itself to all promises and deals it ever made.
+:
+***Immortal.*** The Nimani will not enter Death on hitting 0 hit points. Instead its form will fold into itself and the Nimani will reemerge after 1d4 months in safe location within the library of the CLayr.
+:
+***Innate Spellcasting.*** The Nimani innate spellcasting ability is Intelligence (spell save DC 19). It can innately cast the following spells, requiring no components:
+- At will: Fear (5e), Vicious mockery (5e), Mirror Image (5e), Prophesied missiles, Cold Snap, Implosion, Zephyr Strike
 
+:
+### Actions
+:
+***Multiattack.*** The Nimani makes three attacks.
+:
+***Claw.*** *Melee Weapon Attack:* +7 to hit, reach 10ft., one target. *Hit* 7 (1d8 + 2).
+}}
+
+\page
+
+{{pageNumber,auto}}
+
+{{monster,frame
+## Centicore
+*Large*  ***Free Magic Creature***
+___
+**Armour Class** :: 17
+**Hit Points** :: 90
+**Speed** :: 50ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|14 (+2)|18 (+4)|14 (+2)|13 (+1)|12 (+1)	|7 (-1)	|15 (+2)|
+___
+**Damage Resistance** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
+**Senses** :: passive Perception 13
+**Languages** :: Common
+**Challenge** :: 4
+:
+### Actions
+:
+***Multiattack.*** The Centicore makes two attacks, only one of which can be a Trample Attack.
+:
+***Trample.***  The Centicore can move it's movement speed + 10 in a straight line as an action. This movement does not provoke attacks of opportunity and can move through enemies, but must end in a unoccupied location. Any creatures the Centicore walked over, must make a Physical Strength saving throw. They take 2d10 bludgeoning damage and are knocked prone on a failed save. They take half damage on a success and are not knocked prone.  
+:
+***Longbow.*** *Ranged Weapon Attack:* +8 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+:
+***Hoofstomp.*** *Melee Weapon Attack:* +7 to hit, reach 5ft., one target. *Hit* 8 (1d10 + 2).
+}}
+:
+{{monster,frame
+## Naethill
+*Large*  ***Free Magic Creature***
+___
+**Armour Class** :: 19
+**Hit Points** :: 137
+**Speed** :: 40ft., Climb 30ft.
+___
+|STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+|12 (+1)|13 (+1)|21 (+5)|14 (+2)|23 (+6)	|19 (+4)	|27 (+8)|
+___
+**Damage Immunities** :: Slashing, Bludgeoning and piercing damage from Non-magical attacks not made with imbued weapons.
+**Senses** :: passive Perception 17
+**Languages** :: Common.
+**Challenge** :: 8
+___
+***Charter smell.*** The Naethill can smell and pinpoint the presense of Charter magic within 90ft. Whether the Charter magic is actively cast or an charter imbued magic item, the Naethill can detect it.
+
+:
+***Innate Spellcasting.*** The Naethill innate spellcasting ability is Charisma (spell save DC 18). It can innately cast the following spells, requiring no components:
+- At will: Dominate Monster (5e), Dominate Person (5e), Mass Suggestion (5e)
+
+:
+### Actions
+:
+***Bite.*** *Melee Weapon Attack:* +6 to hit, reach 10ft., one target. *Hit* 6 (1d8 + 1).
+}}
 
 \page
 
@@ -6520,7 +6611,7 @@ ___
 ___
 **Armour Class** :: 16
 **Hit Points** :: 3
-**Speed** :: 30ft.
+**Speed** :: 30ft., Climb 30ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -6703,7 +6794,7 @@ ___
 ___
 **Armour Class** :: 15
 **Hit Points** :: 57
-**Speed** :: 220ft., climb 20ft.
+**Speed** :: 40ft., climb 20ft.
 ___
 |STR	|AGI	|REF	|CON	|INT	|CHA	|APT|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
